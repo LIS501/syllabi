@@ -1,16 +1,16 @@
 # Semester Outline
 
 ## Proposed Fall 2015 outline (10 topical sessions on Tuesdays)
-- LIS Education and professional life    (Bonn, Dubin, Knox)
-- Users and information needs            (Knox)
-- Approaches to organizing information   (Bonn)
-- Structures and Standards               (Dubin)
-- Collections                            (Bonn)
-- Search and discovery                   (Knox)
-- Evaluation of information retrieval    (Dubin)
-- Preservation                           (Dubin and Teper)
-- Authority and identity                 (Bonn and Dubin)
-- Subject Analysis and subject languages (Knox and Bonn)
+- LIS Education and professional life    (Bonn, Dubin, Knox) 08/25
+- Users and information needs            (Knox)              09/01
+- Approaches to organizing information   (Bonn)              09/08
+- Structures and Standards               (Dubin)             09/15
+- Collections                            (Bonn)              09/22
+- Search and discovery                   (Knox)              09/29
+- Evaluation of information retrieval    (Dubin)             10/06
+- Preservation                           (Dubin and Teper)   10/13
+- Authority and identity                 (Bonn and Dubin)    10/20
+- Subject Analysis and subject languages (Knox and Bonn)     10/27
 
 ## Assignments
 1. Use and Users
@@ -22,15 +22,16 @@ Annotated bibliography and poster. Week 5 for approval.
 Introduce at first meeting. In for approval by the 29th.
 
 ## Lab exercises
-- Dan on Library resources
-- ITD on computing resources
-- Zotero bibliography and formatting (Emily)
-- Cultural heritage object description (NL)
-- Bibliographic database comparison (over same material) (UX specialist guest)
-- Pandoc encoding and transformation (Dave)
-- Bibo/DC output from Zotero  (Dave)
-- Cultural heritage object description (metadata)
-- Poster presentations
+- Dan on Library resources (week of 08/25)
+- ITD on computing resources (week  of 09/01)
+- Zotero bibliography and formatting (Emily) (week 0f 09/08)
+- Cultural heritage object description (NL) (week of 09/15)
+- Bibliographic database comparison (over same material) (UX specialist guest) (week of 09/22)
+- Pandoc encoding and transformation (Dave) ( week of 09/29)
+- Bibo/DC output from Zotero  (Dave) (week of 10/06)
+- Collection stewardship exercise (week of 10/15)
+- Poster prep (week of 10/20)
+- Poster presentations (week of 10/27)
 
 # Outlines from earlier semesters
 
