@@ -13,9 +13,9 @@
 - Subject Analysis and subject languages (Knox and Bonn)     10/27
 
 ## Assignments
-1. Use and Users
-2. Digital Collections Assessment
-3. Final Project
+1. Use and Users (due week of 9/03)
+2. Digital Collections Assessment (due week of 10/01)
+3. Final Project (due week of 10/27)
 
 ## Project 
 Annotated bibliography and poster. Week 5 for approval.
