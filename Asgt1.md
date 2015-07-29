@@ -2,7 +2,7 @@
 
 Due January 29 by start of class. This assignment is worth 15 points.
 
-## Rationale {.context}
+## Rationale ## {.context}
 
 The purpose of this exercise is two-fold. First, it is intended to
 allow you to examine the factors that condition the information needs
@@ -14,7 +14,7 @@ exercise. Methods Handout If you'd like to know more about the
 method(s) in your article, you can refer to this Research Methods
 portal: <http://InformationR.net/rm/>
 
-## Tasks {.steps}
+## Tasks ## {.steps}
 
 1. Select a category of information user that interests you (e. g., high
    school student, scientist, health care consumer, migrant farm worker).
@@ -22,7 +22,7 @@ portal: <http://InformationR.net/rm/>
    needs and/or information seeking behavior of individuals from this
    population.
 
-## Deliverable {.result}
+## Deliverable ## {.result}
 
 In a brief essay of 600-700 words (1-2 pages) discuss your article's
 research question, methods, findings, and implications for design of
@@ -31,14 +31,14 @@ both). Integrate relevant readings from those assigned for class and
 especially those you have read to date (and from the January 27th
 session in particular) in support of your arguments as appropriate.
 
-## Submitting {.postreq}
+## Submitting ## {.postreq}
 
 1. Upload your essay to the Assignment 1 Moodle dropbox.
 2. Post a one-paragraph summary of your article on the Assignment 1
    discussion forum.
 3. Bring a copy of your article to class for small group discussion.
 
-## Strategies for locating research studies {.section}
+## Strategies for locating research studies ## {.section}
 
 Articles indexed under the subject "Information needs" or
 "Information-seeking behavior" in Library & Information Science Source
