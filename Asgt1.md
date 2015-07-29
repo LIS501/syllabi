@@ -1,10 +1,8 @@
-# Assignment 1 [A1] Information Needs/Information Seeking Behavior – 15 points
+# Assignment 1 Information Needs/Information Seeking Behavior {#Asgt1 .task}
 
-Due January 29 by start of class - please upload essay to the A1
-Moodle dropbox and post your article summary to this forum
-https://courses.lis.illinois.edu/mod/forum/view.php?id=207636
+Due January 29 by start of class. This assignment is worth 15 points.
 
-## Rationale:
+## Rationale {.context}
 
 The purpose of this exercise is two-fold. First, it is intended to
 allow you to examine the factors that condition the information needs
@@ -14,41 +12,45 @@ research methods are used to do research on concrete user groups. The
 handout from the first lab of class will assist you with this
 exercise. Methods Handout If you'd like to know more about the
 method(s) in your article, you can refer to this Research Methods
-portal: http://InformationR.net/rm/
+portal: <http://InformationR.net/rm/>
 
-## Tasks:
+## Tasks {.steps}
 
-Select a category of information user that interests you (e. g., high
-school student, scientist, health care consumer, migrant farm worker).
-Identify a published research study that investigates information
-needs and/or information seeking behavior of individuals from this
-population.
+1. Select a category of information user that interests you (e. g., high
+   school student, scientist, health care consumer, migrant farm worker).
+2. Identify a published research study that investigates information
+   needs and/or information seeking behavior of individuals from this
+   population.
 
-## Deliverables:
+## Deliverable {.result}
 
-1. In a brief essay of 600-700 words (1-2 pages) discuss your
-   article's research question, methods, findings, and implications
-   for design of information systems and services (in-person,
-   web-based, or both). Integrate relevant readings from those
-   assigned for class and especially those you have read to date (and
-   from the January 27th session in particular) in support of your
-   arguments as appropriate.
+In a brief essay of 600-700 words (1-2 pages) discuss your article's
+research question, methods, findings, and implications for design of
+information systems and services (in-person, web-based, or
+both). Integrate relevant readings from those assigned for class and
+especially those you have read to date (and from the January 27th
+session in particular) in support of your arguments as appropriate.
 
-2. Post a one-paragraph summary of your article on the forum for this
-   purpose
+## Submitting {.postreq}
 
+1. Upload your essay to the Assignment 1 Moodle dropbox.
+2. Post a one-paragraph summary of your article on the Assignment 1
+   discussion forum.
 3. Bring a copy of your article to class for small group discussion.
 
-### Strategies for locating research studies:
+## Strategies for locating research studies {.section}
 
-Articles indexed under the subject “Information needs” or
-“Information-seeking behavior” in Library & Information Science Source
+Articles indexed under the subject "Information needs" or
+"Information-seeking behavior" in Library & Information Science Source
 (link from
-http://www.library.illinois.edu/lsx/http://openurl.library.uiuc.edu/sfxlcl3/az)
+<http://www.library.illinois.edu/lsx/>
+<http://openurl.library.uiuc.edu/sfxlcl3/az)>
 
-Articles indexed under the descriptor “Information seeking behaviour”
-or “User needs” in LISA (link from
-http://www.library.illinois.edu/lsx/http://openurl.library.uiuc.edu/sfxlcl3/azhttp://www.library.uiuc.edu/orr/results.php?types=A&subject=29)
+Articles indexed under the descriptor "Information seeking behaviour"
+or "User needs" in LISA (link from
+<http://www.library.illinois.edu/lsx/>
+<http://openurl.library.uiuc.edu/sfxlcl3/az>
+<http://www.library.uiuc.edu/orr/results.php?types=A&subject=29)>
 
 Studies need not be recently published, but an example of a recent
 study of this type is the following:
@@ -77,11 +79,13 @@ various contexts.
 
 To determine whether the full text of an article is available online,
 search for the journal title
-at:http://openurl.library.uiuc.edu/sfxlcl3/az. The text of the article
+at: <http://openurl.library.uiuc.edu/sfxlcl3/az>. The text of the article
 may also be freely available on the web (e. g., on the author’s web
 site), so you might also try doing a Google search using the article
 title.  If the text is not available online, you will need to request
 a copy of the article. See the LibGuide for Online and Continuing
 Education Student Resources from the Library:
 
-http://uiuc.libguides.com/content.php?pid=28713&sid=209698http://uiuc.libguides.com/content.php?pid=28713&sid=214766http://uiuc.libguides.com/content.php?pid=28713&sid=214766
+<http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
+<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
