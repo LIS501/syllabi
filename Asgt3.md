@@ -1,26 +1,14 @@
 # Assignment 3: Topical Poster and Annotated Bibliography  {#Asgt3 .task}
 
-Preliminary topic: the week of September 22 <https://courses.lis.illinois.edu/mod/forum/view.php?id=208062>
-
-Zotero collection (annotated bibliography) of research sources: the week of October 27
-
-Presentation: the week of October 27
-
 ## Rationale {.context}
-Throughout the term, you may find a topic that piques your interest. You will 
-find many resources posted in the background readings area – and as part of 
+Throughout the term, you may find a topic that piques your interest. 
+You should explore the topic starting with resources designated as additional
+background readings, or as part of 
 the resources posted by the instructor or by your classmates. You may draw 
-heavily from these resources as you build your final project. The goal here is 
-to learn how to use (or expand your skills) LibGuide software, while assembling
+from these resources and others you find on your own to build your final project. 
+The goal here is 
+to learn how to use presentation software while assembling
 a set of core resources that allow you to pursue a 501 topic of interest to you.
-
-Presentations will occur during the week of October 27.
-
-The instructor must approve your topic. Please post it on the forum here by 
-September 22 This is your first opportunity to discuss your initial thoughts about
-your topic with the instructor and your classmates. There will be at least one other
-opportunity during the term for us to check in about this project.  Presentations 
-will be the week of October 27.
 
 Example topics:
 
@@ -36,52 +24,64 @@ Example topics:
 - Frustrating search experiences for graduate students using library resources 
   and some possible solutions.
 
+## Before you begin {.prereq}
+
+- Topics must be approved. Post a topic for instructor approval to the 
+  designated Moodle forum no later than September 22.
+- Create a Zotero account during our Week 3 lab session.
+- Review the Purdue University resources on annotated bibliographies here: 
+  <https://owl.english.purdue.edu/owl/resource/614/01/> 
+- Review our LibGuide on research poster creation here: 
+  <http://uiuc.libguides.com/content.php?pid=86227&sid=1404728>
+- Compare research posters around our building or found online for inspiration
+   on formatting and graphic layout.
+- Consider the relative advantages of using different presentation
+  software applications, such as Powerpoint vs. Inkscape (see resources below).
+
+## Tasks {.steps}  
+
+1. During the first six weeks of class, select candidate resources for your
+   bibliography, enter them into Zotero, and draft preliminary annotations to
+   them as attached notes.
+2. Following the Purdue Writing Lab Guidelines, integrate revised annotations with
+   formatted entries as a document.
+3. Create the research poster as a digital file (e.g., pptx or SVG format).
+4. Post an RSS link for your bibliography to the class Moodle forum.
+5. Present your topic to the class at the last meeting.
+
 ## Deliverables {.result}
 
-You have two deliverables which you will share with the class by posting the 
-link to your zotero collection and by uploading your digital poster (or a link
-to it) here: <https://courses.lis.illinois.edu/mod/forum/view.php?id=209232>
+You have two deliverables which you will share with the class: an annotated
+bibliography and a research poster.
 
 Poster
-: You will give us a 10 minute presentation of your poster on the last day of class. 
-[I'd prepare for an approximately 7 minute presentation and leave the rest of the 
-time for questions.) See Resources below to find out more about Digital posters 
-and see examples of posters 
+: This will be formatted as if for expession on paper, but you will produce only a digital version.
+  You will give us a 10 minute presentation of your poster on the last day of class. 
 
 Annotated bibliography) of 20 items
 : These should consist of resources that would be of interest to those wishing to 
-learn more about your subject. Create descriptions, or annotations for these items
-rather than simply linking to them. More about annotations: 
-<https://owl.english.purdue.edu/owl/resource/614/01/>(see also Guidelines for 
-annotated bibliography). You will be setting up a Zotero account for this project 
-in lab the week of September 8.
-: Your items may be websites, examples of similar projects, webliographies, 
+  learn more about your subject. Create descriptions, or annotations for these items
+  rather than simply linking to them. Your items may be websites, 
+  examples of similar projects, webliographies, 
   published literature, etc. Provide access to each of the to the 20 items 
   (a citation, URL or by embedding the material). Use whatever citation style
   with which you are most familiar.
-  Each resource should be accompanied by 2-3 sentences that advise the reader
+  Each resource should be accompanied by a paragraph advising the reader
   of the value and general content of each item.
 
-RESOURCES:
+## Submitting {.postreq}
+Upload the digital poster file and annotated bibliography
+file to the Moodle drop box associated with this exercise.
 
-Digital Posters
+## Resources {.section}
 
-Poster LibGuide: <http://uiuc.libguides.com/poster>
-
-Examples of posters: 
-<https://courses.lis.illinois.edu/mod/folder/view.php?id=209281>
-
-Zotero
-
-About: <https://www.zotero.org/>
-
-Documentation: <https://www.zotero.org/support/>
-
-How to annotate (and export) in Zotero: 
+- Poster LibGuide: <http://uiuc.libguides.com/poster>
+- Zotero Documentation: <https://www.zotero.org/support/>
+- How to annotate (and export) in Zotero: 
 <http://guides.main.library.emory.edu/c.php?g=49913&p=323640>
-
-How to export the bibliography in HTML (or other) format (s):
+- How to export the bibliography in HTML (or other) format (s):
 <https://www.zotero.org/support/creating_bibliographies> 
-NOTE: I prefer the HTML link be posted to the forum. If you are uncertain about 
-how to do this, you can create and attach the .rtf version of the file to the 
-same forum post where you have attached your poster.
+- Purdue Writing Lab guidelines on annotated bibliographies
+<https://owl.english.purdue.edu/owl/resource/614/1/>
+- Felix Breur's example of a poster produced using Inkscape:
+<http://blog.felixbreuer.net/2010/10/24/poster.html>
