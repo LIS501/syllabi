@@ -4,6 +4,15 @@ This lab will take place the week of September 29.
 
 ## Rationale {.context}
 
+Document structure, the differences between declarative and procedural markup,
+and the role of information standards are among the topics we are reading and 
+discussing this semester. This exercise provides hands-on experience tagging a 
+document structurally, and creating a presentational expression of it using
+a formatting utility. There is a community of users who employ Pandoc
+for document production, but the rationale for this exercise is not to master
+a technical tool, but for an important philosophy of document analysis and 
+authorship to become vivid for you.  
+ 
 ## Before you begin {.prereq}
 1. Read the Pandoc Getting Started Guide at
    <http://pandoc.org/getting-started.html>.
