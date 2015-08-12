@@ -1,10 +1,10 @@
 # Assignment 3: Topical Poster and Annotated Bibliography  {#Asgt3 .task}
 
-Preliminary topic: February 5th <https://courses.lis.illinois.edu/mod/forum/view.php?id=208062>
+Preliminary topic: the week of September 22 <https://courses.lis.illinois.edu/mod/forum/view.php?id=208062>
 
-Zotero collection (annotated bibliography) of research sources: March 12
+Zotero collection (annotated bibliography) of research sources: the week of October 27
 
-Presentation: March 12
+Presentation: the week of October 27
 
 ## Rationale {.context}
 Throughout the term, you may find a topic that piques your interest. You will 
@@ -14,13 +14,13 @@ heavily from these resources as you build your final project. The goal here is
 to learn how to use (or expand your skills) LibGuide software, while assembling
 a set of core resources that allow you to pursue a 501 topic of interest to you.
 
-Presentations will occur during the last session of class, March 12 in Room 242.
+Presentations will occur during the week of October 27.
 
 The instructor must approve your topic. Please post it on the forum here by 
-February 5th This is your first opportunity to discuss your initial thoughts about
+September 22 This is your first opportunity to discuss your initial thoughts about
 your topic with the instructor and your classmates. There will be at least one other
 opportunity during the term for us to check in about this project.  Presentations 
-will be March 12.
+will be the week of October 27.
 
 Example topics:
 
@@ -54,7 +54,7 @@ learn more about your subject. Create descriptions, or annotations for these ite
 rather than simply linking to them. More about annotations: 
 <https://owl.english.purdue.edu/owl/resource/614/01/>(see also Guidelines for 
 annotated bibliography). You will be setting up a Zotero account for this project 
-in lab on February 12.
+in lab the week of September 8.
 : Your items may be websites, examples of similar projects, webliographies, 
   published literature, etc. Provide access to each of the to the 20 items 
   (a citation, URL or by embedding the material). Use whatever citation style
