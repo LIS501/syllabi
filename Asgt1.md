@@ -1,6 +1,6 @@
 # Assignment 1 Information Needs/Information Seeking Behavior {#Asgt1 .task}
 
-Due January 29 by start of class. This assignment is worth 15 points.
+Due September 4 at 11:59pm. This assignment is worth 20 points.
 
 ## Rationale {.context}
 
