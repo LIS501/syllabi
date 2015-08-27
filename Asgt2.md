@@ -26,13 +26,13 @@ TASK: Pick one DPLA exhibition, or one FLICKR gallery or one
 EUROPEANA pinterest board  as an exemplar for your analysis.
 
  - Digital Public Library (DPLA) exhibitions <http://dp.la/exhibitions>
-   about: <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>
+   (about: <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>)
 
  - FLICKR galleries <https://www.flickr.com/photos/flickr/galleries>
-   about: <https://www.flickr.com/help/galleries/>
+   (about: <https://www.flickr.com/help/galleries/>)
 
  - EUROPEANA Pinterest boards <https://www.pinterest.com/europeana/>
-   about: <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>
+   (about: <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>)
 
 ## Deliverables {.result}
 
@@ -42,8 +42,8 @@ evaluative essay with an introduction and conclusion (750-800 words total).
 Integrate relevant readings in support of your arguments as appropriate.
 Include the following considerations:
 
- - How easy was it for you to find your exemplar? Was it hard to determine what individual or 
-   institution is responsible for your exemplar?
+ - How easy was it for you to find your exemplar? 
+ - Was it hard to determine what individual or institution is responsible for your exemplar?
  - Would it be appropriate to call your exemplar a collection? If so, why? If not, why not?
  - What categories of users is your exemplar intended to serve?
  - How would you characterize the content and scope of your exemplar? 
@@ -51,7 +51,7 @@ Include the following considerations:
  - How do the available content and organization serve the needs of the intended users? 
   - Does the exemplar meet or exceed expectations for accessibility?
 
- ## Submitting {.postreq}
+## Submitting {.postreq}
  
             Upload your work to Moodle. 
 			
