@@ -1,4 +1,4 @@
-# Assignment 1 Digital Collections Assessment {#Asgt2 .task}
+# Assignment 2 Digital Collections Assessment {#Asgt2 .task}
 
 Due January 29 by start of class. This assignment is worth 20 points.
 
