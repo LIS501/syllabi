@@ -55,7 +55,7 @@ You have two deliverables which you will share with the class: an annotated
 bibliography and a research poster.
 
 Poster
-: This will be formatted as if for expession on paper, but you will produce only a digital version.
+: This will be formatted as if for expression on paper, but you will produce only a digital version.
   You will give us a 10 minute presentation of your poster on the last day of class. 
 
 Annotated bibliography) of 20 items
