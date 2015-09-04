@@ -11,20 +11,23 @@ Due October 2 by midnight. This assignment is worth 20 points.
 
 ## Before you begin {.prereq}
 
-Read the required assigned readings for our collections topic
-before starting this assignment.
+Read the required assigned readings for our collections topic before starting this assignment.
+The background readings will also make your task easier.
 
 ## Rationale {.context}
 
-Rationale goe here.
+The reading and discussion topic for week 5 is the nature of collections, challenges we face in making
+their contents accessible, and ways in which perspectives of librarians, archivists, and information
+scientists contribute to meeting those challenges. In bringing a critical, reviewer's attention to an 
+existing digital collection, those issues will become more vivid and understandable to you.
 
 ## Tasks {.steps}  
 
  1. Pick a topic of interest to you; perhaps something related to your final project. 
  2. Browse across these three differing approaches to digital collections:
-  - [DPLA exhibitions](http://dp.la/exhibitions) (12 exhibitions) 
-  - [FLICKR galleries](https://www.flickr.com/photos/flickr/galleries) (there are 254) 
-  - [Europeana Pinterest boards](https://www.pinterest.com/europeana/) (55 boards).
+    - [DPLA exhibitions](http://dp.la/exhibitions) (28 exhibitions) 
+    - [FLICKR galleries](https://www.flickr.com/photos/flickr/galleries) (there are 322) 
+    - [Europeana Pinterest boards](https://www.pinterest.com/europeana/) (74 boards).
  3. For the exemplar you select, write a narrative assessment of the content, 
     organization, and potential users and uses. Include the following considerations:
     - How easy was it for you to find your exemplar? 
@@ -54,8 +57,7 @@ These resources may be useful for completing this assignment.
 
  - Required readings for the Collections topic:
    <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
- - Background readings for the Collections topic:   
-   <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
+ - Background readings for the Collections topic: <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
  - Digital Public Library (DPLA) exhibitions <http://dp.la/exhibitions>
    (about: <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>)
  - FLICKR galleries <https://www.flickr.com/photos/flickr/galleries>
