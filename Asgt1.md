@@ -28,8 +28,8 @@ In a brief essay of 600-700 words (1-2 pages) discuss your article's
 research question, methods, findings, and implications for design of
 information systems and services (in-person, web-based, or
 both). Integrate relevant readings from those assigned for class and
-especially those you have read to date (and from the January 27th
-session in particular) in support of your arguments as appropriate.
+especially those you have read to date (and from the users and information needs
+session in particular) in support of your arguments.
 
 ## Submitting {.postreq}
 
