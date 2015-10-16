@@ -62,12 +62,10 @@ Annotated bibliography of 20 items
   with which you are most familiar.
   Each resource should be accompanied by a paragraph advising the reader
   of the value and general content of each item.
-
-The annotated bibliography does NOT need to be double spaced.
+  The annotated bibliography does **not** need to be double spaced.
 
 RSS Feed
-
-:Links to your feed should be posted to the Assignment 3 forum in the main lecture Moodle.  You can submit it as a reply to your initial post on your topic.
+: Links to your feed should be posted to the Assignment 3 forum in the main lecture Moodle.  You can submit it as a reply to your initial post on your topic.
 
 
 ## Submitting {.postreq}
