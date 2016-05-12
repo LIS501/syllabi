@@ -1,0 +1,141 @@
+Notes on LIS501
+
+Need for knowledge building and cross-over for LIS501/LIS502.
+
+research methodology competency?
+ - inclusion with user issues enough?
+ - methodological attention on research readings?
+ - can we incorporate research design?
+ - taxonomies of research methods? (one session, early) 
+
+ Where are content issues of diversity and social justice introduced?
+ - Readings by authors with diverse backgrounds
+ - N. Cooke's resource collection
+ 
+ Look to syllabi in later courses: research methods, user and users, etc.
+ 
+Core competencies for librarianship
+http://www.ala.org/educationcareers/careers/corecomp/corecompetences
+
+From the core competencies document:
+
+2. Information Resources
+
+     2A. Concepts and issues related to the lifecycle of recorded knowledge and
+           information, from creation through various stages of use to disposition.
+     2B. Concepts, issues, and methods related to the acquisition and disposition of
+           resources, including evaluation, selection, purchasing, processing, storing, and deselection.
+     2C. Concepts, issues, and methods related to the management of various collections.
+     2D. Concepts, issues, and methods related to the maintenance of collections,
+            including preservation and conservation.
+			
+3. Organization of Recorded Knowledge and Information
+
+     3A. The principles involved in the organization and representation of recorded
+           knowledge and information.
+     3B. The developmental, descriptive, and evaluative skills needed to organize recorded
+           knowledge and information resources.
+     3C. The systems of cataloging, metadata, indexing, and classification standards and
+           methods used to organize recorded knowledge and information.
+
+4. Technological Knowledge and Skills
+
+     4A. Information, communication, assistive, and related technologies as they affect the
+           resources, service delivery, and uses of libraries and other information agencies.
+     4B. The application of information, communication, assistive, and related technology
+           and tools consistent with professional ethics and prevailing service norms and
+           applications.
+     4C. The methods of assessing and evaluating the specifications, efficacy, and cost
+           efficiency of technology-based products and services.
+     4D. The principles and techniques necessary to identify and analyze emerging
+            technologies and innovations in order to recognize and implement relevant
+            technological improvements.
+
+5. Reference and User Services
+
+     5A. The concepts, principles, and techniques of reference and user services that
+           provide access to relevant and accurate recorded knowledge and information to
+           individuals of all ages and groups.
+     5B. Techniques used to retrieve, evaluate, and synthesize information from diverse
+           sources for use by individuals of all ages and groups.
+     5C. The methods used to interact successfully with individuals of all ages and groups
+           to provide consultation, mediation, and guidance in their use of recorded knowledge
+           and information.
+     5D. Information literacy/information competence techniques and methods,
+           numerical literacy, and statistical literacy.
+     5E. The principles and methods of advocacy used to reach specific audiences to
+           promote and explain concepts and services.
+     5F. The principles of assessment and response to diversity in user needs, user
+           communities, and user preferences.
+     5G. The principles and methods used to assess the impact of current and emerging
+           situations or circumstances on the design and implementation of appropriate services
+           or resource development.
+		   
+		   
+http://www.asis.org/Board/educational_guidelines.html
+
+1. Foundations of Information Science  This area includes the nature of information, its historical roots as well as its generation and dissemination to individuals, organizations, and society. Included in this category are:
+
+History of Information, Information Science, and Information Technology
+Nature of Information
+Information and Society (global, cultural, legal, professional, ethical considerations)
+Information Economics and Policy Issues
+
+2. Information Use and Users  This area includes theories, principles, and investigation of information use and user behavior in information-related environments. This category includes:
+
+Information Seeking Behavior and Information Use
+Human-Computer Interaction
+User-centered Design and Product Development
+Needs Assessment and Evaluation
+
+3. Methods of Inquiry This category includes methodologies which explore and facilitate investigations of information science in a variety of contexts. These include:
+     - Basic Research Methods
+     - Measurement and Evaluation
+     - Assessment Technologies
+     - Critical Thinking and Problem Solving
+
+4. Information Processing  This category includes organization, storage, and distribution of  information in various formats and technologies for meeting the needs of users and user groups.
+     - Information Creation, Generation, and Acquisition
+     - Information Representation and Control
+     - Information Access, Retrieval, Dissemination, and Interpretation
+     - Information Storage and Preservation
+
+5. Information Technology  This category includes design, evaluation, and implementation of technologies relevant to information processes.
+     - Information Systems: Software, Hardware, Retrieval
+     - Telecommunication and Networking
+     - Information Architecture and Infrastructure
+     - Programming for Information Processes
+
+6. Information Service Provision and Management  This area includes the principles, planning, and procedures of managing and organizing information organizations:
+     - Organizational Theory
+     - Planning: Strategic, Financial, Operational
+     - Resource Identification, Management, and Evaluation
+     - Information Marketing
+     - Human Resource Management
+	 
+	 
+	 -------------------------
+	 March 30 meeting
+	 
+	 Is 501 the foundations of LIS?
+	 Basic preparation for any library job?
+	 Research methods coverage
+	  - emphasize research methods in the final project, rather than 
+	 Final project consistency
+	   - website vs. poster?
+	  
+	  Diversity and inclusion in LIS501?
+	  
+	  Connections to LIS502: history
+	   - historical connections
+	   - Situate 501 concepts historically
+	   - Student perception of disparate experience
+	   
+	   Interest in writing, presenting and publishing
+	    - what conferences can students cocntribute to?
+		
+		Small and large group discussion in the recitation sections.
+		
+		TA role clarity
+		
+		
