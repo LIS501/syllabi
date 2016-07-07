@@ -7,9 +7,9 @@
 - Structures and Standards               (Dubin)             09/13 (Dave about to leave)
 - Approaches to organizing information   (Bonn)              09/20 (Power to name goes here)
 - Collections                            (Bonn)              09/27 (Dave away)
-- Search and discovery                   (Schneider)         10/04
-- Evaluation of systems and services     (Dubin)    10/11 
-- Preservation                           (Teper)   10/18
+- Preservation                           (Teper)   10/04
+- Search and discovery                   (Schneider)         10/11
+- Evaluation of systems and services     (Dubin)    10/18
 - Subject Analysis and subject languages (Schneider)     10/25
 
 ## Lab exercises
@@ -17,10 +17,13 @@
 - ITD on computing resources and Pandoc/Zotero preview (week  of 08/30)
 - Pandoc encoding and transformation [CHO templates] (Dave) (week 0f 09/06)
 - Cultural heritage object description (SNL) (week of 09/13) (Dave away)
-- Bibliographic database comparison (UX specialist guest) (week of 09/20)
+- Research methods exercise (week of 09/20)
+  - Students work in groups with a small number of research questions (1/group)
+  - Propose methods for investivating the quetion
+  - Oral presentation (group)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
-- Collection stewardship exercise (week of 10/11) (Maria) (Dave away)
+- Collection stewardship exercise (week of 10/11) (Maria) 
 - Project prep (week of 10/18)
 - Project presentations (week of 10/25)
 
