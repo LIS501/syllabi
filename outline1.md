@@ -5,7 +5,7 @@
 - Users and information needs            (Schneider)              08/30
 - Research Methods                       (Bonn and Schneider)             09/06 
 - Structures and Standards               (Dubin)             09/13 (Dave about to leave)
-- Approaches to organizing information   (Bonn)              09/20 (Power to name goes here)
+- Approaches to organizing information   (Bonn)              09/20 ("Power to name" reading goes here)
 - Collections                            (Bonn)              09/27 (Dave away)
 - Search and discovery                   (Schneider)         10/04
 - Evaluation of systems and services     (Dubin)    10/11 
@@ -14,10 +14,10 @@
 
 ## Lab exercises
 - Dan on Library resources (week of 08/23)
-- ITD on computing resources and Pandoc/Zotero preview (week  of 08/30)
-- Pandoc encoding and transformation [CHO templates] (Dave) (week 0f 09/06)
+- ITD on computing resources and Pandoc/Zotero/text editor preview (week of 08/30)
+- Pandoc encoding and transformation [CHO templates] (Dave) (week of 09/06)
 - Cultural heritage object description (SNL) (week of 09/13) (Dave away)
-- Bibliographic database comparison (UX specialist guest) (week of 09/20)
+- **to revisit** Bibliographic database comparison (UX specialist guest) (week of 09/20)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
 - Collection stewardship exercise (week of 10/11) (Maria) (Dave away)
