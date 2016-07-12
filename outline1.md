@@ -1,11 +1,11 @@
 # Fall 2016
 
-## Proposed Fall 2015 outline (10 topical sessions on Tuesdays)
+## Proposed Fall 2016 outline (10 topical sessions on Tuesdays)
 - LIS Education and professional life    (Bonn, Dubin, Schneider) 08/23
 - Users and information needs            (Schneider)              08/30
 - Research Methods                       (Bonn and Schneider)             09/06 
 - Structures and Standards               (Dubin)             09/13 (Dave about to leave)
-- Approaches to organizing information   (Bonn)              09/20 (Power to name goes here)
+- Approaches to organizing information   (Bonn)              09/20 ("Power to name" reading goes here)
 - Collections                            (Bonn)              09/27 (Dave away)
 - Preservation                           (Teper)   10/04
 - Search and discovery                   (Schneider)         10/11
@@ -14,8 +14,8 @@
 
 ## Lab exercises
 - Dan on Library resources (week of 08/23)
-- ITD on computing resources and Pandoc/Zotero preview (week  of 08/30)
-- Pandoc encoding and transformation [CHO templates] (Dave) (week 0f 09/06)
+- ITD on computing resources and Pandoc/Zotero/text editor preview (week of 08/30)
+- Pandoc encoding and transformation [CHO templates] (Dave) (week of 09/06)
 - Cultural heritage object description (SNL) (week of 09/13) (Dave away)
 - Research methods exercise (week of 09/20)
   - Students work in groups with a small number of research questions (1/group)
@@ -23,7 +23,7 @@
   - Oral presentation (group)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
-- Collection stewardship exercise (week of 10/11) (Maria) 
+- Collection stewardship exercise (week of 10/11) (Maria) (Dave on campus)
 - Project prep (week of 10/18)
 - Project presentations (week of 10/25)
 
