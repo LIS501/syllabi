@@ -1,6 +1,6 @@
 # Fall 2016
 
-## Proposed Fall 2015 outline (10 topical sessions on Tuesdays)
+## Proposed Fall 2016 outline (10 topical sessions on Tuesdays)
 - LIS Education and professional life    (Bonn, Dubin, Schneider) 08/23
 - Users and information needs            (Schneider)              08/30
 - Research Methods                       (Bonn and Schneider)             09/06 
@@ -20,7 +20,7 @@
 - Bibliographic database comparison (UX specialist guest) (week of 09/20)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
-- Collection stewardship exercise (week of 10/11) (Maria) (Dave away)
+- Collection stewardship exercise (week of 10/11) (Maria) (Dave away--no longer??)
 - Project prep (week of 10/18)
 - Project presentations (week of 10/25)
 
