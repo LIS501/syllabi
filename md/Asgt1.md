@@ -56,27 +56,27 @@ or "User needs" in LISA (link from
 Studies need not be recently published, but an example of a recent
 study of this type is the following:
 
-Darby, P.; Clough, P. (2013). Investigating the information-seeking
-behaviour of genealogists and family historians.  Journal of
-Information Science 39(1): 73-84.
+>Darby, P.; Clough, P. (2013). Investigating the information-seeking
+>behaviour of genealogists and family historians.  Journal of
+>Information Science 39(1): 73-84.
 
-People are increasingly investigating their family history (or
-genealogy) as part of their everyday information-seeking
-activities. This paper provides insight into this behaviour and
-presents a new conceptual model that captures the stages of activity
-carried out during people’s lifelong family history research. The
-model offers a multi-phase view of the research process, intended to
-illustrate: (a) the different research phases themselves; (b) the
-inter-relationship between phases; (c) distinct phase-specific
-behaviours; and (d) phase-specific resource preferences. Data
-collected from amateur family historians by interview and
-questionnaire has helped to validate the model and provide insights
-into the information resources used. The findings complement existing
-knowledge about family history research and will benefit: family
-historians as they seek to navigate within the research process;
-providers of genealogical resources as they seek to better support
-users; and academics as they study information-seeking behaviours in
-various contexts.
+>People are increasingly investigating their family history (or
+>genealogy) as part of their everyday information-seeking
+>activities. This paper provides insight into this behaviour and
+>presents a new conceptual model that captures the stages of activity
+>carried out during people’s lifelong family history research. The
+>model offers a multi-phase view of the research process, intended to
+>illustrate: (a) the different research phases themselves; (b) the
+>inter-relationship between phases; (c) distinct phase-specific
+>behaviours; and (d) phase-specific resource preferences. Data
+>collected from amateur family historians by interview and
+>questionnaire has helped to validate the model and provide insights
+>into the information resources used. The findings complement existing
+>knowledge about family history research and will benefit: family
+>historians as they seek to navigate within the research process;
+>providers of genealogical resources as they seek to better support
+>users; and academics as they study information-seeking behaviours in
+>various contexts.
 
 To determine whether the full text of an article is available online,
 search for the journal title
