@@ -26,10 +26,10 @@ for d in wlist:
 	for s in mygraph.objects(weekstart[d],dc.subject):
 	      for p in mygraph.objects(s,skos.prefLabel):
                       myconcept = str(p)
-                      for (q,r) in mygraph.predicate_objects(p):
-                              background = q
-                      for r in mygraph.objects(p,l501.reqReading):
-                              required = r
+                      for q in mygraph.objects(s,l501.backgroundReading):
+                              background = str(q) + '.bib'
+                      for r in mygraph.objects(s,l501.reqReading):
+                              required = str(r) + '.bib'
         print myweek
         print myconcept
         print background
