@@ -15,5 +15,6 @@ include(INSTRUCTOR3)
 include(HelpfulResources.md)
 include(Integrity.md)
 include(InclusionAccessibility.md)
+include(ASSIGNMENTS)
 include(Asgt1.md)
-
+include(MYTOPICS)

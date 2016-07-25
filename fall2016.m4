@@ -1,4 +1,6 @@
 define(MYSECDATA, fall15c.md)dnl
+define(MYTOPICS, fall16topics.md)dnl
+define(ASSIGNMENTS, fall16assignments.md)dnl
 define(CONTACT1, Bonn.md)dnl
 define(CONTACT2, Dubin.md)dnl
 define(CONTACT3, Schneider.md)dnl

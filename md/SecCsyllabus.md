@@ -132,7 +132,6 @@ full credit unless the student has contacted the instructor prior to the due dat
 (or in the case of emergencies, as soon as practicable).  There will be three main assignments, and ten labs.
 The weighting of each assignment in the final grade is noted below. 
 
-
 Assignments, Exercises & Grade Distribution: 
 
  - Assignment 1: Information Needs/Information Seeking Behavior. Due September 4 (20%).
