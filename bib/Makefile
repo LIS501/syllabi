@@ -1,3 +1,4 @@
+
 # Start by clearing the list of suffixes
 .SUFFIXES:
 # Then specify our suffixes
@@ -22,15 +23,15 @@ Preservation:
 Research: 
 	curl 'https://api.zotero.org/groups/344216/collections/7TJ9WWEE/items/top?start=0&limit=95&format=bibtex&v=1' > ResearchBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/HK7PM5MN/items/top?start=0&limit=95&format=bibtex&v=1' > ResearchRequired.bib
-	
+
 Search: 
 	curl 'https://api.zotero.org/groups/344216/collections/VQR3IP7Q/items/top?start=0&limit=95&format=bibtex&v=1' > SearchBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/IPSBZMD8/items/top?start=0&limit=95&format=bibtex&v=1' > SearchRequired.bib
-	
+
 Structures: 
 	curl 'https://api.zotero.org/groups/344216/collections/EXRP2V7P/items/top?start=0&limit=95&format=bibtex&v=1' > StructuresBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/39669DZH/items/top?start=0&limit=95&format=bibtex&v=1' > StructuresRequired.bib
-	
+
 SubjAnalysis: 
 	curl 'https://api.zotero.org/groups/344216/collections/VKJ9KXK2/items/top?start=0&limit=95&format=bibtex&v=1' > SubjAnalysisBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/3U7AKIUM/items/top?start=0&limit=95&format=bibtex&v=1' > SubjAnalysisRequired.bib
@@ -38,9 +39,10 @@ SubjAnalysis:
 SubjLanguages: 
 	curl 'https://api.zotero.org/groups/344216/collections/2GH7KA69/items/top?start=0&limit=95&format=bibtex&v=1' > SubjLanguagesBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/EZC36Z9N/items/top?start=0&limit=95&format=bibtex&v=1' > SubjLanguagesRequired.bib
-	
+
 UseUsers: 
 	curl 'https://api.zotero.org/groups/344216/collections/ACJIKKDC/items/top?start=0&limit=95&format=bibtex&v=1' > UseUsersBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/3QGWRGMI/items/top?start=0&limit=95&format=bibtex&v=1' > UseUsersRequired.bib
-	
-	
+
+LIS501: 
+	curl 'https://api.zotero.org/groups/344216/items/top?start=0&limit=95&format=bibtex&v=1' > LIS501.bib

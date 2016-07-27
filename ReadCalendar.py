@@ -37,9 +37,12 @@ for d in wlist:
                               background = str(q)[5:] + '.bib'
                       for r in mygraph.objects(s,l501.reqReading):
                               required = str(r)[5:] + '.bib'
+        print                      
         print myweek + " week of " + d
+        print
         print ": " + myconcept
-        bstring = "  - Background: " 
+        print
+        bstring = "     - Background: " 
         if background:
           with open(background) as bibtex_file:
                   bibtex_str = bibtex_file.read()
@@ -48,7 +51,7 @@ for d in wlist:
                   bstring += ('[@' + bibdict['ID'] +'],' + ' ')
         bstring = bstring[:-2] + '.'
         print bstring
-        rstring = "  - Required: "
+        rstring = "     - Required: "
         if required:
           with open(required) as bibtex_file:
                   bibtex_str = bibtex_file.read()
