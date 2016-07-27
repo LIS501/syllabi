@@ -1,5 +1,5 @@
-| LIS 501A
+| LIS 501B
 | Fall 2016
 | Tuesday 1:00-2:50pm Room 126
-| Thursday 1:00-3:50pm Room 46
+| Wednesday 9:00-11:50am Room 131
 | 4 credit hours

@@ -1,4 +1,4 @@
-define(MYSECDATA, fall15c.md)dnl
+define(MYSECDATA, fall16b.md)dnl
 define(MYTOPICS, fall16topics.md)dnl
 define(ASSIGNMENTS, fall16assignments.md)dnl
 define(CONTACT1, Bonn.md)dnl
@@ -17,16 +17,16 @@ define(PRES7DATE, October 4)dnl
 define(PRES8DATE, October 11)dnl
 define(PRES9DATE, October 18)dnl
 define(PRES10DATE, October 25)dnl
-define(LAB1DATE, August 26)dnl
-define(LAB2DATE, September 2)dnl
-define(LAB3DATE, September 9)dnl
-define(LAB4DATE, September 16)dnl
-define(LAB5DATE, September 23)dnl
-define(LAB6DATE, September 30)dnl
-define(LAB7DATE, October 7)dnl
-define(LAB8DATE, October 14)dnl
-define(LAB9DATE, October 21)dnl
-define(LAB10DATE, October 28)dnl
+define(LAB1DATE, August 24)dnl
+define(LAB2DATE, August 31)dnl
+define(LAB3DATE, September 7)dnl
+define(LAB4DATE, September 14)dnl
+define(LAB5DATE, September 21)dnl
+define(LAB6DATE, September 28)dnl
+define(LAB7DATE, October 5)dnl
+define(LAB8DATE, October 12)dnl
+define(LAB9DATE, October 19)dnl
+define(LAB10DATE, October 26)dnl
 define(A1DUE, September due date at 11:59 PM)dnl
 define(A2DUE, October due date at 11:59 PM)dnl
 define(A3DUE, October due date at 11:59 PM)dnl
