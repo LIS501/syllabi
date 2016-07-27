@@ -1,9 +1,10 @@
 # Topic Schedule
+
 Week 1 week of 2016-08-22T00:00:00-5:00
 
 : LIS Education and professional life
 
-     - Background: [@glushko_foundation_215], [@_secret_????], [@wright_cataloging_2014], [@levie_man_2004].
+     - Background: [@glushko_foundation_215], [@wright_secret_2014], [@wright_cataloging_2014], [@levie_man_2004].
      - Required: [@lavoie_making_2006], [@dyson_how_2011], [@bush_as_1945], [@buckland_what_1997], [@bates_invisible_1999].
 
 Week 2 week of 2016-08-29T00:00:00-5:00
