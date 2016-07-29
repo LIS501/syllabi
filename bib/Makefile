@@ -4,6 +4,9 @@
 # Then specify our suffixes
 .SUFFIXES: .tex .dvi .bib .pdf .sgml .html .md
 
+
+All: Approaches Collections Evaluation General Introduction Identity Preservation Research Search Structures SubjLanguages UseUsers LIS501
+
 Approaches: 
 	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?start=0&limit=95&format=bibtex&v=1' > ApproachesBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/SCAZAMMH/items/top?start=0&limit=95&format=bibtex&v=1' > ApproachesRequired.bib
@@ -12,9 +15,20 @@ Collections:
 	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?start=0&limit=95&format=bibtex&v=1' > CollectionsBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?start=0&limit=95&format=bibtex&v=1' > CollectionsRequired.bib
 
+Evaluation: 
+	curl 'https://api.zotero.org/groups/344216/collections/GK7SVKMJ/items/top?start=0&limit=95&format=bibtex&v=1' > EvaluationBackground.bib
+	curl 'https://api.zotero.org/groups/344216/collections/665399P8/items/top?start=0&limit=95&format=bibtex&v=1' > EvaluationRequired.bib
+
+General: 
+	curl 'https://api.zotero.org/groups/344216/collections/P9XVEEDG/items/top?start=0&limit=95&format=bibtex&v=1' > GeneralBackground.bib
+
 Introduction: 
 	curl 'https://api.zotero.org/groups/344216/collections/2B5TZR74/items/top?start=0&limit=95&format=bibtex&v=1' > IntroductionBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/M4VAFZ3G/items/top?start=0&limit=95&format=bibtex&v=1' > IntroductionRequired.bib
+
+Identity: 
+	curl 'https://api.zotero.org/groups/344216/collections/T3T95I4B/items/top?start=0&limit=95&format=bibtex&v=1' > IdentityBackground.bib
+	curl 'https://api.zotero.org/groups/344216/collections/F6WM8HP8/items/top?start=0&limit=95&format=bibtex&v=1' > IdentityRequired.bib
 
 Preservation: 
 	curl 'https://api.zotero.org/groups/344216/collections/QB399RJC/items/top?start=0&limit=95&format=bibtex&v=1' > PreservationBackground.bib
