@@ -25,7 +25,8 @@ for s in mygraph.subjects(RDF.type, l501.Week):
 print "# Topic Schedule"
                             
 wlist = weekstart.keys()
-wlist.sort()				
+wlist.sort()
+weeknum = 0
 for d in wlist:
         myweek = myconcept = required = background = ''
 	for o in mygraph.objects(weekstart[d], RDFS.label):
@@ -37,8 +38,10 @@ for d in wlist:
                               background = str(q)[5:] + '.bib'
                       for r in mygraph.objects(s,l501.reqReading):
                               required = str(r)[5:] + '.bib'
+        weeknum += 1
+        weekdate = 'PRES' + str(weeknum) + 'DATE'
         print                      
-        print myweek + " week of " + d
+        print myweek + ", " + weekdate
         print
         print ": " + myconcept
         print

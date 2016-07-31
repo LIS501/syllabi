@@ -101,6 +101,8 @@
   skos:prefLabel "LIS Education and professional life"@en.
 
 :UsersInfoNeeds a skos:Concept;
+  :backgroundReading bib:UseUsersBackground ;
+  :reqReading bib:UseUsersRequired ;
   skos:prefLabel "Users and information needs"@en.
 
 :ResearchMeth a skos:Concept;
@@ -109,6 +111,8 @@
   skos:prefLabel "Research Methods"@en.
 
 :StructStand a skos:Concept;
+  :backgroundReading bib:StructuresBackground ;
+  :reqReading bib:StructuresRequired ;
   skos:prefLabel "Structures and Standards"@en.
 
 :ApproachesOrg a skos:Concept;
@@ -127,11 +131,16 @@
   skos:prefLabel "Preservation"@en.
 
 :SearchDisc a skos:Concept;
+  :backgroundReading bib:SearchBackground ;
+  :reqReading bib:SearchRequired ;
   skos:prefLabel "Search and discovery"@en.
 
 :EvalSysServ a skos:Concept;
+  :reqReading bib:EvaluationRequired ;
   skos:prefLabel "Evaluation of systems and services"@en.
 
 :SubjAnLang a skos:Concept;
+  :backgroundReading bib:SubjLanguagesBackground ;
+  :reqReading bib:SubjLanguagesRequired ;
   skos:prefLabel "Subject analysis and subject languages"@en.
 
