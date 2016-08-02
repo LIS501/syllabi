@@ -1,9 +1,12 @@
-
-
-# Information Organization & Access
+---
+title: Information Organization and Access
+author: University of Illinois School of Information Sciences
+date: Tue, Aug  2, 2016  4:06:03 PM
+link-citations: true
+---
 
 | LIS 501C
-| Fall 2015
+| Fall 2016
 | Tuesday 1:00-2:50pm Room 126
 | Friday 9:00-11:50 Room 46
 | 4 credit hours
@@ -24,7 +27,7 @@
 
 | Instructor: Jodi Schneider
 | Email: jschne23@illinois.edu
-| Office: LIS 301
+| Office: LIS 334
 | Office Hour: TBA
 | Phone: TBD
 
@@ -55,7 +58,7 @@ through the UIUC Library's electronic reserves system (<https://reserves.library
 UIUC Library's e-journals search tool (<http://openurl.library.uiuc.edu/sfxlcl3/az>), or the open Web (as indicated).   
 
 
-The textbook The Discipline of Organizing by Robert J. Glushko is recommended for those new to the field.
+The textbook *The Discipline of Organizing* by Robert J. Glushko is recommended for those new to the field.
 It provides a discussion of many of the concepts we will discuss in class, and can be accessed online at
 <http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7572272>.
 
@@ -64,8 +67,8 @@ Remember that the Library provides access to some reference sources online that 
 background and explanations.  
 These titles are linked from:  <http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html> and 
 <http://www.library.illinois.edu/lsx/findit/tools/dictionaries.html>.   
-They include: ODLIS: Online Dictionary for Library and Information Science and 
-the Encyclopedia of Library and Information Sciences.   
+They include: *ODLIS: Online Dictionary for Library and Information Science* and 
+the *Encyclopedia of Library and Information Sciences*.   
 
 # About Maria Bonn
 Maria is a senior lecturer at the Graduate School of Library and Information Science at the GSLIS. 
@@ -85,7 +88,7 @@ information representation and description as well as issues of expression and e
 digital information resources.
 
 # About Jodi Schneider
-Jodi Schneider is an assistant professor at the School of Information Sciences. She studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Jodi holds degrees in library & information science (M.S. UIUC), mathematics (M.A. UT-Austin), liberal arts (B.A., Great Books, St. John's College), and informatics (Ph.D., National University of Ireland, Galway). She worked in academic libraries and bookstores for 6 years. She has also held research positions across the U.S. as well as in Ireland, England, France, and Chile.
+Jodi Schneider is an assistant professor at the School of Information Sciences. She studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Jodi holds degrees in informatics (Ph.D., National University of Ireland, Galway), library & information science (M.S. UIUC), mathematics (M.A. UT-Austin), and liberal arts (B.A., Great Books, St. John's College). She worked in academic libraries and bookstores for 6 years. She has also held research positions across the U.S. as well as in Ireland, England, France, and Chile.
 
 # Library Resources
 | <http://www.library.illinois.edu/lsx/>
@@ -261,75 +264,75 @@ Education Student Resources from the Library:
 
 # Topic Schedule
 
-Week 1 week of 2016-08-22T00:00:00-5:00
+Week 1, August 23
 
 : LIS Education and professional life
 
-     - Background: [@glushko_foundation_215], [@wright_secret_2014], [@wright_cataloging_2014], [@levie_man_2004].
+     - Background: [@glushko_foundation_2015], [@wright_secret_2014], [@wright_cataloging_2014], [@levie_man_2004].
      - Required: [@lavoie_making_2006], [@dyson_how_2011], [@bush_as_1945], [@buckland_what_1997], [@bates_invisible_1999].
 
-Week 2 week of 2016-08-29T00:00:00-5:00
+Week 2, August 30
 
 : Users and information needs
 
-     - Background.
-     - Required.
+     - Background: [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@david_johnson_health-related_2014], [@connaway_reordering_2014], [@marcia_j._bates_information_2009], [@connaway_selecting_2010].
+     - Required: [@connaway_if_2011], [@blair_reading_2003], [@bawden_dark_2009].
 
-Week 3 week of 2016-09-05T00:00:00-5:00
+Week 3, September 6
 
 : Research Methods
 
-     - Background: [@fidel_are_2008], [@brett_sutton_qualitative_2009], [@sandstrom_use_1995].
+     - Background: [@fidel_are_2008], [@brett_sutton_qualitative_2009], [@sandstrom_use_1995], [@connaway_selecting_2010].
      - Required: [@shachaf_are_2006], [@whitmire_racial_1999].
 
-Week 4 week of 2016-09-12T00:00:00-5:00
+Week 4, September 13
 
 : Structures and Standards
 
-     - Background.
-     - Required.
+     - Background: [@glushko_describing_2015].
+     - Required: [@vogt_escience_2013], [@derose_what_2014], [@bettels_unicode:_1993], [@coombs_markup_1987].
 
-Week 5 week of 2016-09-19T00:00:00-5:00
+Week 5, September 20
 
 : Approaches to organizing information
 
      - Background: [@glushko_resources_2015].
      - Required: [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_._2012].
 
-Week 6 week of 2016-09-26T00:00:00-5:00
+Week 6, September 27
 
 : Collections
 
      - Background: [@junus_digital_2014], [@glushko_activities_2015].
      - Required: [@hadro_whats_2013], [@_update_2013], [@hunter_two_1981], [@lewis_stacks_2013].
 
-Week 7 week of 2016-10-03T00:00:00-5:00
+Week 7, October 4
 
 : Preservation
 
      - Background: [@glushko_organizing_2015].
      - Required: [@shilton_participatory_2007], [@teper_selection_2014].
 
-Week 8 week of 2016-10-10T00:00:00-5:00
+Week 8, October 11
 
 : Search and discovery
 
-     - Background.
-     - Required.
+     - Background: [@gossen_specifics_2013], [@hearst_evaluation_2009], [@duffy_searching_2013], [@bates_what_2007].
+     - Required: [@saarinen_sign_2013], [@bawden_encountering_2011], [@barton_old_2012], [@adkins_fiction_2007].
 
-Week 9 week of 2016-10-17T00:00:00-5:00
+Week 9, October 18
 
 : Evaluation of systems and services
 
      - Background.
-     - Required.
+     - Required: [@asher_paths_2013], [@peters_philosophy_2002].
 
-Week 10 week of 2016-10-24T00:00:00-5:00
+Week 10, October 25
 
 : Subject analysis and subject languages
 
-     - Background.
-     - Required.
+     - Background: [@kreyche_subject_2013], [@mitchell_dewey_2009], [@chan_library_2009], [@anderson_library_2009], [@beghtol_classification_2009].
+     - Required: [@lee_indigenous_2011], [@higgins_library_2012], [@fister_dewey_2009], [@buckland_obsolescence_2012], [@brown-sica_library_2008].
 
 
 # References

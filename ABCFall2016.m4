@@ -1,6 +1,11 @@
-changecom(<!--,-->)
+changecom(<!--,-->)dnl
 include(MYDEFS)dnl
-# Information Organization & Access
+---
+title: Information Organization and Access
+author: University of Illinois School of Information Sciences
+date: syscmd(sh -c "date | tr -d '\n'")
+link-citations: true
+---
 
 include(MYSECDATA)
 include(CONTACT1)
