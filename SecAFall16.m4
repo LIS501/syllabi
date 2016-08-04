@@ -30,4 +30,3 @@ define(LAB10DATE, October 27)dnl
 define(A1DUE, September due date at 11:59 PM)dnl
 define(A2DUE, October due date at 11:59 PM)dnl
 define(A3DUE, October due date at 11:59 PM)dnl
-
