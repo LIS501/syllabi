@@ -41,11 +41,9 @@ for d in wlist:
         weeknum += 1
         weekdate = 'PRES' + str(weeknum) + 'DATE'
         print                      
-        print myweek + ", " + weekdate
+        print myweek + ", " + weekdate + ": " + myconcept
         print
-        print ": " + myconcept
-        print
-        bstring = "     - Background: " 
+        bstring = "- Background: " 
         if background:
           with open(background) as bibtex_file:
                   bibtex_str = bibtex_file.read()
@@ -54,7 +52,7 @@ for d in wlist:
                   bstring += ('[@' + bibdict['ID'] +'],' + ' ')
         bstring = bstring[:-2] + '.'
         print bstring
-        rstring = "     - Required: "
+        rstring = "- Required: "
         if required:
           with open(required) as bibtex_file:
                   bibtex_str = bibtex_file.read()

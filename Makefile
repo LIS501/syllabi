@@ -15,6 +15,12 @@ export M4PATH
 %.docx : %.m4 ABCFall2016.m4
 	m4 -DCITELINK="false" -DMYDEFS="$*.m4" ABCFall2016.m4|pandoc -s --bibliography=bib/LIS501.bib -o $*.docx
 
+%.tex : %.m4 ABCFall2016.m4
+	m4 -DCITELINK="true" -DMYDEFS="$*.m4" ABCFall2016.m4|pandoc -s --bibliography=bib/LIS501.bib -o $*.tex
+
+Readings : SecAFall16.m4 CalendarReadings.m4
+	m4 -DCITELINK="true" -DMYDEFS="SecAFall16.m4" CalendarReadings.m4|pandoc -s --bibliography=bib/LIS501.bib -o LIS501Readings.html
+
 
 
 
