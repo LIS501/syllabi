@@ -3,7 +3,7 @@
 Week 1, PRES1DATE: LIS Education and professional life
 
 - Background: [@glushko_foundation_2015], [@wright_secret_2014], [@wright_cataloging_2014], [@levie_man_2004].
-- Required: [@lavoie_making_2006], [@dyson_how_2011], [@bush_as_1945], [@buckland_what_1997], [@bates_invisible_1999].
+- Required: [@ferraris_social_2011], [@lavoie_making_2006], [@dyson_how_2011], [@bush_as_1945], [@buckland_what_1997], [@bates_invisible_1999].
 
 Week 2, PRES2DATE: Users and information needs
 
@@ -17,8 +17,8 @@ Week 3, PRES3DATE: Research Methods
 
 Week 4, PRES4DATE: Structures and Standards
 
-- Background: [@glushko_describing_2015].
-- Required: [@vogt_escience_2013], [@derose_what_2014], [@bettels_unicode:_1993], [@coombs_markup_1987].
+- Background: [@glushko_describing_2015], [@bettels_unicode:_1993].
+- Required: [@vogt_escience_2013], [@derose_what_2014], [@coombs_markup_1987].
 
 Week 5, PRES5DATE: Approaches to organizing information
 
