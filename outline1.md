@@ -5,7 +5,7 @@
 - Users and information needs            (Schneider)              08/30
 - Research Methods                       (Bonn and Schneider)             09/06 
 - Structures and Standards               (Dubin)             09/13 (Dave about to leave)
-- Approaches to organizing information   (Bonn)              09/20 ("Power to name" reading goes here)
+- Approaches to organizing information   (Bonn)              09/20
 - Collections                            (Bonn)              09/27 (Dave away)
 - Preservation                           (Teper)   10/04
 - Search and discovery                   (Schneider)         10/11
