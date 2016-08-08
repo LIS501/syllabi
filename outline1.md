@@ -28,7 +28,7 @@
 	  3. Content analysis?
 	  4. historian's approach
 	  5. engineering TREC-like approach
-- Pandoc encoding and transformation [CHO templates] (Dave designs, Jodi presents) (week of 09/13) (Dave away)
+- Pandoc encoding and transformation [CHO templates] (week of 09/13) (Dave away)  (Dave designs, Jodi presents)
 - Cultural heritage object description (SNL) (week of 09/20)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
