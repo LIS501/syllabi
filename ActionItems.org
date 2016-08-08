@@ -1,0 +1,14 @@
+* Action Items for Fall, 2016 LIS501
+
+** Syllabus-related
+*** TODO Middle Schoolers at Spurlock week of the 16th. Do we rescedule that lab?
+    DEADLINE: <2016-08-08 Mon>
+*** TODO Decision about Glushko: 1st or 3rd edition?
+    DEADLINE: <2016-08-08 Mon>
+*** TODO Ask for a combined meta section if we want one.
+    DEADLINE: <2016-08-08 Mon>
+*** TODO Finalize third assignment description
+    DEADLINE: <2016-08-12 Fri>
+*** TODO Add TA contact information to syllabus
+    DEADLINE: <2016-08-15 Mon>
+
