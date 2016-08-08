@@ -15,11 +15,9 @@
 ## Lab exercises
 - Dan on Library resources (week of 08/23)
 - ITD on computing resources and Pandoc/Zotero/text editor preview (week of 08/30)
-- Pandoc encoding and transformation [CHO templates] (Dave) (week of 09/06)
-- Cultural heritage object description (SNL) (week of 09/13) (Dave away)
-- Research methods exercise (week of 09/20)
+- Research methods exercise (week of 09/06)
   - Students work in groups with a small number of research questions (1/group)
-  - Propose methods for investivating the quetion
+  - Propose methods for investivating the question
   - Oral presentation (group)
   - Methods we'd like to include:
      1. Quantitative social science
@@ -30,6 +28,8 @@
 	  3. Content analysis?
 	  4. historian's approach
 	  5. engineering TREC-like approach
+- Pandoc encoding and transformation [CHO templates] (Dave designs, Jodi presents) (week of 09/13) (Dave away)
+- Cultural heritage object description (SNL) (week of 09/20)
 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
 - Bibo/DC output from Zotero [generalize with metadata examples in other applications--maybe Salaita tweets]  (Dave) (week of 10/04)
 - Collection stewardship exercise (week of 10/11) (Maria) (Dave on campus)
