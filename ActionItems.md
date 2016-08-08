@@ -23,3 +23,7 @@ DEADLINE: &lt;2016-08-12 Fri&gt;
 ### TODO Add TA contact information to syllabus
 
 DEADLINE: &lt;2016-08-15 Mon&gt;
+
+### TODO When does Chris need to attend lab?
+
+DEADLINE: &lt;2016-08-12 Fri&gt;
