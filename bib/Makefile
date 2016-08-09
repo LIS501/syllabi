@@ -25,6 +25,8 @@ General:
 Introduction: 
 	curl 'https://api.zotero.org/groups/344216/collections/2B5TZR74/items/top?start=0&limit=95&format=bibtex&v=1' > IntroductionBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/M4VAFZ3G/items/top?start=0&limit=95&format=bibtex&v=1' > IntroductionRequired.bib
+	curl 'https://api.zotero.org/groups/344216/collections/2B5TZR74/items/top?format=bib&v=1'|pandoc -f html -o IntroductionBackground.md
+	curl 'https://api.zotero.org/groups/344216/collections/M4VAFZ3G/items/top?format=bib&v=1'|pandoc -f html -o IntroductionRequired.md
 
 Identity: 
 	curl 'https://api.zotero.org/groups/344216/collections/T3T95I4B/items/top?start=0&limit=95&format=bibtex&v=1' > IdentityBackground.bib
