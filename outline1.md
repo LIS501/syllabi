@@ -2,7 +2,7 @@
 
 ## Proposed Fall 2016 outline (10 topical sessions on Tuesdays)
 - LIS Education and professional life    (Bonn, Dubin, Schneider) 08/23
-- Users and information needs            (Schneider)              08/30
+- Users and information needs            (Schneider; Cordelia Geiken, usability guest)              08/30
 - Research Methods                       (Bonn and Schneider)             09/06 
 - Structures and Standards               (Dubin)             09/13 (Dave about to leave)
 - Approaches to organizing information   (Bonn)              09/20
