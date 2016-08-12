@@ -10,17 +10,24 @@ All: Approaches Collections Evaluation General Introduction Identity Preservatio
 Approaches: 
 	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?start=0&limit=95&format=bibtex&v=1' > ApproachesBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/SCAZAMMH/items/top?start=0&limit=95&format=bibtex&v=1' > ApproachesRequired.bib
+	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|pandoc -f html -o ApproachesBackground.md
+	curl 'https://api.zotero.org/groups/344216/collections/SCAZAMMH/items/top?format=bib&v=1'|pandoc -f html -o  ApproachesRequired.md
 
 Collections: 
 	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?start=0&limit=95&format=bibtex&v=1' > CollectionsBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?start=0&limit=95&format=bibtex&v=1' > CollectionsRequired.bib
+	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|pandoc -f html -o CollectionsBackground.md
+	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|pandoc -f html -o CollectionsRequired.md
 
 Evaluation: 
 	curl 'https://api.zotero.org/groups/344216/collections/GK7SVKMJ/items/top?start=0&limit=95&format=bibtex&v=1' > EvaluationBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/665399P8/items/top?start=0&limit=95&format=bibtex&v=1' > EvaluationRequired.bib
+	curl 'https://api.zotero.org/groups/344216/collections/GK7SVKMJ/items/top?format=bib&v=1'|pandoc -f html -o EvaluationBackground.md
+	curl 'https://api.zotero.org/groups/344216/collections/665399P8/items/top?format=bib&v=1'|pandoc -f html -o EvaluationRequired.md
 
 General: 
 	curl 'https://api.zotero.org/groups/344216/collections/P9XVEEDG/items/top?start=0&limit=95&format=bibtex&v=1' > GeneralBackground.bib
+	curl 'https://api.zotero.org/groups/344216/collections/P9XVEEDG/items/top?format=bib&v=1'|pandoc -f html -o GeneralBackground.md
 
 Introduction: 
 	curl 'https://api.zotero.org/groups/344216/collections/2B5TZR74/items/top?start=0&limit=95&format=bibtex&v=1' > IntroductionBackground.bib
@@ -31,6 +38,8 @@ Introduction:
 Identity: 
 	curl 'https://api.zotero.org/groups/344216/collections/T3T95I4B/items/top?start=0&limit=95&format=bibtex&v=1' > IdentityBackground.bib
 	curl 'https://api.zotero.org/groups/344216/collections/F6WM8HP8/items/top?start=0&limit=95&format=bibtex&v=1' > IdentityRequired.bib
+	curl 'https://api.zotero.org/groups/344216/collections/T3T95I4B/items/top?format=bib&v=1'|pandoc -f html -o IdentityBackground.md
+	curl 'https://api.zotero.org/groups/344216/collections/F6WM8HP8/items/top?format=bib&v=1'|pandoc -f html -o IdentityRequired.md
 
 Preservation: 
 	curl 'https://api.zotero.org/groups/344216/collections/QB399RJC/items/top?start=0&limit=95&format=bibtex&v=1' > PreservationBackground.bib
