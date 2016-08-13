@@ -1,11 +1,12 @@
 changecom(<!--,-->)dnl
 include(MYDEFS)dnl
+include(FORMATDEFS)dnl
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences
 date: syscmd(sh -c "date | tr -d '\n'")
 link-citations: CITELINK
-csl: apa-annotated-bibliography.csl
+csl: chicago-author-date.csl
 ---
 
 include(MYSECDATA)
@@ -23,6 +24,8 @@ include(Integrity.md)
 include(InclusionAccessibility.md)
 include(ASSIGNMENTS)
 include(Asgt1.md)
-include(MYTOPICS)
+include(Asgt2.md)
+include(MYCALENDAR)
 
-# References
+FINALSEC
+
