@@ -24,10 +24,77 @@ DEADLINE: &lt;2016-08-12 Fri&gt;
 
 DEADLINE: &lt;2016-08-15 Mon&gt;
 
+### DONE Get the bibliography stylesheet working
+
+CLOSED: \[2016-08-13 Sat 16:36\] DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### TODO Minor fix on Swoger journal title approaches reqd
+
+DEADLINE: &lt;2016-08-20 Sat&gt;
+
+### TODO Check URL on Maxwell bibliographic control reading
+
+DEADLINE: &lt;2016-08-20 Sat&gt;
+
+### DONE Web links at the end of Assignment 1 (see pdf and html)
+
+CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### DONE Labs schedule should reflect changes in outline
+
+CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### TODO British spelling of behavior in assignment 1?
+
+DEADLINE: &lt;2016-08-20 Sat&gt;
+
+### TODO Consider generic stylesheet for html (header includes)
+
+### DONE Replace Asgt 2 due date with macro in task file
+
+CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### DONE Asgt 2 Resource URLs (try lists, see pdf)
+
+CLOSED: \[2016-08-13 Sat 21:14\] DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### TODO Choose actual due dates for major assignments, and set macro replacements
+
+DEADLINE: &lt;2016-08-20 Sat&gt;
+
+### TODO Instructor order (1,2,3) different in section syllabi
+
+DEADLINE: &lt;2016-08-13 Sat&gt;
+
+### TODO Check links in assignment 1, and consider abbreviating
+
+DEADLINE: &lt;2016-08-17 Wed&gt;
+
+### TODO Check links in assignment 2, and consider abbreviating
+
+DEADLINE: &lt;2016-08-17 Wed&gt;
+
+Logistics
+---------
+
+### TODO Can I get a gallery tour order for the 6th graders? Want to keep ahead
+
+DEADLINE: &lt;2016-08-20 Sat&gt;
+
 ### TODO When does Chris need to attend lab?
 
 DEADLINE: &lt;2016-08-12 Fri&gt;
 
-### TODO Get the bibliography stylesheet working
+Presentations
+-------------
 
-DEADLINE: &lt;2016-08-13 Sat&gt;
+### TODO Week 1 slides update
+
+DEADLINE: &lt;2016-08-17 Wed&gt;
+
+Labs
+----
+
+### TODO Template for CHO description
+
+DEADLINE: &lt;2016-08-20 Sat&gt;

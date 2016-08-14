@@ -1,7 +1,7 @@
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences
-date: Sat, Aug 13, 2016  3:04:54 PM
+date: Sat, Aug 13, 2016  9:05:08 PM
 link-citations: false
 csl: chicago-author-date.csl
 ---
@@ -146,10 +146,10 @@ Labs:
 
  1. Library resources (August 25) 
  2. ITD on computing resources (September 1)
- 3. Zotero bibliography and formatting (September 29) 
- 4. Cultural heritage object description (September 15) 
- 5. Research methods exercise (September 22) 
- 6. Pandoc encoding and transformation (September 8) 
+ 3. Research methods exercise (September 8) 
+ 4. Pandoc encoding and transformation (September 15) 
+ 5. Cultural heritage object description (September 22)
+ 6. Zotero bibliography and formatting (September 29) 
  7. Bibo/DC output from Zotero (October 6) 
  8. Collection stewardship exercise (October 13) 
  9. Poster prep (October 20) 
@@ -214,16 +214,17 @@ session in particular) in support of your arguments.
 ## Strategies for locating research studies {.section}
 
 Articles indexed under the subject "Information needs" or
-"Information-seeking behavior" in Library & Information Science Source
-(link from
-<http://www.library.illinois.edu/lsx/>
-<http://openurl.library.uiuc.edu/sfxlcl3/az)>
+"Information-seeking behavior" in Library & Information Science Source:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
 
 Articles indexed under the descriptor "Information seeking behaviour"
-or "User needs" in LISA (link from
-<http://www.library.illinois.edu/lsx/>
-<http://openurl.library.uiuc.edu/sfxlcl3/az>
-<http://www.library.uiuc.edu/orr/results.php?types=A&subject=29)>
+or "User needs" in LISA:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
+- <http://www.library.uiuc.edu/orr/results.php?types=A&subject=29>
 
 Studies need not be recently published, but an example of a recent
 study of this type is the following:
@@ -259,9 +260,9 @@ title.  If the text is not available online, you will need to request
 a copy of the article. See the LibGuide for Online and Continuing
 Education Student Resources from the Library:
 
-<http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
-<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
-<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
 
 # Assignment 2 Digital Collections Assessment {#Asgt2 .task}
 
@@ -272,7 +273,7 @@ Europeana pinterest board as an exemplar for your analysis.
 write a narrative assessment of the content, 
 organization, and potential users and uses.
 
-Due October 2 by midnight. This assignment is worth 20 points.
+Due October due date at 11:59 PM. This assignment is worth 20 points.
 
 ## Before you begin {.prereq}
 
@@ -320,15 +321,19 @@ Upload the essay to the Moodle section designated for this assignment.
 
 These resources may be useful for completing this assignment.
 
- - Required readings for the Collections topic:
-   <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
- - Background readings for the Collections topic: <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
- - Digital Public Library (DPLA) exhibitions <http://dp.la/exhibitions>
-   (about: <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>)
- - FLICKR galleries <https://www.flickr.com/photos/flickr/galleries>
-   (about: <https://www.flickr.com/help/galleries/>)
- - EUROPEANA Pinterest boards <https://www.pinterest.com/europeana/>
-   (about: <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>)
+- Required readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
+- Background readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
+- Digital Public Library (DPLA) exhibitions
+     - <http://dp.la/exhibitions>
+     - <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>
+- FLICKR galleries
+     - <https://www.flickr.com/photos/flickr/galleries>
+     - <https://www.flickr.com/help/galleries/>
+- EUROPEANA Pinterest boards
+     - <https://www.pinterest.com/europeana/>
+     - <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>
 
 # Topic Schedule
 

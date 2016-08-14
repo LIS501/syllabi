@@ -42,16 +42,17 @@ session in particular) in support of your arguments.
 ## Strategies for locating research studies {.section}
 
 Articles indexed under the subject "Information needs" or
-"Information-seeking behavior" in Library & Information Science Source
-(link from
-<http://www.library.illinois.edu/lsx/>
-<http://openurl.library.uiuc.edu/sfxlcl3/az)>
+"Information-seeking behavior" in Library & Information Science Source:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
 
 Articles indexed under the descriptor "Information seeking behaviour"
-or "User needs" in LISA (link from
-<http://www.library.illinois.edu/lsx/>
-<http://openurl.library.uiuc.edu/sfxlcl3/az>
-<http://www.library.uiuc.edu/orr/results.php?types=A&subject=29)>
+or "User needs" in LISA:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
+- <http://www.library.uiuc.edu/orr/results.php?types=A&subject=29>
 
 Studies need not be recently published, but an example of a recent
 study of this type is the following:
@@ -87,6 +88,6 @@ title.  If the text is not available online, you will need to request
 a copy of the article. See the LibGuide for Online and Continuing
 Education Student Resources from the Library:
 
-<http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
-<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
-<http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>

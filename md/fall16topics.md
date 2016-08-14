@@ -23,7 +23,7 @@ Week 4, PRES4DATE: Structures and Standards
 Week 5, PRES5DATE: Approaches to organizing information
 
 - Background: [@glushko_resources_2015].
-- Required: [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_._2012].
+- Required: [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_what_2012], [@olson_power_2001].
 
 Week 6, PRES6DATE: Collections
 

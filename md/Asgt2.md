@@ -7,7 +7,7 @@ Europeana pinterest board as an exemplar for your analysis.
 write a narrative assessment of the content, 
 organization, and potential users and uses.
 
-Due October 2 by midnight. This assignment is worth 20 points.
+Due A2DUE. This assignment is worth 20 points.
 
 ## Before you begin {.prereq}
 
@@ -55,12 +55,16 @@ Upload the essay to the Moodle section designated for this assignment.
 
 These resources may be useful for completing this assignment.
 
- - Required readings for the Collections topic:
-   <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
- - Background readings for the Collections topic: <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
- - Digital Public Library (DPLA) exhibitions <http://dp.la/exhibitions>
-   (about: <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>)
- - FLICKR galleries <https://www.flickr.com/photos/flickr/galleries>
-   (about: <https://www.flickr.com/help/galleries/>)
- - EUROPEANA Pinterest boards <https://www.pinterest.com/europeana/>
-   (about: <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>)
+- Required readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
+- Background readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
+- Digital Public Library (DPLA) exhibitions
+     - <http://dp.la/exhibitions>
+     - <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>
+- FLICKR galleries
+     - <https://www.flickr.com/photos/flickr/galleries>
+     - <https://www.flickr.com/help/galleries/>
+- EUROPEANA Pinterest boards
+     - <https://www.pinterest.com/europeana/>
+     - <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>
