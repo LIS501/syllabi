@@ -367,8 +367,8 @@ http://journals.tdl.org/jodi/article/view/226/205.
 <div class="csl-entry">
 
 Maxwell, R.L. “Bibliographic Control. 497-505.” *Encyclopedia of Library
-and Information Sciences,* 2010. locate from:
-http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html\].
+and Information Sciences,* 2010.
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html.
 
 </div>
 
@@ -382,7 +382,7 @@ Olson, Hope A. “The Power to Name: Representation in Library Catalogs.”
 <div class="csl-entry">
 
 Swoger, B. “What Is Metadata? A Christmas-Themed Exploration. Info
-Culture.” *Sicientific American*, 2012.
+Culture.” *Scientific American*, 2012.
 http://blogs.scientificamerican.com/information-
 culture/2012/12/17/what-is-metadata-a-christmas-themed-exploration/.
 

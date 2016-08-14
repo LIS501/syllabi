@@ -20,21 +20,21 @@ DEADLINE: &lt;2016-08-08 Mon&gt;
 
 DEADLINE: &lt;2016-08-12 Fri&gt;
 
-### TODO Add TA contact information to syllabus
+### DONE Add TA contact information to syllabus
 
-DEADLINE: &lt;2016-08-15 Mon&gt;
+CLOSED: \[2016-08-14 Sun 11:56\] DEADLINE: &lt;2016-08-15 Mon&gt;
 
 ### DONE Get the bibliography stylesheet working
 
 CLOSED: \[2016-08-13 Sat 16:36\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
-### TODO Minor fix on Swoger journal title approaches reqd
+### DONE Minor fix on Swoger journal title approaches reqd
 
-DEADLINE: &lt;2016-08-20 Sat&gt;
+CLOSED: \[2016-08-14 Sun 12:24\] DEADLINE: &lt;2016-08-20 Sat&gt;
 
 ### TODO Check URL on Maxwell bibliographic control reading
 
-DEADLINE: &lt;2016-08-20 Sat&gt;
+DEADLINE: &lt;2016-08-20 Sat&gt; E-version still available?
 
 ### DONE Web links at the end of Assignment 1 (see pdf and html)
 
@@ -44,9 +44,9 @@ CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
 CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
-### TODO British spelling of behavior in assignment 1?
+### DONE British spelling of behavior in assignment 1?
 
-DEADLINE: &lt;2016-08-20 Sat&gt;
+CLOSED: \[2016-08-14 Sun 11:54\] DEADLINE: &lt;2016-08-20 Sat&gt;
 
 ### DONE Consider generic stylesheet for html (header includes)
 
@@ -64,9 +64,9 @@ CLOSED: \[2016-08-13 Sat 21:14\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
 DEADLINE: &lt;2016-08-20 Sat&gt;
 
-### TODO Instructor order (1,2,3) different in section syllabi
+### DONE Instructor order (1,2,3) different in section syllabi
 
-DEADLINE: &lt;2016-08-13 Sat&gt;
+CLOSED: \[2016-08-14 Sun 11:57\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
 ### TODO Check links in assignment 1, and consider abbreviating
 

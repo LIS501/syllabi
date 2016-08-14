@@ -1,7 +1,7 @@
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences
-date: Sat, Aug 13, 2016  9:05:08 PM
+date: Sun, Aug 14, 2016  1:32:46 PM
 link-citations: false
 csl: chicago-author-date.csl
 ---
@@ -11,6 +11,12 @@ csl: chicago-author-date.csl
 | Tuesday 1:00-2:50pm Room 126
 | Thursday 1:00-3:50pm Room 46
 | 4 credit hours
+
+| Instructor: Jodi Schneider
+| Email: jschne23@illinois.edu
+| Office: LIS 334
+| Office Hour: TBA
+| Phone: TBD
 
 | Instructor: Maria Bonn
 | Email: mbonn@illinois.edu		
@@ -26,11 +32,11 @@ csl: chicago-author-date.csl
 | Phone: (217) 244-3275
 
 
-| Instructor: Jodi Schneider
-| Email: jschne23@illinois.edu
-| Office: LIS 334
-| Office Hour: TBA
-| Phone: TBD
+| Teaching Assistant: Christine D'Arpa
+| Email: cdarpa2@illinois.edu
+| Office: 
+| Office Hour: 
+| Phone: 
 
 # Course Description
 This course provides an intensive and thorough introduction to fundamentals of information organization 
@@ -44,14 +50,15 @@ central position of people, communities, and information users in problems of in
 # Course Overview 
 The central themes of the course are:
 
- 1. Who uses information, how they use it, and what constraints shape their use of information; 
- 2. How recorded knowledge can be organized and structured;  
- 3. Ways of providing access to the world's knowledge.
+1. Who uses information, how they use it, and what constraints shape their use of information; 
+2. How recorded knowledge can be organized and structured;
+3. Ways of providing access to the world's knowledge.
 
 # Learning Objectives
- 1. To provide a foundation for further study in library and information science, including an appreciation for forms of systematic research in LIS.
- 2. To introduce central concepts, theories, principles, research issues, and people associated with the practice and study of information organization and access.
- 3. To advance a common set of ideas that help to define the profession's orientation toward problems of information organization and access.
+
+1. To provide a foundation for further study in library and information science, including an appreciation for forms of systematic research in LIS.
+2. To introduce central concepts, theories, principles, research issues, and people associated with the practice and study of information organization and access.
+3. To advance a common set of ideas that help to define the profession's orientation toward problems of information organization and access.
 
 # Course Materials
 There is no required textbook for this course; required articles and book chapters are available electronically,
@@ -90,6 +97,12 @@ digital information resources.
 
 # About Jodi Schneider
 Jodi Schneider is an assistant professor at the School of Information Sciences. She studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Jodi holds degrees in informatics (Ph.D., National University of Ireland, Galway), library & information science (M.S. UIUC), mathematics (M.A. UT-Austin), and liberal arts (B.A., Great Books, St. John's College). She worked in academic libraries and bookstores for 6 years. She has also held research positions across the U.S. as well as in Ireland, England, France, and Chile.
+
+# About Chris D'Arpa
+Christine D'Arpa's research seeks to understand how archives,
+libraries, and other public information institutions can help
+reinvigorate public commitment to civic education and engagement, and
+participation in public policy development.
 
 # Library Resources
 | <http://www.library.illinois.edu/lsx/>
@@ -219,7 +232,7 @@ Articles indexed under the subject "Information needs" or
 - <http://www.library.illinois.edu/lsx/>
 - <http://openurl.library.uiuc.edu/sfxlcl3/az>
 
-Articles indexed under the descriptor "Information seeking behaviour"
+Articles indexed under the descriptor "Information seeking behavior"
 or "User needs" in LISA:
 
 - <http://www.library.illinois.edu/lsx/>
@@ -327,7 +340,7 @@ These resources may be useful for completing this assignment.
      - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
 - Digital Public Library (DPLA) exhibitions
      - <http://dp.la/exhibitions>
-     - <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>
+     - <http://tinyurl.com/DPLAguidelines>
 - FLICKR galleries
      - <https://www.flickr.com/photos/flickr/galleries>
      - <https://www.flickr.com/help/galleries/>
@@ -704,8 +717,8 @@ http://journals.tdl.org/jodi/article/view/226/205.
 <div class="csl-entry">
 
 Maxwell, R.L. “Bibliographic Control. 497-505.” *Encyclopedia of Library
-and Information Sciences,* 2010. locate from:
-http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html\].
+and Information Sciences,* 2010.
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html.
 
 </div>
 
@@ -719,7 +732,7 @@ Olson, Hope A. “The Power to Name: Representation in Library Catalogs.”
 <div class="csl-entry">
 
 Swoger, B. “What Is Metadata? A Christmas-Themed Exploration. Info
-Culture.” *Sicientific American*, 2012.
+Culture.” *Scientific American*, 2012.
 http://blogs.scientificamerican.com/information-
 culture/2012/12/17/what-is-metadata-a-christmas-themed-exploration/.
 

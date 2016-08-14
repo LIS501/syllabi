@@ -5,9 +5,11 @@ define(ASSIGNMENTS, fall16assignments.md)dnl
 define(CONTACT1, Bonn.md)dnl
 define(CONTACT2, Dubin.md)dnl
 define(CONTACT3, Schneider.md)dnl
+define(CONTACT4, DArpa.md)dnl
 define(INSTRUCTOR1, AboutBonn.md)dnl
 define(INSTRUCTOR2, AboutDubin.md)dnl
 define(INSTRUCTOR3, AboutSchneider.md)dnl
+define(TEACHINGAST, AboutDArpa.md)dnl
 define(PRES1DATE, August 23)dnl
 define(PRES2DATE, August 30)dnl
 define(PRES3DATE, September 6)dnl

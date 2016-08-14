@@ -47,7 +47,7 @@ Articles indexed under the subject "Information needs" or
 - <http://www.library.illinois.edu/lsx/>
 - <http://openurl.library.uiuc.edu/sfxlcl3/az>
 
-Articles indexed under the descriptor "Information seeking behaviour"
+Articles indexed under the descriptor "Information seeking behavior"
 or "User needs" in LISA:
 
 - <http://www.library.illinois.edu/lsx/>

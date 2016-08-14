@@ -61,7 +61,7 @@ These resources may be useful for completing this assignment.
      - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
 - Digital Public Library (DPLA) exhibitions
      - <http://dp.la/exhibitions>
-     - <https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit>
+     - <http://tinyurl.com/DPLAguidelines>
 - FLICKR galleries
      - <https://www.flickr.com/photos/flickr/galleries>
      - <https://www.flickr.com/help/galleries/>

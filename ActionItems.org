@@ -9,20 +9,21 @@
     DEADLINE: <2016-08-08 Mon>
 *** TODO Finalize third assignment description
     DEADLINE: <2016-08-12 Fri>
-*** TODO Add TA contact information to syllabus
-    DEADLINE: <2016-08-15 Mon>
+*** DONE Add TA contact information to syllabus
+    CLOSED: [2016-08-14 Sun 11:56] DEADLINE: <2016-08-15 Mon>
 *** DONE Get the bibliography stylesheet working
     CLOSED: [2016-08-13 Sat 16:36] DEADLINE: <2016-08-13 Sat>
-*** TODO Minor fix on Swoger journal title approaches reqd
-    DEADLINE: <2016-08-20 Sat>
+*** DONE Minor fix on Swoger journal title approaches reqd
+    CLOSED: [2016-08-14 Sun 12:24] DEADLINE: <2016-08-20 Sat>
 *** TODO Check URL on Maxwell bibliographic control reading
     DEADLINE: <2016-08-20 Sat>
+    E-version still available?
 *** DONE Web links at the end of Assignment 1 (see pdf and html)
     CLOSED: [2016-08-13 Sat 21:13] DEADLINE: <2016-08-13 Sat>
 *** DONE Labs schedule should reflect changes in outline
     CLOSED: [2016-08-13 Sat 21:13] DEADLINE: <2016-08-13 Sat>
-*** TODO British spelling of behavior in assignment 1?
-    DEADLINE: <2016-08-20 Sat>
+*** DONE British spelling of behavior in assignment 1?
+    CLOSED: [2016-08-14 Sun 11:54] DEADLINE: <2016-08-20 Sat>
 *** DONE Consider generic stylesheet for html (header includes)
     CLOSED: [2016-08-14 Sun 11:27]
 *** DONE Replace Asgt 2 due date with macro in task file
@@ -31,8 +32,8 @@
     CLOSED: [2016-08-13 Sat 21:14] DEADLINE: <2016-08-13 Sat>
 *** TODO Choose actual due dates for major assignments, and set macro replacements
     DEADLINE: <2016-08-20 Sat>
-*** TODO Instructor order (1,2,3) different in section syllabi
-    DEADLINE: <2016-08-13 Sat>
+*** DONE Instructor order (1,2,3) different in section syllabi
+    CLOSED: [2016-08-14 Sun 11:57] DEADLINE: <2016-08-13 Sat>
 
 *** TODO Check links in assignment 1, and consider abbreviating
     DEADLINE: <2016-08-17 Wed>
