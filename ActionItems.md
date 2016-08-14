@@ -48,7 +48,9 @@ CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
 DEADLINE: &lt;2016-08-20 Sat&gt;
 
-### TODO Consider generic stylesheet for html (header includes)
+### DONE Consider generic stylesheet for html (header includes)
+
+CLOSED: \[2016-08-14 Sun 11:27\]
 
 ### DONE Replace Asgt 2 due date with macro in task file
 

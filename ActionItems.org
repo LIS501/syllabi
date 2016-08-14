@@ -23,7 +23,8 @@
     CLOSED: [2016-08-13 Sat 21:13] DEADLINE: <2016-08-13 Sat>
 *** TODO British spelling of behavior in assignment 1?
     DEADLINE: <2016-08-20 Sat>
-*** TODO Consider generic stylesheet for html (header includes)
+*** DONE Consider generic stylesheet for html (header includes)
+    CLOSED: [2016-08-14 Sun 11:27]
 *** DONE Replace Asgt 2 due date with macro in task file
     CLOSED: [2016-08-13 Sat 21:13] DEADLINE: <2016-08-13 Sat>
 *** DONE Asgt 2 Resource URLs (try lists, see pdf)
