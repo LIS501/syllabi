@@ -5,14 +5,14 @@ full credit unless the student has contacted the instructor prior to the due dat
 (or in the case of emergencies, as soon as practicable).  There will be three main assignments, and ten labs.
 The weighting of each assignment in the final grade is noted below. 
 
-Assignments, Exercises & Grade Distribution: 
+**Assignments, Exercises & Grade Distribution:** 
 
  - Assignment 1: Information Needs/Information Seeking Behavior. Due A1DUE (20%).
  - Assignment 2: Digital Collections Assessment. Due A2DUE (20%).
  - Assignment 3: Final Project. Due A3DUE (40%).
  - 10 Labs for Attendance and Completion/Class Participation (20%) 
 
-Labs:
+**Labs:**
 
  1. Library resources (LAB1DATE) 
  2. ITD on computing resources (LAB2DATE)
@@ -25,7 +25,7 @@ Labs:
  9. Poster prep (LAB9DATE) 
  10. Poster presentations (LAB10DATE) 
 
-Grading Scale:
+**Grading Scale:**
 
 | 94-100 = A
 | 90-93 = A-

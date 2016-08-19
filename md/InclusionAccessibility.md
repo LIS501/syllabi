@@ -11,4 +11,4 @@ identity, sexual orientation, abilities, economic class, religion, and their int
 # Accessibility Statement
 To obtain accessibility-related academic adjustments and/or auxiliary aids, students with disabilities must 
 contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. 
-To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to disability@uiuc.edu.
+To contact DRES you may visit 1207 S. Oak St., Champaign, call (217) 333-4603 (V/TTY), or e-mail a message to disability@uiuc.edu.

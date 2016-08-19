@@ -26,7 +26,7 @@ existing digital collection, those issues will become more vivid and understanda
  1. Pick a topic of interest to you; perhaps something related to your final project. 
  2. Browse across these three differing approaches to digital collections:
     - [DPLA exhibitions](http://dp.la/exhibitions) (28 exhibitions) 
-    - [FLICKR galleries](https://www.flickr.com/photos/flickr/galleries) (there are 322) 
+    - [Flickr galleries](https://www.flickr.com/photos/flickr/galleries) (there are 322) 
     - [Europeana Pinterest boards](https://www.pinterest.com/europeana/) (74 boards).
  3. For the exemplar you select, write a narrative assessment of the content, 
     organization, and potential users and uses. Include the following considerations:

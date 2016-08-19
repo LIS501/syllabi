@@ -1,5 +1,5 @@
 | Instructor: Jodi Schneider
-| Email: jschne23@illinois.edu
+| Email: jodi@illinois.edu
 | Office: LIS 334
 | Office Hour: TBA
-| Phone: TBD
+| Phone: (217) 300-4328

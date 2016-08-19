@@ -24,10 +24,10 @@ include(TEACHINGAST)
 include(HelpfulResources.md)
 include(Integrity.md)
 include(InclusionAccessibility.md)
+include(MYCALENDAR)
 include(ASSIGNMENTS)
 include(Asgt1.md)
 include(Asgt2.md)
-include(MYCALENDAR)
 
 FINALSEC
 
