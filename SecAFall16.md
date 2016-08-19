@@ -1,7 +1,7 @@
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences
-date: Sun, Aug 14, 2016  1:32:46 PM
+date: Fri, Aug 19, 2016  5:56:49 PM
 link-citations: false
 csl: chicago-author-date.csl
 ---
@@ -13,10 +13,10 @@ csl: chicago-author-date.csl
 | 4 credit hours
 
 | Instructor: Jodi Schneider
-| Email: jschne23@illinois.edu
+| Email: jodi@illinois.edu
 | Office: LIS 334
 | Office Hour: TBA
-| Phone: TBD
+| Phone: (217) 300-4328
 
 | Instructor: Maria Bonn
 | Email: mbonn@illinois.edu		
@@ -107,7 +107,7 @@ participation in public policy development.
 # Library Resources
 | <http://www.library.illinois.edu/lsx/>
 | lislib@library.illinois.edu 
-| Phone: 217-333-3804
+| Phone: (217) 333-3804
 
 # Writing Resources
 The Writers Workshop provides free consultations. For more information see <http://www.cws.illinois.edu/workshop/>
@@ -139,214 +139,7 @@ identity, sexual orientation, abilities, economic class, religion, and their int
 # Accessibility Statement
 To obtain accessibility-related academic adjustments and/or auxiliary aids, students with disabilities must 
 contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. 
-To contact DRES you may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or e-mail a message to disability@uiuc.edu.
-
-# Assignments and Evaluation
-All assignments are required for all students. Completing all assignments is not a guarantee of a passing grade. 
-All work must be completed in order to pass this class. Late or incomplete assignments will not be given 
-full credit unless the student has contacted the instructor prior to the due date of the assignment 
-(or in the case of emergencies, as soon as practicable).  There will be three main assignments, and ten labs.
-The weighting of each assignment in the final grade is noted below. 
-
-Assignments, Exercises & Grade Distribution: 
-
- - Assignment 1: Information Needs/Information Seeking Behavior. Due September due date at 11:59 PM (20%).
- - Assignment 2: Digital Collections Assessment. Due October due date at 11:59 PM (20%).
- - Assignment 3: Final Project. Due October due date at 11:59 PM (40%).
- - 10 Labs for Attendance and Completion/Class Participation (20%) 
-
-Labs:
-
- 1. Library resources (August 25) 
- 2. ITD on computing resources (September 1)
- 3. Research methods exercise (September 8) 
- 4. Pandoc encoding and transformation (September 15) 
- 5. Cultural heritage object description (September 22)
- 6. Zotero bibliography and formatting (September 29) 
- 7. Bibo/DC output from Zotero (October 6) 
- 8. Collection stewardship exercise (October 13) 
- 9. Poster prep (October 20) 
- 10. Poster presentations (October 27) 
-
-Grading Scale:
-
-| 94-100 = A
-| 90-93 = A-
-| 87-89 = B+
-| 83-86 = B
-| 80-82 = B-
-| 77-79 = C+
-| 73-76 = C
-| 70-72 = C-
-| 67-69 = D+
-| 63-66 = D
-| 60-62 = D-
-| 59 and below = F
-
-
-# Assignment 1 Information Needs/Information Seeking Behavior {#Asgt1 .task}
-
-Due September due date at 11:59 PM. This assignment is worth 20 points.
-
-## Rationale {.context}
-
-The purpose of this exercise is two-fold. First, it is intended to
-allow you to examine the factors that condition the information needs
-or influence the information seeking behavior of a specific user
-group. Second, it affords you the opportunity to explore what types of
-research methods are used to do research on concrete user groups. The
-handout from the first lab of class will assist you with this
-exercise. Methods Handout If you'd like to know more about the
-method(s) in your article, you can refer to this Research Methods
-portal: <http://InformationR.net/rm/>
-
-## Tasks {.steps}
-
-1. Select a category of information user that interests you (e. g., high
-   school student, scientist, health care consumer, migrant farm worker).
-2. Identify a published research study that investigates information
-   needs and/or information seeking behavior of individuals from this
-   population.
-
-## Deliverable {.result}
-
-In a brief essay of 600-700 words (1-2 pages) discuss your article's
-research question, methods, findings, and implications for design of
-information systems and services (in-person, web-based, or
-both). Integrate relevant readings from those assigned for class and
-especially those you have read to date (and from the users and information needs
-session in particular) in support of your arguments.
-
-## Submitting {.postreq}
-
-1. Upload your essay to the Assignment 1 Moodle dropbox.
-2. Post a one-paragraph summary of your article on the Assignment 1
-   discussion forum.
-3. Bring a copy of your article to class for small group discussion.
-
-## Strategies for locating research studies {.section}
-
-Articles indexed under the subject "Information needs" or
-"Information-seeking behavior" in Library & Information Science Source:
-
-- <http://www.library.illinois.edu/lsx/>
-- <http://openurl.library.uiuc.edu/sfxlcl3/az>
-
-Articles indexed under the descriptor "Information seeking behavior"
-or "User needs" in LISA:
-
-- <http://www.library.illinois.edu/lsx/>
-- <http://openurl.library.uiuc.edu/sfxlcl3/az>
-- <http://www.library.uiuc.edu/orr/results.php?types=A&subject=29>
-
-Studies need not be recently published, but an example of a recent
-study of this type is the following:
-
->Darby, P.; Clough, P. (2013). Investigating the information-seeking
->behaviour of genealogists and family historians.  Journal of
->Information Science 39(1): 73-84.
-
->People are increasingly investigating their family history (or
->genealogy) as part of their everyday information-seeking
->activities. This paper provides insight into this behaviour and
->presents a new conceptual model that captures the stages of activity
->carried out during people’s lifelong family history research. The
->model offers a multi-phase view of the research process, intended to
->illustrate: (a) the different research phases themselves; (b) the
->inter-relationship between phases; (c) distinct phase-specific
->behaviours; and (d) phase-specific resource preferences. Data
->collected from amateur family historians by interview and
->questionnaire has helped to validate the model and provide insights
->into the information resources used. The findings complement existing
->knowledge about family history research and will benefit: family
->historians as they seek to navigate within the research process;
->providers of genealogical resources as they seek to better support
->users; and academics as they study information-seeking behaviours in
->various contexts.
-
-To determine whether the full text of an article is available online,
-search for the journal title
-at: <http://openurl.library.uiuc.edu/sfxlcl3/az>. The text of the article
-may also be freely available on the web (e. g., on the author’s web
-site), so you might also try doing a Google search using the article
-title.  If the text is not available online, you will need to request
-a copy of the article. See the LibGuide for Online and Continuing
-Education Student Resources from the Library:
-
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
-
-# Assignment 2 Digital Collections Assessment {#Asgt2 .task}
-
-## Summary {.shortdesc}
-
-Pick one DPLA exhibition, or one Flickr gallery or one 
-Europeana pinterest board as an exemplar for your analysis.
-write a narrative assessment of the content, 
-organization, and potential users and uses.
-
-Due October due date at 11:59 PM. This assignment is worth 20 points.
-
-## Before you begin {.prereq}
-
-Read the required assigned readings for our collections topic before starting this assignment.
-The background readings will also make your task easier.
-
-## Rationale {.context}
-
-The reading and discussion topic for week 5 is the nature of collections, challenges we face in making
-their contents accessible, and ways in which perspectives of librarians, archivists, and information
-scientists contribute to meeting those challenges. In bringing a critical, reviewer's attention to an 
-existing digital collection, those issues will become more vivid and understandable to you.
-
-## Tasks {.steps}  
-
- 1. Pick a topic of interest to you; perhaps something related to your final project. 
- 2. Browse across these three differing approaches to digital collections:
-    - [DPLA exhibitions](http://dp.la/exhibitions) (28 exhibitions) 
-    - [FLICKR galleries](https://www.flickr.com/photos/flickr/galleries) (there are 322) 
-    - [Europeana Pinterest boards](https://www.pinterest.com/europeana/) (74 boards).
- 3. For the exemplar you select, write a narrative assessment of the content, 
-    organization, and potential users and uses. Include the following considerations:
-    - How easy was it for you to find your exemplar? 
-    - Was it hard to determine what individual or institution is responsible for your exemplar?
-    - Would it be appropriate to call your exemplar a collection? If so, why? If not, why not?
-    - What categories of users is your exemplar intended to serve?
-    - How would you characterize the content and scope of your exemplar? 
-    - Can a user easily grasp the scope and arrangement? 
-    - How do the available content and organization serve the needs of the intended users? 
-    - Does the exemplar meet or exceed expectations for accessibility?
-
-## Deliverables {.result}
-
-The essay should be a 750-800 word evaluative essay with an introduction and 
-conclusion. Integrate relevant readings in support of your arguments as appropriate.
-PDF, docx, and Pandoc markdown are all acceptable file formats. Pandoc 
-expression requires a separate bibliography file, unless your references 
-and citations are formatted at the markdown source level 
-(by hand, via Zotero, etc.).
-
-## Submitting {.postreq}
-Upload the essay to the Moodle section designated for this assignment. 
-			
-## Resources {.section}
-
-These resources may be useful for completing this assignment.
-
-- Required readings for the Collections topic:
-     - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
-- Background readings for the Collections topic:
-     - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
-- Digital Public Library (DPLA) exhibitions
-     - <http://dp.la/exhibitions>
-     - <http://tinyurl.com/DPLAguidelines>
-- FLICKR galleries
-     - <https://www.flickr.com/photos/flickr/galleries>
-     - <https://www.flickr.com/help/galleries/>
-- EUROPEANA Pinterest boards
-     - <https://www.pinterest.com/europeana/>
-     - <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>
+To contact DRES you may visit 1207 S. Oak St., Champaign, call (217) 333-4603 (V/TTY), or e-mail a message to disability@uiuc.edu.
 
 # Topic Schedule
 
@@ -487,6 +280,15 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Bates, Marcia J. “Information Behavior.” In *Encyclopedia of Library and
+Information Sciences, Third Edition*, null:2381–91. null. Taylor &
+Francis, 2009.
+http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+
+</div>
+
+<div class="csl-entry">
+
 Connaway, Lynn Silipigni, and Ixchel M. Faniel. *Reordering Ranganathan:
 Shifting User Behaviors, Shifting Priorities*. Dublin, OH: OCLC
 Research, 2014.
@@ -501,14 +303,6 @@ Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
 Information Science Text Series. Santa Barbara, Calif: Libraries
 Unlimited, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
-
-</div>
-
-<div class="csl-entry">
-
-David Johnson, J. “Health-Related Information Seeking: Is It Worth It?”
-*Information Processing & Management* 50, no. 5 (September 2014):
-708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 
@@ -541,10 +335,9 @@ VT: Ashgate Publishing, Ltd., 2014.
 
 <div class="csl-entry">
 
-Marcia J. Bates. “Information Behavior.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, null:2381–91. null. Taylor &
-Francis, 2009.
-http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+Johnson, J. David. “Health-Related Information Seeking: Is It Worth It?”
+*Information Processing & Management* 50, no. 5 (September 2014):
+708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 
@@ -584,6 +377,14 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
+Chronicle of Higher Education*, August 17, 2016.
+http://chronicle.com/article/Does-This-Have-to-Go/237476/.
+
+</div>
+
+<div class="csl-entry">
+
 Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
 501–20. doi:10.1016/j.lisr.2006.08.009.
@@ -606,19 +407,18 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
-Brett Sutton. “Qualitative Research Methods in Library and Information
-Science \[ELIS Classic\].” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
-http://dx.doi.org/10.1081/E-ELIS3-120044785.
+Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
+for Librarians*. Vol. 5th ed. Library and Information Science Text
+Series. Santa Barbara, Calif: ABC-CLIO, 2010.
+http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
 
 </div>
 
 <div class="csl-entry">
 
-Connaway, Lynn Silipigni, and Ronald R. Powell. “Selecting the Research
-Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
-Information Science Text Series. Santa Barbara, Calif: Libraries
-Unlimited, 2010.
+———. “Selecting the Research Method.” In *Basic Research Methods for
+Librarians*, 71–106. Library and Information Science Text Series. Santa
+Barbara, Calif: Libraries Unlimited, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
 
 </div>
@@ -637,6 +437,23 @@ Sandstrom, Alan R., and Pamela Effrein Sandstrom. “The Use and Misuse of
 Anthropological Methods in Library and Information Science Research.”
 *The Library Quarterly: Information, Community, Policy* 65, no. 2
 (1995): 161–99. http://www.jstor.org/stable/4309020.
+
+</div>
+
+<div class="csl-entry">
+
+Sutton, Brett. “Qualitative Research Methods in Library and Information
+Science \[ELIS Classic\].” In *Encyclopedia of Library and Information
+Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
+http://dx.doi.org/10.1081/E-ELIS3-120044785.
+
+</div>
+
+<div class="csl-entry">
+
+Walliman, Nicholas. “Defining the Research Problem.” In *Social Research
+Methods*, 67–74. London: SAGE Publications, Ltd, 2006.
+http://methods.sagepub.com/book/social-research-methods.
 
 </div>
 
@@ -970,6 +787,29 @@ Libraries* 74, no. 5 (2013): 464–88. doi:10.5860/crl-374.
 
 <div class="csl-entry">
 
+Nitecki, Danuta A. “Changing the Concept and Measure of Service Quality
+in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
+3 (January 1, 1996): 181–90. doi:10.1016/S0099-1333(96)90056-7.
+
+</div>
+
+</div>
+
+### Background 
+<div class="csl-bib-body"
+style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
+
+<div class="csl-entry">
+
+Fuhr, Norbert, Giannis Tsakonas, Trond Aalberg, Maristella Agosti,
+Preben Hansen, Sarantos Kapidakis, Claus-Peter Klas, et al. “Evaluation
+of Digital Libraries.” *International Journal on Digital Libraries* 8,
+no. 1 (2007): 21–38. doi:10.1007/s00799-007-0011-z.
+
+</div>
+
+<div class="csl-entry">
+
 Voorhees, EllenM. “The Philosophy of Information Retrieval Evaluation.”
 In *Evaluation of Cross-Language Information Retrieval Systems*, edited
 by Carol Peters, Martin Braschler, Julio Gonzalo, and Michael Kluck,
@@ -1082,6 +922,309 @@ http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043240.
 
 </div>
 
+
+# Assignments and Evaluation
+All assignments are required for all students. Completing all assignments is not a guarantee of a passing grade. 
+All work must be completed in order to pass this class. Late or incomplete assignments will not be given 
+full credit unless the student has contacted the instructor prior to the due date of the assignment 
+(or in the case of emergencies, as soon as practicable).  There will be three main assignments, and ten labs.
+The weighting of each assignment in the final grade is noted below. 
+
+**Assignments, Exercises & Grade Distribution:** 
+
+ - Assignment 1: Information Needs/Information Seeking Behavior. Due September 1 (20%).
+ - Assignment 2: Digital Collections Assessment. Due September 29 (20%).
+ - Assignment 3: Final Project. Due October 27 (40%).
+ - 10 Labs for Attendance and Completion/Class Participation (20%) 
+
+**Labs:**
+
+ 1. Library resources (August 25) 
+ 2. ITD on computing resources (September 1)
+ 3. Research methods exercise (September 8) 
+ 4. Pandoc encoding and transformation (September 15) 
+ 5. Cultural heritage object description (September 22)
+ 6. Zotero bibliography and formatting (September 29) 
+ 7. Bibo/DC output from Zotero (October 6) 
+ 8. Collection stewardship exercise (October 13) 
+ 9. Poster prep (October 20) 
+ 10. Poster presentations (October 27) 
+
+**Grading Scale:**
+
+| 94-100 = A
+| 90-93 = A-
+| 87-89 = B+
+| 83-86 = B
+| 80-82 = B-
+| 77-79 = C+
+| 73-76 = C
+| 70-72 = C-
+| 67-69 = D+
+| 63-66 = D
+| 60-62 = D-
+| 59 and below = F
+
+
+# Assignment 1 Information Needs/Information Seeking Behavior {#Asgt1 .task}
+
+Due September 1. This assignment is worth 20 points.
+
+## Rationale {.context}
+
+The purpose of this exercise is two-fold. First, it is intended to
+allow you to examine the factors that condition the information needs
+or influence the information seeking behavior of a specific user
+group. Second, it affords you the opportunity to explore what types of
+research methods are used to do research on concrete user groups. The
+handout from the first lab of class will assist you with this
+exercise. Methods Handout If you'd like to know more about the
+method(s) in your article, you can refer to this Research Methods
+portal: <http://InformationR.net/rm/>
+
+## Tasks {.steps}
+
+1. Select a category of information user that interests you (e. g., high
+   school student, scientist, health care consumer, migrant farm worker).
+2. Identify a published research study that investigates information
+   needs and/or information seeking behavior of individuals from this
+   population.
+
+## Deliverable {.result}
+
+In a brief essay of 600-700 words (1-2 pages) discuss your article's
+research question, methods, findings, and implications for design of
+information systems and services (in-person, web-based, or
+both). Integrate relevant readings from those assigned for class and
+especially those you have read to date (and from the users and information needs
+session in particular) in support of your arguments.
+
+## Submitting {.postreq}
+
+1. Upload your essay to the Assignment 1 Moodle dropbox.
+2. Post a one-paragraph summary of your article on the Assignment 1
+   discussion forum.
+3. Bring a copy of your article to class for small group discussion.
+
+## Strategies for locating research studies {.section}
+
+Articles indexed under the subject "Information needs" or
+"Information-seeking behavior" in Library & Information Science Source:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
+
+Articles indexed under the descriptor "Information seeking behavior"
+or "User needs" in LISA:
+
+- <http://www.library.illinois.edu/lsx/>
+- <http://openurl.library.uiuc.edu/sfxlcl3/az>
+- <http://www.library.uiuc.edu/orr/results.php?types=A&subject=29>
+
+Studies need not be recently published, but an example of a recent
+study of this type is the following:
+
+>Darby, P.; Clough, P. (2013). Investigating the information-seeking
+>behaviour of genealogists and family historians.  Journal of
+>Information Science 39(1): 73-84.
+
+>People are increasingly investigating their family history (or
+>genealogy) as part of their everyday information-seeking
+>activities. This paper provides insight into this behaviour and
+>presents a new conceptual model that captures the stages of activity
+>carried out during people’s lifelong family history research. The
+>model offers a multi-phase view of the research process, intended to
+>illustrate: (a) the different research phases themselves; (b) the
+>inter-relationship between phases; (c) distinct phase-specific
+>behaviours; and (d) phase-specific resource preferences. Data
+>collected from amateur family historians by interview and
+>questionnaire has helped to validate the model and provide insights
+>into the information resources used. The findings complement existing
+>knowledge about family history research and will benefit: family
+>historians as they seek to navigate within the research process;
+>providers of genealogical resources as they seek to better support
+>users; and academics as they study information-seeking behaviours in
+>various contexts.
+
+To determine whether the full text of an article is available online,
+search for the journal title
+at: <http://openurl.library.uiuc.edu/sfxlcl3/az>. The text of the article
+may also be freely available on the web (e. g., on the author’s web
+site), so you might also try doing a Google search using the article
+title.  If the text is not available online, you will need to request
+a copy of the article. See the LibGuide for Online and Continuing
+Education Student Resources from the Library:
+
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+
+# Assignment 2 Digital Collections Assessment {#Asgt2 .task}
+
+## Summary {.shortdesc}
+
+Pick one DPLA exhibition, or one Flickr gallery or one 
+Europeana pinterest board as an exemplar for your analysis.
+write a narrative assessment of the content, 
+organization, and potential users and uses.
+
+Due September 29. This assignment is worth 20 points.
+
+## Before you begin {.prereq}
+
+Read the required assigned readings for our collections topic before starting this assignment.
+The background readings will also make your task easier.
+
+## Rationale {.context}
+
+The reading and discussion topic for week 5 is the nature of collections, challenges we face in making
+their contents accessible, and ways in which perspectives of librarians, archivists, and information
+scientists contribute to meeting those challenges. In bringing a critical, reviewer's attention to an 
+existing digital collection, those issues will become more vivid and understandable to you.
+
+## Tasks {.steps}  
+
+ 1. Pick a topic of interest to you; perhaps something related to your final project. 
+ 2. Browse across these three differing approaches to digital collections:
+    - [DPLA exhibitions](http://dp.la/exhibitions) (28 exhibitions) 
+    - [Flickr galleries](https://www.flickr.com/photos/flickr/galleries) (there are 322) 
+    - [Europeana Pinterest boards](https://www.pinterest.com/europeana/) (74 boards).
+ 3. For the exemplar you select, write a narrative assessment of the content, 
+    organization, and potential users and uses. Include the following considerations:
+    - How easy was it for you to find your exemplar? 
+    - Was it hard to determine what individual or institution is responsible for your exemplar?
+    - Would it be appropriate to call your exemplar a collection? If so, why? If not, why not?
+    - What categories of users is your exemplar intended to serve?
+    - How would you characterize the content and scope of your exemplar? 
+    - Can a user easily grasp the scope and arrangement? 
+    - How do the available content and organization serve the needs of the intended users? 
+    - Does the exemplar meet or exceed expectations for accessibility?
+
+## Deliverables {.result}
+
+The essay should be a 750-800 word evaluative essay with an introduction and 
+conclusion. Integrate relevant readings in support of your arguments as appropriate.
+PDF, docx, and Pandoc markdown are all acceptable file formats. Pandoc 
+expression requires a separate bibliography file, unless your references 
+and citations are formatted at the markdown source level 
+(by hand, via Zotero, etc.).
+
+## Submitting {.postreq}
+Upload the essay to the Moodle section designated for this assignment. 
+			
+## Resources {.section}
+
+These resources may be useful for completing this assignment.
+
+- Required readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
+- Background readings for the Collections topic:
+     - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
+- Digital Public Library (DPLA) exhibitions
+     - <http://dp.la/exhibitions>
+     - <http://tinyurl.com/DPLAguidelines>
+- FLICKR galleries
+     - <https://www.flickr.com/photos/flickr/galleries>
+     - <https://www.flickr.com/help/galleries/>
+- EUROPEANA Pinterest boards
+     - <https://www.pinterest.com/europeana/>
+     - <http://blog.europeana.eu/2015/01/explore-our-new-pinterest-boards/>
+
+# Assignment 3: Research Design Proposal  {#Asgt3 .task}
+
+## Rationale {.context}
+
+This aim of this assignment is to acquaint you with the rudiments of research design, and
+invite you to think about a topic you might investigate yourself, following up on the
+work in this class. This is part of your education because: 
+
+1. Librarians, archivists, and other professionals in our discipline
+   conduct and publish both academic research and institutional
+   evaluation studies.
+
+2. Understanding the aims and practices of academic and applied research
+   is necessary for working in partnership with and in support of
+   researchers in the communities that we serve.
+
+3. Proposing an investigation of your own will sensitize you to design issues in published research
+   that you read in this and other LIS classes.
+
+4. According to ALA’s Core Competences of Librarianship, "A person
+   graduating from an ALA-accredited master’s program in library and
+   information studies should know and, where appropriate, be able to
+   employ: ...
+      A. The fundamentals of quantitative and qualitative research methods.
+      B. The central research findings and research literature of the field.
+      C. The principles and methods used to assess the actual and potential value of new research."
+
+
+## Before you begin {.prereq}
+- Think about any problems that interest you. How could they be formulated as research questions?
+- During the first four weeks of class, review the literature related to open questions in a part of
+  our discipline that interests you.
+- Complete the research methods exercise during our Week 3 lab session.
+- As background for Zotero, complete the September 29 Zotero exercise.
+- As background for the annotated bibliography, review the Purdue University resources on annotated bibliographies here: <https://owl.english.purdue.edu/owl/resource/614/01/> .
+
+## Milestone Deliverables {.steps}
+
+1. Research Question due September 8, to be posted to the class discussion forum designated by your instructor
+     - Pose a research question. Your post should be a sentence or two
+       (no more than a paragraph). Also provide feedback and
+       suggestions to your classmates by replying to their posts.
+
+2. Research Methods due September 22, to be posted to the class discussion forum designated by your instructor
+     - Devise methods for addressing your research question and write
+       a one paragraph description of an approach that you feel would
+       be appropriate for investigating the question. Draw on and
+       connect this to research methods discussed in class. Post no
+       more than two paragraphs (research question paragraph, revised
+       from LABDATE3 + new paragraph on research methods). Also
+       provide feedback and suggestions to your classmates by replying
+       to their posts.
+
+3. Resource List due October 6, to the class discussion forum designated by your instructor
+     - Use Zotero to share 20 resources related to your research
+       question and/or method. Your post should include a link to
+       Zotero's RSS feed for the collection and 1-2 sentences. This
+       could cover either how you found resources, types of items you
+       are still looking for, or a very brief commentary about a
+       resource you found interesting. Also provide feedback and
+       suggestions to your classmates by replying to their posts.
+
+## Final Deliverables  {.result}
+
+Due October 27 Two page extended abstract
+:  Develop the two paragraph summary of your research question into a two page extended abstract. Focus on describing
+    and justifying the methods for investigating your research question. The extended abstract is a proposal. It should include a statement of
+   your research problem, a description of research methods for
+   investigating the problem, and an explanation of what form the results
+   of the investigation will take. 
+
+Due October 27 Annotated bibliography of 20 items
+: Following the Purdue Writing Lab Guidelines, create a document that integrates annotations with
+    formatted entries. For each resource, write an annotation that situates the work presented with respect to your research question. Overall, the annotated bibliography should connect your problem to what is already known. It should have a meaningful order (which might be alphabetical, chronological, or something else). The resource list previously submitted may need to be modified, either removing or adding items as necessary to cover as many aspects of the problem, and the knowledge gap, as feasible. Your annotations should draw your reader's attention to the connections between the resource and your problem, and to other resources in the bibliography. 
+
+Due October 27 Five minute oral presentation
+: Use this presentation to efficiently summarize
+  the relevance of this problem to people and
+  organizations who have a stake in resolving the
+  knowledge gap that you have identified. Do explain
+  the general approach to investigating the question, but
+  save methodological details for the extended abstract. Five minute summaries are difficult, so practice your presentation with a classmate or colleague outside class. 
+
+### Submitting Final Deliverables{.postreq}
+
+Upload the extended abstract and annotated bibliography
+files to the Moodle drop box associated with this exercise.
+
+Present your project during one of the last two class meetings.
+
+## Resources {.section}
+
+-  [Walliman on defining the research problem](http://methods.sagepub.com/book/social-research-methods/n6.xml)
+-  [Purdue University resources on annotated bibliographies](https://owl.english.purdue.edu/owl/resource/614/01/)
+-  [Background readings on research methods](https://www.zotero.org/groups/lis501/items/collectionKey/7TJ9WWEE)
 
 
 <!-- No final section -->

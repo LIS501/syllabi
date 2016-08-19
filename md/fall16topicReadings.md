@@ -137,6 +137,15 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Bates, Marcia J. “Information Behavior.” In *Encyclopedia of Library and
+Information Sciences, Third Edition*, null:2381–91. null. Taylor &
+Francis, 2009.
+http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+
+</div>
+
+<div class="csl-entry">
+
 Connaway, Lynn Silipigni, and Ixchel M. Faniel. *Reordering Ranganathan:
 Shifting User Behaviors, Shifting Priorities*. Dublin, OH: OCLC
 Research, 2014.
@@ -151,14 +160,6 @@ Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
 Information Science Text Series. Santa Barbara, Calif: Libraries
 Unlimited, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
-
-</div>
-
-<div class="csl-entry">
-
-David Johnson, J. “Health-Related Information Seeking: Is It Worth It?”
-*Information Processing & Management* 50, no. 5 (September 2014):
-708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 
@@ -191,10 +192,9 @@ VT: Ashgate Publishing, Ltd., 2014.
 
 <div class="csl-entry">
 
-Marcia J. Bates. “Information Behavior.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, null:2381–91. null. Taylor &
-Francis, 2009.
-http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+Johnson, J. David. “Health-Related Information Seeking: Is It Worth It?”
+*Information Processing & Management* 50, no. 5 (September 2014):
+708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 
@@ -234,6 +234,14 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
+Chronicle of Higher Education*, August 17, 2016.
+http://chronicle.com/article/Does-This-Have-to-Go/237476/.
+
+</div>
+
+<div class="csl-entry">
+
 Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
 501–20. doi:10.1016/j.lisr.2006.08.009.
@@ -256,19 +264,18 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
-Brett Sutton. “Qualitative Research Methods in Library and Information
-Science \[ELIS Classic\].” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
-http://dx.doi.org/10.1081/E-ELIS3-120044785.
+Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
+for Librarians*. Vol. 5th ed. Library and Information Science Text
+Series. Santa Barbara, Calif: ABC-CLIO, 2010.
+http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
 
 </div>
 
 <div class="csl-entry">
 
-Connaway, Lynn Silipigni, and Ronald R. Powell. “Selecting the Research
-Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
-Information Science Text Series. Santa Barbara, Calif: Libraries
-Unlimited, 2010.
+———. “Selecting the Research Method.” In *Basic Research Methods for
+Librarians*, 71–106. Library and Information Science Text Series. Santa
+Barbara, Calif: Libraries Unlimited, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
 
 </div>
@@ -287,6 +294,23 @@ Sandstrom, Alan R., and Pamela Effrein Sandstrom. “The Use and Misuse of
 Anthropological Methods in Library and Information Science Research.”
 *The Library Quarterly: Information, Community, Policy* 65, no. 2
 (1995): 161–99. http://www.jstor.org/stable/4309020.
+
+</div>
+
+<div class="csl-entry">
+
+Sutton, Brett. “Qualitative Research Methods in Library and Information
+Science \[ELIS Classic\].” In *Encyclopedia of Library and Information
+Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
+http://dx.doi.org/10.1081/E-ELIS3-120044785.
+
+</div>
+
+<div class="csl-entry">
+
+Walliman, Nicholas. “Defining the Research Problem.” In *Social Research
+Methods*, 67–74. London: SAGE Publications, Ltd, 2006.
+http://methods.sagepub.com/book/social-research-methods.
 
 </div>
 
@@ -615,6 +639,29 @@ Asher, Andrew D, Lynda M Duke, and Suzanne Wilson. “Paths of Discovery:
 Comparing the Search Effectiveness of EBSCO Discovery Service, Summon,
 Google Scholar, and Conventional Library Resources.” *College & Research
 Libraries* 74, no. 5 (2013): 464–88. doi:10.5860/crl-374.
+
+</div>
+
+<div class="csl-entry">
+
+Nitecki, Danuta A. “Changing the Concept and Measure of Service Quality
+in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
+3 (January 1, 1996): 181–90. doi:10.1016/S0099-1333(96)90056-7.
+
+</div>
+
+</div>
+
+### Background 
+<div class="csl-bib-body"
+style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
+
+<div class="csl-entry">
+
+Fuhr, Norbert, Giannis Tsakonas, Trond Aalberg, Maristella Agosti,
+Preben Hansen, Sarantos Kapidakis, Claus-Peter Klas, et al. “Evaluation
+of Digital Libraries.” *International Journal on Digital Libraries* 8,
+no. 1 (2007): 21–38. doi:10.1007/s00799-007-0011-z.
 
 </div>
 

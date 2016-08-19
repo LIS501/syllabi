@@ -3,6 +3,15 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Bates, Marcia J. “Information Behavior.” In *Encyclopedia of Library and
+Information Sciences, Third Edition*, null:2381–91. null. Taylor &
+Francis, 2009.
+http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+
+</div>
+
+<div class="csl-entry">
+
 Connaway, Lynn Silipigni, and Ixchel M. Faniel. *Reordering Ranganathan:
 Shifting User Behaviors, Shifting Priorities*. Dublin, OH: OCLC
 Research, 2014.
@@ -17,14 +26,6 @@ Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
 Information Science Text Series. Santa Barbara, Calif: Libraries
 Unlimited, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
-
-</div>
-
-<div class="csl-entry">
-
-David Johnson, J. “Health-Related Information Seeking: Is It Worth It?”
-*Information Processing & Management* 50, no. 5 (September 2014):
-708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 
@@ -57,10 +58,9 @@ VT: Ashgate Publishing, Ltd., 2014.
 
 <div class="csl-entry">
 
-Marcia J. Bates. “Information Behavior.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, null:2381–91. null. Taylor &
-Francis, 2009.
-http://www.tandfonline.com/doi/full/10.1081/E-ELIS3-120043263.
+Johnson, J. David. “Health-Related Information Seeking: Is It Worth It?”
+*Information Processing & Management* 50, no. 5 (September 2014):
+708–17. doi:10.1016/j.ipm.2014.06.001.
 
 </div>
 

@@ -12,11 +12,9 @@ Libraries* 74, no. 5 (2013): 464–88. doi:10.5860/crl-374.
 
 <div class="csl-entry">
 
-Voorhees, EllenM. “The Philosophy of Information Retrieval Evaluation.”
-In *Evaluation of Cross-Language Information Retrieval Systems*, edited
-by Carol Peters, Martin Braschler, Julio Gonzalo, and Michael Kluck,
-2406:355–70. Lecture Notes in Computer Science. Springer Berlin
-Heidelberg, 2002. http://dx.doi.org/10.1007/3-540-45691-0\_34.
+Nitecki, Danuta A. “Changing the Concept and Measure of Service Quality
+in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
+3 (January 1, 1996): 181–90. doi:10.1016/S0099-1333(96)90056-7.
 
 </div>
 

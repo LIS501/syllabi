@@ -20,6 +20,22 @@ http://www.ala.org/educationcareers/sites/ala.org.educationcareers/files/content
 
 <div class="csl-entry">
 
+ASIS&T Board. “ASIS&T Educational Guidelines.” *Association for
+Information Science and Technology*, November 8, 2001.
+http://www.asis.org/Board/educational\_guidelines.html.
+
+</div>
+
+<div class="csl-entry">
+
+Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
+Chronicle of Higher Education*, August 17, 2016.
+http://chronicle.com/article/Does-This-Have-to-Go/237476/.
+
+</div>
+
+<div class="csl-entry">
+
 Glushko, Robert J. *The Discipline of Organizing*. Cambridge, MA: The
 MIT Press, 2013.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=709195&site=ehost-live.

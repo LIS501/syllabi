@@ -3,6 +3,14 @@ style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
 <div class="csl-entry">
 
+Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
+Chronicle of Higher Education*, August 17, 2016.
+http://chronicle.com/article/Does-This-Have-to-Go/237476/.
+
+</div>
+
+<div class="csl-entry">
+
 Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
 501–20. doi:10.1016/j.lisr.2006.08.009.

@@ -24,6 +24,13 @@
 @prefix resource: <http://purl.org/vocab/resourcelist/schema#> .
 @base <http://courseweb.ischool.illinois.edu/lis/2016fa/lis501/> .
 
+:SemesterFall2016 a :Semester ;
+  event:time [ a tl:Interval ;
+      tl:at "2016-08-22T00:00:00-5:00"^^xsd:dateTime ;
+      tl:duration "P70D"^^xsd:duration] ;
+  dcterms:subject :GenBackground ;
+  rdfs:label "Fall semester"@en .
+
 
 :Week1 a :Week ;
   event:time [ a tl:Interval ;
@@ -136,6 +143,7 @@
   skos:prefLabel "Search and discovery"@en.
 
 :EvalSysServ a skos:Concept;
+  :backgroundReading bib:EvaluationBackground ;
   :reqReading bib:EvaluationRequired ;
   skos:prefLabel "Evaluation of systems and services"@en.
 
@@ -143,4 +151,8 @@
   :backgroundReading bib:SubjLanguagesBackground ;
   :reqReading bib:SubjLanguagesRequired ;
   skos:prefLabel "Subject analysis and subject languages"@en.
+
+:GenBackground a skos:Concept;
+  :backgroundReading bib:GeneralBackground ;
+  skos:prefLabel "General Background Resources for the Semester"@en.
 

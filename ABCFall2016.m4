@@ -28,6 +28,7 @@ include(MYCALENDAR)
 include(ASSIGNMENTS)
 include(Asgt1.md)
 include(Asgt2.md)
+include(Asgt3.md)
 
 FINALSEC
 

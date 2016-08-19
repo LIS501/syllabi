@@ -7,13 +7,13 @@ Week 1, PRES1DATE: LIS Education and professional life
 
 Week 2, PRES2DATE: Users and information needs
 
-- Background: [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@david_johnson_health-related_2014], [@connaway_reordering_2014], [@marcia_j._bates_information_2009], [@connaway_selecting_2010].
+- Background: [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@johnson_health-related_2014], [@connaway_reordering_2014], [@bates_information_2009], [@connaway_selecting_2010].
 - Required: [@connaway_if_2011], [@blair_reading_2003], [@bawden_dark_2009].
 
 Week 3, PRES3DATE: Research Methods
 
-- Background: [@fidel_are_2008], [@brett_sutton_qualitative_2009], [@sandstrom_use_1995], [@connaway_selecting_2010].
-- Required: [@shachaf_are_2006], [@whitmire_racial_1999].
+- Background: [@connaway_basic_2010], [@walliman_defining_2006], [@fidel_are_2008], [@sutton_qualitative_2009], [@sandstrom_use_1995], [@connaway_selecting_2010].
+- Required: [@aufderheide_does_2016], [@shachaf_are_2006], [@whitmire_racial_1999].
 
 Week 4, PRES4DATE: Structures and Standards
 
@@ -42,8 +42,8 @@ Week 8, PRES8DATE: Search and discovery
 
 Week 9, PRES9DATE: Evaluation of systems and services
 
-- Background.
-- Required: [@asher_paths_2013], [@peters_philosophy_2002].
+- Background: [@fuhr_evaluation_2007], [@peters_philosophy_2002].
+- Required: [@nitecki_changing_1996], [@asher_paths_2013].
 
 Week 10, PRES10DATE: Subject analysis and subject languages
 
