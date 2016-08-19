@@ -1,6 +1,8 @@
 * Action Items for Fall, 2016 LIS501
 
 ** Syllabus-related
+*** TODO Add general background resources to syllabus
+*** Put Assignment descriptions at the end of the syllabus
 *** DONE Middle Schoolers at Spurlock week of the 16th. Do we rescedule that lab?
     DEADLINE: <2016-08-08 Mon>
 *** DONE Decision about Glushko: 1st or 3rd edition?

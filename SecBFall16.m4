@@ -30,7 +30,7 @@ define(LAB7DATE, October 5)dnl
 define(LAB8DATE, October 12)dnl
 define(LAB9DATE, October 19)dnl
 define(LAB10DATE, October 26)dnl
-define(A1DUE, September due date at 11:59 PM)dnl
-define(A2DUE, October due date at 11:59 PM)dnl
-define(A3DUE, October due date at 11:59 PM)dnl
+define(A1DUE, August 31)dnl
+define(A2DUE, September 28)dnl
+define(A3DUE, October 25)dnl
 
