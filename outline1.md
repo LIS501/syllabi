@@ -39,9 +39,14 @@
 
 
 ## Assignments
-1. Use and Users (due week of 08/30)
-2. Digital Collections Assessment (due week of 09/27) [Revisit particular collections; More details on deliverables]
+1. Use and Users (due week 2, week of 08/30)
+2. Digital Collections Assessment (due week 6, week of 09/27) [Revisit particular collections; More details on deliverables]
 3. Final Project (due week of 10/25)
+Research question due week 3
+2 paragraphs due week 5
+Share 20 resources via Zotero due week 7  ASK DAVE: RSS feed from the Zotoer?
+Prep lab in class week 9
+Project prsentations in class week 10
 
 ### Final Project
  - Pose a well-defined research question (extended abstract)
