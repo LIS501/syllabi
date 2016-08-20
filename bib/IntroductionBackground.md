@@ -11,17 +11,15 @@ http://disciplineoforganizing.org/.
 
 <div class="csl-entry">
 
-Levie, Françoise., and Sofidoc Productions. “The Man Who Wanted to
-Classify the World,” 2004.
-http://www.aspresolver.com/aspresolver.asp?VASC;1641522.
+Levie, Françoise., and Sofidoc Productions. *The Man Who Wanted to
+Classify the World*, 2004.
 
 </div>
 
 <div class="csl-entry">
 
-Wright, Alex. *Cataloging the World : Paul Otlet and the Birth of the
+Wright, Alex. *Cataloging the World: Paul Otlet and the Birth of the
 Information Age*. Oxford: Oxford University Press, 2014.
-http://vufind.carli.illinois.edu/vf-uiu/Record/uiu\_7507894.
 
 </div>
 

@@ -37,8 +37,7 @@ http://chronicle.com/article/Does-This-Have-to-Go/237476/.
 <div class="csl-entry">
 
 Glushko, Robert J. *The Discipline of Organizing*. Cambridge, MA: The
-MIT Press, 2013.
-http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=709195&site=ehost-live.
+MIT Press, 2013. http://disciplineoforganizing.org.
 
 </div>
 

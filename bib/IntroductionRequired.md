@@ -20,8 +20,7 @@ doi:10.1002/(SICI)1097-4571(199709)48:9&lt;804::AID-ASI5&gt;3.0.CO;2-V.
 
 <div class="csl-entry">
 
-Bush, Vannevar. “As We May Think.” *The Atlantic Monthly* 176, no. 1
-(1945): 101–8.
+Bush, Vannevar. “As We May Think.” *The Atlantic Monthly*, 1945.
 http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm.
 
 </div>
@@ -48,7 +47,6 @@ http://dx.doi.org/10.1007/978-94-007-0120-5\_5.
 
 Lavoie, Brian, Lorcan Dempsey, and Lynn Silipigni Connaway. “Making Data
 Work Harder.” *Library Journal* 131, no. 1 (January 1, 2006): 40–42.
-http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=19426604&site=ehost-live.
 
 </div>
 
