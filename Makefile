@@ -18,6 +18,10 @@ export M4PATH
 %.tex : %.m4 ABCFall2016.m4
 	m4 -DFORMATDEFS="webformat.m4" -DMYDEFS="$*.m4" ABCFall2016.m4|pandoc -s --bibliography=bib/LIS501.bib -o $*.tex
 
+Topics :
+	./ReadCalendar.py fall16calendar.ttl > md/fall16topics.md
+	./Calendar2.py fall16calendar.ttl > md/fall16topicReadings.md
+
 Readings : SecAFall16.m4 CalendarReadings.m4
 	m4 -DFORMATDEFS="webformat.m4" -DMYDEFS="SecAFall16.m4" CalendarReadings.m4|pandoc -s --bibliography=bib/LIS501.bib -o LIS501Readings.html
 
