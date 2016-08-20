@@ -1,5 +1,6 @@
 changecom(<!--,-->)dnl
 include(MYDEFS)dnl
+include(FORMATDEFS)dnl
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences

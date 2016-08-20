@@ -84,5 +84,5 @@ UseUsers:
 	curl 'https://api.zotero.org/groups/344216/collections/3QGWRGMI/items/top?format=bib&v=1'|pandoc -f html -o UseUsersRequired.md
 
 LIS501: 
-	curl 'https://api.zotero.org/groups/344216/items/top?start=0&limit=95&format=bibtex&v=1' > LIS501.bib
+	cat *.bib > LIS501.bibtex
 	curl 'https://api.zotero.org/groups/344216/items/top?format=bib&v=1'|pandoc -f html -o LIS501.md
