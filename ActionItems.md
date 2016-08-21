@@ -116,6 +116,13 @@ DEADLINE: &lt;2016-08-21 Mon&gt;
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
+### TODO Troubleshoot carriage returns in bibliography (missing between bib items when Jodi regenerates syllabus).
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Is it easy to list assignment deadlines inline with the readings?
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
 
 Logistics
 ---------
