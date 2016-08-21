@@ -16,7 +16,7 @@ The background readings will also make your task easier.
 
 ## Rationale {.context}
 
-The reading and discussion topic for week 5 is the nature of collections, challenges we face in making
+The reading and discussion topic for week 6 is the nature of collections, challenges we face in making
 their contents accessible, and ways in which perspectives of librarians, archivists, and information
 scientists contribute to meeting those challenges. In bringing a critical, reviewer's attention to an 
 existing digital collection, those issues will become more vivid and understandable to you.
@@ -55,14 +55,14 @@ Upload the essay to the Moodle section designated for this assignment.
 
 These resources may be useful for completing this assignment.
 
-- Required readings for the Collections topic:
+- Required readings for Week 6, the Collections topic:
      - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
-- Background readings for the Collections topic:
+- Background readings for Week 6, the Collections topic:
      - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
 - Digital Public Library (DPLA) exhibitions
      - <http://dp.la/exhibitions>
      - <http://tinyurl.com/DPLAguidelines>
-- FLICKR galleries
+- Flickr galleries
      - <https://www.flickr.com/photos/flickr/galleries>
      - <https://www.flickr.com/help/galleries/>
 - EUROPEANA Pinterest boards
