@@ -36,12 +36,12 @@ work in this class. This is part of your education because:
 
 ## Milestone Deliverables {.steps}
 
-1. Research Question due LAB3DATE, to be posted to the class discussion forum designated by your instructor
+1. **Research Question due LAB3DATE**, to be posted to the class discussion forum designated by your instructor
      - Pose a research question. Your post should be a sentence or two
        (no more than a paragraph). Also provide feedback and
        suggestions to your classmates by replying to their posts.
 
-2. Research Methods due LAB5DATE, to be posted to the class discussion forum designated by your instructor
+2. **Research Methods due LAB5DATE**, to be posted to the class discussion forum designated by your instructor
      - Devise methods for addressing your research question and write
        a one paragraph description of an approach that you feel would
        be appropriate for investigating the question. Draw on and
@@ -51,7 +51,7 @@ work in this class. This is part of your education because:
        provide feedback and suggestions to your classmates by replying
        to their posts.
 
-3. Resource List due LAB7DATE, to the class discussion forum designated by your instructor
+3. **Resource List due LAB7DATE**, to the class discussion forum designated by your instructor
      - Use Zotero to share 20 resources related to your research
        question and/or method. Your post should include a link to
        Zotero's RSS feed for the collection and 1-2 sentences. This
@@ -62,18 +62,18 @@ work in this class. This is part of your education because:
 
 ## Final Deliverables  {.result}
 
-Due LAB10DATE Two page extended abstract
+1. Due LAB10DATE Two page extended abstract
 :  Develop the two paragraph summary of your research question into a two page extended abstract. Focus on describing
     and justifying the methods for investigating your research question. The extended abstract is a proposal. It should include a statement of
    your research problem, a description of research methods for
    investigating the problem, and an explanation of what form the results
    of the investigation will take. 
 
-Due LAB10DATE Annotated bibliography of 20 items
+2. Due LAB10DATE Annotated bibliography of 20 items
 : Following the Purdue Writing Lab Guidelines, create a document that integrates annotations with
     formatted entries. For each resource, write an annotation that situates the work presented with respect to your research question. Overall, the annotated bibliography should connect your problem to what is already known. It should have a meaningful order (which might be alphabetical, chronological, or something else). The resource list previously submitted may need to be modified, either removing or adding items as necessary to cover as many aspects of the problem, and the knowledge gap, as feasible. Your annotations should draw your reader's attention to the connections between the resource and your problem, and to other resources in the bibliography. 
 
-Due LAB10DATE Five minute oral presentation
+3. Due LAB10DATE Five minute oral presentation
 : Use this presentation to efficiently summarize
   the relevance of this problem to people and
   organizations who have a stake in resolving the
@@ -90,6 +90,9 @@ Present your project during one of the last two class meetings.
 
 ## Resources {.section}
 
--  [Walliman on defining the research problem](http://methods.sagepub.com/book/social-research-methods/n6.xml)
--  [Purdue University resources on annotated bibliographies](https://owl.english.purdue.edu/owl/resource/614/01/)
--  [Background readings on research methods](https://www.zotero.org/groups/lis501/items/collectionKey/7TJ9WWEE)
+- Walliman on defining the research problem
+	- <http://methods.sagepub.com/book/social-research-methods/n6.xml>
+-  Purdue University resources on annotated bibliographies
+	- <https://owl.english.purdue.edu/owl/resource/614/01/>
+-  Background readings on research methods from week 3
+	- <https://www.zotero.org/groups/lis501/items/collectionKey/7TJ9WWEE>
