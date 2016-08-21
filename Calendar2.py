@@ -43,13 +43,13 @@ for d in wlist:
         print                      
         print "## " +  myweek + ", " + weekdate + ": " + myconcept
         print
-        rstring = "### Readings "
+        rstring = "### Required Readings "
         if required:
           print rstring
           with open(required, 'r') as md_file:
                   md_str = md_file.read()
                   print md_str
-        bstring = "### Background "
+        bstring = "### Further Background "
         if background:
           print bstring
           with open(background, 'r') as md_file:
