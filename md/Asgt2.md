@@ -1,4 +1,5 @@
 # Assignment 2 Digital Collections Assessment {#Asgt2 .task}
+Due A2DUE (20 points).
 
 ## Summary {.shortdesc}
 
@@ -6,8 +7,6 @@ Pick one DPLA exhibition, or one Flickr gallery or one
 Europeana pinterest board as an exemplar for your analysis.
 write a narrative assessment of the content, 
 organization, and potential users and uses.
-
-Due A2DUE. This assignment is worth 20 points.
 
 ## Before you begin {.prereq}
 
