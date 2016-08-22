@@ -76,6 +76,54 @@ DEADLINE: &lt;2016-08-17 Wed&gt;
 
 DEADLINE: &lt;2016-08-17 Wed&gt;
 
+### TODO Determine whether we are using e-reserves. If so, restore "through the UIUC Library's electronic reserves system (<https://reserves.library.illinois.edu/ares/>)" to md/CourseMaterials.md
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Update office hours (Jodi, Maria, Christine)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Add office & phone for Christine
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Update bios: Remove reference to GSLIS (Maria, Dave)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Will we have a "Methods Handout"? (update Assignment 1)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Which LibGuide (3 are listed) is the best starting point? (update Assignment 1)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Replace mention of Google with Google Scholar and "any search engine"? Also mention print resources? (update Assignment 1)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Specify name of the "the Moodle section designated for this assignment" (update Assignment 2)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Specify name of the "the class discussion forum designated by your instructor" for each milestone deliverable. (update Assignment 3)
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO For all assignment deadlines, also add the day of the week.
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Troubleshoot carriage returns in bibliography (missing between bib items when Jodi regenerates syllabus).
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Is it easy to list assignment deadlines inline with the readings?
+
+DEADLINE: &lt;2016-08-21 Mon&gt;
+
 Logistics
 ---------
 
