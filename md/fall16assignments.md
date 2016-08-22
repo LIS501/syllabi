@@ -20,10 +20,10 @@ The weighting of each assignment in the final grade is noted below.
  4. Pandoc encoding and transformation (LAB4DATE) 
  5. Cultural heritage object description (LAB5DATE)
  6. Zotero bibliography and formatting (LAB6DATE) 
- 7. Bibo/DC output from Zotero (LAB7DATE) 
+ 7. Generating Resource Description Framework (RDF) output from Zotero: Bibliographic Ontology (bibo) and Dublin Core (dc) (LAB7DATE)
  8. Collection stewardship exercise (LAB8DATE) 
- 9. Poster prep (LAB9DATE) 
- 10. Poster presentations (LAB10DATE) 
+ 9. In-class time to work on your research design proposal (LAB9DATE) 
+ 10. Presentations of research design proposals (LAB10DATE) 
 
 **Grading Scale:**
 
