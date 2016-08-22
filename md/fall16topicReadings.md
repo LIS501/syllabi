@@ -3,17 +3,14 @@
 ## Week 1, PRES1DATE: LIS Education and professional life
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bates, Marcia J. “The Invisible Substrate of Information Science.”
 *Journal of the American Society for Information Science* 50, no. 12
 (January 1, 1999): 1043–50.
-doi:10.1002/(SICI)1097-4571(1999)50:12&lt;1043::AID-ASI1&gt;3.0.CO;2-X.
+doi:10.1002/(SICI)1097-4571(1999)50:12\<1043::AID-ASI1\>3.0.CO;2-X.
 
 Buckland, Michael K. “What Is a ‘document’?” *Journal of the American
 Society for Information Science* 48, no. 9 (September 1, 1997): 804–9.
-doi:10.1002/(SICI)1097-4571(199709)48:9&lt;804::AID-ASI5&gt;3.0.CO;2-V.
+doi:10.1002/(SICI)1097-4571(199709)48:9\<804::AID-ASI5\>3.0.CO;2-V.
 
 Bush, Vannevar. “As We May Think.” *The Atlantic Monthly*, 1945.
 http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm.
@@ -31,12 +28,8 @@ http://dx.doi.org/10.1007/978-94-007-0120-5\_5.
 Lavoie, Brian, Lorcan Dempsey, and Lynn Silipigni Connaway. “Making Data
 Work Harder.” *Library Journal* 131, no. 1 (January 1, 2006): 40–42.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Glushko, Robert J. “Foundation for Organizing Systems.” In *The
 Discipline of Organizing*, 3rd ed., 33–96. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
@@ -50,15 +43,11 @@ Information Age*. Oxford: Oxford University Press, 2014.
 ———. “The Secret History of Hypertext — The Atlantic,” May 22, 2014.
 http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/.
 
-</div>
 
 
 ## Week 2, PRES2DATE: Users and information needs
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bawden, David, and Lyn Robinson. “The Dark Side of Information:
 Overload, Anxiety and Other Paradoxes and Pathologies.” *J. Inf. Sci.*
 35, no. 2 (April 2009): 180–91. doi:10.1177/0165551508095781.
@@ -73,16 +62,17 @@ in Information-Seeking Behaviors.” *Library & Information Science
 Research* 33, no. 3 (2011): 179–90.
 doi:http://dx.doi.org/10.1016/j.lisr.2010.12.002.
 
-</div>
+La Barre, Kathryn A., and Carol L. Tilley. “The Elusive Tale: Leveraging
+the Study of Information Seeking and Knowledge Organization to Improve
+Access to and Discovery of Folktales.” *Journal of the American Society
+for Information Science and Technology* 63, no. 4 (April 1, 2012):
+687–701. doi:10.1002/asi.21710.
+
+Rhee, Hea Lim. “Reflections on Archival User Studies.” *Reference & User
+Services Quarterly* 54, no. 4 (2015): 29–42.
+
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
-Bates, Marcia J. “Information Behavior.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, null:2381–91. null. Taylor &
-Francis, 2009.
-
 Connaway, Lynn Silipigni, and Ixchel M. Faniel. *Reordering Ranganathan:
 Shifting User Behaviors, Shifting Priorities*. Dublin, OH: OCLC
 Research, 2014.
@@ -112,6 +102,10 @@ Johnson, J. David. “Health-Related Information Seeking: Is It Worth It?”
 *Information Processing & Management* 50, no. 5 (September 2014):
 708–17.
 
+Marcia J. Bates. “Information Behavior.” In *Encyclopedia of Library and
+Information Sciences, Third Edition*, 2381–91. CRC Press, 2009.
+http://www.crcnetbase.com/doi/full/10.1081/E-ELIS3-120043263.
+
 Miksa, Francis. “Information Organization and the Mysterious Information
 User.” *Libraries & the Cultural Record* 44, no. 3 (2009): 343–70.
 
@@ -122,15 +116,11 @@ null:2452–58. null. Taylor & Francis, 2009.
 Wilson, Tom. “The Information User: Past, Present and Future.” *Journal
 of Information Science* 34, no. 4 (August 1, 2008): 457–64.
 
-</div>
 
 
 ## Week 3, PRES3DATE: Research Methods
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
 Chronicle of Higher Education*, August 17, 2016.
 http://chronicle.com/article/Does-This-Have-to-Go/237476/.
@@ -144,24 +134,20 @@ Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
 501–20. doi:10.1016/j.lisr.2006.08.009.
 
+Underwood, Ted. “The Real Problem with Distant Reading.” *The Stone and
+the Shell*, May 29, 2016.
+https://tedunderwood.com/2016/05/29/the-real-problem-with-distant-reading/.
+
 Whitmire, Ethelene. “Racial Differences in the Academic Library
 Experiences of Undergraduates.” *The Journal of Academic Librarianship*
 25, no. 1 (January 1, 1999): 33–37. doi:10.1016/S0099-1333(99)80173-6.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
 for Librarians*. Vol. 5th ed. Library and Information Science Text
 Series. Santa Barbara, Calif: ABC-CLIO, 2010.
 http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
-
-———. “Selecting the Research Method.” In *Basic Research Methods for
-Librarians*, 71–106. Library and Information Science Text Series. Santa
-Barbara, Calif: Libraries Unlimited, 2010.
 
 Fidel, Raya. “Are We There yet?: Mixed Methods Research in Library and
 Information Science.” *Library & Information Science Research* 30, no. 4
@@ -173,7 +159,7 @@ Anthropological Methods in Library and Information Science Research.”
 (1995): 161–99. http://www.jstor.org/stable/4309020.
 
 Sutton, Brett. “Qualitative Research Methods in Library and Information
-Science \[ELIS Classic\].” In *Encyclopedia of Library and Information
+Science [ELIS Classic].” In *Encyclopedia of Library and Information
 Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
 http://dx.doi.org/10.1081/E-ELIS3-120044785.
 
@@ -181,18 +167,14 @@ Walliman, Nicholas. “Defining the Research Problem.” In *Social Research
 Methods*, 67–74. London: SAGE Publications, Ltd, 2006.
 http://methods.sagepub.com/book/social-research-methods.
 
-</div>
 
 
 ## Week 4, PRES4DATE: Structures and Standards
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Coombs, James H., Allen H. Renear, and Steven J. DeRose. “Markup Systems
-and the Future of Scholarly Text Processing.” *Commun. ACM* 30, no. 11
-(November 1987): 933–47. doi:10.1145/32206.32209.
+and the Future of Scholarly Text Processing.” *Communications of the
+ACM* 30, no. 11 (November 1987): 933–47. doi:10.1145/32206.32209.
 
 DeRose, Steven J. “What Do We Still Lack? Or: Prolegomena to Any Future
 Hypertext System.” In *Proceedings of the Symposium on HTML5 and XML*,
@@ -204,12 +186,8 @@ Sciences: In Pursuit of Objectivity rather than Truth.” *Systematics and
 Biodiversity* 11, no. 3 (September 1, 2013): 257–70.
 doi:10.1080/14772000.2013.818588.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bettels, Jürgen, and F. Avery Bishop. “Unicode: A Universal Character
 Code.” *Digital Tech. J.* 5, no. 3 (June 1993): 21–31.
 http://www.hpl.hp.com/hpjournal/dtj/vol5num3/vol5num3art2.pdf.
@@ -218,15 +196,11 @@ Glushko, Robert J. “Describing Relationships and Structures.” In *The
 Discipline of Organizing*, 3rd ed., 295–344. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
-</div>
 
 
 ## Week 5, PRES5DATE: Approaches to organizing information
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Kennedy, M.R. “Nine Questions to Guide You in Choosing a Metadata
 Schema.” *Journal of Digital Information* 9, no. 1 (2008).
 http://journals.tdl.org/jodi/article/view/226/205.
@@ -243,29 +217,25 @@ Culture.” *Scientific American*, 2012.
 http://blogs.scientificamerican.com/information-
 culture/2012/12/17/what-is-metadata-a-christmas-themed-exploration/.
 
+Tillett, Dr Barbara. “What Is FRBR? A Conceptual Model for the
+Bibliographic Universe.” *The Australian Library Journal* 54, no. 1
+(February 1, 2005): 24–30. doi:10.1080/00049670.2005.10721710.
+
 Warren, John. “(2015) Zen and the Art of Metadata Maintenance.” *Journal
 of Electronic Publishing* 18, no. 3 (2015).
 http://dx.doi.org/10.3998/3336451.0018.305.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Glushko, Robert J. “Resources in Organizing Systems.” In *The Discipline
 of Organizing*, 3rd ed., 169–230. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
-</div>
 
 
 ## Week 6, PRES6DATE: Collections
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Hadro, J. “What’s the Problem with Self-Publishing?” *Library Journa*
 138, no. 7 (2013): 34–36.
 http://lj.libraryjournal.com/2013/04/publishing/whats-the-
@@ -283,12 +253,8 @@ Library Collecting.” *College & Research Libraries* 14, no. 2 (2013):
 Congress, 2013.
 http://www.loc.gov/today/pr/2013/files/twitter\_report\_2013jan.pdf.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Glushko, Robert J. “Activities in Organizing Systems.” In *The
 Discipline of Organizing*, 3rd ed., 97–168. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
@@ -298,15 +264,15 @@ Blogs. *Digital Scholarship Collaborative Sandbox*, November 11–14,
 2014.
 http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collection-and-accessibility.
 
-</div>
+Lee, Hur-Li. “What Is a Collection?” *Journal of the American Society
+for Information Science* 51, no. 12 (2000): 1106–13.
+http://onlinelibrary.wiley.com/doi/10.1002/1097-4571(2000)9999:9999%3C::AID-ASI1018%3E3.0.CO;2-T/full.
+
 
 
 ## Week 7, PRES7DATE: Preservation
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Shilton, Katie, and Ramesh Srinivasan. “Participatory Appraisal and
 Arrangement for Multicultural Archival Collections.” *Archivaria* 63
 (2007): 87.
@@ -316,25 +282,17 @@ Teper, Jennifer Hain. “Selection for Preservation.” *Library Resources &
 Technical Services* 58, no. 4 (October 2014): 220–32.
 http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=99263271&site=ehost-live.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Glushko, Robert J. “The Organizing System: Roadmap.” In *The Discipline
 of Organizing*, 3rd ed., 543–70. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
-</div>
 
 
 ## Week 8, PRES8DATE: Search and discovery
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Adkins, Denice, and Jenny E. Bossaller. “Fiction Access Points across
 Computer-Mediated Book Information Sources: A Comparison of Online
 Bookstores, Reader Advisory Databases, and Public Library Catalogs.”
@@ -350,20 +308,30 @@ Information Environments.” In *Innovations in Information Retrieval:
 Perspectives for Theory and Practice London*. London: Facet Publishing,
 2011. https://reserves.library.illinois.edu/.
 
+Behnert, Christiane, and Dirk Lewandowski. “Ranking Search Results in
+Library Information Systems — Considering Ranking Approaches Adapted
+From Web Search Engines.” *The Journal of Academic Librarianship* 41,
+no. 6 (November 2015): 725–35. doi:10.1016/j.acalib.2015.07.010.
+
+Liu, Yan Quan, and Sarah Briggs. “A Library in the Palm of Your Hand:
+Mobile Services in Top 100 University Libraries.” *Information
+Technology and Libraries (Online)* 34, no. 2 (June 2015): 133–48.
+http://search.proquest.com/docview/1691586122/abstract/E2DA6917D1EC48ECPQ/1.
+
 Saarinen, Katariina, and Pertti Vakkari. “A Sign of a Good Book:
 Readers’ Methods of Accessing Fiction in the Public Library.” *Journal
 of Documentation* 69, no. 5 (September 2, 2013): 736–54.
 doi:10.1108/JD-04-2012-0041.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bates, Marcia J. “What Is Browsing—really? A Model Drawing from
 Behavioural Science Research.” *Information Research* 12, no. 4 (October
 2007). http://www.informationr.net/ir/12-4/paper330.html.
+
+Breeding, Marshall. “Serendipity: The Virtual-Library Experience.”
+*Computers in Libraries* 35, no. 9 (November 1, 2015): 9–11.
+http://librarytechnology.org/repository/item.pl?id=21506.
 
 Duffy, Eamon P. “Searching HathiTrust: Old Concepts in a New Context.”
 *Partnership: The Canadian Journal of Library and Information Practice
@@ -379,30 +347,30 @@ Hearst, Marti A. “The Evaluation of Search User Interfaces.” In *Search
 User Interfaces*. Cambridge: Cambridge University Press, 2009.
 http://searchuserinterfaces.com/book/sui\_ch2\_evaluation.html.
 
-</div>
+Maloney, Alan, and Lettie Y. Conrad. “Expecting the Unexpected:
+Serendipity, Discovery, and the Scholarly Research Process.” SAGE White
+Paper. SAGE Publishing, 2016.
+
 
 
 ## Week 9, PRES9DATE: Evaluation of systems and services
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Asher, Andrew D, Lynda M Duke, and Suzanne Wilson. “Paths of Discovery:
 Comparing the Search Effectiveness of EBSCO Discovery Service, Summon,
 Google Scholar, and Conventional Library Resources.” *College & Research
 Libraries* 74, no. 5 (2013): 464–88. doi:10.5860/crl-374.
 
+Gross, Melissa. “The Imposed Query: Implications for Library Service
+Evaluation.” *Reference & User Services Quarterly* 37, no. 3 (1998):
+290–99. http://www.jstor.org/stable/20863331.
+
 Nitecki, Danuta A. “Changing the Concept and Measure of Service Quality
 in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
 3 (January 1, 1996): 181–90. doi:10.1016/S0099-1333(96)90056-7.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Fuhr, Norbert, Giannis Tsakonas, Trond Aalberg, Maristella Agosti,
 Preben Hansen, Sarantos Kapidakis, Claus-Peter Klas, et al. “Evaluation
 of Digital Libraries.” *International Journal on Digital Libraries* 8,
@@ -414,15 +382,13 @@ by Carol Peters, Martin Braschler, Julio Gonzalo, and Michael Kluck,
 2406:355–70. Lecture Notes in Computer Science. Springer Berlin
 Heidelberg, 2002. http://dx.doi.org/10.1007/3-540-45691-0\_34.
 
-</div>
+“Weave: Journal of Library User Experience,” n.d. http://weaveux.org/.
+
 
 
 ## Week 10, PRES10DATE: Subject analysis and subject languages
 
 ### Required Readings 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Brown-Sica, Margaret, and Jeffrey Beall. “Library 2.0 and the Problem of
 Hate Speech.” *Electronic Journal of Academic and Special Librarianship*
 9, no. 2 (2008).
@@ -446,12 +412,8 @@ The Canadian Journal of Library and Information Practice and Research*
 6, no. 1 (July 3, 2011).
 https://journal.lib.uoguelph.ca/index.php/perj/article/view/1427.
 
-</div>
 
 ### Further Background 
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Anderson, James Doig, and José Pérez-Carballo. “Library of Congress
 Subject Headings (LCSH).” In *Encyclopedia of Library and Information
 Sciences, Third Edition*, 3392–3405. Taylor & Francis, 2009.
@@ -476,5 +438,4 @@ Mitchell, Joan S., and Diane Vizine-Goetz. “Dewey Decimal Classification
 Edition*, 1507–17. Taylor & Francis, 2009.
 http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043240.
 
-</div>
 

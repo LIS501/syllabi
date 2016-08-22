@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bawden, David, and Lyn Robinson. “The Dark Side of Information:
 Overload, Anxiety and Other Paradoxes and Pathologies.” *J. Inf. Sci.*
 35, no. 2 (April 2009): 180–91. doi:10.1177/0165551508095781.
@@ -15,4 +12,12 @@ in Information-Seeking Behaviors.” *Library & Information Science
 Research* 33, no. 3 (2011): 179–90.
 doi:http://dx.doi.org/10.1016/j.lisr.2010.12.002.
 
-</div>
+La Barre, Kathryn A., and Carol L. Tilley. “The Elusive Tale: Leveraging
+the Study of Information Seeking and Knowledge Organization to Improve
+Access to and Discovery of Folktales.” *Journal of the American Society
+for Information Science and Technology* 63, no. 4 (April 1, 2012):
+687–701. doi:10.1002/asi.21710.
+
+Rhee, Hea Lim. “Reflections on Archival User Studies.” *Reference & User
+Services Quarterly* 54, no. 4 (2015): 29–42.
+

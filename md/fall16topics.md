@@ -7,13 +7,13 @@ Week 1, PRES1DATE: LIS Education and professional life
 
 Week 2, PRES2DATE: Users and information needs
 
-- Background: [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@johnson_health-related_2014], [@connaway_reordering_2014], [@bates_information_2009], [@connaway_selecting_2010].
-- Required: [@connaway_if_2011], [@blair_reading_2003], [@bawden_dark_2009].
+- Background: [@marcia_j._bates_information_2009], [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@johnson_health-related_2014], [@connaway_reordering_2014], [@connaway_selecting_2010].
+- Required: [@rhee_reflections_2015], [@la_barre_elusive_2012], [@connaway_if_2011], [@blair_reading_2003], [@bawden_dark_2009].
 
 Week 3, PRES3DATE: Research Methods
 
-- Background: [@connaway_basic_2010], [@walliman_defining_2006], [@fidel_are_2008], [@sutton_qualitative_2009], [@sandstrom_use_1995], [@connaway_selecting_2010].
-- Required: [@aufderheide_does_2016], [@shachaf_are_2006], [@whitmire_racial_1999], [@connaway_selecting_2010].
+- Background: [@connaway_basic_2010], [@walliman_defining_2006], [@fidel_are_2008], [@sutton_qualitative_2009], [@sandstrom_use_1995].
+- Required: [@underwood_real_2016], [@aufderheide_does_2016], [@shachaf_are_2006], [@whitmire_racial_1999], [@connaway_selecting_2010].
 
 Week 4, PRES4DATE: Structures and Standards
 
@@ -23,11 +23,11 @@ Week 4, PRES4DATE: Structures and Standards
 Week 5, PRES5DATE: Approaches to organizing information
 
 - Background: [@glushko_resources_2015].
-- Required: [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_what_2012], [@olson_power_2001].
+- Required: [@tillett_what_2005], [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_what_2012], [@olson_power_2001].
 
 Week 6, PRES6DATE: Collections
 
-- Background: [@junus_digital_2014], [@glushko_activities_2015].
+- Background: [@lee_what_2000], [@junus_digital_2014], [@glushko_activities_2015].
 - Required: [@hadro_whats_2013], [@_update_2013], [@hunter_two_1981], [@lewis_stacks_2013].
 
 Week 7, PRES7DATE: Preservation
@@ -37,13 +37,13 @@ Week 7, PRES7DATE: Preservation
 
 Week 8, PRES8DATE: Search and discovery
 
-- Background: [@gossen_specifics_2013], [@hearst_evaluation_2009], [@duffy_searching_2013], [@bates_what_2007].
-- Required: [@saarinen_sign_2013], [@bawden_encountering_2011], [@barton_old_2012], [@adkins_fiction_2007].
+- Background: [@maloney_expecting_2016], [@breeding_serendipity:_2015], [@gossen_specifics_2013], [@hearst_evaluation_2009], [@duffy_searching_2013], [@bates_what_2007].
+- Required: [@liu_library_2015], [@behnert_ranking_2015], [@saarinen_sign_2013], [@bawden_encountering_2011], [@barton_old_2012], [@adkins_fiction_2007].
 
 Week 9, PRES9DATE: Evaluation of systems and services
 
-- Background: [@fuhr_evaluation_2007], [@peters_philosophy_2002].
-- Required: [@nitecki_changing_1996], [@asher_paths_2013].
+- Background: [@_weave:_????], [@fuhr_evaluation_2007], [@peters_philosophy_2002].
+- Required: [@gross_imposed_1998], [@nitecki_changing_1996], [@asher_paths_2013].
 
 Week 10, PRES10DATE: Subject analysis and subject languages
 

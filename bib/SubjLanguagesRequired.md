@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Brown-Sica, Margaret, and Jeffrey Beall. “Library 2.0 and the Problem of
 Hate Speech.” *Electronic Journal of Academic and Special Librarianship*
 9, no. 2 (2008).
@@ -24,4 +21,3 @@ The Canadian Journal of Library and Information Practice and Research*
 6, no. 1 (July 3, 2011).
 https://journal.lib.uoguelph.ca/index.php/perj/article/view/1427.
 
-</div>

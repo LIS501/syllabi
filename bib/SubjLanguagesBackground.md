@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Anderson, James Doig, and José Pérez-Carballo. “Library of Congress
 Subject Headings (LCSH).” In *Encyclopedia of Library and Information
 Sciences, Third Edition*, 3392–3405. Taylor & Francis, 2009.
@@ -25,4 +22,3 @@ Mitchell, Joan S., and Diane Vizine-Goetz. “Dewey Decimal Classification
 Edition*, 1507–17. Taylor & Francis, 2009.
 http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043240.
 
-</div>
