@@ -1,5 +1,6 @@
 # Assignment 3: Research Design Proposal  {#Asgt3 .task}
-
+Materials due LAB3DATE, LAB5DATE, LAB7DATE, and LAB10DATE (?? points)
+ 
 ## Rationale {.context}
 
 This aim of this assignment is to acquaint you with the rudiments of research design, and
