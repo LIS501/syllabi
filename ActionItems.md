@@ -76,7 +76,7 @@ DEADLINE: &lt;2016-08-17 Wed&gt;
 
 DEADLINE: &lt;2016-08-17 Wed&gt;
 
-### TODO Determine whether we are using e-reserves. If so, restore "through the UIUC Library's electronic reserves system (<https://reserves.library.illinois.edu/ares/>)" to md/CourseMaterials.md
+### DONE Determine whether we are using e-reserves. If so, restore "through the UIUC Library's electronic reserves system (<https://reserves.library.illinois.edu/ares/>)" to md/CourseMaterials.md
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
@@ -116,13 +116,17 @@ DEADLINE: &lt;2016-08-21 Mon&gt;
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Troubleshoot carriage returns in bibliography (missing between bib items when Jodi regenerates syllabus).
+### DONE Troubleshoot carriage returns in bibliography (missing between bib items when Jodi regenerates syllabus).
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
 ### TODO Is it easy to list assignment deadlines inline with the readings?
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
+
+### TODO Mention iSchool writing resources (not just campus-wide ones) in md/HelpfulResources.md.
+
+DEADLINE: &lt;2016-08-22 Tue&gt;
 
 Logistics
 ---------
