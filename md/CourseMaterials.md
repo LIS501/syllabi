@@ -1,8 +1,5 @@
 # Course Materials
-There is no required textbook for this course; required articles and book chapters are available electronically,
-through the UIUC Library's electronic reserves system (<https://reserves.library.illinois.edu/ares/>), the 
-UIUC Library's e-journals search tool (<http://openurl.library.uiuc.edu/sfxlcl3/az>), or the open Web (as indicated).   
-
+There is no required textbook for this course; required readings are available electronically through the university library or the open Web (as indicated).   
 
 The textbook *The Discipline of Organizing* by Robert J. Glushko is recommended for those new to the field.
 It provides a discussion of many of the concepts we will discuss in class, and can be accessed online at
