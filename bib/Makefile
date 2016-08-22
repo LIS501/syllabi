@@ -86,3 +86,8 @@ UseUsers:
 LIS501: 
 	cat *.bib > LIS501.bibtex
 	curl 'https://api.zotero.org/groups/344216/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o LIS501.md
+
+Test: 
+	curl 'https://api.zotero.org/groups/344216/collections/3QGWRGMI/items/top?format=bib&v=1'|python filter1.py > test1.html
+	cat test1.html|pandoc -f html -o test1.md
+

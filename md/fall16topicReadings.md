@@ -2,7 +2,7 @@
 
 ## Week 1, PRES1DATE: LIS Education and professional life
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -33,7 +33,7 @@ Work Harder.” *Library Journal* 131, no. 1 (January 1, 2006): 40–42.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -55,7 +55,7 @@ http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-mem
 
 ## Week 2, PRES2DATE: Users and information needs
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -75,7 +75,7 @@ doi:http://dx.doi.org/10.1016/j.lisr.2010.12.002.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -127,7 +127,7 @@ of Information Science* 34, no. 4 (August 1, 2008): 457–64.
 
 ## Week 3, PRES3DATE: Research Methods
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -150,7 +150,7 @@ Experiences of Undergraduates.” *The Journal of Academic Librarianship*
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -186,7 +186,7 @@ http://methods.sagepub.com/book/social-research-methods.
 
 ## Week 4, PRES4DATE: Structures and Standards
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -206,7 +206,7 @@ doi:10.1080/14772000.2013.818588.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -223,7 +223,7 @@ http://disciplineoforganizing.org/.
 
 ## Week 5, PRES5DATE: Approaches to organizing information
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -249,7 +249,7 @@ http://dx.doi.org/10.3998/3336451.0018.305.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -262,7 +262,7 @@ http://disciplineoforganizing.org/.
 
 ## Week 6, PRES6DATE: Collections
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -285,7 +285,7 @@ http://www.loc.gov/today/pr/2013/files/twitter\_report\_2013jan.pdf.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -303,7 +303,7 @@ http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collection-and-access
 
 ## Week 7, PRES7DATE: Preservation
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -318,7 +318,7 @@ http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=99263271&site=ehost
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -331,7 +331,7 @@ http://disciplineoforganizing.org/.
 
 ## Week 8, PRES8DATE: Search and discovery
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -357,7 +357,7 @@ doi:10.1108/JD-04-2012-0041.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -384,7 +384,7 @@ http://searchuserinterfaces.com/book/sui\_ch2\_evaluation.html.
 
 ## Week 9, PRES9DATE: Evaluation of systems and services
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -399,7 +399,7 @@ in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -419,7 +419,7 @@ Heidelberg, 2002. http://dx.doi.org/10.1007/3-540-45691-0\_34.
 
 ## Week 10, PRES10DATE: Subject analysis and subject languages
 
-### Readings 
+### Required Readings 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
@@ -448,7 +448,7 @@ https://journal.lib.uoguelph.ca/index.php/perj/article/view/1427.
 
 </div>
 
-### Background 
+### Further Background 
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
