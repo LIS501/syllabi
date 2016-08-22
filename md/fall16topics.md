@@ -13,7 +13,7 @@ Week 2, PRES2DATE: Users and information needs
 Week 3, PRES3DATE: Research Methods
 
 - Background: [@connaway_basic_2010], [@walliman_defining_2006], [@fidel_are_2008], [@sutton_qualitative_2009], [@sandstrom_use_1995], [@connaway_selecting_2010].
-- Required: [@aufderheide_does_2016], [@shachaf_are_2006], [@whitmire_racial_1999].
+- Required: [@aufderheide_does_2016], [@shachaf_are_2006], [@whitmire_racial_1999], [@connaway_selecting_2010].
 
 Week 4, PRES4DATE: Structures and Standards
 
