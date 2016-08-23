@@ -73,7 +73,7 @@ work in this class. This is part of your education because:
        explanation of what form the results of the investigation will
        take.
 
-2. ** Due LAB10DATE Annotated bibliography of 20 items**
+2. **Due LAB10DATE Annotated bibliography of 20 items**
      - Following the Purdue Writing Lab Guidelines, create a document
        that integrates annotations with formatted entries. For each
        resource, write an annotation that situates the work presented
