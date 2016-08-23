@@ -42,7 +42,7 @@ Week 8, PRES8DATE: Search and discovery
 
 Week 9, PRES9DATE: Evaluation of systems and services
 
-- Background: [@_weave:_????], [@fuhr_evaluation_2007], [@peters_philosophy_2002].
+- Background: [@_weave:_2014], [@fuhr_evaluation_2007], [@peters_philosophy_2002].
 - Required: [@gross_imposed_1998], [@nitecki_changing_1996], [@asher_paths_2013].
 
 Week 10, PRES10DATE: Subject analysis and subject languages
