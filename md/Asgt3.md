@@ -37,12 +37,12 @@ work in this class. This is part of your education because:
 
 ## Milestone Deliverables {.steps}
 
-1. **Research Question due LAB3DATE**, to be posted to the class discussion forum designated by your instructor
+1. **Research Question due LAB3DATE**, to be posted to the *Assignment 3A: Research Question* forum
      - Pose a research question. Your post should be a sentence or two
        (no more than a paragraph). Also provide feedback and
        suggestions to your classmates by replying to their posts.
 
-2. **Research Methods due LAB5DATE**, to be posted to the class discussion forum designated by your instructor
+2. **Research Methods due LAB5DATE**, to be posted to the *Assignment 3B: Research Methods* forum
      - Devise methods for addressing your research question and write
        a one paragraph description of an approach that you feel would
        be appropriate for investigating the question. Draw on and
@@ -52,7 +52,7 @@ work in this class. This is part of your education because:
        provide feedback and suggestions to your classmates by replying
        to their posts.
 
-3. **Resource List due LAB7DATE**, to the class discussion forum designated by your instructor
+3. **Resource List due LAB7DATE**, to the *Assignment 3C: Resource List* forum
      - Use Zotero to share 20 resources related to your research
        question and/or method. Your post should include a link to
        Zotero's RSS feed for the collection and 1-2 sentences. This
