@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 American Library Assocation. “Knowledge and Competencies Statements
 Developed by Relevant Professional Organizations.” Text. *Education &
 Careers*, August 3–3, 2006.
@@ -21,7 +18,6 @@ http://miriamsweeney.net/2012/06/20/readforgradschool/.
 
 Taylor, Arlene, and Daniel N. Joudrey. “Organization of Recorded
 Information.” In *The Organization of Information*, 3rd ed., 1–38.
-Westport, Conn: Libraries Unlimited, 2009. \[Locate full text from
-http://vufind.carli.illinois.edu/vf-uiu/\].
+Westport, Conn: Libraries Unlimited, 2009. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
-</div>
