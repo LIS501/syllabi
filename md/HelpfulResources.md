@@ -4,4 +4,5 @@
 | Phone: (217) 333-3804
 
 # Writing Resources
-The Writers Workshop provides free consultations. For more information see <http://www.cws.illinois.edu/workshop/>
+The campus-wide Writers Workshop provides free consultations. For more information see <http://www.cws.illinois.edu/workshop/>
+The iSchool has a Writing Resources Moodle site <https://courses.ischool.illinois.edu/course/view.php?id=1705> and iSchool writing coaches also offer free consultations.
