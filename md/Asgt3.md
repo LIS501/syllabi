@@ -43,14 +43,7 @@ work in this class. This is part of your education because:
        suggestions to your classmates by replying to their posts.
 
 2. **Research Methods due LAB5DATE**, to be posted to the *Assignment 3B: Research Methods* forum
-     - Devise methods for addressing your research question and write
-       a one paragraph description of an approach that you feel would
-       be appropriate for investigating the question. Draw on and
-       connect this to research methods discussed in class. Post no
-       more than two paragraphs (research question paragraph, revised
-       from LABDATE3 + new paragraph on research methods). Also
-       provide feedback and suggestions to your classmates by replying
-       to their posts.
+     - Post no more than two paragraphs (the first paragraph is revised from Assignment 3A; the second paragraph is on research methods). In the new paragraph, devise methods for addressing your research question and write a one paragraph description of an approach that you feel would be appropriate for investigating the question. Draw on and connect this to research methods discussed in class. Also provide feedback and suggestions to your classmates by replying to their posts.
 
 3. **Resource List due LAB7DATE**, to the *Assignment 3C: Resource List* forum
      - Use Zotero to share 20 resources related to your research
