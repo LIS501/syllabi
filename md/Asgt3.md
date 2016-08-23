@@ -64,23 +64,38 @@ work in this class. This is part of your education because:
 ## Final Deliverables  {.result}
 
 1. Due LAB10DATE Two page extended abstract
-:  Develop the two paragraph summary of your research question into a two page extended abstract. Focus on describing
-    and justifying the methods for investigating your research question. The extended abstract is a proposal. It should include a statement of
-   your research problem, a description of research methods for
-   investigating the problem, and an explanation of what form the results
-   of the investigation will take. 
+     - Develop the two paragraph summary of your research question
+       into a two page extended abstract. Focus on describing and
+       justifying the methods for investigating your research
+       question. The extended abstract is a proposal. It should
+       include a statement of your research problem, a description of
+       research methods for investigating the problem, and an
+       explanation of what form the results of the investigation will
+       take.
 
 2. Due LAB10DATE Annotated bibliography of 20 items
-: Following the Purdue Writing Lab Guidelines, create a document that integrates annotations with
-    formatted entries. For each resource, write an annotation that situates the work presented with respect to your research question. Overall, the annotated bibliography should connect your problem to what is already known. It should have a meaningful order (which might be alphabetical, chronological, or something else). The resource list previously submitted may need to be modified, either removing or adding items as necessary to cover as many aspects of the problem, and the knowledge gap, as feasible. Your annotations should draw your reader's attention to the connections between the resource and your problem, and to other resources in the bibliography. 
+     - Following the Purdue Writing Lab Guidelines, create a document
+       that integrates annotations with formatted entries. For each
+       resource, write an annotation that situates the work presented
+       with respect to your research question. Overall, the annotated
+       bibliography should connect your problem to what is already
+       known. It should have a meaningful order (which might be
+       alphabetical, chronological, or something else). The resource
+       list previously submitted may need to be modified, either
+       removing or adding items as necessary to cover as many aspects
+       of the problem, and the knowledge gap, as feasible. Your
+       annotations should draw your reader's attention to the
+       connections between the resource and your problem, and to other
+       resources in the bibliography.
 
 3. Due LAB10DATE Five minute oral presentation
-: Use this presentation to efficiently summarize
-  the relevance of this problem to people and
-  organizations who have a stake in resolving the
-  knowledge gap that you have identified. Do explain
-  the general approach to investigating the question, but
-  save methodological details for the extended abstract. Five minute summaries are difficult, so practice your presentation with a classmate or colleague outside class. 
+     - Use this presentation to efficiently summarize the relevance of
+       this problem to people and organizations who have a stake in
+       resolving the knowledge gap that you have identified. Do
+       explain the general approach to investigating the question, but
+       save methodological details for the extended abstract. Five
+       minute summaries are difficult, so practice your presentation
+       with a classmate or colleague outside class.
 
 ### Submitting Final Deliverables{.postreq}
 
