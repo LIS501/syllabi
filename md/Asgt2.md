@@ -48,7 +48,7 @@ and citations are formatted at the markdown source level
 (by hand, via Zotero, etc.).
 
 ## Submitting {.postreq}
-Upload the essay to the Moodle section designated for this assignment. 
+Upload the essay to the Moodle drop box designated for this assignment.
 			
 ## Resources {.section}
 
