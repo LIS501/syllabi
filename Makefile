@@ -22,5 +22,5 @@ Readings : SecAFall16.m4 CalendarReadings.m4
 	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="SecAFall16.m4" CalendarReadings.m4|pandoc -s -c https://www.w3.org/StyleSheets/Core/Swiss -o LIS501Readings.html
 
 
-
-
+AllThree : SecAFall16.docx SecBFall16.docx SecCFall16.docx
+	echo "Done"

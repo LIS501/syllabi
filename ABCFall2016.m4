@@ -1,10 +1,11 @@
 changecom(<!--,-->)dnl
+define(UPDATEDSTRING, )dnl
 include(MYDEFS)dnl
 include(FORMATDEFS)dnl
 ---
 title: Information Organization and Access
 author: University of Illinois School of Information Sciences
-date: syscmd(sh -c "date | tr -d '\n'")
+date: Last updated syscmd(sh -c "date | tr -d '\n'")
 link-citations: CITELINK
 csl: chicago-author-date.csl
 ---

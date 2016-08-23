@@ -508,7 +508,7 @@ by Carol Peters, Martin Braschler, Julio Gonzalo, and Michael Kluck,
 Heidelberg, 2002. \[Locate full text from
 http://vufind.carli.illinois.edu/vf-uiu/\].
 
-“Weave: Journal of Library User Experience,” 2014–2016.
+“Weave: Journal of Library User Experience.” Accessed August 22, 2016.
 http://weaveux.org/.
 
 </div>
