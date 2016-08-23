@@ -63,10 +63,8 @@ work in this class. This is part of your education because:
 
 ## Final Deliverables  {.result}
 
-<<<<<<< HEAD
-1. **Due LAB10DATE Two page extended abstract**
-=======
-1. Due LAB10DATE Two page extended abstract, to the Moodle drop box *Assignment 3 abstract & bibliography* 
+
+1. **Due LAB10DATE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
 >>>>>>> 031e28a024aa989ae69b218cf7b4230f706c2dfb
      - Develop the two paragraph summary of your research question
        into a two page extended abstract. Focus on describing and
@@ -77,7 +75,7 @@ work in this class. This is part of your education because:
        explanation of what form the results of the investigation will
        take.
 
-2. **Due LAB10DATE Annotated bibliography of 20 items**
+2. **Due LAB10DATE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Following the Purdue Writing Lab Guidelines, create a document
        that integrates annotations with formatted entries. For each
        resource, write an annotation that situates the work presented
