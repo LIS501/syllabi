@@ -16,7 +16,7 @@ DEADLINE: &lt;2016-08-08 Mon&gt;
 
 DEADLINE: &lt;2016-08-08 Mon&gt;
 
-### TODO Finalize third assignment description
+### DONE Finalize third assignment description
 
 DEADLINE: &lt;2016-08-12 Fri&gt;
 
@@ -60,7 +60,7 @@ CLOSED: \[2016-08-13 Sat 21:13\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
 CLOSED: \[2016-08-13 Sat 21:14\] DEADLINE: &lt;2016-08-13 Sat&gt;
 
-### TODO Choose actual due dates for major assignments, and set macro replacements
+### DONE Choose actual due dates for major assignments, and set macro replacements
 
 DEADLINE: &lt;2016-08-20 Sat&gt;
 
@@ -80,11 +80,11 @@ DEADLINE: &lt;2016-08-17 Wed&gt;
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Update office hours (Jodi, Maria, Christine)
+### DONE Update office hours (Jodi, Maria, Christine)
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Add office & phone for Christine
+### CLOSED Add office & phone for Christine
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
@@ -104,11 +104,11 @@ DEADLINE: &lt;2016-08-21 Mon&gt;
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Specify name of the "the Moodle section designated for this assignment" (update Assignment 2)
+### DONE Specify name of the "the Moodle section designated for this assignment" (update Assignment 2)
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Specify name of the "the class discussion forum designated by your instructor" for each milestone deliverable. (update Assignment 3)
+### DONE Specify name of the "the class discussion forum designated by your instructor" for each milestone deliverable. (update Assignment 3)
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
@@ -124,7 +124,7 @@ DEADLINE: &lt;2016-08-21 Mon&gt;
 
 DEADLINE: &lt;2016-08-21 Mon&gt;
 
-### TODO Mention iSchool writing resources (not just campus-wide ones) in md/HelpfulResources.md.
+### DONE Mention iSchool writing resources (not just campus-wide ones) in md/HelpfulResources.md.
 
 DEADLINE: &lt;2016-08-22 Tue&gt;
 
@@ -142,7 +142,7 @@ DEADLINE: &lt;2016-08-12 Fri&gt;
 Presentations
 -------------
 
-### TODO Week 1 slides update
+### DONE Week 1 slides update
 
 DEADLINE: &lt;2016-08-17 Wed&gt;
 
