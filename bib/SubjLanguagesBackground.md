@@ -1,24 +1,34 @@
 Anderson, James Doig, and José Pérez-Carballo. “Library of Congress
-Subject Headings (LCSH).” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, 3392–3405. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043717.
+Subject Headings (LCSH).” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
-Beghtol, Clare. “Classification Theory.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, 1045–60. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043230.
+Bates, Jo, and Jennifer Rowley. “Social Reproduction and Exclusion in
+Subject Indexing: A Comparison of Public Library OPACs and LibraryThing
+Folksonomy.” *Journal of Documentation* 67, no. 3 (2011): 431–48.
+[Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
+
+Beghtol, Clare. “Classification Theory.” *Encyclopedia of Library and
+Information Sciences*. CRC Press, December 9, 2009. [Locate full text
+from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Chan, Lois Mai, and Theodora L. Hodges. “Library of Congress
-Classification (LCC).” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, 3383–91. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043714.
+Classification (LCC).” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Kreyche, Michael. “Subject Headings in Spanish: The Lcsh-Es. Org
 Bilingual Database.” *Cataloging & Classification Quarterly* 51, no. 4
 (2013): 389–403.
-http://www.tandfonline.com/doi/abs/10.1080/01639374.2012.740610.
 
 Mitchell, Joan S., and Diane Vizine-Goetz. “Dewey Decimal Classification
-(DDC).” In *Encyclopedia of Library and Information Sciences, Third
-Edition*, 1507–17. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043240.
+(DDC).” *Encyclopedia of Library and Information Sciences*. CRC Press,
+December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
+
+Weinberg, Bella Hass. “Indexing: History and Theory.” *Encyclopedia of
+Library and Information Sciences*. CRC Press, December 9, 2009. [Locate
+full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 

@@ -18,5 +18,6 @@ http://miriamsweeney.net/2012/06/20/readforgradschool/.
 
 Taylor, Arlene, and Daniel N. Joudrey. “Organization of Recorded
 Information.” In *The Organization of Information*, 3rd ed., 1–38.
-Westport, Conn: Libraries Unlimited, 2009.
+Westport, Conn: Libraries Unlimited, 2009. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 

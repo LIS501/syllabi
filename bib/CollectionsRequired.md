@@ -1,11 +1,11 @@
 Hadro, J. “What’s the Problem with Self-Publishing?” *Library Journa*
-138, no. 7 (2013): 34–36.
-http://lj.libraryjournal.com/2013/04/publishing/whats-the-
-problem-with-self-publishing/.
+138, no. 7 (2013): 34–36. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Hunter, N. C., Legg, and J.B. Oehlerts. “Two Librarians, an Archivist,
 and 13,000 Images: Collaborating to Build a Digital Collection.”
-*Library Quarterly* 80, no. 1 (1981): 81–103. doi:10.1086/648464.
+*Library Quarterly* 80, no. 1 (1981): 81–103. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Lewis, D. W. “From Stacks to the Web: The Transformation of Academic
 Library Collecting.” *College & Research Libraries* 14, no. 2 (2013):

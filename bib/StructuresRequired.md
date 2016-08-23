@@ -9,6 +9,6 @@ Technologies, Inc., 2014. doi:10.4242/BalisageVol14.DeRose01.
 
 Vogt, Lars. “eScience and the Need for Data Standards in the Life
 Sciences: In Pursuit of Objectivity rather than Truth.” *Systematics and
-Biodiversity* 11, no. 3 (September 1, 2013): 257–70.
-doi:10.1080/14772000.2013.818588.
+Biodiversity* 11, no. 3 (September 1, 2013): 257–70. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 

@@ -8,6 +8,6 @@ Blogs. *Digital Scholarship Collaborative Sandbox*, November 11–14,
 http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collection-and-accessibility.
 
 Lee, Hur-Li. “What Is a Collection?” *Journal of the American Society
-for Information Science* 51, no. 12 (2000): 1106–13.
-http://onlinelibrary.wiley.com/doi/10.1002/1097-4571(2000)9999:9999%3C::AID-ASI1018%3E3.0.CO;2-T/full.
+for Information Science* 51, no. 12 (2000): 1106–13. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 

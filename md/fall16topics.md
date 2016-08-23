@@ -7,7 +7,7 @@ Week 1, PRES1DATE: LIS Education and professional life
 
 Week 2, PRES2DATE: Users and information needs
 
-- Background: [@marcia_j._bates_information_2009], [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@johnson_health-related_2014], [@connaway_reordering_2014], [@connaway_selecting_2010].
+- Background: [@marcia_j._bates_information_2009], [@glushko_interactions_2015], [@naumer_information_2009], [@wilson_information_2008], [@miksa_information_2009], [@foss_childrens_2012], [@hyder_reading_2014], [@johnson_health-related_2014], [@connaway_reordering_2014].
 - Required: [@rhee_reflections_2015], [@la_barre_elusive_2012], [@connaway_if_2011], [@blair_reading_2003], [@bawden_dark_2009].
 
 Week 3, PRES3DATE: Research Methods
@@ -23,7 +23,7 @@ Week 4, PRES4DATE: Structures and Standards
 Week 5, PRES5DATE: Approaches to organizing information
 
 - Background: [@glushko_resources_2015].
-- Required: [@tillett_what_2005], [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_2015_2015], [@swoger_what_2012], [@olson_power_2001].
+- Required: [@tillett_what_2005], [@kennedy_nine_2008], [@maxwell_bibliographic_2010], [@warren_zen_2015], [@swoger_what_2012], [@olson_power_2001].
 
 Week 6, PRES6DATE: Collections
 
@@ -47,5 +47,5 @@ Week 9, PRES9DATE: Evaluation of systems and services
 
 Week 10, PRES10DATE: Subject analysis and subject languages
 
-- Background: [@kreyche_subject_2013], [@mitchell_dewey_2009], [@chan_library_2009], [@anderson_library_2009], [@beghtol_classification_2009].
-- Required: [@lee_indigenous_2011], [@higgins_library_2012], [@fister_dewey_2009], [@buckland_obsolescence_2012], [@brown-sica_library_2008].
+- Background: [@kreyche_subject_2013], [@mitchell_dewey_2009], [@chan_library_2009], [@anderson_library_2009], [@beghtol_classification_2009], [@weinberg_indexing:_2009], [@bates_social_2011].
+- Required: [@lee_indigenous_2011], [@higgins_library_2012], [@fister_dewey_2009], [@buckland_obsolescence_2012], [@brown-sica_library_2008], [@fidel_user-centered_1994].

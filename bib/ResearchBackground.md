@@ -1,21 +1,23 @@
 Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
 for Librarians*. Vol. 5th ed. Library and Information Science Text
-Series. Santa Barbara, Calif: ABC-CLIO, 2010.
-http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
+Series. Santa Barbara, Calif: ABC-CLIO, 2010. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Fidel, Raya. “Are We There yet?: Mixed Methods Research in Library and
 Information Science.” *Library & Information Science Research* 30, no. 4
-(December 2008): 265–72. doi:10.1016/j.lisr.2008.04.001.
+(December 2008): 265–72. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Sandstrom, Alan R., and Pamela Effrein Sandstrom. “The Use and Misuse of
 Anthropological Methods in Library and Information Science Research.”
 *The Library Quarterly: Information, Community, Policy* 65, no. 2
-(1995): 161–99. http://www.jstor.org/stable/4309020.
+(1995): 161–99. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Sutton, Brett. “Qualitative Research Methods in Library and Information
-Science [ELIS Classic].” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
-http://dx.doi.org/10.1081/E-ELIS3-120044785.
+Science [ELIS Classic].” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Walliman, Nicholas. “Defining the Research Problem.” In *Social Research
 Methods*, 67–74. London: SAGE Publications, Ltd, 2006.

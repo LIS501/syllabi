@@ -5,12 +5,12 @@
 ### Required Readings 
 Bates, Marcia J. “The Invisible Substrate of Information Science.”
 *Journal of the American Society for Information Science* 50, no. 12
-(January 1, 1999): 1043–50.
-doi:10.1002/(SICI)1097-4571(1999)50:12\<1043::AID-ASI1\>3.0.CO;2-X.
+(January 1, 1999): 1043–50. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Buckland, Michael K. “What Is a ‘document’?” *Journal of the American
 Society for Information Science* 48, no. 9 (September 1, 1997): 804–9.
-doi:10.1002/(SICI)1097-4571(199709)48:9\<804::AID-ASI5\>3.0.CO;2-V.
+[Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Bush, Vannevar. “As We May Think.” *The Atlantic Monthly*, 1945.
 http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm.
@@ -22,11 +22,12 @@ Ferraris, Maurizio. “Social Ontology and Documentality.” In *Approaches
 to Legal Ontologies: Theories, Domains, Methodologies*, edited by
 Giovanni Sartor, Pompeu Casanovas, Mariangela Biasiotti, and Meritxell
 Fernández-Barrera, 1:83–97. Law, Governance and Technology Series.
-Dordrecht: Springer Netherlands, 2011.
-http://dx.doi.org/10.1007/978-94-007-0120-5\_5.
+Dordrecht: Springer Netherlands, 2011. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Lavoie, Brian, Lorcan Dempsey, and Lynn Silipigni Connaway. “Making Data
-Work Harder.” *Library Journal* 131, no. 1 (January 1, 2006): 40–42.
+Work Harder.” *Library Journal* 131, no. 1 (January 2006): 40–42.
+[Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
@@ -34,11 +35,13 @@ Glushko, Robert J. “Foundation for Organizing Systems.” In *The
 Discipline of Organizing*, 3rd ed., 33–96. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
-Levie, Françoise., and Sofidoc Productions. *The Man Who Wanted to
-Classify the World*, 2004.
+Levie, Françoise, and Sofidoc Productions. *The Man Who Wanted to
+Classify the World*, 2004. [Locate full video from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Wright, Alex. *Cataloging the World: Paul Otlet and the Birth of the
-Information Age*. Oxford: Oxford University Press, 2014.
+Information Age*. Oxford: Oxford University Press, 2014. [Locate full
+video from http://vufind.carli.illinois.edu/vf-uiu/].
 
 ———. “The Secret History of Hypertext — The Atlantic,” May 22, 2014.
 http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/.
@@ -50,26 +53,29 @@ http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-mem
 ### Required Readings 
 Bawden, David, and Lyn Robinson. “The Dark Side of Information:
 Overload, Anxiety and Other Paradoxes and Pathologies.” *J. Inf. Sci.*
-35, no. 2 (April 2009): 180–91. doi:10.1177/0165551508095781.
+35, no. 2 (April 2009): 180–91. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Blair, Ann. “Reading Strategies for Coping With Information Overload
 ca.1550-1700.” *Journal of the History of Ideas* 64, no. 1 (2003):
-11–28. doi:10.1353/jhi.2003.0014.
+11–28. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Connaway, Lynn, Timothy Dickey, and Marie Radford. “‘If It Is Too
 Inconvenient I’m Not Going after It:’ Convenience as a Critical Factor
 in Information-Seeking Behaviors.” *Library & Information Science
-Research* 33, no. 3 (2011): 179–90.
-doi:http://dx.doi.org/10.1016/j.lisr.2010.12.002.
+Research* 33, no. 3 (2011): 179–90. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 La Barre, Kathryn A., and Carol L. Tilley. “The Elusive Tale: Leveraging
 the Study of Information Seeking and Knowledge Organization to Improve
 Access to and Discovery of Folktales.” *Journal of the American Society
 for Information Science and Technology* 63, no. 4 (April 1, 2012):
-687–701. doi:10.1002/asi.21710.
+687–701. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Rhee, Hea Lim. “Reflections on Archival User Studies.” *Reference & User
-Services Quarterly* 54, no. 4 (2015): 29–42.
+Services Quarterly* 54, no. 4 (2015): 29–42. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
@@ -78,16 +84,12 @@ Shifting User Behaviors, Shifting Priorities*. Dublin, OH: OCLC
 Research, 2014.
 http://www.oclc.org/content/dam/research/publications/library/2014/oclcresearch-reordering-ranganathan-2014.pdf.
 
-Connaway, Lynn Silipigni, and Ronald R. Powell. “Selecting the Research
-Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
-Information Science Text Series. Santa Barbara, Calif: Libraries
-Unlimited, 2010.
-
 Foss, Elizabeth, Allison Druin, Robin Brewer, Phillip Lo, Luis Sanchez,
 Evan Golub, and Hilary Hutchinson. “Children’s Search Roles at Home:
 Implications for Designers, Researchers, Educators, and Parents.”
 *Journal of the American Society for Information Science and Technology*
-63, no. 3 (March 1, 2012): 558–73.
+63, no. 3 (March 1, 2012): 558–73. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Glushko, Robert J. “Interactions with Resources.” In *The Discipline of
 Organizing*, 3rd ed., 499–542. O’Reilly, 2015.
@@ -96,25 +98,30 @@ http://disciplineoforganizing.org/.
 Hyder, Eileen Mary. “Reading Groups and Social Justice.” In *Reading
 Groups, Libraries and Social Inclusion: Experiences of Blind and
 Partially Sighted People*, 49–63. Farnham, Surrey, England : Burlington,
-VT: Ashgate Publishing, Ltd., 2014.
+VT: Ashgate Publishing, Ltd., 2014. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Johnson, J. David. “Health-Related Information Seeking: Is It Worth It?”
 *Information Processing & Management* 50, no. 5 (September 2014):
-708–17.
+708–17. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
-Marcia J. Bates. “Information Behavior.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, 2381–91. CRC Press, 2009.
-http://www.crcnetbase.com/doi/full/10.1081/E-ELIS3-120043263.
+Marcia J. Bates. “Information Behavior.” *Encyclopedia of Library and
+Information Sciences, Third Edition*. CRC Press, December 7, 2009.
+[Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Miksa, Francis. “Information Organization and the Mysterious Information
 User.” *Libraries & the Cultural Record* 44, no. 3 (2009): 343–70.
+[Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
-Naumer, Charles M., and Karen E. Fisher. “Information Needs.” In
-*Encyclopedia of Library and Information Sciences, Third Edition*,
-null:2452–58. null. Taylor & Francis, 2009.
+Naumer, Charles M., and Karen E. Fisher. “Information Needs.”
+*Encyclopedia of Library and Information Sciences*. CRC Press, December
+9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Wilson, Tom. “The Information User: Past, Present and Future.” *Journal
-of Information Science* 34, no. 4 (August 1, 2008): 457–64.
+of Information Science* 34, no. 4 (August 1, 2008): 457–64. [Locate full
+text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 
@@ -128,11 +135,12 @@ http://chronicle.com/article/Does-This-Have-to-Go/237476/.
 Connaway, Lynn Silipigni, and Ronald R. Powell. “Selecting the Research
 Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
 Information Science Text Series. Santa Barbara, Calif: Libraries
-Unlimited, 2010.
+Unlimited, 2010. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
-501–20. doi:10.1016/j.lisr.2006.08.009.
+501–20. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Underwood, Ted. “The Real Problem with Distant Reading.” *The Stone and
 the Shell*, May 29, 2016.
@@ -140,28 +148,31 @@ https://tedunderwood.com/2016/05/29/the-real-problem-with-distant-reading/.
 
 Whitmire, Ethelene. “Racial Differences in the Academic Library
 Experiences of Undergraduates.” *The Journal of Academic Librarianship*
-25, no. 1 (January 1, 1999): 33–37. doi:10.1016/S0099-1333(99)80173-6.
+25, no. 1 (January 1, 1999): 33–37. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
 Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
 for Librarians*. Vol. 5th ed. Library and Information Science Text
-Series. Santa Barbara, Calif: ABC-CLIO, 2010.
-http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=348676&site=ehost-live.
+Series. Santa Barbara, Calif: ABC-CLIO, 2010. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Fidel, Raya. “Are We There yet?: Mixed Methods Research in Library and
 Information Science.” *Library & Information Science Research* 30, no. 4
-(December 2008): 265–72. doi:10.1016/j.lisr.2008.04.001.
+(December 2008): 265–72. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Sandstrom, Alan R., and Pamela Effrein Sandstrom. “The Use and Misuse of
 Anthropological Methods in Library and Information Science Research.”
 *The Library Quarterly: Information, Community, Policy* 65, no. 2
-(1995): 161–99. http://www.jstor.org/stable/4309020.
+(1995): 161–99. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Sutton, Brett. “Qualitative Research Methods in Library and Information
-Science [ELIS Classic].” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, null:4380–93. null. Taylor & Francis, 2009.
-http://dx.doi.org/10.1081/E-ELIS3-120044785.
+Science [ELIS Classic].” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Walliman, Nicholas. “Defining the Research Problem.” In *Social Research
 Methods*, 67–74. London: SAGE Publications, Ltd, 2006.
@@ -183,14 +194,14 @@ Technologies, Inc., 2014. doi:10.4242/BalisageVol14.DeRose01.
 
 Vogt, Lars. “eScience and the Need for Data Standards in the Life
 Sciences: In Pursuit of Objectivity rather than Truth.” *Systematics and
-Biodiversity* 11, no. 3 (September 1, 2013): 257–70.
-doi:10.1080/14772000.2013.818588.
+Biodiversity* 11, no. 3 (September 1, 2013): 257–70. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
 Bettels, Jürgen, and F. Avery Bishop. “Unicode: A Universal Character
-Code.” *Digital Tech. J.* 5, no. 3 (June 1993): 21–31.
-http://www.hpl.hp.com/hpjournal/dtj/vol5num3/vol5num3art2.pdf.
+Code.” *Digital Tech. J.* 5, no. 3 (June 1993): 21–31. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Glushko, Robert J. “Describing Relationships and Structures.” In *The
 Discipline of Organizing*, 3rd ed., 295–344. O’Reilly, 2015.
@@ -202,15 +213,16 @@ http://disciplineoforganizing.org/.
 
 ### Required Readings 
 Kennedy, M.R. “Nine Questions to Guide You in Choosing a Metadata
-Schema.” *Journal of Digital Information* 9, no. 1 (2008).
-http://journals.tdl.org/jodi/article/view/226/205.
+Schema.” *Journal of Digital Information* 9, no. 1 (2008). [Locate full
+text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
-Maxwell, R.L. “Bibliographic Control. 497-505.” *Encyclopedia of Library
-and Information Sciences,* 2010.
-http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html.
+Maxwell, R.L. “Bibliographic Control.” *Encyclopedia of Library and
+Information Sciences*, 2010. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Olson, Hope A. “The Power to Name: Representation in Library Catalogs.”
-*Signs* 26, no. 3 (2001): 639–68. http://www.jstor.org/stable/3175535.
+*Signs* 26, no. 3 (2001): 639–68. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Swoger, B. “What Is Metadata? A Christmas-Themed Exploration. Info
 Culture.” *Scientific American*, 2012.
@@ -219,11 +231,12 @@ culture/2012/12/17/what-is-metadata-a-christmas-themed-exploration/.
 
 Tillett, Dr Barbara. “What Is FRBR? A Conceptual Model for the
 Bibliographic Universe.” *The Australian Library Journal* 54, no. 1
-(February 1, 2005): 24–30. doi:10.1080/00049670.2005.10721710.
+(February 1, 2005): 24–30. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
-Warren, John. “(2015) Zen and the Art of Metadata Maintenance.” *Journal
-of Electronic Publishing* 18, no. 3 (2015).
-http://dx.doi.org/10.3998/3336451.0018.305.
+Warren, John. “Zen and the Art of Metadata Maintenance.” *Journal of
+Electronic Publishing* 18, no. 3 (2015). [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
@@ -237,13 +250,13 @@ http://disciplineoforganizing.org/.
 
 ### Required Readings 
 Hadro, J. “What’s the Problem with Self-Publishing?” *Library Journa*
-138, no. 7 (2013): 34–36.
-http://lj.libraryjournal.com/2013/04/publishing/whats-the-
-problem-with-self-publishing/.
+138, no. 7 (2013): 34–36. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Hunter, N. C., Legg, and J.B. Oehlerts. “Two Librarians, an Archivist,
 and 13,000 Images: Collaborating to Build a Digital Collection.”
-*Library Quarterly* 80, no. 1 (1981): 81–103. doi:10.1086/648464.
+*Library Quarterly* 80, no. 1 (1981): 81–103. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Lewis, D. W. “From Stacks to the Web: The Transformation of Academic
 Library Collecting.” *College & Research Libraries* 14, no. 2 (2013):
@@ -265,8 +278,8 @@ Blogs. *Digital Scholarship Collaborative Sandbox*, November 11–14,
 http://blogpublic.lib.msu.edu/index.php/dscsandbox/digital-collection-and-accessibility.
 
 Lee, Hur-Li. “What Is a Collection?” *Journal of the American Society
-for Information Science* 51, no. 12 (2000): 1106–13.
-http://onlinelibrary.wiley.com/doi/10.1002/1097-4571(2000)9999:9999%3C::AID-ASI1018%3E3.0.CO;2-T/full.
+for Information Science* 51, no. 12 (2000): 1106–13. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 
@@ -275,12 +288,12 @@ http://onlinelibrary.wiley.com/doi/10.1002/1097-4571(2000)9999:9999%3C::AID-ASI1
 ### Required Readings 
 Shilton, Katie, and Ramesh Srinivasan. “Participatory Appraisal and
 Arrangement for Multicultural Archival Collections.” *Archivaria* 63
-(2007): 87.
-http://rameshsrinivasan.org/wordpress/wp-content/uploads/2010/03/8-Final-ShiltonSrinivasan-Archivaria.pdf.
+(2007): 87. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Teper, Jennifer Hain. “Selection for Preservation.” *Library Resources &
-Technical Services* 58, no. 4 (October 2014): 220–32.
-http://search.ebscohost.com/login.aspx?direct=true&db=a9h&AN=99263271&site=ehost-live.
+Technical Services* 58, no. 4 (October 2014): 220–32. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
@@ -297,51 +310,53 @@ Adkins, Denice, and Jenny E. Bossaller. “Fiction Access Points across
 Computer-Mediated Book Information Sources: A Comparison of Online
 Bookstores, Reader Advisory Databases, and Public Library Catalogs.”
 *Library & Information Science Research* 29, no. 3 (September 2007):
-354–68. doi:10.1016/j.lisr.2007.03.004.
+354–68. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Barton, Joshua, and Lucas Mak. “Old Hopes, New Possibilities:
 Next-Generation Catalogues and the Centralization of Access.” *Library
-Trends* 61, no. 1 (2012): 83–106. doi:10.1353/lib.2012.0030.
+Trends* 61, no. 1 (2012): 83–106. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Bawden, David. “Encountering on the Road to Serendip? Browsing in New
 Information Environments.” In *Innovations in Information Retrieval:
-Perspectives for Theory and Practice London*. London: Facet Publishing,
-2011. https://reserves.library.illinois.edu/.
+Perspectives for Theory and Practice*. London: Facet Publishing, 2011.
+[Locate full text from http://vufind.carli.illinois.edu/vf-uiu/].
 
 Behnert, Christiane, and Dirk Lewandowski. “Ranking Search Results in
 Library Information Systems — Considering Ranking Approaches Adapted
 From Web Search Engines.” *The Journal of Academic Librarianship* 41,
-no. 6 (November 2015): 725–35. doi:10.1016/j.acalib.2015.07.010.
+no. 6 (November 2015): 725–35. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Liu, Yan Quan, and Sarah Briggs. “A Library in the Palm of Your Hand:
 Mobile Services in Top 100 University Libraries.” *Information
-Technology and Libraries (Online)* 34, no. 2 (June 2015): 133–48.
-http://search.proquest.com/docview/1691586122/abstract/E2DA6917D1EC48ECPQ/1.
+Technology and Libraries* 34, no. 2 (June 2015): 133–48. [Locate full
+text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Saarinen, Katariina, and Pertti Vakkari. “A Sign of a Good Book:
 Readers’ Methods of Accessing Fiction in the Public Library.” *Journal
-of Documentation* 69, no. 5 (September 2, 2013): 736–54.
-doi:10.1108/JD-04-2012-0041.
+of Documentation* 69, no. 5 (September 2, 2013): 736–54. [Locate full
+text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
 Bates, Marcia J. “What Is Browsing—really? A Model Drawing from
 Behavioural Science Research.” *Information Research* 12, no. 4 (October
-2007). http://www.informationr.net/ir/12-4/paper330.html.
+2007). [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Breeding, Marshall. “Serendipity: The Virtual-Library Experience.”
-*Computers in Libraries* 35, no. 9 (November 1, 2015): 9–11.
-http://librarytechnology.org/repository/item.pl?id=21506.
+*Computers in Libraries* 35, no. 9 (November 1, 2015): 9–11. [Locate
+full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Duffy, Eamon P. “Searching HathiTrust: Old Concepts in a New Context.”
 *Partnership: The Canadian Journal of Library and Information Practice
-and Research* 8, no. 1 (June 8, 2013).
-https://journal.lib.uoguelph.ca/index.php/perj/article/view/2503.
+and Research* 8, no. 1 (June 8, 2013). [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Gossen, Tatiana, and Andreas Nürnberger. “Specifics of Information
 Retrieval for Young Users: A Survey.” *Information Processing &
-Management* 49, no. 4 (July 2013): 739–56.
-doi:10.1016/j.ipm.2012.12.006.
+Management* 49, no. 4 (July 2013): 739–56. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Hearst, Marti A. “The Evaluation of Search User Interfaces.” In *Search
 User Interfaces*. Cambridge: Cambridge University Press, 2009.
@@ -350,6 +365,7 @@ http://searchuserinterfaces.com/book/sui\_ch2\_evaluation.html.
 Maloney, Alan, and Lettie Y. Conrad. “Expecting the Unexpected:
 Serendipity, Discovery, and the Scholarly Research Process.” SAGE White
 Paper. SAGE Publishing, 2016.
+http://us.sagepub.com/sites/default/files/serrdiscovery.pdf.
 
 
 
@@ -359,28 +375,32 @@ Paper. SAGE Publishing, 2016.
 Asher, Andrew D, Lynda M Duke, and Suzanne Wilson. “Paths of Discovery:
 Comparing the Search Effectiveness of EBSCO Discovery Service, Summon,
 Google Scholar, and Conventional Library Resources.” *College & Research
-Libraries* 74, no. 5 (2013): 464–88. doi:10.5860/crl-374.
+Libraries* 74, no. 5 (2013): 464–88. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Gross, Melissa. “The Imposed Query: Implications for Library Service
 Evaluation.” *Reference & User Services Quarterly* 37, no. 3 (1998):
-290–99. http://www.jstor.org/stable/20863331.
+290–99. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Nitecki, Danuta A. “Changing the Concept and Measure of Service Quality
 in Academic Libraries.” *The Journal of Academic Librarianship* 22, no.
-3 (January 1, 1996): 181–90. doi:10.1016/S0099-1333(96)90056-7.
+3 (January 1, 1996): 181–90. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
 Fuhr, Norbert, Giannis Tsakonas, Trond Aalberg, Maristella Agosti,
 Preben Hansen, Sarantos Kapidakis, Claus-Peter Klas, et al. “Evaluation
 of Digital Libraries.” *International Journal on Digital Libraries* 8,
-no. 1 (2007): 21–38. doi:10.1007/s00799-007-0011-z.
+no. 1 (2007): 21–38. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Voorhees, EllenM. “The Philosophy of Information Retrieval Evaluation.”
 In *Evaluation of Cross-Language Information Retrieval Systems*, edited
 by Carol Peters, Martin Braschler, Julio Gonzalo, and Michael Kluck,
 2406:355–70. Lecture Notes in Computer Science. Springer Berlin
-Heidelberg, 2002. http://dx.doi.org/10.1007/3-540-45691-0\_34.
+Heidelberg, 2002. [Locate full text from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 “Weave: Journal of Library User Experience,” n.d. http://weaveux.org/.
 
@@ -395,47 +415,62 @@ Hate Speech.” *Electronic Journal of Academic and Special Librarianship*
 http://southernlibrarianship.icaap.org/content/v09n02/brown-sica\_m01.html.
 
 Buckland, Michael K. “Obsolescence in Subject Description.” *Journal of
-Documentation* 68, no. 2 (2012): 154–61.
-http://www.emeraldinsight.com/doi/abs/10.1108/00220411211209168.
+Documentation* 68, no. 2 (2012): 154–61. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
+
+Fidel, Raya. “User-Centered Indexing.” *Journal of the American Society
+for Information Science* 45, no. 8 (1994): 572–76. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Fister, Barbara. “The Dewey Dilemma.” *Library Journal* 134, no. 16
-(2009): 22–25. http://eric.ed.gov/?id=EJ859403.
+(2009): 22–25. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Higgins, Colin. “Library of Congress Classification: Teddy Roosevelt’s
 World in Numbers?” *Cataloging & Classification Quarterly* 50, no. 4
-(2012): 249–62.
-http://www.tandfonline.com/doi/abs/10.1080/01639374.2012.658989.
+(2012): 249–62. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Lee, Deborah. “Indigenous Knowledge Organization: A Study of Concepts,
 Terminology, Structure and (Mostly) Indigenous Voices.” *Partnership:
 The Canadian Journal of Library and Information Practice and Research*
-6, no. 1 (July 3, 2011).
-https://journal.lib.uoguelph.ca/index.php/perj/article/view/1427.
+6, no. 1 (July 3, 2011). [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 
 ### Further Background 
 Anderson, James Doig, and José Pérez-Carballo. “Library of Congress
-Subject Headings (LCSH).” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, 3392–3405. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043717.
+Subject Headings (LCSH).” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
-Beghtol, Clare. “Classification Theory.” In *Encyclopedia of Library and
-Information Sciences, Third Edition*, 1045–60. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043230.
+Bates, Jo, and Jennifer Rowley. “Social Reproduction and Exclusion in
+Subject Indexing: A Comparison of Public Library OPACs and LibraryThing
+Folksonomy.” *Journal of Documentation* 67, no. 3 (2011): 431–48.
+[Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
+
+Beghtol, Clare. “Classification Theory.” *Encyclopedia of Library and
+Information Sciences*. CRC Press, December 9, 2009. [Locate full text
+from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Chan, Lois Mai, and Theodora L. Hodges. “Library of Congress
-Classification (LCC).” In *Encyclopedia of Library and Information
-Sciences, Third Edition*, 3383–91. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043714.
+Classification (LCC).” *Encyclopedia of Library and Information
+Sciences*. CRC Press, December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 Kreyche, Michael. “Subject Headings in Spanish: The Lcsh-Es. Org
 Bilingual Database.” *Cataloging & Classification Quarterly* 51, no. 4
 (2013): 389–403.
-http://www.tandfonline.com/doi/abs/10.1080/01639374.2012.740610.
 
 Mitchell, Joan S., and Diane Vizine-Goetz. “Dewey Decimal Classification
-(DDC).” In *Encyclopedia of Library and Information Sciences, Third
-Edition*, 1507–17. Taylor & Francis, 2009.
-http://www.tandfonline.com/doi/abs/10.1081/E-ELIS3-120043240.
+(DDC).” *Encyclopedia of Library and Information Sciences*. CRC Press,
+December 9, 2009. [Locate full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
+
+Weinberg, Bella Hass. “Indexing: History and Theory.” *Encyclopedia of
+Library and Information Sciences*. CRC Press, December 9, 2009. [Locate
+full text from
+http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].
 
 

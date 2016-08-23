@@ -2,11 +2,13 @@ Glushko, Robert J. “Foundation for Organizing Systems.” In *The
 Discipline of Organizing*, 3rd ed., 33–96. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
-Levie, Françoise., and Sofidoc Productions. *The Man Who Wanted to
-Classify the World*, 2004.
+Levie, Françoise, and Sofidoc Productions. *The Man Who Wanted to
+Classify the World*, 2004. [Locate full video from
+http://vufind.carli.illinois.edu/vf-uiu/].
 
 Wright, Alex. *Cataloging the World: Paul Otlet and the Birth of the
-Information Age*. Oxford: Oxford University Press, 2014.
+Information Age*. Oxford: Oxford University Press, 2014. [Locate full
+video from http://vufind.carli.illinois.edu/vf-uiu/].
 
 ———. “The Secret History of Hypertext — The Atlantic,” May 22, 2014.
 http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/.
