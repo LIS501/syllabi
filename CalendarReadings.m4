@@ -8,6 +8,5 @@ date: syscmd(sh -c "date | tr -d '\n'")
 link-citations: CITELINK
 ---
 
-include(MYTOPICS)
+include(MYCALENDAR)
 
-# References
