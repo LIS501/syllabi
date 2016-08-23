@@ -63,7 +63,7 @@ work in this class. This is part of your education because:
 
 ## Final Deliverables  {.result}
 
-1. Due LAB10DATE Two page extended abstract, to the Moodle drop box *Assigment 3 abstract & bibliography* 
+1. Due LAB10DATE Two page extended abstract, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Develop the two paragraph summary of your research question
        into a two page extended abstract. Focus on describing and
        justifying the methods for investigating your research
