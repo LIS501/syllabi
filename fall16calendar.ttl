@@ -1,4 +1,5 @@
 @prefix : <http://courseweb.ischool.illinois.edu/lis/2016fa/lis501/> .
+@prefix hwk: <https://courses.ischool.illinois.edu/mod/assign/> .
 @prefix z: <http://www.zotero.org/namespaces/export#> .
 @prefix ad: <http://schemas.talis.com/2005/address/schema#> .
 @prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
@@ -31,6 +32,63 @@
   dcterms:subject :GenBackground ;
   rdfs:label "Fall semester"@en .
 
+:Asgt3 a :Assignment ;
+  rdfs:label "Assignment 3: Research Design Proposal"@en ;
+  :moodleURL hwk:MOODLEASGT3 ;
+  :sylSecId "Asgt3" ;
+  :hasDeadline :A3M1, :A3M2, :A3M3, :A3D1, :A3D2, :A3D3 .
+
+:A3M1 a :Deadline ;
+  rdfs:label "Assignment 3 research question draft"@en ;
+  :dueDuring :Week3 ;
+  :dueDate "LAB3DATE" .
+
+:A3M2 a :Deadline ;
+  rdfs:label "Assignment 3 research methods draft"@en ;
+  :dueDuring :Week5 ;
+  :dueDate "LAB5DATE" .
+
+:A3M3 a :Deadline ;
+  rdfs:label "Assignment 3 resource list"@en ;
+  :dueDuring :Week7 ;
+  :dueDate "LAB7DATE" .
+
+:A3D1 a :Deadline ;
+  rdfs:label "Assignment 3 extended abstract"@en ;
+  :dueDuring :Week10 ;
+  :dueDate "LAB10DATE" .
+
+:A3D2 a :Deadline ;
+  rdfs:label "Assignment 3 annotated bibliography"@en ;
+  :dueDuring :Week10 ;
+  :dueDate "LAB10DATE" .
+
+:A3D3 a :Deadline ;
+  rdfs:label "Assignment 3 oral presentation"@en ;
+  :dueDuring :Week10 ;
+  :dueDate "LAB10DATE" .
+
+:Asgt2 a :Assignment ;
+  rdfs:label "Assignment 2 Digital Collections Assessment"@en ;
+  :moodleURL hwk:MOODLEASGT2 ;
+  :sylSecId "Asgt2" ;
+  :hasDeadline :A2D1 .
+
+:A2D1 a :Deadline ;
+  rdfs:label "Assignment 2 collections essay"@en ;
+  :dueDuring :Week6 ;
+  :dueDate "LAB6DATE" .
+
+:Asgt1 a :Assignment ;
+  rdfs:label "Assignment 1 Information Needs/Information Seeking Behavior"@en ;
+  :moodleURL hwk:MOODLEASGT1 ;
+  :sylSecId "Asgt1" ;
+  :hasDeadline :A1D1 .
+
+:A1D1 a :Deadline ;
+  rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
+  :dueDuring :Week2 ;
+  :dueDate "LAB2DATE" .
 
 :Week1 a :Week ;
   event:time [ a tl:Interval ;
