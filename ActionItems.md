@@ -128,6 +128,11 @@ DEADLINE: &lt;2016-08-21 Mon&gt;
 
 DEADLINE: &lt;2016-08-22 Tue&gt;
 
+### TODO Consider adding the library's disability services to the syllabus
+
+DEADLINE: &lt;2017-01-15 Mon&gt;
+http://guides.library.illinois.edu/usersdisabilities/gethelp
+
 Logistics
 ---------
 
