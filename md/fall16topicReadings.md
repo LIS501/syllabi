@@ -163,6 +163,10 @@ Information Science Text Series. Santa Barbara, Calif: Libraries
 Unlimited, 2010. [Locate full text from
 http://vufind.carli.illinois.edu/vf-uiu/].
 
+McDowell, Kathleen. “Toward a History of Children as Readers,
+1890–1930.” *Book History* 12, no. 1 (2009): 240–65. [Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az].
+
 Shachaf, Pnina, and Sarah Horowitz. “Are Virtual Reference Services
 Color Blind?” *Library & Information Science Research* 28, no. 4 (2006):
 501–20. [Locate full text from http://sfx.carli.illinois.edu/sfxuiu/az].
