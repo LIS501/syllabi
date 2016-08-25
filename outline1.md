@@ -57,6 +57,24 @@ Project prsentations in class week 10
    - data collection
 
 
+## Instructors/Labs
+
+Each instructor runs their own lab for
+Week 1 - Dan on Library resources (week of 08/23)
+Week 3 - Research methods exercise (week of 09/06)
+Week 5 - Cultural heritage object description (SNL) (week of 09/20)
+Week 9 - Project prep (week of 10/18)
+Week 10 - Project presentations (week of 10/25)
 
 
+Jodi is running all 3 labs for Weeks 4 & 6 — but need materials for these:
+Week 4 - Pandoc encoding and transformation: CHO templates (week of 09/13) (Dave away) (Dave designs, Jodi presents)
+Week 6 - Zotero bibliography and formatting (Jodi) (week of 09/27) (Dave away)
+
+Dave is running all 3 labs for Weeks 2 (with ITD) and 7:
+Week 2 - ITD on computing resources and Pandoc/Zotero/text editor preview (week of 08/30)
+Week 7 - Bibo/DC output from Zotero (Dave) (week of 10/04)
+
+Maria is running all 3 labs for Week 8:
+Week 8 - Collection stewardship exercise (week of 10/11) (Maria)
 
