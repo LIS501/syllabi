@@ -1,4 +1,4 @@
-# Lab 3: Research Methods {#Lab3 .task}
+# Lab 3: Research Methods Discussion Groups{#Lab3 .task}
 
 ## Rationale {.context}
 This aim of this exercise is to give you some practice in matching research methods to the investigation
