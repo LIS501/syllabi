@@ -1,34 +1,29 @@
 # Lab 3: Research Methods {#Lab3 .task}
 
 ## Rationale {.context}
-This aim of this exercise is to give you some practice matching research methods to the investigation
-of a research question, and thinking critically about the relative advantages and disadvantages of
-the methods in different circumstances. The third graded assignment in the class requires that you
-propose a research plan for a question you have chosen yourself. In this exercise you will consider
-a question assigned by your instructor, and discuss methodological alternatives with your classmates.
+This aim of this exercise is to give you some practice in matching research methods to the investigation
+of a research question, and in thinking critically about the relative advantages and disadvantages of
+the methods in different circumstances. This relates to Assignment 3A (due today) which requires that you propose a research question  you have chosen yourself, and Assignment 3B (due in 2 weeks) which requires that you to propose methods for addressing that question. In today's exercise you will consider a question assigned by your instructor, and discuss methodological alternatives with your classmates.
 
 ## Before you begin {.prereq}
 
-1. Read the required assignments for this week on research methods. In those readings that discuss and compare methods, pay
+1. Read the required assignments for this week on research methods. For readings that discuss and compare methods, pay
    particular attention to the authors' recommended criteria for choosing one over another. Other readings have been chosen
    for this week because the authors have chosen different methods for closely related research questions. What is it about
    a particular problem that seems to have influenced this choice? To what extent could the disciplinary background of the
    researchers have played a role in that choice?
 
-2. Attend the Tuesday's presentation on research methods at the usual
-   time and place. What criteria do your instructors offer as a basis
-   for selecting research methods, and how do the complement or
-   challenge those discussed in the readings?
+2. Attend Tuesday's lecture on research methods at the usual time and place. What criteria do your instructors offer as a basis
+   for selecting research methods? How do their criteria complement or challenge the criteria discussed in the readings?
 
 ## In Lab This Week {.steps}
 
 1. Your instructor will divide you into small groups, and assign one
    of the questions below for you to consider.
 
-2. Make sure at least one person (preferably two) is taking notes of
-   your discussion. Decide who will post a written summary of your
+2. Assign a facilitator as well as two recorders. One recorder will post a written summary of your
    recommendations to the forum or discussion thread designated for
-   this lab. Decide which of you will present a five minute oral
+   this lab. The other recorder will present a five minute oral
    summary to the class after the break.
 
 3. As a starting point for your discussion, try to situate the
