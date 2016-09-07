@@ -36,8 +36,8 @@ session in particular) in support of your arguments.
 
 1. Upload your essay to the Assignment 1 Moodle dropbox.
 2. Post a one-paragraph summary of your article on the Assignment 1
-   discussion forum.
-3. Bring a copy of your article to class for small group discussion.
+   discussion forum. Your forum post should have a descriptive title and please attach a copy of your article.
+3. Bring a copy of your article to class on LABDATE3 for small group discussion.
 
 ## Strategies for locating research studies {.section}
 
