@@ -26,12 +26,7 @@ the methods in different circumstances. This relates to Assignment 3A (due today
    this lab. The other recorder will present a five minute oral
    summary to the class after the break.
 
-3. As a starting point for your discussion, try to situate the
-   question as asked on a continuum from pure research (most general)
-   to applied research to action or evaluative research (most
-   specific). That is to say, discuss how broadly the results of an
-   inquiry into this question might be applied in scenarios where some
-   or many of the circumstances are different.
+3. Begin by making sure you understand the research question in a common way and have a sense of why you might want to ask and answer it.
 
 4. The level of detail in the description provided to you will not be
    high enough for you to proceed without making some conjectures
