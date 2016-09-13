@@ -53,3 +53,10 @@ authorship to become vivid for you.
 ## Submitting {.postreq}
 Upload the markdown, output, and remarks files to the Moodle drop box
 associated with this exercise.
+
+## Going further with Pandoc
+If you are interested in doing more advanced work with pandoc, start with these resources:
+
+- The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia
+- The Pandoc documentation on creating [slide presentations](http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc).
+- Kieran Healy's post on [markdown for academic writing](https://kieranhealy.org/blog/archives/2014/01/23/plain-text/).
