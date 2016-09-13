@@ -1,6 +1,6 @@
-# Lab 6: Pandoc encoding and transformation {#Lab6 .task}
+# Lab 4: Pandoc encoding and transformation {#Lab4 .task}
 
-This lab will take place the week of September 29.
+This lab will take place LAB4DATE.
 
 ## Rationale {.context}
 
@@ -16,10 +16,8 @@ authorship to become vivid for you.
 ## Before you begin {.prereq}
 1. Read the Pandoc Getting Started Guide at
    <http://pandoc.org/getting-started.html>.
-2. Either [install](http://pandoc.org/installing.html)
-   Pandoc on your laptop and confirm you can run it, or confirm that you
-   can connect via ssh to the login1 linux server and execute Pandoc from
-   the linux command.
+2. [Install](http://pandoc.org/installing.html)
+   Pandoc on your laptop and confirm you can run it.
 3. Bring a (digital, not paper) copy of your Assignment 1 essay to
    class with you.
 
