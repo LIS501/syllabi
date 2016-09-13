@@ -23,14 +23,22 @@ authorship to become vivid for you.
 
 ## Tasks {.steps}
 
-0. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
+0. Use Pandoc to create an HTML expression of
+   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md). If
+   that input file is in your current working directory, then the
+   command will be: `pandoc -o sample1.html sample1.md`
+1. Use Pandoc to create a docx expression of
+   [SecAFall16.md](https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md). If
+   that input file is in your current working directory, then the
+   command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
+2. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
    your essay contains any illustrations, copy them into separate image
    files.
-1. Following the examples presented in class (and in the Pandoc user guide)
-   tag the text file you just created with markdown for sections, ordered
-   and unordered lists, footnotes, and any other content objects that
-   exist in your essay.
-2. Use Pandoc to create an HTML and a docx expression of your
+3. Following the examples presented in class (and in the Pandoc user guide)
+   tag the text file you just created with markdown for some or all of the
+   following content objects in your essay: sections, ordered
+   and unordered lists, footnotes, and inline emphasis.
+4. Use Pandoc to create an HTML and a docx expression of your
    essay. Note any syntax errors or other difficulties you encounter
    in getting this to work.
 

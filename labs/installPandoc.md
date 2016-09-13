@@ -6,7 +6,7 @@ date: September 6, 2016
 
 # Pandoc in Labs 4 and 5
 
-As I mentioned in class, please install [Pandoc](http://pandoc.org) this
+As I mentioned in class, please install [Pandoc](http://pandoc.org) this
 week, and test that it works, so that you're ready to use Pandoc for
 Labs 4 and 5.
 
@@ -28,7 +28,6 @@ Labs 4 and 5.
     if needed
 2.  At the command line, type the following:
     1.  `pandoc --version`
-
     2.  Then hit the 'Enter' key
 
 If the message you get shows an error, post to the Access forum. For
@@ -40,7 +39,7 @@ share a screenshot
 1.  Do you know how to get to your shell? ("[command line
     interface](https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=354946)")
 2.  Do you know how to get to your text editor?
-3.  Attached is an input file, **sample1.md**
+3.  Linked is an input file, [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md)
 4.  Can you figure out how to get HTML or a DOCX file from this input
     file with Pandoc?
 5.  Hint: We used steps 1 & 2 of the "getting started" guide already:
