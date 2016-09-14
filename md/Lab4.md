@@ -23,24 +23,27 @@ authorship to become vivid for you.
 
 ## Tasks {.steps}
 
-0. Use Pandoc to create an HTML expression of
+1. Use Pandoc to create an HTML expression of
    [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md) (also linked from the Moodle) If
    that input file is in your current working directory, then the
    command will be: `pandoc -o sample1.html sample1.md`
-1. Use Pandoc to create a docx expression of
+2. Use Pandoc to create a docx expression of
    [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md) (also linked from the Moodle). If
    that input file is in your current working directory, then the
    command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
-2. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
+3. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
    your essay contains any illustrations, copy them into separate image
    files.
-3. Following the examples presented in class (and in the Pandoc user guide)
+4. Following the examples presented in class (and in the Pandoc user guide)
    tag the text file you just created with markdown for some or all of the
    following content objects in your essay: sections, ordered
    and unordered lists, footnotes, and inline emphasis.
-4. Use Pandoc to create an HTML and a docx expression of your
+5. Use Pandoc to create an HTML and a docx expression of your
    essay. Note any syntax errors or other difficulties you encounter
    in getting this to work.
+6. Reflect on and write (in plain text or markdown) about this experience.
+7. Upload your deliverables to the Moodle dropbox.
+8. See "going further with Pandoc" if you still have time
 
 ## Deliverable {.result}
 1. Your essay in Markdown. (i.e. tagged with Pandoc's markdown dialect, in a UTF-8 encoded file)
@@ -50,7 +53,7 @@ authorship to become vivid for you.
   (expressed as plain text or markdown) - One to three paragraphs.
 
 ## Submitting {.postreq}
-Upload the markdown, output, and remarks files to the Moodle drop box
+Upload the markdown for your essay, 2 output files, and your remarks files to the Moodle dropbox
 associated with this exercise.
 
 ## Going further with Pandoc
@@ -77,3 +80,4 @@ http://www.chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/3906
 ###Even more
 - Various uses of pandoc
 https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
+- Explore the syllabus repository: https://github.com/LIS501/syllabi Can you see the steps used to generate the syllabus? Note that this system uses the m4 preprocessor language http://mbreen.com/m4.html and also pulls in Zotero files.
