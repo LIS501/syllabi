@@ -1,4 +1,4 @@
-# Lab 4: Cultural heritage object description {#Lab4 .task}
+# Lab 5: Cultural heritage object description {#Lab4 .task}
 
 This lab will take place on LAB5DATE.
 
