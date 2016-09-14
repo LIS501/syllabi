@@ -45,7 +45,7 @@ authorship to become vivid for you.
 7. Upload your deliverables to the Moodle dropbox.
 8. See "going further with Pandoc" if you still have time
 
-## Deliverable {.result}
+## Deliverables {.result}
 1. Your essay in Markdown. (i.e. tagged with Pandoc's markdown dialect, in a UTF-8 encoded file)
 2. Output from Pandoc: An HTML expression of your essay.
 3. Output from Pandoc: A docx (Open Office XML) expression of your essay.
