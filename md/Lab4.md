@@ -14,8 +14,7 @@ a technical tool, but for an important philosophy of document analysis and
 authorship to become vivid for you.  
  
 ## Before you begin {.prereq}
-1. [Install](http://pandoc.org/installing.html)
-   Pandoc on your laptop and confirm you can run it. You may want to consult the Pandoc Getting Started Guide at
+1. Install Pandoc on your laptop and confirm you can run it. You may want to consult the Pandoc Install guide http://pandoc.org/installing.html and/or the Pandoc Getting Started Guide at
    <http://pandoc.org/getting-started.html>.
 3. Bring a (digital, not paper) copy of your Assignment 1 essay to
    class with you.
