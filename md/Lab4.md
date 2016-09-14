@@ -14,21 +14,20 @@ a technical tool, but for an important philosophy of document analysis and
 authorship to become vivid for you.  
  
 ## Before you begin {.prereq}
-1. Read the Pandoc Getting Started Guide at
+1. [Install](http://pandoc.org/installing.html)
+   Pandoc on your laptop and confirm you can run it. You may want to consult the Pandoc Getting Started Guide at
    <http://pandoc.org/getting-started.html>.
-2. [Install](http://pandoc.org/installing.html)
-   Pandoc on your laptop and confirm you can run it.
 3. Bring a (digital, not paper) copy of your Assignment 1 essay to
    class with you.
 
 ## Tasks {.steps}
 
 0. Use Pandoc to create an HTML expression of
-   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md). If
+   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md): https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md If
    that input file is in your current working directory, then the
    command will be: `pandoc -o sample1.html sample1.md`
 1. Use Pandoc to create a docx expression of
-   [SecAFall16.md](https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md). If
+   [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md): https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md. If
    that input file is in your current working directory, then the
    command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
 2. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
@@ -43,20 +42,19 @@ authorship to become vivid for you.
    in getting this to work.
 
 ## Deliverable {.result}
-- Your UTF-8 encoded essay tagged with Pandoc's markdown dialect.
-- An HTML expression of your essay output from Pandoc.
-- A docx (Open Office XML) expression of your essay output from
-  Pandoc.
-- One to three paragraphs of remarks and observations on this exercise
-  (expressed as plain text or markdown).
+1. Your essay in Markdown. (i.e. tagged with Pandoc's markdown dialect, in a UTF-8 encoded file)
+2. Output from Pandoc: An HTML expression of your essay.
+3. Output from Pandoc: A docx (Open Office XML) expression of your essay.
+4. Your remarks and observations on this exercise
+  (expressed as plain text or markdown) - One to three paragraphs.
 
 ## Submitting {.postreq}
 Upload the markdown, output, and remarks files to the Moodle drop box
 associated with this exercise.
 
 ## Going further with Pandoc
-If you are interested in doing more advanced work with pandoc, start with these resources:
+If you are interested in doing more advanced work with Pandoc, start with these resources:
 
-- The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia
-- The Pandoc documentation on creating [slide presentations](http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc).
-- Kieran Healy's post on [markdown for academic writing](https://kieranhealy.org/blog/archives/2014/01/23/plain-text/).
+- The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia: https://en.wikipedia.org/wiki/Markdown
+- The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc; you may also want to look at an example [https://github.com/LIS501/slides/blob/master/standards.md]
+- Kieran Healy's post on markdown for academic writing: https://kieranhealy.org/blog/archives/2014/01/23/plain-text/.
