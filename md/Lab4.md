@@ -57,8 +57,6 @@ associated with this exercise.
 If you are interested in doing more advanced work with Pandoc, start with these resources:
 
 - The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia: https://en.wikipedia.org/wiki/Markdown
-- Various uses of pandoc
-https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
 
 ###Slides
 - The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
@@ -75,3 +73,7 @@ http://www.chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/3906
 
 ###Executable code
 - R code chunks in Pandoc: http://rmarkdown.rstudio.com/authoring_rcodechunks.html
+
+###Even more
+- Various uses of pandoc
+https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
