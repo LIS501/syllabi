@@ -57,5 +57,18 @@ associated with this exercise.
 If you are interested in doing more advanced work with Pandoc, start with these resources:
 
 - The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia: https://en.wikipedia.org/wiki/Markdown
+- Various uses of pandoc
+https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
+
+###Slides & Academic Writing
 - The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc; you may also want to look at an example [https://github.com/LIS501/slides/blob/master/standards.md]
 - Kieran Healy's post on markdown for academic writing: https://kieranhealy.org/blog/archives/2014/01/23/plain-text/.
+
+###EBooks
+- How I wrote and published my novel using only open source tools: From Markdown to paperback and Kindle without proprietary software. Gabriel Gambetta. Techspiration Aug 9 2016 https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca#.wj56jevr9
+- Make Your Own E-Books with Pandoc, ProfHacker, The Chronicle of Higher Education, March 20, 2012
+http://www.chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/39067
+- Creating an ebook with pandoc: http://pandoc.org/epub.html
+
+###Executable code
+- R code chunks in Pandoc: http://rmarkdown.rstudio.com/authoring_rcodechunks.html
