@@ -60,8 +60,11 @@ If you are interested in doing more advanced work with Pandoc, start with these 
 - Various uses of pandoc
 https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
 
-###Slides & Academic Writing
-- The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc; you may also want to look at an example [https://github.com/LIS501/slides/blob/master/standards.md]
+###Slides
+- The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+- A familiar example (Prof Dubin's slides) https://github.com/LIS501/slides/blob/master/standards.md
+
+###Academic Writing
 - Kieran Healy's post on markdown for academic writing: https://kieranhealy.org/blog/archives/2014/01/23/plain-text/.
 
 ###EBooks
