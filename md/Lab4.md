@@ -14,19 +14,21 @@ a technical tool, but for an important philosophy of document analysis and
 authorship to become vivid for you.  
  
 ## Before you begin {.prereq}
-1. Install Pandoc on your laptop and confirm you can run it. You may want to consult the Pandoc Install guide http://pandoc.org/installing.html and/or the Pandoc Getting Started Guide at
+1. Install Pandoc on your laptop. You may want to consult the Pandoc Install guide at http://pandoc.org/installing.html
+2. Confirm that you can run Pandoc from your shell. You may want to consult the Pandoc Getting Started Guide at
    <http://pandoc.org/getting-started.html>.
-3. Bring a (digital, not paper) copy of your Assignment 1 essay to
+3. Confirm that you have an appropriate text editor installed (we have tested Mac TextEdit and Windows Notepad++ https://notepad-plus-plus.org )
+4. Bring a (digital, not paper) copy of your Assignment 1 essay to
    class with you.
 
 ## Tasks {.steps}
 
 0. Use Pandoc to create an HTML expression of
-   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md): https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md If
+   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md) (also linked from the Moodle) If
    that input file is in your current working directory, then the
    command will be: `pandoc -o sample1.html sample1.md`
 1. Use Pandoc to create a docx expression of
-   [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md): https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md. If
+   [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md)(also linked from the Moodle). If
    that input file is in your current working directory, then the
    command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
 2. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
