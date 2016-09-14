@@ -1,6 +1,6 @@
 # Lab 4: Cultural heritage object description {#Lab4 .task}
 
-This lab will take place the week of September 15.
+This lab will take place on LAB5DATE.
 
 ## Rationale {.context}
 
