@@ -28,7 +28,7 @@ authorship to become vivid for you.
    that input file is in your current working directory, then the
    command will be: `pandoc -o sample1.html sample1.md`
 1. Use Pandoc to create a docx expression of
-   [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md)(also linked from the Moodle). If
+   [SecAFall16.md]:(https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md) (also linked from the Moodle). If
    that input file is in your current working directory, then the
    command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
 2. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
