@@ -133,6 +133,9 @@ DEADLINE: &lt;2016-08-22 Tue&gt;
 DEADLINE: &lt;2017-01-15 Mon&gt;
 http://guides.library.illinois.edu/usersdisabilities/gethelp
 
+### TODO Find a good reading on markdown vs. markup, consider for Week 4 Standards & Structures
+DEADLINE: &lt;2017-01-15 Mon&gt;
+
 Logistics
 ---------
 
