@@ -154,9 +154,15 @@ Presentations
 
 DEADLINE: &lt;2016-08-17 Wed&gt;
 
+### TODO Get a picture of the Oak Street facility (oversize vs normal size) for Lecture 5 Collections
+DEADLINE: &lt;2017-01-20 Sat&gt;
+
 Labs
 ----
 
 ### TODO Template for CHO description
 
 DEADLINE: &lt;2016-08-20 Sat&gt;
+
+### TODO Revise Lab4 Pandoc lab into a group assignment
+DEADLINE: &lt;2017-01-20 Sat&gt;
