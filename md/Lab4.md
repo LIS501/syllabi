@@ -1,50 +1,83 @@
-# Lab 4: Cultural heritage object description {#Lab4 .task}
+# Lab 4: Pandoc encoding and transformation {#Lab4 .task}
 
-This lab will take place the week of September 15.
+This lab will take place LAB4DATE.
 
 ## Rationale {.context}
 
+Document structure, the differences between declarative and procedural markup,
+and the role of information standards are among the topics we are reading and 
+discussing this semester. This exercise provides hands-on experience tagging a 
+document structurally, and creating a presentational expression of it using
+a formatting utility. There is a community of users who employ Pandoc
+for document production, but the rationale for this exercise is not to master
+a technical tool, but for an important philosophy of document analysis and 
+authorship to become vivid for you.  
+ 
 ## Before you begin {.prereq}
-1. Read the Spurlock Museum patron conduct policy <http://www.spurlock.illinois.edu/policy/patronconduct.html>.
-
-2. Locate [Spurlock on the campus map](http://tinyurl.com/nsj8brt)
-
-3. Browse the Getty A&A Thesaurus <http://www.getty.edu/research/tools/vocabularies/aat/>
+1. Install Pandoc on your laptop. You may want to consult the Pandoc Install guide at http://pandoc.org/installing.html
+2. Confirm that you can run Pandoc from your shell. You may want to consult the Pandoc Getting Started Guide at
+   <http://pandoc.org/getting-started.html>.
+3. Confirm that you have an appropriate text editor installed (we have tested Mac TextEdit and Windows Notepad++ https://notepad-plus-plus.org )
+4. Bring a (digital, not paper) copy of your Assignment 1 essay to
+   class with you.
 
 ## Tasks {.steps}
 
-1. Convene at the Spurlock Museum at the start of class.
-2. Choose a [cultural heritage](https://en.wikipedia.org/wiki/Cultural_heritage) object on display, 
-   and make a note of its accession number, and the name of the gallery in which it is displayed.
-3. On the basis of what you can see, and the written description accompanying the artifact, answer as many of
-   the following questions as you can:
-   - What physical materials is the object made from?
-   - What techniques or processes were used in its creation?
-   - Is the object a reproduction of some other artifact? If so, which one?
-   - Does the description include precise physical measurements? If so, what are they?
-   - What culture produced this object (or the original from which it was copied)?
-   - During what time period was this object (or the original) created?
-   - Was this object used for some particular or general purpose?
-   - Is there information about the specific person who created this object or the specific time and place of creation?
-   - Was the creation of the object (as opposed to the object itself) for some particular purpose?
-   - If the artifact is a copy or reproduction, is the person who made the copy identified?
-   - Does the object depict or represent some specific historical, mythical, or fictional person or event? If so, which?
-   - Was the object contributed to the museum by an agent identified in the description? What information (if any) 
-     is available about the provenance or chain of custody?
-4. Reconvene in the usual classroom at GSLIS 90 minutes into the class period.
-5. Lookup the record for the object you selected (by accession number) in the 
-   [Spurlock online catalog](http://www.spurlock.illinois.edu/search/index.php). Compare the information in the
-   record to your notes.
-6. Determine whether the physical materials from which the object was made are listed in the A&A materials hierarchy.
-   What are their hierarchical positions?
-7. Determine whether the methods for creating the object are listed in the A&A processes and techniques hierarchy.
-   What are their hierarchical positions?
-8. Include the results of your thesaurus and catalog searches in a revision of your notes on the object 
-	 
+1. Use Pandoc to create an HTML expression of
+   [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md) (also linked from the Moodle) If
+   that input file is in your current working directory, then the
+   command will be: `pandoc -o sample1.html sample1.md`
+2. Use Pandoc to create a docx expression of
+   [SecAFall16.md](https://raw.githubusercontent.com/LIS501/syllabi/master/SecAFall16.md) (also linked from the Moodle). If
+   that input file is in your current working directory, then the
+   command will be: `pandoc -o SecAFall16.docx SecAFall16.md`
+3. Save a copy of your essay as a plain text (UTF-8 encoded) file. If
+   your essay contains any illustrations, copy them into separate image
+   files.
+4. Following the examples presented in class (and in the Pandoc user guide)
+   tag the text file you just created with markdown for some or all of the
+   following content objects in your essay: sections, ordered
+   and unordered lists, footnotes, and inline emphasis.
+5. Use Pandoc to create an HTML and a docx expression of your
+   essay. Note any syntax errors or other difficulties you encounter
+   in getting this to work.
+6. Reflect on and write (in plain text or markdown) about this experience.
+7. Upload your deliverables to the Moodle dropbox.
+8. See "going further with Pandoc" if you still have time
 
-
-## Deliverable {.result}
-The deliverable for this exercise is 1-3 pages of structured notes in a digital file.
+## Deliverables {.result}
+1. Your essay in Markdown. (i.e. tagged with Pandoc's markdown dialect, in a UTF-8 encoded file)
+2. Output from Pandoc: An HTML expression of your essay.
+3. Output from Pandoc: A docx (Open Office XML) expression of your essay.
+4. Your remarks and observations on this exercise
+  (expressed as plain text or markdown) - One to three paragraphs.
 
 ## Submitting {.postreq}
-Upload the  file to the Moodle drop box associated with this exercise.
+Upload the markdown for your essay, 2 output files, and your remarks files to the Moodle dropbox
+associated with this exercise.
+
+## Going further with Pandoc
+If you are interested in doing more advanced work with Pandoc, start with these resources:
+
+- The [markdown essay](https://en.wikipedia.org/wiki/Markdown) on Wikipedia: https://en.wikipedia.org/wiki/Markdown
+
+###Slides
+- The Pandoc documentation on creating slide presentations, http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+- A familiar example (Prof Dubin's slides) https://github.com/LIS501/slides/blob/master/standards.md
+
+###Academic Writing
+- Kieran Healy's post on markdown for academic writing: https://kieranhealy.org/blog/archives/2014/01/23/plain-text/.
+
+###EBooks
+- How I wrote and published my novel using only open source tools: From Markdown to paperback and Kindle without proprietary software. Gabriel Gambetta. Techspiration Aug 9 2016 https://medium.com/techspiration-ideas-making-it-happen/how-i-wrote-and-published-my-novel-using-only-open-source-tools-5cdfbd7c00ca#.wj56jevr9
+- Make Your Own E-Books with Pandoc, ProfHacker, The Chronicle of Higher Education, March 20, 2012
+http://www.chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/39067
+- Creating an ebook with pandoc: http://pandoc.org/epub.html
+
+###Executable code
+- R code chunks in Pandoc: http://rmarkdown.rstudio.com/authoring_rcodechunks.html
+
+###Even more
+- Various uses of pandoc
+https://github.com/jgm/pandoc/wiki/Pandoc-Extras#web-services-to-process-files-by-pandoc
+- Explore the syllabus repository: https://github.com/LIS501/syllabi Can you see the steps used to generate the syllabus? Note that this system uses the m4 preprocessor language http://mbreen.com/m4.html and also pulls in Zotero files.
