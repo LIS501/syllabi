@@ -4,11 +4,12 @@ author: Dave Dubin
 date: September 19, 2016
 ---
 
-The accompanying markdown file expresses a cultural heritage object
-description. You can add or modify the structure to suit the needs of
-the object you have selected. For example, you are free to add additional
-descriptive fields, or omit fields that aren't relevant. We recommend that
-your description conform to the following general structure:
+The [accompanying markdown file](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/chalice.md)
+expresses a cultural heritage object description. You can add or
+modify the structure to suit the needs of the object you have
+selected. For example, you are free to add additional descriptive
+fields, or omit fields that aren't relevant. We recommend that your
+description conform to the following general structure:
 
 1. A YAML metadata block at the top of the file specifying title,
    author, and date of the description. This is documented in the
@@ -21,7 +22,9 @@ your description conform to the following general structure:
    one paragraph of general description in natural language.
    
 4. A **Basic Identification** section, marked with a level 2 header,
-   and consisting of attribute/value pairings expressed as a
+   and consisting of
+   [attribute/value pairings](https://en.wikipedia.org/wiki/Attribute%E2%80%93value_pair)
+   expressed as a
    [definition list](http://pandoc.org/MANUAL.html#definition-lists).
    This section should include materials, physical description, and
    methods of creation, if they are known. As described in the
