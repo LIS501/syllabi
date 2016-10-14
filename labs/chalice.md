@@ -22,11 +22,11 @@ Spurlock Accession Number
 :   1916.06.0028
 
 Materials
-: Silver ([GAA: 300011029](http://www.getty.edu/vow/AATFullDisplay?find=Silver&logic=AND&note=&page=1&subjectid=300011029))
-: Glass  ([GAA: 300010797](http://www.getty.edu/vow/AATFullDisplay?find=Glass&logic=AND&note=&page=1&subjectid=300010797))
+: Silver ([AAT: 300011029](http://www.getty.edu/vow/AATFullDisplay?find=Silver&logic=AND&note=&page=1&subjectid=300011029))
+: Glass  ([AAT: 300010797](http://www.getty.edu/vow/AATFullDisplay?find=Glass&logic=AND&note=&page=1&subjectid=300010797))
 
 Methods of creation
-: Electroforming ([GAA: 300233400](http://www.getty.edu/vow/AATFullDisplay?find=electroforming&logic=AND&note=&english=N&prev_page=1&subjectid=300233400))
+: Electroforming ([AAT: 300233400](http://www.getty.edu/vow/AATFullDisplay?find=electroforming&logic=AND&note=&english=N&prev_page=1&subjectid=300233400))
 
 Measurements
 : Width 25.0 cm.
