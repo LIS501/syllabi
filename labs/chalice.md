@@ -8,7 +8,7 @@ date: September 11, 2016
 
 ## Summary
 
-This modern reproduction of a ninth century silver cup was created in
+This modern reproduction of a eighth century silver cup was created in
 the early 1890s by Dublin jeweler Edmond Johnson. It was exhibited at
 the 1893 World's Columbian Exposition in Chicago, and acquired by the
 University of Illinois in 1916. The [original
@@ -54,7 +54,7 @@ Custody transfer events
 ## Notes
 
 The original silver chalice that served as a basis for this
-reproduction dates from the ninth century, and was discovered in 1868
+reproduction dates from the eighth century, and was discovered in 1868
 in County Limerick, Ireland, together with a smaller cup and four
 brooches. collectively these artifacts are known as the "Ardagh Hoard."
 The original Ardagh Chalice is housed at the National Museum of Ireland.

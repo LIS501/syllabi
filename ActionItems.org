@@ -36,7 +36,10 @@
     DEADLINE: <2016-08-20 Sat>
 *** DONE Instructor order (1,2,3) different in section syllabi
     CLOSED: [2016-08-14 Sun 11:57] DEADLINE: <2016-08-13 Sat>
-
+*** TODO Consider adding a bibliographic or meta-analysis reading to the research week readings
+    DEADLINE: <2016-01-20>
+*** TODO Edit Pandoc lab to give more context. Do group-work. Give step-by-step instructions
+    DEADLINE: <2016-01-20>
 *** TODO Check links in assignment 1, and consider abbreviating
     DEADLINE: <2016-08-17 Wed>
 *** TODO Check links in assignment 2, and consider abbreviating
