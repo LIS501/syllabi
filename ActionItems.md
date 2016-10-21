@@ -181,3 +181,8 @@ Research beta next semester:
 http://dfr.jstor.org/??view=text&&helpview=about_faq
 DEADLINE: &lt;2017-01-20 Sat&gt;
 
+# Check whether Zotero standalone and/or Zotero for Firefox can be installed
+DEADLINE: &lt;2017-10-31 Sat&gt;
+
+# TODO Confirm Pandoc & Zotero installations are scheduled
+DEADLINE: &lt;2017-12-10 Sat&gt;
