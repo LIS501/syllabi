@@ -165,14 +165,16 @@ DEADLINE: &lt;2017-01-20 Sat&gt;
 Readings
 ---------
 
-# TODO Find an article on markup and standards for portability and access and for maintaining access to content
+### TODO Find an article on markup and standards for portability and access and for maintaining access to content
+DEADLINE: &lt;2017-12-10 Sat&gt;
 
+### TODO Consider moving the markup articles earlier to give some context to know why we worked on changing file formats, why we might want to change file formats. 
+DEADLINE: &lt;2017-12-10 Sat&gt;
 
 Labs
 ----
 
 ### TODO Template for CHO description
-
 DEADLINE: &lt;2016-08-20 Sat&gt;
 
 ### TODO Revise Lab4 Pandoc lab into a group assignment
@@ -186,23 +188,23 @@ discuss it in lab. That way the discussion could reveal places where
 they are stuck or particularly engaged.
 DEADLINE: &lt;2017-01-20 Sat&gt;
 
-# TODO Consider using JSTOR Data for Research beta
+### TODO Consider using JSTOR Data for Research beta
 Discuss what, if anything, we could do with the JSTOR Data for
 Research beta next semester:
 http://dfr.jstor.org/??view=text&&helpview=about_faq
 DEADLINE: &lt;2017-01-20 Sat&gt;
 
-# Check whether Zotero standalone and/or Zotero for Firefox can be installed
+### Check whether Zotero standalone and/or Zotero for Firefox can be installed
 DEADLINE: &lt;2017-10-31 Sat&gt;
 
-# TODO Confirm Pandoc & Zotero installations are scheduled
+### TODO Confirm Pandoc & Zotero installations are scheduled
 DEADLINE: &lt;2017-12-10 Sat&gt;
 
-# TODO Consider shortening instructions
+### TODO Consider shortening instructions
 Short, clear instructions (bulleted lists) and a written example. 
 DEADLINE: &lt;2017-12-10 Sat&gt;
 
-# TODO Consider use of small groups
+### TODO Consider use of small groups
 Ask students to prepare for
 the exercise (pandoc, e.g.,) by first reviewing the purpose of the
 exercise by discussing in their groups lecture, handouts/instructions,
@@ -220,3 +222,11 @@ https://teaching.unsw.edu.au/group-work-when-groups-first-meet
 Consider post-group work discussions to discuss and evaluate not only their work and understanding
 but any questions they have.  The post-group work discussion can help clarify the lesson & dig deeper into the issues/challenges associated with it.
 DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO Add formats to the Pandoc exercise (not just DOC & HTML)
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO Consider how to scaffold the multiple aspects of the Pandoc exercise: do an earlier activity at the shell?
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO 
