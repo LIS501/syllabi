@@ -166,3 +166,11 @@ DEADLINE: &lt;2016-08-20 Sat&gt;
 
 ### TODO Revise Lab4 Pandoc lab into a group assignment
 DEADLINE: &lt;2017-01-20 Sat&gt;
+
+### TODO Consider readings discussions
+Consider devoting one of the three lab hours
+to discussion of the readings. e.g. Ask students to select an
+excerpt from the readings they found interesting and come prepared to
+discuss it in lab. That way the discussion could reveal places where
+they are stuck or particularly engaged.
+DEADLINE: &lt;2017-01-20 Sat&gt;
