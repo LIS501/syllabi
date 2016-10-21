@@ -133,12 +133,6 @@ DEADLINE: &lt;2016-08-22 Tue&gt;
 DEADLINE: &lt;2017-01-15 Mon&gt;
 http://guides.library.illinois.edu/usersdisabilities/gethelp
 
-### TODO Find a good reading on markdown vs. markup, consider for Week 4 Standards & Structures
-DEADLINE: &lt;2017-01-15 Mon&gt;
-
-
-### TODO Move optional readings off the syllabus
-DEADLINE: &lt;2017-01-15 Mon&gt;
 
 Logistics
 ---------
@@ -170,6 +164,17 @@ DEADLINE: &lt;2017-12-10 Sat&gt;
 
 ### TODO Consider moving the markup articles earlier to give some context to know why we worked on changing file formats, why we might want to change file formats. 
 DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO Find a good reading on markdown vs. markup, consider for Week 4 Standards & Structures
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO Move optional readings off the syllabus
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+### TODO Compare 1987 version of 'Markup systems and the future of scholarly text processing' to the 1993 reprint
+Some complaints about typos in 1987 version -- is the reprint better?
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
 
 Labs
 ----
@@ -229,4 +234,3 @@ DEADLINE: &lt;2017-12-10 Sat&gt;
 ### TODO Consider how to scaffold the multiple aspects of the Pandoc exercise: do an earlier activity at the shell?
 DEADLINE: &lt;2017-12-10 Sat&gt;
 
-### TODO 
