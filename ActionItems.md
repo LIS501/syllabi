@@ -174,3 +174,10 @@ excerpt from the readings they found interesting and come prepared to
 discuss it in lab. That way the discussion could reveal places where
 they are stuck or particularly engaged.
 DEADLINE: &lt;2017-01-20 Sat&gt;
+
+# TODO Consider using JSTOR Data for Research beta
+Discuss what, if anything, we could do with the JSTOR Data for
+Research beta next semester:
+http://dfr.jstor.org/??view=text&&helpview=about_faq
+DEADLINE: &lt;2017-01-20 Sat&gt;
+
