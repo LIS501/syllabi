@@ -136,6 +136,10 @@ http://guides.library.illinois.edu/usersdisabilities/gethelp
 ### TODO Find a good reading on markdown vs. markup, consider for Week 4 Standards & Structures
 DEADLINE: &lt;2017-01-15 Mon&gt;
 
+
+### TODO Move optional readings off the syllabus
+DEADLINE: &lt;2017-01-15 Mon&gt;
+
 Logistics
 ---------
 
@@ -156,6 +160,13 @@ DEADLINE: &lt;2016-08-17 Wed&gt;
 
 ### TODO Get a picture of the Oak Street facility (oversize vs normal size) for Lecture 5 Collections
 DEADLINE: &lt;2017-01-20 Sat&gt;
+
+
+Readings
+---------
+
+# TODO Find an article on markup and standards for portability and access and for maintaining access to content
+
 
 Labs
 ----
@@ -185,4 +196,27 @@ DEADLINE: &lt;2017-01-20 Sat&gt;
 DEADLINE: &lt;2017-10-31 Sat&gt;
 
 # TODO Confirm Pandoc & Zotero installations are scheduled
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+# TODO Consider shortening instructions
+Short, clear instructions (bulleted lists) and a written example. 
+DEADLINE: &lt;2017-12-10 Sat&gt;
+
+# TODO Consider use of small groups
+Ask students to prepare for
+the exercise (pandoc, e.g.,) by first reviewing the purpose of the
+exercise by discussing in their groups lecture, handouts/instructions,
+and readings. This will allow them to discuss in small groups all
+aspects of the exercise/lesson and identify areas that need
+clarification or elaboration. It will also challenge them to see how
+readings, lecture, and the exercise are all related.
+
+https://www.cte.cornell.edu/teaching-ideas/engaging-students/collaborative-learning.html
+
+https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/alternatives-lecturing/group-work/implementing-group-work-classroom
+
+https://teaching.unsw.edu.au/group-work-when-groups-first-meet
+
+Consider post-group work discussions to discuss and evaluate not only their work and understanding
+but any questions they have.  The post-group work discussion can help clarify the lesson & dig deeper into the issues/challenges associated with it.
 DEADLINE: &lt;2017-12-10 Sat&gt;
