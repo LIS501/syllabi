@@ -1,0 +1,10 @@
+# Start by clearing the list of suffixes
+.SUFFIXES:
+# Then specify our suffixes
+.SUFFIXES: .tex .dvi .bib .pdf .sgml .html .m4 .md
+
+M4PATH := .
+export M4PATH
+
+%.md : %.m4 ABCFall2016.m4
+	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" ABCFall2016.m4 > $*.md
