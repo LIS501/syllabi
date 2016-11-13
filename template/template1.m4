@@ -13,7 +13,6 @@ csl: chicago-author-date.csl
 include(MYSECDATA)
 include(CONTACT1)
 include(CONTACT2)
-include(TEACHINGAST)
 include(CourseDescription.md)
 include(OverviewObjectives.md)
 include(CourseMaterials.md)
