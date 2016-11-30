@@ -8,6 +8,8 @@ author: University of Illinois School of Information Sciences
 date: Last updated syscmd(sh -c "date | tr -d '\n'")
 link-citations: CITELINK
 csl: chicago-author-date.csl
+nocite: |
+  @obrien08, @CTE15:CourseDesign, @GradCollege15 
 ---
 
 include(MYSECDATA)

@@ -8,3 +8,9 @@ export M4PATH
 
 %.md : %.m4 template1.m4
 	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" template1.m4 > $*.md
+
+%.docx : %.md template.bib
+	pandoc -s --bibliography=template.bib -o $*.docx $*.md
+
+%.html : %.md %.bib
+	pandoc -s --bibliography=template.bib -o $*.html $*.md

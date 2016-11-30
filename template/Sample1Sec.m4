@@ -7,3 +7,4 @@ define(A3DUE, Asgt. 3 Due Date)dnl
 define(CONTACT1, InstructorContact.md)dnl
 define(CONTACT2, AssistantContact.md)dnl
 define(INSTRUCTOR, AboutInstructor.md)dnl
+define(FINALSEC, # Resources for syllabus design)dnl
