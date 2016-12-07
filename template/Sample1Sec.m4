@@ -1,4 +1,5 @@
 define(MYSECDATA, SectionData.md)dnl
+define(COURSETITLE, Course Title)dnl
 define(ASSIGNMENTS, Assignments.md)dnl
 define(CALENDAR, SemesterCalendar.md)dnl
 define(A1DUE, Asgt. 1 Due Date)dnl

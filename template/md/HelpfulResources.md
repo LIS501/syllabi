@@ -1,7 +1,7 @@
 # Library Resources
-| <http://www.library.illinois.edu/lsx/>
+| LIBRARYRESOURCES
 | lislib@library.illinois.edu 
-| Phone: (217) 333-3804
+| Phone: (217) 300-8439
 
 # Writing Resources
 The campus-wide Writers Workshop provides free consultations. For more

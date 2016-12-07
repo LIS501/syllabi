@@ -1,9 +1,10 @@
 changecom(<!--,-->)dnl
 define(UPDATEDSTRING, )dnl
 include(MYDEFS)dnl
+include(weblinks.m4)dnl
 include(FORMATDEFS)dnl
 ---
-title: Course Title
+title: COURSETITLE
 author: University of Illinois School of Information Sciences
 date: Last updated syscmd(sh -c "date | tr -d '\n'")
 link-citations: CITELINK
