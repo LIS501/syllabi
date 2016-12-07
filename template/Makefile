@@ -12,5 +12,6 @@ export M4PATH
 %.docx : %.md template.bib
 	pandoc -s --bibliography=template.bib -o $*.docx $*.md
 
-%.html : %.md %.bib
+%.html : %.md template.bib
 	pandoc -s --bibliography=template.bib -o $*.html $*.md
+
