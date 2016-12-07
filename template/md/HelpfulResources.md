@@ -3,7 +3,7 @@
 | lislib@library.illinois.edu 
 | Phone: (217) 300-8439
 
-# Writing Resources
+# Writing and Bibliographic Style Resources
 The campus-wide Writers Workshop provides free consultations. For more
 information see <http://www.cws.illinois.edu/workshop/> The iSchool
 has a Writing Resources Moodle site

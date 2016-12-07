@@ -17,7 +17,7 @@ include(MYSECDATA)
 include(CONTACT1)
 include(CONTACT2)
 include(CourseDescription.md)
-include(OverviewObjectives.md)
+include(OVERVIEW)
 include(CourseMaterials.md)
 include(INSTRUCTOR)
 include(HelpfulResources.md)
@@ -25,6 +25,7 @@ include(Integrity.md)
 include(InclusionAccessibility.md)
 include(ASSIGNMENTS)
 include(CALENDAR)
+include(SAFETY)
 
 FINALSEC
 

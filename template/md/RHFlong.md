@@ -48,7 +48,7 @@ assistance in emergency situations.
 - [police.illinois.edu/safe](http://police.illinois.edu/safe) for more
   information on how to prepare for emergencies, including how to run,
   hide or fight and building floor plans that can show you safe areas.
-- [emergency.illinois.edu](emergency.illinois.edu) to sign up for
+- [emergency.illinois.edu](http://emergency.illinois.edu) to sign up for
   Illini-Alert text messages.
 - Follow the University of Illinois Police Department on Twitter and
   Facebook to get regular updates about campus safety.
