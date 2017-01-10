@@ -1,5 +1,5 @@
 # Assignment 3: Research Design Proposal  {#Asgt3 .task}
-Materials due LAB3DATE, LAB5DATE, LAB7DATE, and LAB10DATE (40 points).
+Materials due LAB3DATE, LAB5DATE, LAB6DATE, LAB7DATE, and LAB10DATE (40 points).
  
 ## Rationale {.context}
 
@@ -32,6 +32,7 @@ work in this class. This is part of your education because:
 - During the first four weeks of class, review the literature related to open questions in a part of
   our discipline that interests you.
 - Complete the research methods exercise during our Week 3 lab session.
+- Complete the readings on finding information.
 - As background for Zotero, complete the LAB6DATE Zotero exercise.
 - As background for the annotated bibliography, review the Purdue University resources on annotated bibliographies here: <https://owl.english.purdue.edu/owl/resource/614/01/> .
 
@@ -42,10 +43,20 @@ work in this class. This is part of your education because:
        (no more than a paragraph). Also provide feedback and
        suggestions to your classmates by replying to their posts.
 
-2. **Research Methods due LAB5DATE**, to be posted to the *Assignment 3B: Research Methods* forum
+2. **Start your research reflection notebook**, to be posted to the *Assignment 3B: Research Reflection* forum
+     - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate. Indicate what method you will be using to track your reflections (while we call this a 'notebook', various approaches can be used). Your instructors will be happy to provide feedback as often as you wish. While this first post is public, future communications about your research reflection may be either public or private as you prefer.
+
+2. **Research Methods due LAB5DATE**, to be posted to the *Assignment 3C: Research Methods* forum
      - Post no more than two paragraphs (the first paragraph is revised from Assignment 3A; the second paragraph is on research methods). In the new paragraph, devise methods for addressing your research question and write a one paragraph description of an approach that you feel would be appropriate for investigating the question. Draw on and connect this to research methods discussed in class. Also provide feedback and suggestions to your classmates by replying to their posts.
 
-3. **Resource List due LAB7DATE**, to the *Assignment 3C: Resource List* forum
+3. **1 annotated bibliography item due LAB6DATE**, to be posted to the *Assignment 3D: Annotated Bibliography* forum
+     - Share 1 annotated resource related to your research question and/or method. Provide a 2-paragraph annotation. The first paragraph should describe the item while the second paragraph should indicate how this item is related to your Also provide feedback and
+       suggestions to your classmates by replying to their posts.
+       
+4. **1 reflection about finding items due LAB6DATE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+     - Reflections might include search strategies, ideas, failed approaches, things you want to try next, or requests for advice.
+
+5. **Resource List due LAB7DATE**, to the *Assignment 3E: Resource List* forum
      - Use Zotero to share 20 resources related to your research
        question and/or method. Your post should include a link to
        Zotero's RSS feed for the collection and 1-2 sentences. This
@@ -53,7 +64,11 @@ work in this class. This is part of your education because:
        are still looking for, or a very brief commentary about a
        resource you found interesting. Also provide feedback and
        suggestions to your classmates by replying to their posts.
-
+       
+ 6. **Research Reflection notebook due LAB10DATE **, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+     - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate.
+     
+     
 ## Final Deliverables  {.result}
 
 
@@ -90,7 +105,8 @@ work in this class. This is part of your education because:
        save methodological details for the extended abstract. Five
        minute summaries are difficult, so practice your presentation
        with a classmate or colleague outside class.
-
+       
+     
 ## Resources {.section}
 
 - Walliman on defining the research problem
