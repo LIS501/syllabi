@@ -52,10 +52,10 @@ work in this class. This is part of your education because:
 3. **1 annotated bibliography item due LAB6DATE**, to be posted to the *Assignment 3D: Annotated Bibliography* forum
      - Share 1 entry from your annotated bibliography. Provide a formatted citation (indicate the citation format used) and a 2-paragraph annotation. The first paragraph should describe the item while the second paragraph should indicate how this item is related to your research question and or/methods. Also provide feedback and suggestions to your classmates by replying to their posts.
        
-4. **1 reflection about finding items due LAB6DATE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+4. **1 reflection about finding items due LAB7DATE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - Reflections might include search strategies, ideas, failed approaches, things you want to try next, or requests for advice.
 
-5. **Resource List due LAB7DATE**, to the *Assignment 3E: Resource List* forum
+5. **Resource List due LAB8DATE**, to the *Assignment 3E: Resource List* forum
      - Use Zotero to share 20 resources related to your research
        question and/or method. Your post should include a link to
        Zotero's RSS feed for the collection and 1-2 sentences. This
