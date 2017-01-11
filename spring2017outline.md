@@ -6,7 +6,7 @@
 - 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & VISIT: ITD on computing resources (ITD) (suggested to Dan but less good)
 - 2.Thurs (1/26) LAB: Reference question exercise (Dubin designs) & (VISIT:Dan?) ASSIGNMENT 1 DUE - Collections 
 - 3.Tues (1/31) Mann/Bates (& VISIT:Dan?) 
-- 3.Thurs (2/2) Problems with information (also a good time for Dan to come, but we didn't suggest)
+- 3.Thurs (2/2) Problems with information I & Problems with information II (aka Why people don't find stuff)
 - 4.Tues (2/7)  Use & users            
 - 4.Thurs (2/9) Research methods         
 - 5.Tues (2/14) Approaches to organizing information   (Schneider)
