@@ -50,8 +50,7 @@ work in this class. This is part of your education because:
      - Post no more than two paragraphs (the first paragraph is revised from Assignment 3A; the second paragraph is on research methods). In the new paragraph, devise methods for addressing your research question and write a one paragraph description of an approach that you feel would be appropriate for investigating the question. Draw on and connect this to research methods discussed in class. Also provide feedback and suggestions to your classmates by replying to their posts.
 
 3. **1 annotated bibliography item due LAB6DATE**, to be posted to the *Assignment 3D: Annotated Bibliography* forum
-     - Share 1 annotated resource related to your research question and/or method. Provide a 2-paragraph annotation. The first paragraph should describe the item while the second paragraph should indicate how this item is related to your Also provide feedback and
-       suggestions to your classmates by replying to their posts.
+     - Share 1 entry from your annotated bibliography. Provide a formatted citation (indicate the citation format used) and a 2-paragraph annotation. The first paragraph should describe the item while the second paragraph should indicate how this item is related to your research question and or/methods. Also provide feedback and suggestions to your classmates by replying to their posts.
        
 4. **1 reflection about finding items due LAB6DATE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - Reflections might include search strategies, ideas, failed approaches, things you want to try next, or requests for advice.
@@ -83,11 +82,11 @@ work in this class. This is part of your education because:
        take.
 
 2. **Due LAB10DATE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
-     - Following the Purdue Writing Lab Guidelines, create a document
-       that integrates annotations with formatted entries. For each
-       resource, write an annotation that situates the work presented
-       with respect to your research question. Overall, the annotated
-       bibliography should connect your problem to what is already
+     - Create an annotated bibliography. Format entries consistency and indicate the citation format you use. Number each entry.
+       For each resource, write a 2-paragraph annotation. The first paragraph should describe the resource while the second paragraph 
+       should situate it with respect to your research question and/or method.
+       
+       Overall, the annotated bibliography should connect your problem to what is already
        known. It should have a meaningful order (which might be
        alphabetical, chronological, or something else). The resource
        list previously submitted may need to be modified, either
@@ -115,3 +114,5 @@ work in this class. This is part of your education because:
 	- <https://owl.english.purdue.edu/owl/resource/614/01/>
 -  Background readings on research methods from week 3
 	- <https://www.zotero.org/groups/lis501/items/collectionKey/7TJ9WWEE>
+- Using Zotero to create an annotated bibliography
+	- <http://guides.main.library.emory.edu/c.php?g=49913&p=323640>
