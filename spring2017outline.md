@@ -11,8 +11,8 @@
 - 4.Thurs (2/9) Research methods         
 - 5.Tues (2/14) LAB: Research methods  & Zotero  ASSIGNMENT 2 DUE - Use & Users
 - 5.Thurs (2/16) Approaches to organizing information   (Schneider) MILESTONE 3 DUE - Research Methods due
-- 6.Tues (2/21) LAB: Cultural heritage object description (SNL)
-- 6.Thurs (2/23) Subject Analysis and subject languages (Schneider) MILESTONE 4 DUE - 1 annotated bibliography item
+- 6.Tues (2/21) Subject Analysis and subject languages (Schneider) 
+- 6.Thurs (2/23) LAB: Cultural heritage object description (SNL) MILESTONE 4 DUE - 1 annotated bibliography item
 - 7.Tues (2/28) What makes a standard? & LAB: UTF-8 (little endian/big endian)
 - 7.Thurs (3/2) LAB: Pandoc on cultural heritage object description MILESTONE 5 DUE - 1 reflection about finding items
 - 8.Tues (3/7) Evaluation of systems and services     (Dubin; Sweeps week) 
@@ -20,10 +20,10 @@
 - 9.Tues (3/14) EPUB 
 - 9.Thurs (3/16) Preservation (TBD)
 - SPRING BREAK
-- 10.Tues (3/28) 
-- 10.Thurs (3/30) 
-- 11.Tues (4/4) Project preparation
-- 11.Thurs LAB: (4/6) Project presentations, student evaluations Assignment 3 DUE
+- 10.Tues (3/28) How is information produced?
+- 10.Thurs (3/30) Project presentations Assignment 3 DUE
+- 11.Tues (4/4) Project preparation (Dave away)
+- 11.Thurs LAB: (4/6) Student evaluations Assignment 3 DUE
 
 
  Search and discovery                   (Schneider)
