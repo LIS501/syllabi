@@ -1,29 +1,35 @@
 # Spring 2017
 
 ## Proposed Fall 2017 outline (11 2-hour session Tuesdays, Thursdays)
-- 1.Tues (1/17) LIS Education and professional life    (Dubin, Schneider)
-- 1.Thurs (1/19) Dan on Library resources (week of 08/23) (Dan)
-- 2.Tues (1/24) Users and information needs            (Schneider; Cordelia Geiken, usability guest)              08/30
-- 2.Thurs (1/26) LAB: ITD on computing resources and Pandoc/Zotero/text editor preview (week of 08/30) (ITD w/Dave)
-- 3.Tues (1/31) Research Methods                       (Bonn and Schneider) 
-- 3.Thurs (2/2) LAB: Research methods exercise
-- 4.Tues (2/7) Structures and Standards               (Dubin)           
-- 4.Thurs (2/9) LAB: Pandoc encoding and transformation: CHO templates (Dave designs, Jodi presents)
-- 5.Tues (2/14) Approaches to organizing information   (Bonn)
+- 1.Tues (1/17)  What is a document? (Dubin, Schneider)
+- 1.Thurs (1/19) What is a collection? (Dubin)
+- 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & ITD on computing resources (ITD)
+- 2.Thurs (1/26) Reference question exercise (Dubin designs) & (Dan?) ASSIGNMENT 1 DUE - Collections 
+- 3.Tues (1/31) Mann/Bates (& Dan?) 
+- 3.Thurs (2/2) Problems with information (also a good time for Dan to come, but we didn't suggest)
+- 4.Tues (2/7)  Use & users            
+- 4.Thurs (2/9) Research methods         
+- 5.Tues (2/14) Approaches to organizing information   (Schneider)
 - 5.Thurs (2/16) LAB: Cultural heritage object description (SNL)
-- 6.Tues (2/21) Collections                            (Bonn)
+- 6.Tues (2/21) Subject Analysis and subject languages (Schneider)
 - 6.Thurs (2/23) LAB: Zotero bibliography and formatting (Jodi)(Jodi presents all)
-- 7.Tues (2/28) Preservation                           (Teper)
+- 7.Tues (2/28) 
 - 7.Thurs (3/2) LAB: Bibo/DC output from Zotero  (Dave)
-- 8.Tues (3/7) Search and discovery                   (Schneider)
-- 8.Thurs (3/9) LAB: Collection stewardship exercise (Maria)
-- 9.Tues (3/14) Evaluation of systems and services     (Dubin)
-- 9.Thurs (3/16) LAB: Project prep
+- 8.Tues (3/7) Evaluation of systems and services     (Dubin; Sweeps week)
+- 8.Thurs (3/9) Search and discovery                   (Schneider)
+- 9.Tues (3/14) Structures & standards ASSIGNMENT 2 DUE - Use & Users
+- 9.Thurs (3/16) Preservation (TBD)
 - SPRING BREAK
-- 10.Tues (3/28) Subject Analysis and subject languages (Schneider)
-- 10.Thurs (3/30) LAB: - Project presentations
-- 11.Tues (4/4) New
-- 11.Thurs LAB: (4/6) New
+- 10.Tues (3/28) 
+- 10.Thurs (3/30) 
+- 11.Tues (4/4) Project preparation
+- 11.Thurs LAB: (4/6) Project presentations, student evaluations
+
+Dan on Library resources (week of 08/23)  and Pandoc/Zotero/text editor preview (week of 08/30) (ITD w/Dave)
+Research Methods                       (Bonn and Schneider) 
+LAB: Research methods exercise
+Structures and Standards   
+LAB: Pandoc encoding and transformation: CHO templates (Dave designs, Jodi presents)
 
 ## Assignments
 1. Use and Users (due week 2, week of 08/30)
