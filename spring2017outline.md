@@ -20,7 +20,7 @@
 - 9.Tues (3/14) EPUB 
 - 9.Thurs (3/16) Preservation (TBD)
 - SPRING BREAK
-- 10.Tues (3/28) How is information produced?
+- 10.Tues (3/28) How is information produced? & LAB: Practice presentations
 - 10.Thurs (3/30) Project presentations Assignment 3 DUE
 - 11.Tues (4/4) Project preparation (Dave away)
 - 11.Thurs LAB: (4/6) Student evaluations Assignment 3 DUE
