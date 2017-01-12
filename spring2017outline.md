@@ -18,7 +18,7 @@
 - 8.Tues (3/7) Evaluation of systems and services     (Dubin; Sweeps week) 
 - 8.Thurs (3/9) Metadata, Metadata interchange LAB: Bibo/DC output from Zotero , Write-n-Cite with Zotero, Zotero bibliography and formatting MILESTONE 6 DUE - Resource List due
 - 9.Tues (3/14) EPUB 
-- 9.Thurs (3/16) Preservation (TBD)
+- 9.Thurs (3/16) VISIT: Preservation - CONFIRMED
 - SPRING BREAK
 - 10.Tues (3/28) How is information produced? & LAB: Practice presentations
 - 10.Thurs (3/30) Project presentations Assignment 3 DUE
