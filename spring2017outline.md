@@ -3,7 +3,7 @@
 ## Proposed Fall 2017 outline (11 2-hour session Tuesdays, Thursdays)
 - 1.Tues (1/17)  What is a document? (Dubin, Schneider) & LAB: .txt, .rtf, .docx
 - 1.Thurs (1/19) What is a collection? (Dubin)
-- 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & VISIT: ITD on computing resources (ITD) (suggested to Dan but less good)
+- 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & VISIT: ITD on computing resources (ITD) 
 - 2.Thurs (1/26) LAB: Reference question exercise (Dubin designs) & (VISIT:Dan?) ASSIGNMENT 1 DUE - Collections 
 - 3.Tues (1/31) Mann/Bates (& VISIT:Dan?) & Return to reference question exercise
 - 3.Thurs (2/2) Problems with information I & Problems with information II (aka Why people don't find stuff) & LAB: Interfaces & Command line MILESTONE 1 DUE - research question, MILESTONE 2 DUE - research reflection
