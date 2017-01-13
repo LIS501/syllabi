@@ -7,17 +7,17 @@
 - 2.Thurs (1/26)LAB: Reference question exercise (Dubin designs) & What is an interface? & LAB: Command line & ASSIGNMENT 1 DUE - Collections 
 - 3.Tues (1/31) VISIT:Dan & How do we find stuff? Mann/Bates & LAB: Return to reference question exercise 
 - 3.Thurs (2/2) Problems with information I & Problems with information II & Problems with information III & MILESTONE 1 DUE - research question, MILESTONE 2 DUE - research reflection
-- 4.Tues (2/7)  Use & users            
-- 4.Thurs (2/9) Research methods         
-- 5.Tues (2/14) LAB: Research methods  & Zotero  ASSIGNMENT 2 DUE - Use & Users
-- 5.Thurs (2/16) Approaches to organizing information   (Schneider) MILESTONE 3 DUE - Research Methods due
+- 4.Tues (2/7)  Use & users 
+- 4.Thurs (2/9) Research methods & LAB: Zotero      
+- 5.Tues (2/14) LAB: Research methods  & LAB: Use & Users discussion & ASSIGNMENT 2 DUE - Use & Users
+- 5.Thurs (2/16) Approaches to organizing information   (Schneider) & MILESTONE 3 DUE - Research Methods due
 - 6.Tues (2/21) Subject Analysis and subject languages (Schneider) 
-- 6.Thurs (2/23) LAB: Cultural heritage object description (SNL) MILESTONE 4 DUE - 1 annotated bibliography item
-- 7.Tues (2/28) What makes a standard? & LAB: UTF-8 (little endian/big endian)
-- 7.Thurs (3/2) LAB: Pandoc on cultural heritage object description MILESTONE 5 DUE - 1 reflection about finding items
+- 6.Thurs (2/23) LAB: Cultural heritage object description (SNL) & MILESTONE 4 DUE - 1 annotated bibliography item
+- 7.Tues (2/28) How do we represent information? & LAB: Pandoc on cultural heritage object description & LAB: Pandoc formatting an ebook
+- 7.Thurs (3/2) What makes a standard? & LAB: UTF-8 (little endian/big endian) & LAB: Pandoc of ebook & MILESTONE 5 DUE - 1 reflection about finding items
 - 8.Tues (3/7) Evaluation of systems and services     (Dubin; Sweeps week) 
-- 8.Thurs (3/9) Metadata, Metadata interchange LAB: Bibo/DC output from Zotero , Write-n-Cite with Zotero, Zotero bibliography and formatting MILESTONE 6 DUE - Resource List due
-- 9.Tues (3/14) EPUB 
+- 8.Thurs (3/9) Metadata, Metadata interchange & LAB: Bibo/DC output from Zotero, Write-n-Cite with Zotero, Zotero bibliography and formatting & MILESTONE 6 DUE - Resource List due
+- 9.Tues (3/14) Problems with information IV: Social Reproduction, subject analysis, identity, and authority
 - 9.Thurs (3/16) VISIT: Preservation - CONFIRMED
 - SPRING BREAK
 - 10.Tues (3/28) How is information produced? & LAB: Practice presentations
