@@ -7,13 +7,38 @@
 
 All: Approaches Collections Evaluation General Introduction Identity Preservation Research Search Structures SubjLanguages UseUsers LIS501
 
+
+Documents: 
+	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o ApproachesBackground.md
+
+Collections: 
+	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o ApproachesBackground.md
+
+Searching: 
+	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o ApproachesBackground.md
+
+Problems:
+	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o ApproachesBackground.md
+
+Users:
+	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsBackground.md
+
+Methods:
+	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsRequired.md
+
+Approaches:
+	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsRequired.md
+
+Subjects:
+	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsRequired.md
+
+
+
+
 Approaches: 
 	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o ApproachesBackground.md
 	curl 'https://api.zotero.org/groups/344216/collections/SCAZAMMH/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o  ApproachesRequired.md
 
-Collections: 
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsBackground.md
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o CollectionsRequired.md
 
 Evaluation: 
 	curl 'https://api.zotero.org/groups/344216/collections/GK7SVKMJ/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o EvaluationBackground.md
