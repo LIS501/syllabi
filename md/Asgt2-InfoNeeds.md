@@ -1,7 +1,7 @@
 
 # Assignment 2 Information Needs/Information Seeking Behavior {#Asgt1 .task}
 
-Due A1DUE (20 points).
+Due A2DUE (20 points).
 
 ## Rationale {.context}
 
