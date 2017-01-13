@@ -6,7 +6,7 @@
 - 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & VISIT: ITD on computing resources (ITD) 
 - 2.Thurs (1/26) LAB: Reference question exercise (Dubin designs) & (VISIT:Dan?) ASSIGNMENT 1 DUE - Collections 
 - 3.Tues (1/31) How do we find stuff? Mann/Bates (& VISIT:Dan?) & Return to reference question exercise
-- 3.Thurs (2/2) Problems with information I & Problems with information II (aka Why people don't find stuff) & LAB: Interfaces & Command line MILESTONE 1 DUE - research question, MILESTONE 2 DUE - research reflection
+- 3.Thurs (2/2) Problems with information I & Problems with information II & Problems with information III & LAB: Interfaces & Command line MILESTONE 1 DUE - research question, MILESTONE 2 DUE - research reflection
 - 4.Tues (2/7)  Use & users            
 - 4.Thurs (2/9) Research methods         
 - 5.Tues (2/14) LAB: Research methods  & Zotero  ASSIGNMENT 2 DUE - Use & Users
