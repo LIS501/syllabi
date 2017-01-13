@@ -1,5 +1,5 @@
 
-# Assignment 1 Information Needs/Information Seeking Behavior {#Asgt1 .task}
+# Assignment 2 Information Needs/Information Seeking Behavior {#Asgt1 .task}
 
 Due A1DUE (20 points).
 
@@ -34,10 +34,10 @@ session in particular) in support of your arguments.
 
 ## Submitting {.postreq}
 
-1. Upload your essay to the Assignment 1 Moodle dropbox.
-2. Post a one-paragraph summary of your article on the Assignment 1
+1. Upload your essay to the Assignment 2 Moodle dropbox.
+2. Post a one-paragraph summary of your article on the Assignment 2
    discussion forum. Your forum post should have a descriptive title and please attach a copy of your article.
-3. Bring a copy of your article to class on LABDATE3 for small group discussion.
+3. Bring a copy of your article to class on LECTUREDATE5 for small group discussion.
 
 ## Strategies for locating research studies {.section}
 
