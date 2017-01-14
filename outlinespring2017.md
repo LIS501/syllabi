@@ -1,7 +1,7 @@
 # Spring 2017
 
-## Proposed Fall 2017 outline (11 2-hour session Tuesdays, Thursdays)
-- 1.Tues (1/17)  What is a document? (Dubin, Schneider) & LAB: .txt, .rtf, .docx
+## Proposed Spring 2017 outline (11 2-hour session Tuesdays, Thursdays)
+- 1.Tues (1/17)  What is a document? (Dubin, Schneider) & LAB: .txt, .rtf, .docx 
 - 1.Thurs (1/19) What is a collection? (Dubin)
 - 2.Tues (1/24) LAB: Collection stewardship exercise (Schneider) & VISIT: ITD on computing resources (ITD) 
 - 2.Thurs (1/26)LAB: Reference question exercise (Dubin designs) & What is an interface? & LAB: Command line & ASSIGNMENT 1 DUE - Collections 
