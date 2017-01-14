@@ -5,65 +5,65 @@
 .SUFFIXES: .tex .dvi .bib .pdf .sgml .html .md
 
 
-All: Approaches Documents Classification Collections Convenience Evaluation General Interfaces Methods Overload Preservation Production Represent Research Searching Serendipity Social Specifying Standards Users LIS501
+All: Approaches Documents Classification Collections Convenience Evaluation Interfaces Methods Overload Preservation Production Represent  Searching Serendipity Social Specifying Standards Users LIS501
 
-LIS501: 
-	curl 'https://api.zotero.org/groups/344216/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o LIS501.md
+LIS501:
+	curl 'https://api.zotero.org/groups/344216/collections/RQXF535V/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o LIS501.md
 
 Documents: 
-	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Documents.md
+	curl 'https://api.zotero.org/groups/344216/collections/Q2ZIVKGF/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Documents.md
 
 Collections: 
-	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Collections.md
+	curl 'https://api.zotero.org/groups/344216/collections/4HG4XXEC/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Collections.md
 
 Searching: 
-	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Searching.md
+	curl 'https://api.zotero.org/groups/344216/collections/Q38UM56R/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Searching.md
 
 Specifying:
-	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Specifying.md
+	curl 'https://api.zotero.org/groups/344216/collections/I8BM3BUB/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Specifying.md
 
 Serendipity:
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Serendipity.md
+	curl 'https://api.zotero.org/groups/344216/collections/NJVZICU3/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Serendipity.md
 
 Interfaces:
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Interfaces.md
+	curl 'https://api.zotero.org/groups/344216/collections/EMNCQKV8/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Interfaces.md
 
 Overload:
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Overload.md
+	curl 'https://api.zotero.org/groups/344216/collections/FPM97CXM/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Overload.md
 
 Convenience:
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Convenience.md
+	curl 'https://api.zotero.org/groups/344216/collections/WAE3FIFM/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Convenience.md
 
 Users:
-	curl 'https://api.zotero.org/groups/344216/collections/Z8V7XKUD/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Users.md
+	curl 'https://api.zotero.org/groups/344216/collections/EF3NZUEH/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Users.md
 
 Methods:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Methods.md
+	curl 'https://api.zotero.org/groups/344216/collections/HSJKH49T/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Methods.md
 
 Approaches:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Approaches.md
+	curl 'https://api.zotero.org/groups/344216/collections/RTXE688E/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Approaches.md
 
 Classification:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Classification.md
+	curl 'https://api.zotero.org/groups/344216/collections/NW6T54SW/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Classification.md
 
 Represent:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Represent.md
+	curl 'https://api.zotero.org/groups/344216/collections/HR2SVG4Z/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Represent.md
 
 Standards:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Standards.md
+	curl 'https://api.zotero.org/groups/344216/collections/DFTSHEQF/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Standards.md
 
 Evaluation:
-	curl 'https://api.zotero.org/groups/344216/collections/IND4XSQX/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Evaluation.md
+	curl 'https://api.zotero.org/groups/344216/collections/KAASH5AR/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Evaluation.md
 
 
 Social: 
-	curl 'https://api.zotero.org/groups/344216/collections/TKFSRD56/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Social.md
+	curl 'https://api.zotero.org/groups/344216/collections/MW3WMQ42/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Social.md
 
 Preservation: 
-	curl 'https://api.zotero.org/groups/344216/collections/QB399RJC/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Preservation.md
+	curl 'https://api.zotero.org/groups/344216/collections/3N9T22FF/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Preservation.md
 
 Production: 
-	curl 'https://api.zotero.org/groups/344216/collections/GK7SVKMJ/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Production.md
+	curl 'https://api.zotero.org/groups/344216/collections/JHUM5Q2Z/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Production.md
 
 
 Test: 
