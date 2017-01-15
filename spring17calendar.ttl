@@ -315,68 +315,58 @@
 
 :A1D1 a :Deadline ;
   rdfs:label "Assignment 1 collections essay"@en ;
-  :deadlineID "A1DUE" ;
-  :dueDuring :Session2-2 ;
-  :dueDate "CLASS02-2DATE" .
+  :date "A1DUE" ;
+  :dueDuring :Session2-2 .
 
 :A2D1 a :Deadline ;
   rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
-  :deadlineID "A2DUE" ;
-  :dueDuring :Session5-1 ;
-  :dueDate "CLASS05-1DATE" .
+  :date "A2DUE" ;
+  :dueDuring :Session5-1 .
 
 :A3M1 a :Deadline ;
   rdfs:label "Assignment 3 research question draft"@en ;
-  :deadlineID "M12DUE" ;
-  :dueDuring :Session3-2 ;
-  :dueDate "CLASS03-2DATE" .
+  :date "M12DUE" ;
+  :dueDuring :Session3-2 .
 
 :A3M2 a :Deadline ;
   rdfs:label "Assignment 3 research reflection"@en ;
-  :deadlineID "M2DUE" ;
-  :dueDuring :Session3-2 ;
-  :dueDate "CLASS03-2DATE" .
+  :date "M2DUE" ;
+  :dueDuring :Session3-2 .
 
 :A3M3 a :Deadline ;
   rdfs:label "Assignment 3 research methods"@en ;
-  :deadlineID "M3DUE" ;
-  :dueDuring :Session5-1 ;
-  :dueDate "CLASS05-1DATE" .
+  :date "M3DUE" ;
+  :dueDuring :Session5-1 .
 
 :A3M4 a :Deadline ;
   rdfs:label "Assignment 3: one annotated bibliography item"@en ;
-  :deadlineID "M4DUE" ;
-  :dueDuring :Session6-2 ;
-  :dueDate "CLASS06-2DATE" .
+  :date "M4DUE" ;
+  :dueDuring :Session6-2 .
 
 :A3M5 a :Deadline ;
   rdfs:label "Assignment 3: one search reflection"@en ;
-  :deadlineID "M5DUE" ;
-  :dueDuring :Session7-2 ;
-  :dueDate "CLASS07-2DATE" .
+  :date "M5DUE" ;
+  :dueDuring :Session7-2 .
 
 :A3M6 a :Deadline ;
   rdfs:label "Assignment 3 resource list"@en ;
-  :deadlineID "M6DUE" ;
-  :dueDuring :Session8-2 ;
-  :dueDate "CLASS08-2DATE" .
+  :date "M6DUE" ;
+  :dueDuring :Session8-2 .
 
 :A3D1 a :Deadline ;
   rdfs:label "Assignment 3 extended abstract"@en ;
-  :deadlineID "A3ADUE" ;
-  :dueDuring :Session12-2 ;
-  :dueDate "CLASS12-2DATE" .
+  :date "A3ADUE" ;
+  :dueDuring :Session12-2 .
 
 :A3D2 a :Deadline ;
   rdfs:label "Assignment 3 annotated bibliography"@en ;
-  :deadlineID "A3BDUE" ;
-  :dueDuring :Session12-2 ;
-  :dueDate "CLASS12-2DATE" .
+  :date "A3BDUE" ;
+  :dueDuring :Session12-2 .
 
 :A3D3 a :Deadline ;
   rdfs:label "Assignment 3 oral presentation"@en ;
-  :deadlineID "A3CDUE" ;
-  :dueDuring :Session11-2 ;
-  :dueDate "CLASS11-2DATE" .
+  :date "A3CDUE" ;
+  :dueDuring :Session11-2 .
+
 
 
