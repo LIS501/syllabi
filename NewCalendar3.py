@@ -77,6 +77,7 @@ wlist = sessionstart.keys()
 wlist.sort()
 for d in wlist:
         myweek = weekdate = myconcept = required = background  = ''
+        topics = {}
 	for o in mygraph.objects(sessionstart[d], RDFS.label):
 	      myweek = str(o)
 	for o in mygraph.objects(sessionstart[d], l501.date):
@@ -84,17 +85,19 @@ for d in wlist:
 	for s in mygraph.objects(sessionstart[d],dc.subject):
 	      for p in mygraph.objects(s,skos.prefLabel):
                       myconcept = str(p)
-                      for q in mygraph.objects(s,l501.backgroundReading):
-                              background = str(q)
-                      for r in mygraph.objects(s,l501.reqReading):
-                              required = str(r)
+              for q in mygraph.objects(s,l501.backgroundReading):
+                      background = str(q)
+              for r in mygraph.objects(s,l501.reqReading):
+                      required = str(r)
+              topics[myconcept] = required  
         cldrfile.write("\n")
-        cldrfile.write("### " +  myweek + ": " + weekdate + ": " + myconcept + "\n")
-        cldrfile.write("\n")
-        rstring = "**Required Readings:** "
-        if required:
-          cldrfile.write(rstring + " " + required + "\n")
-          cldrfile.write("\n")
+        cldrfile.write("### " +  myweek + ": " + weekdate + ": \n")
+        for t in topics.keys():
+            cldrfile.write("#### " + t + "\n")
+            rstring = "**Required Readings:** "
+            if required:
+              cldrfile.write(rstring + " " + topics[t] + "\n")
+              cldrfile.write("\n")
         dstring = "**Due today:** "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
