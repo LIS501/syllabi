@@ -32,110 +32,110 @@
   dcterms:subject :GenBackground ;
   rdfs:label "Fall semester"@en .
 
-:Session1-1 a event:Event ;
+:Session1-1 a :Session ;
   :date "CLASS01-1DATE" ;
   dcterms:subject :Documents ;
   rdfs:label "Week 1, session 1"@en .
 
-:Session1-2 a event:Event ;
+:Session1-2 a :Session ;
   :date "CLASS01-2DATE" ;
   dcterms:subject :Collections ;
   rdfs:label "Week 1, session 2"@en .
 
-:Session2-1 a event:Event ;
+:Session2-1 a :Session ;
   :date "CLASS02-1DATE" ;
   rdfs:label "Week 2, session 1"@en .
 
-:Session2-2 a event:Event ;
+:Session2-2 a :Session ;
   :date "CLASS02-2DATE" ;
   dcterms:subject :Interfaces ;
   rdfs:label "Week 2, session 2"@en .
 
-:Session3-1 a event:Event ;
+:Session3-1 a :Session ;
   :date "CLASS03-1DATE" ;
   dcterms:subject :Searching ;
   rdfs:label "Week 3, session 1"@en .
 
-:Session3-2 a event:Event ;
+:Session3-2 a :Session ;
   :date "CLASS03-2DATE" ;
   dcterms:subject :Specifying, :Convenience, :Overload, :Social ;
   rdfs:label "Week 3, session 2"@en .
 
-:Session4-1 a event:Event ;
+:Session4-1 a :Session ;
   :date "CLASS04-1DATE" ;
   dcterms:subject :Users ;
   rdfs:label "Week 4, session 1"@en .
 
-:Session4-2 a event:Event ;
+:Session4-2 a :Session ;
   :date "CLASS04-2DATE" ;
   dcterms:subject :Methods ;
   rdfs:label "Week 1, session 1"@en .
 
-:Session5-1 a event:Event ;
+:Session5-1 a :Session ;
   :date "CLASS05-1DATE" ;
   rdfs:label "Week 5, session 1"@en .
 
-:Session5-2 a event:Event ;
+:Session5-2 a :Session ;
   :date "CLASS05-2DATE" ;
   dcterms:subject :Approaches ;
   rdfs:label "Week 5, session 2"@en .
 
-:Session6-1 a event:Event ;
+:Session6-1 a :Session ;
   :date "CLASS06-1DATE" ;
   dcterms:subject :Classification ;
   rdfs:label "Week 6, session 1"@en .
 
-:Session6-2 a event:Event ;
+:Session6-2 a :Session ;
   :date "CLASS06-2DATE" ;
   rdfs:label "Week 6, session 2"@en .
 
-:Session7-1 a event:Event ;
+:Session7-1 a :Session ;
   :date "CLASS07-1DATE" ;
   dcterms:subject :Represent ;
   rdfs:label "Week 7, session 1"@en .
 
-:Session7-2 a event:Event ;
+:Session7-2 a :Session ;
   :date "CLASS07-2DATE" ;
   dcterms:subject :Standards ;
   rdfs:label "Week 7, session 2"@en .
 
-:Session8-1 a event:Event ;
+:Session8-1 a :Session ;
   :date "CLASS08-1DATE" ;
   dcterms:subject :Evaluation ;
   rdfs:label "Week 8, session 1"@en .
 
-:Session8-2 a event:Event ;
+:Session8-2 a :Session ;
   :date "CLASS08-2DATE" ;
   rdfs:label "Week 8, session 2"@en .
 
-:Session9-1 a event:Event ;
+:Session9-1 a :Session ;
   :date "CLASS09-1DATE" ;
   dcterms:subject :Social ;
   rdfs:label "Week 9, session 1"@en .
 
-:Session9-2 a event:Event ;
+:Session9-2 a :Session ;
   :date "CLASS09-2DATE" ;
   dcterms:subject :Preservation ;
   rdfs:label "Week 9, session 2"@en .
 
-:Session10-1 a event:Event ;
+:Session10-1 a :Session ;
   :date "CLASS10-1DATE" ;
   rdfs:label "Spring break, no class meeting"@en .
 
-:Session11-1 a event:Event ;
+:Session11-1 a :Session ;
   :date "CLASS11-1DATE" ;
   dcterms:subject :Production ;
   rdfs:label "Week 11, session 1"@en .
 
-:Session11-2 a event:Event ;
+:Session11-2 a :Session ;
   :date "CLASS11-2DATE" ;
   rdfs:label "Week 11, session 2"@en .
 
-:Session12-1 a event:Event ;
+:Session12-1 a :Session ;
   :date "CLASS12-1DATE" ;
   rdfs:label "Week 12, session 1"@en .
 
-:Session12-2 a event:Event ;
+:Session12-2 a :Session ;
   :date "CLASS12-2DATE" ;
   rdfs:label "Week 1, session 1"@en .
 
@@ -283,7 +283,7 @@
   rdfs:label "Assignment 3: Research Design Proposal"@en ;
   :moodleURL hwk:MOODLEASGT3 ;
   :sylSecId "ResearchProposal" ;
-  :hasDeadline :A3M1, :A3M2, :A3M3, :A3D1, :A3D2, :A3D3 .
+  :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6, :A3D1, :A3D2, :A3D3 .
 
 :Asgt2 a :Assignment ;
   rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior"@en ;
@@ -299,42 +299,68 @@
 
 :A1D1 a :Deadline ;
   rdfs:label "Assignment 1 collections essay"@en ;
+  :deadlineID "A1DUE" ;
   :dueDuring :Session2-2 ;
   :dueDate "CLASS02-2DATE" .
 
 :A2D1 a :Deadline ;
   rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
+  :deadlineID "A2DUE" ;
   :dueDuring :Session5-1 ;
   :dueDate "CLASS05-1DATE" .
 
 :A3M1 a :Deadline ;
   rdfs:label "Assignment 3 research question draft"@en ;
+  :deadlineID "M12DUE" ;
   :dueDuring :Session3-2 ;
   :dueDate "CLASS03-2DATE" .
 
 :A3M2 a :Deadline ;
   rdfs:label "Assignment 3 research reflection"@en ;
+  :deadlineID "M2DUE" ;
   :dueDuring :Session3-2 ;
   :dueDate "CLASS03-2DATE" .
 
 :A3M3 a :Deadline ;
+  rdfs:label "Assignment 3 research methods"@en ;
+  :deadlineID "M3DUE" ;
+  :dueDuring :Session5-1 ;
+  :dueDate "CLASS05-1DATE" .
+
+:A3M4 a :Deadline ;
+  rdfs:label "Assignment 3: one annotated bibliography item"@en ;
+  :deadlineID "M4DUE" ;
+  :dueDuring :Session6-2 ;
+  :dueDate "CLASS06-2DATE" .
+
+:A3M5 a :Deadline ;
+  rdfs:label "Assignment 3: one search reflection"@en ;
+  :deadlineID "M5DUE" ;
+  :dueDuring :Session7-2 ;
+  :dueDate "CLASS07-2DATE" .
+
+:A3M6 a :Deadline ;
   rdfs:label "Assignment 3 resource list"@en ;
-  :dueDuring :Week7 ;
-  :dueDate "LAB7DATE" .
+  :deadlineID "M6DUE" ;
+  :dueDuring :Session8-2 ;
+  :dueDate "CLASS08-2DATE" .
 
 :A3D1 a :Deadline ;
   rdfs:label "Assignment 3 extended abstract"@en ;
-  :dueDuring :Week10 ;
-  :dueDate "LAB10DATE" .
+  :deadlineID "A3ADUE" ;
+  :dueDuring :Session12-2 ;
+  :dueDate "CLASS12-2DATE" .
 
 :A3D2 a :Deadline ;
   rdfs:label "Assignment 3 annotated bibliography"@en ;
-  :dueDuring :Week10 ;
-  :dueDate "LAB10DATE" .
+  :deadlineID "A3BDUE" ;
+  :dueDuring :Session12-2 ;
+  :dueDate "CLASS12-2DATE" .
 
 :A3D3 a :Deadline ;
   rdfs:label "Assignment 3 oral presentation"@en ;
-  :dueDuring :Week10 ;
-  :dueDate "LAB10DATE" .
+  :deadlineID "A3CDUE" ;
+  :dueDuring :Session11-2 ;
+  :dueDate "CLASS11-2DATE" .
 
 
