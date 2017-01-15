@@ -10,24 +10,24 @@ define(INSTRUCTOR2, AboutDubin.md)dnl
 define(INSTRUCTOR1, AboutSchneider.md)dnl
 define(INSTRUCTOR3, Empty.md)dnl
 define(TEACHINGAST, Empty.md)dnl
-define(CLASS1-1DATE, January 17)dnl
-define(CLASS1-2DATE, January 19)dnl
-define(CLASS2-1DATE, January 24)dnl
-define(CLASS2-2DATE, January 26)dnl
-define(CLASS3-1DATE, January 31)dnl
-define(CLASS3-2DATE, February 2)dnl
-define(CLASS4-1DATE, February 7)dnl
-define(CLASS4-2DATE, February 9)dnl
-define(CLASS5-1DATE, February 14)dnl
-define(CLASS5-2DATE, Febrary 16)dnl
-define(CLASS6-1DATE, February 21)dnl
-define(CLASS6-2DATE, February 23)dnl
-define(CLASS7-1DATE, February 28)dnl
-define(CLASS7-2DATE, March 2)dnl
-define(CLASS8-1DATE, March 7)dnl
-define(CLASS8-2DATE, March 9)dnl
-define(CLASS9-1DATE, March 14)dnl
-define(CLASS9-2DATE, March 16)dnl
+define(CLASS01-1DATE, January 17)dnl
+define(CLASS01-2DATE, January 19)dnl
+define(CLASS02-1DATE, January 24)dnl
+define(CLASS02-2DATE, January 26)dnl
+define(CLASS03-1DATE, January 31)dnl
+define(CLASS03-2DATE, February 2)dnl
+define(CLASS04-1DATE, February 7)dnl
+define(CLASS04-2DATE, February 9)dnl
+define(CLASS05-1DATE, February 14)dnl
+define(CLASS05-2DATE, Febrary 16)dnl
+define(CLASS06-1DATE, February 21)dnl
+define(CLASS06-2DATE, February 23)dnl
+define(CLASS07-1DATE, February 28)dnl
+define(CLASS07-2DATE, March 2)dnl
+define(CLASS08-1DATE, March 7)dnl
+define(CLASS08-2DATE, March 9)dnl
+define(CLASS09-1DATE, March 14)dnl
+define(CLASS09-2DATE, March 16)dnl
 define(CLASS10-1DATE, March 21)dnl
 define(CLASS10-2DATE, March 23)dnl
 define(CLASS11-1DATE, March 28)dnl

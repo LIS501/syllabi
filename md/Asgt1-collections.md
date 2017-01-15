@@ -1,4 +1,4 @@
-# Assignment 1 Collections Assessment and Comparison {#Asgt1 .task}
+# Assignment 1 Collections Assessment and Comparison {#CollectionsAsgt .task}
 Due A1DUE (20 points).
 
 ## Summary {.shortdesc}

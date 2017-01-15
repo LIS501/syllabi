@@ -1,5 +1,5 @@
 
-# Assignment 2 Information Needs/Information Seeking Behavior {#Asgt1 .task}
+# Assignment 2 Information Needs/Information Seeking Behavior {#InfoNeedsAsgt .task}
 
 Due A2DUE (20 points).
 
