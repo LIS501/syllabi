@@ -58,7 +58,7 @@
 
 :Session3-2 a :Session ;
   :date "CLASS03-2DATE" ;
-  dcterms:subject :Specifying, :Convenience, :Overload, :Social ;
+  dcterms:subject :Social, :Overload, :Convenience, :Specifying ;
   rdfs:label "Week 3, session 2"@en .
 
 :Session4-1 a :Session ;
@@ -241,7 +241,7 @@
 
 :Convenience a skos:Concept ;
   :reqReading bib:Convenience ;
-  skos:prefLabel "More information problems"@en.
+  skos:prefLabel "Small worlds, convenience and information poverty"@en.
 
 :Evaluation a skos:Concept ;
   :reqReading bib:Evaluation ;
@@ -257,7 +257,7 @@
 
 :Overload a skos:Concept ;
   :reqReading bib:Overload ;
-  skos:prefLabel "Still more information problems"@en.
+  skos:prefLabel "Information overload and anxiety"@en.
 
 :Preservation a skos:Concept ;
   :reqReading bib:Preservation ;
@@ -281,11 +281,11 @@
 
 :Social a skos:Concept ;
   :reqReading bib:Social ;
-  skos:prefLabel "Yet more information problems"@en.
+  skos:prefLabel "Indigenous knowledge and social reproduction"@en.
 
 :Specifying a skos:Concept ;
   :reqReading bib:Specifying ;
-  skos:prefLabel "Specifying information needs"@en.
+  skos:prefLabel "Anomalous states of knowledge"@en.
 
 :Standards a skos:Concept ;
   :reqReading bib:Standards ;
