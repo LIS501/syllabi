@@ -316,57 +316,57 @@
 :A1D1 a :Deadline ;
   rdfs:label "Assignment 1 collections essay"@en ;
   :date "A1DUE" ;
-  :dueDuring :Session2-2 .
+  :during :Session2-2 .
 
 :A2D1 a :Deadline ;
   rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
   :date "A2DUE" ;
-  :dueDuring :Session5-1 .
+  :during :Session5-1 .
 
 :A3M1 a :Deadline ;
   rdfs:label "Assignment 3 research question draft"@en ;
   :date "M12DUE" ;
-  :dueDuring :Session3-2 .
+  :during :Session3-2 .
 
 :A3M2 a :Deadline ;
   rdfs:label "Assignment 3 research reflection"@en ;
   :date "M2DUE" ;
-  :dueDuring :Session3-2 .
+  :during :Session3-2 .
 
 :A3M3 a :Deadline ;
   rdfs:label "Assignment 3 research methods"@en ;
   :date "M3DUE" ;
-  :dueDuring :Session5-1 .
+  :during :Session5-1 .
 
 :A3M4 a :Deadline ;
   rdfs:label "Assignment 3: one annotated bibliography item"@en ;
   :date "M4DUE" ;
-  :dueDuring :Session6-2 .
+  :during :Session6-2 .
 
 :A3M5 a :Deadline ;
   rdfs:label "Assignment 3: one search reflection"@en ;
   :date "M5DUE" ;
-  :dueDuring :Session7-2 .
+  :during :Session7-2 .
 
 :A3M6 a :Deadline ;
   rdfs:label "Assignment 3 resource list"@en ;
   :date "M6DUE" ;
-  :dueDuring :Session8-2 .
+  :during :Session8-2 .
 
 :A3D1 a :Deadline ;
   rdfs:label "Assignment 3 extended abstract"@en ;
   :date "A3ADUE" ;
-  :dueDuring :Session12-2 .
+  :during :Session12-2 .
 
 :A3D2 a :Deadline ;
   rdfs:label "Assignment 3 annotated bibliography"@en ;
   :date "A3BDUE" ;
-  :dueDuring :Session12-2 .
+  :during :Session12-2 .
 
 :A3D3 a :Deadline ;
   rdfs:label "Assignment 3 oral presentation"@en ;
   :date "A3CDUE" ;
-  :dueDuring :Session11-2 .
+  :during :Session11-2 .
 
 
 

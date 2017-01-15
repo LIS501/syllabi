@@ -35,12 +35,13 @@ for s in mygraph.subjects(RDF.type, l501.Session):
 	for i in mygraph.objects(s,l501.date):
 	    sessionstart[str(i)] = s
 deadlines = {}
+activities = {}
 
 for d in mygraph.subjects(RDF.type, l501.Deadline):
-                            sessiondue = duedate = dlabel = ""
+                            sessiondue = sessiondate = duedate = dlabel = ""
                             for o in mygraph.objects(d,RDFS.label):
                                     dlabel = str(o)
-                            for o in mygraph.objects(d,l501.dueDuring):
+                            for o in mygraph.objects(d,l501.during):
                                     sessiondue = o
                                     for p in mygraph.objects(o,l501.date):
                                         sessiondate = p
@@ -48,6 +49,21 @@ for d in mygraph.subjects(RDF.type, l501.Deadline):
                                     duedate = str(o)
                             deadlines[sessiondue] = dlabel + ", Due " + duedate
                             newdefs[duedate] = sessiondate 
+
+for d in mygraph.subjects(RDF.type, l501.Activity):
+                            sessiondue = sessiondate = duedate = dlabel = ""
+                            for o in mygraph.objects(d,RDFS.label):
+                                    dlabel = str(o)
+                            for o in mygraph.objects(d,l501.during):
+                                    sessiondue = o
+                                    for p in mygraph.objects(o,l501.date):
+                                        sessiondate = p
+                            for o in mygraph.objects(d,l501.date):
+                                    duedate = str(o)
+                            activities[sessiondue] = dlabel + ", Due " + duedate
+                            newdefs[duedate] = sessiondate 
+
+
                             
 cldrfile.write("# Topic Schedule\n")
 
