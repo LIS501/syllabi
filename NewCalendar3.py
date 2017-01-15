@@ -47,7 +47,10 @@ for d in mygraph.subjects(RDF.type, l501.Deadline):
                                         sessiondate = p
                             for o in mygraph.objects(d,l501.date):
                                     duedate = str(o)
-                            deadlines[sessiondue] = dlabel + ", Due " + duedate
+                            if (sessiondue in deadlines.keys()):
+                                deadlines[sessiondue] += ("\n- " + dlabel)
+                            else:
+                                deadlines[sessiondue] = ("\n- " + dlabel)
                             newdefs[duedate] = sessiondate 
 
 for d in mygraph.subjects(RDF.type, l501.Activity):
@@ -60,7 +63,10 @@ for d in mygraph.subjects(RDF.type, l501.Activity):
                                         sessiondate = p
                             for o in mygraph.objects(d,l501.date):
                                     duedate = str(o)
-                            activities[sessiondue] = dlabel
+                            if (sessiondue in activities.keys()):
+                                activities[sessiondue] += ("\n- " + dlabel)
+                            else:
+                                activities[sessiondue] = ("\n- " + dlabel)
                             newdefs[duedate] = sessiondate 
 
 
@@ -69,11 +75,12 @@ cldrfile.write("# Topic Schedule\n")
 
 wlist = sessionstart.keys()
 wlist.sort()
-weeknum = 0
 for d in wlist:
-        myweek = myconcept = required = background  = ''
+        myweek = weekdate = myconcept = required = background  = ''
 	for o in mygraph.objects(sessionstart[d], RDFS.label):
 	      myweek = str(o)
+	for o in mygraph.objects(sessionstart[d], l501.date):
+	      weekdate = str(o)
 	for s in mygraph.objects(sessionstart[d],dc.subject):
 	      for p in mygraph.objects(s,skos.prefLabel):
                       myconcept = str(p)
@@ -81,8 +88,6 @@ for d in wlist:
                               background = str(q)
                       for r in mygraph.objects(s,l501.reqReading):
                               required = str(r)
-        weeknum += 1
-        weekdate = 'PRES' + str(weeknum) + 'DATE'
         cldrfile.write("\n")
         cldrfile.write("### " +  myweek + ": " + weekdate + ": " + myconcept + "\n")
         cldrfile.write("\n")
@@ -90,7 +95,7 @@ for d in wlist:
         if required:
           cldrfile.write(rstring + " " + required + "\n")
           cldrfile.write("\n")
-        dstring = "**Due this week:** "
+        dstring = "**Due today:** "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
                 cldrfile.write("\n")
