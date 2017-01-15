@@ -1,13 +1,6 @@
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
-Berger, Arthur Asa. “On the Structure of Genres.” In *Popular Culture
-Genres: Theories and Texts*, 3–12. Thousand Oaks,  CA: Sage, 1992.
-https://reserves.library.illinois.edu/.
-
-Bush, Vannevar. “As We May Think.” *The Atlantic Monthly*, 1945.
-http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm.
-
 Carey, Kevin. “A Peek Inside the Strange World of Fake Academia.” *The
 New York Times*, December 29, 2016.
 http://www.nytimes.com/2016/12/29/upshot/fake-academe-looking-much-like-the-real-thing.html.

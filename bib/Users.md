@@ -1,6 +1,10 @@
 <div class="csl-bib-body"
 style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
 
+Fidel, Raya. “User-Centered Indexing.” *Journal of the American Society
+for Information Science* 45, no. 8 (1994): 572–76. \[Locate full text
+from http://sfx.carli.illinois.edu/sfxuiu/az\].
+
 Gossen, Tatiana, and Andreas Nürnberger. “Specifics of Information
 Retrieval for Young Users: A Survey.” *Information Processing &
 Management* 49, no. 4 (July 2013): 739–56. \[Locate full text from
