@@ -141,66 +141,82 @@
 
 :LabCollection a :Activity ;
   :during :Session2-1 ;
+  :date "COLLECTIONLABDATE" ;
   rdfs:label "Collection stewardship exercise"@en .
 
 :LabReference a :Activity ;
   :during :Session2-2 ;
+  :date "REFLAB1DATE" ;
   rdfs:label "Reference question exercise"@en .
 
 :LabInterface a :Activity ;
   :during :Session2-2 ;
+  :date "INTERFACELABDATE" ;
   rdfs:label "Command line exercise"@en .
 
 :LabReference2 a :Activity ;
   :during :Session3-1 ;
+  :date "REFLAB2DATE" ;
   rdfs:label"Revisit reference questions"@en .
 
 :LabZotero1 a :Activity ;
   :during :Session4-2 ;
+  :date "ZOTERO1LABDATE" ;
   rdfs:label "Zotero exercise"@en .
 
 :LabMethods a :Activity ;
   :during :Session5-1 ;
+  :date "METHODSLABDATE" ;
   rdfs:label "Research methods exercise"@en .
 
 :LabUsers a :Activity ;
   :during :Session5-1 ;
+  :date "USERSLABDATE";
   rdfs:label "Use and Users discussion"@en .
 
 :LabSpurlock a :Activity ;
   :during :Session6-2 ;
+  :date "SPURLOCKDATE";  
   rdfs:label "Cultural heritage object description exercise"@en .
 
 :LabPandoc1 a :Activity ;
   :during :Session7-1 ;
+  :date "PANDOC1LABDATE" ;
   rdfs:label "Pandoc exercise: cultural heritage metadata"@en .
 
 :LabPandoc2 a :Activity ;
   :during :Session7-2 ;
+  :date "PANDOC2LABDATE" ;
   rdfs:label "Pandoc exercise: text encoding"@en .
 
 :LabUnicode a :Activity ;
   :during :Session7-2 ;
+  :date "UNICODELABDATE" ;
   rdfs:label "Character encoding exercise"@en .
 
 :LabZotero2 a :Activity ;
   :during :Session8-2 ;
+  :date "ZOTERO2LABDATE" ;
   rdfs:label "Zotero applications"@en .
 
 :Practice a :Activity ;
   :during :Session11-1 ;
+  :date "PRACTICEDATE" ;
   rdfs:label "Practice presentations"@en .
 
 :Presentations a :Activity ;
   :during :Session11-2 ;
+  :date "PRESENTATIONSDATE" ;
   rdfs:label "Project presentations"@en .
 
 :Preparation a :Activity ;
   :during :Session12-1 ;
+  :date "PREPARATIONDATE" ;
   rdfs:label "Project preparation"@en .
 
 :ICES a :Activity ;
   :during :Session12-2 ;
+  :date "ICESDATE" ;
   rdfs:label "ICES evaluations"@en .
 
 :LIS501 a skos:Concept ;
