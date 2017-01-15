@@ -282,8 +282,30 @@
 :Asgt3 a :Assignment ;
   rdfs:label "Assignment 3: Research Design Proposal"@en ;
   :moodleURL hwk:MOODLEASGT3 ;
-  :sylSecId "Asgt3" ;
+  :sylSecId "ResearchProposal" ;
   :hasDeadline :A3M1, :A3M2, :A3M3, :A3D1, :A3D2, :A3D3 .
+
+:Asgt2 a :Assignment ;
+  rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior"@en ;
+  :moodleURL hwk:MOODLEASGT2 ;
+  :sylSecId "InfoNeedsAsgt" ;
+  :hasDeadline :A2D1 .
+
+:Asgt1 a :Assignment ;
+  rdfs:label "Assignment 1 Collections Assessment and Comparison"@en ;
+  :moodleURL hwk:MOODLEASGT1 ;
+  :sylSecId "CollectionsAsgt" ;
+  :hasDeadline :A1D1 .
+
+:A1D1 a :Deadline ;
+  rdfs:label "Assignment 2 collections essay"@en ;
+  :dueDuring :Week6 ;
+  :dueDate "LAB6DATE" .
+
+:A2D1 a :Deadline ;
+  rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
+  :dueDuring :Week2 ;
+  :dueDate "LAB2DATE" .
 
 :A3M1 a :Deadline ;
   rdfs:label "Assignment 3 research question draft"@en ;
@@ -315,24 +337,4 @@
   :dueDuring :Week10 ;
   :dueDate "LAB10DATE" .
 
-:Asgt2 a :Assignment ;
-  rdfs:label "Assignment 2 Digital Collections Assessment"@en ;
-  :moodleURL hwk:MOODLEASGT2 ;
-  :sylSecId "Asgt2" ;
-  :hasDeadline :A2D1 .
 
-:A2D1 a :Deadline ;
-  rdfs:label "Assignment 2 collections essay"@en ;
-  :dueDuring :Week6 ;
-  :dueDate "LAB6DATE" .
-
-:Asgt1 a :Assignment ;
-  rdfs:label "Assignment 1 Information Needs/Information Seeking Behavior"@en ;
-  :moodleURL hwk:MOODLEASGT1 ;
-  :sylSecId "Asgt1" ;
-  :hasDeadline :A1D1 .
-
-:A1D1 a :Deadline ;
-  rdfs:label "Assignment 1 information seeking behavior/needs essay"@en ;
-  :dueDuring :Week2 ;
-  :dueDate "LAB2DATE" .

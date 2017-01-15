@@ -1,4 +1,4 @@
-# Assignment 3: Research Design Proposal  {#Asgt3 .task}
+# Assignment 3: Research Design Proposal  {#ResearchProposal .task}
 Materials due LAB3DATE, LAB5DATE, LAB6DATE, LAB7DATE, and LAB10DATE (40 points).
  
 ## Rationale {.context}
