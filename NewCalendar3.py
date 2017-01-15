@@ -94,15 +94,20 @@ for d in wlist:
         cldrfile.write("### " +  myweek + ": " + weekdate + ": \n")
         for t in topics.keys():
             cldrfile.write("#### " + t + "\n")
-            rstring = "**Required Readings:** "
+            rstring = "**Required Readings:** \n"
             if required:
-              cldrfile.write(rstring + " " + topics[t] + "\n")
+              cldrfile.write(rstring)
               cldrfile.write("\n")
-        dstring = "**Due today:** "
+              bibfile = topics[t][5:] + '.md'
+              with open(bibfile, 'r') as md_file:
+                  md_str = md_file.read()
+                  cldrfile.write(md_str)
+
+        dstring = "#### Due today: "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
                 cldrfile.write("\n")
-        astring = "**In class:** "
+        astring = "#### In class: "
         if sessionstart[d] in activities.keys():
                 cldrfile.write(astring + " " + activities[sessionstart[d]] + "\n")
                 cldrfile.write("\n")

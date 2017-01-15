@@ -144,6 +144,12 @@
   :date "COLLECTIONLABDATE" ;
   rdfs:label "Collection stewardship exercise"@en .
 
+:ITDvisit a :Activity ;
+  :during :Session2-1 ;
+  :date "ITDDATE" ;
+  rdfs:label "ITD on Computing resources"@en .
+
+
 :LabReference a :Activity ;
   :during :Session2-2 ;
   :date "REFLAB1DATE" ;
