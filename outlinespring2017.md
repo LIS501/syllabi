@@ -36,35 +36,35 @@
 ## Participation (3 points)
 
 ## Discussion Leading (3 points)
-Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a question.
+1. Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a question.
 
 ## Ungraded Assignments (5 points)
-Week 1: On the introduction forum, post a brief introduction including: your experience in the iSchool and your motivation for pursuing this degree. 
-Class 1.2: Complete sign up for Assignment 1 topics on the wiki set up for this purpose. 
-???: Database design (LibraryThing) - 3 points
+1. Week 1: On the introduction forum, post a brief introduction including: your experience in the iSchool and your motivation for pursuing this degree. 
+2. Class 1.2: Complete sign up for Assignment 1 topics on the wiki set up for this purpose. 
+3. (3 points) ???: Database design (LibraryThing)
 
 ## Assignment 3 Milestones (7 points)
-MILESTONE 1 - research question (1 paragraph) - due Class 3.2 Thurs (2/2)
-MILESTONE 2 - research reflection plan - due Class 3.2 Thurs (2/2)
-MILESTONE 3 - Research Methods (2 paragraphs) -  due Class 5.2 Thurs (2/16)
-MILESTONE 4 - 1 annotated bibliography item - due Class 6.2 Thurs (2/23)
-MILESTONE 5 - 1 reflection about finding items - due Class 7.2 Thurs (3/2)
-MILESTONE 6 - Share 20 resources via Zotero
-MILESTONE 7 - Abstract outline & 2 annotations due week 9 ???
+1. MILESTONE 1 - research question (1 paragraph) - due Class 3.2 Thurs (2/2)
+2. MILESTONE 2 - research reflection plan - due Class 3.2 Thurs (2/2)
+3. MILESTONE 3 - Research Methods (2 paragraphs) -  due Class 5.2 Thurs (2/16)
+4. MILESTONE 4 - 1 annotated bibliography item - due Class 6.2 Thurs (2/23)
+5. MILESTONE 5 - 1 reflection about finding items - due Class 7.2 Thurs (3/2)
+6. MILESTONE 6 - Share 20 resources via Zotero
+7. MILESTONE 7 - Abstract outline & 2 annotations due week 9 ???
 
 ## Ungraded Labs (15 points)
-LAB: .txt, .rtf, .docx 
-LAB: Collection stewardship exercise (Schneider)
-LAB: Command line
-LAB: Reference question exercise (Dubin designs)
-LAB: Return to reference question exercise 
-LAB: Zotero
-LAB: Research methods
-LAB: Use & Users discussion
-LAB: Cultural heritage object description
-LAB: Pandoc on cultural heritage object description
-LAB: Pandoc formatting an ebook
-LAB: UTF-8 (little endian/big endian)
-LAB: Pandoc of ebook
-LAB: Bibo/DC output from Zotero, Write-n-Cite with Zotero, Zotero bibliography and formatting
-LAB: Practice presentations
+1. LAB: .txt, .rtf, .docx 
+2. LAB: Collection stewardship exercise (Schneider)
+3. LAB: Command line
+4. LAB: Reference question exercise (Dubin designs)
+5. LAB: Return to reference question exercise 
+6. LAB: Zotero
+7. LAB: Research methods
+8. LAB: Use & Users discussion
+9. LAB: Cultural heritage object description
+10. LAB: Pandoc on cultural heritage object description
+11. LAB: Pandoc formatting an ebook
+12. LAB: UTF-8 (little endian/big endian)
+13. LAB: Pandoc of ebook
+14. LAB: Bibo/DC output from Zotero, Write-n-Cite with Zotero, Zotero bibliography and formatting
+15. LAB: Practice presentations
