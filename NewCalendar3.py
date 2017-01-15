@@ -60,7 +60,7 @@ for d in mygraph.subjects(RDF.type, l501.Activity):
                                         sessiondate = p
                             for o in mygraph.objects(d,l501.date):
                                     duedate = str(o)
-                            activities[sessiondue] = dlabel + ", Due " + duedate
+                            activities[sessiondue] = dlabel
                             newdefs[duedate] = sessiondate 
 
 
@@ -93,6 +93,10 @@ for d in wlist:
         dstring = "**Due this week:** "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
+                cldrfile.write("\n")
+        astring = "**In class:** "
+        if sessionstart[d] in activities.keys():
+                cldrfile.write(astring + " " + activities[sessionstart[d]] + "\n")
                 cldrfile.write("\n")
         bstring = "**Further Background:** "
         if background:
