@@ -1,5 +1,5 @@
 # Assignment 3: Research Design Proposal  {#ResearchProposal .task}
-Materials due M1DUE, M2DUE, M4DUE, M5DUE, M6DUE, A3ADUE, and A3CDUE (40 points).
+Materials due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, A3ADUE, and A3CDUE 
  
 ## Rationale {.context}
 
@@ -31,9 +31,9 @@ work in this class. This is part of your education because:
 - Think about any problems that interest you. How could they be formulated as research questions?
 - During the first four weeks of class, review the literature related to open questions in a part of
   our discipline that interests you.
-- Complete the research methods exercise during our Week 3 lab session.
+- Complete the research methods exercise during our METHODSLABDATE lab session.
 - Complete the readings on finding information.
-- As background for Zotero, complete the LAB6DATE Zotero exercise.
+- As background for Zotero, complete the ZOTERO1LABDATE Zotero exercise.
 - As background for the annotated bibliography, review the Purdue University resources on annotated bibliographies here: <https://owl.english.purdue.edu/owl/resource/614/01/> .
 
 ## Milestone Deliverables {.steps}
@@ -112,7 +112,6 @@ work in this class. This is part of your education because:
 	- <http://methods.sagepub.com/book/social-research-methods/n6.xml>
 -  Purdue University resources on annotated bibliographies
 	- <https://owl.english.purdue.edu/owl/resource/614/01/>
--  Background readings on research methods from week 3
-	- <https://www.zotero.org/groups/lis501/items/collectionKey/7TJ9WWEE>
+-  Our readings on [research methods](#research-methods)
 - Using Zotero to create an annotated bibliography
 	- <http://guides.main.library.emory.edu/c.php?g=49913&p=323640>

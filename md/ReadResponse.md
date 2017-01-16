@@ -1,7 +1,7 @@
 # Course Reading Responses {#ReadingResponse .task}
 
 
-**Reading responses (4 worth 3 points each)**
+## Summary {.shortdesc}
 
 You are responsible for writing brief two paragraph (300-400 words)
 reading responses for *four* class sessions. Post to the forum set up
@@ -10,6 +10,8 @@ meeting for that week.
 
 Include Reading Response \#N in the subject line, so it will be clear
 which of your posts is to be evaluated as a reading response.
+
+## Before you begin {.prereq}
 
 Read each assigned chapter or article carefully and critically. What
 are the key points? What are the key assumptions? How do the themes in
@@ -20,6 +22,8 @@ clear argument and provide examples to back it up. Suggesting other
 readings or resources is perfectly acceptable, but tell us why/how you
 chose these alternative sources.
 
+## Rationale {.context}
+
 Analysis and integration of readings, lectures, and class discussion
 are enhanced by opportunities to reflect on and synthesize the ideas
 presented. This assignment is designed to allow you to explore
@@ -28,6 +32,8 @@ experiences, readings for this course or other coursework you have
 completed. These responses will provide an opportunity to demonstrate
 your ability to synthesize concepts, theories and practices covered in
 this course.
+
+## Writing {.steps}  
 
 Some issues you may want to consider in your writing include:
 
@@ -49,6 +55,8 @@ Some issues you may want to consider in your writing include:
     the connection. In addition to referring to the class reading(s),
     you also might cite other readings for this connection if you want.
 
+## Submitting {.postreq}
+Post the essay to the Moodle forum designated for this assignment.
 Assessment will be based on evidence of engagement with issue(s) related
 to the class topic. Each response is worth a possible 3 points.
 

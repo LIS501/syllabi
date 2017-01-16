@@ -1,7 +1,7 @@
 
 # Assignment 2 Information Needs/Information Seeking Behavior {#InfoNeedsAsgt .task}
 
-Due A2DUE (20 points).
+Due A2DUE.
 
 ## Rationale {.context}
 
@@ -37,22 +37,19 @@ session in particular) in support of your arguments.
 1. Upload your essay to the Assignment 2 Moodle dropbox.
 2. Post a one-paragraph summary of your article on the Assignment 2
    discussion forum. Your forum post should have a descriptive title and please attach a copy of your article.
-3. Bring a copy of your article to class on LECTUREDATE5 for small group discussion.
+3. Bring a copy of your article to class on USERSLABDATE for small group discussion.
 
 ## Strategies for locating research studies {.section}
 
-Articles indexed under the subject "Information needs" or
-"Information-seeking behavior" in Library & Information Science Source:
+1. Articles indexed under the subject "Information needs" or
+   "Information-seeking behavior" in Library & Information Science Source:
+2. Articles indexed under the descriptor "Information seeking behavior"
+   or "User needs" in LISA:
 
-- <http://www.library.illinois.edu/lsx/>
-- <http://openurl.library.uiuc.edu/sfxlcl3/az>
+LIS Source and LISA can be located from one of these starting points:
 
-Articles indexed under the descriptor "Information seeking behavior"
-or "User needs" in LISA:
-
-- <http://www.library.illinois.edu/lsx/>
-- <http://openurl.library.uiuc.edu/sfxlcl3/az>
-- <http://www.library.uiuc.edu/orr/results.php?types=A&subject=29>
+- <http://www.library.illinois.edu/lis/>
+- <http://sfx.carli.illinois.edu/sfxuiu/az>
 
 Studies need not be recently published, but an example of a recent
 study of this type is the following:
@@ -80,14 +77,14 @@ study of this type is the following:
 >various contexts.
 
 To determine whether the full text of an article is available online,
-search for the journal title
-at: <http://openurl.library.uiuc.edu/sfxlcl3/az>. The text of the article
-may also be freely available on the web (e. g., on the author’s web
-site), so you might also try doing a Google search using the article
-title.  If the text is not available online, you will need to request
-a copy of the article. See the LibGuide for Online and Continuing
-Education Student Resources from the Library:
+search for the journal title at
+<http://sfx.carli.illinois.edu/sfxuiu/az>. The text of the article may
+also be freely available on the web (e. g., on the author’s web site),
+so you might also try doing a Google search using the article title.
+If the text is not available online, you will need to request a copy
+of the article. See the LibGuide for Online and Continuing Education
+Student Resources from the Library:
 
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=209698>
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
-- <http://uiuc.libguides.com/content.php?pid=28713&sid=214766>
+- <http://guides.library.illinois.edu/c.php?g=347210&p=2342494>
+- <http://guides.library.illinois.edu/c.php?g=347210&p=2342499>
+

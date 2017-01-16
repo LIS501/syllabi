@@ -1,5 +1,5 @@
 # Assignment 1 Collections Assessment and Comparison {#CollectionsAsgt .task}
-Due A1DUE (20 points).
+Due A1DUE .
 
 ## Summary {.shortdesc}
 
@@ -44,9 +44,5 @@ Post the essay to the Moodle forum designated for this assignment.
 			
 ## Resources {.section}
 
-These resources may be useful for completing this assignment.
+The readings for our [collections](#collections) topic may be useful for this assignment.
 
-- Required readings for Week 6, the Collections topic:
-     - <https://www.zotero.org/groups/lis501/items/collectionKey/IND4XSQX>
-- Background readings for Week 6, the Collections topic:
-     - <https://www.zotero.org/groups/lis501/items/collectionKey/Z8V7XKUD>   
