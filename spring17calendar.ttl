@@ -242,7 +242,7 @@
 
 :LIS501 a skos:Concept ;
   :reqReading bib:LIS501 ;
-  skos:prefLabel "LIS501: Information Organization and Access"@en.
+  skos:prefLabel "Core Competencies"@en.
 
 :Approaches a skos:Concept ;
   :reqReading bib:Approaches ;
