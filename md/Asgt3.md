@@ -64,7 +64,7 @@ work in this class. This is part of your education because:
        resource you found interesting. Also provide feedback and
        suggestions to your classmates by replying to their posts.
        
- 7. **Research Reflection notebook due M7DUE **, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+ 7. **Research Reflection notebook due M7DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate.
      
      
