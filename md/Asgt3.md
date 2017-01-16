@@ -1,5 +1,5 @@
 # Assignment 3: Research Design Proposal  {#ResearchProposal .task}
-Materials due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, A3ADUE, and A3CDUE 
+Materials due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, M7DUE, M8DUE, A3ADUE, and A3CDUE 
  
 ## Rationale {.context}
 
