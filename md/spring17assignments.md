@@ -48,6 +48,7 @@ Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a q
 5. One reflection about finding items - due M5DUE
 6. Share 20 resources via Zotero - due M6DUE
 7. Abstract outline & 2 annotations due M7DUE
+8. Research Reflection notebook due M8DUE
 
 **Ungraded Labs** (15 points)
 
