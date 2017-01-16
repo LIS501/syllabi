@@ -6,21 +6,16 @@
 M4PATH := ./md
 export M4PATH
 
-%.md : %.m4 ABCFall2016.m4
-	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" ABCFall2016.m4 > $*.md
+%.md : %.m4 %.cldr %.defs LIS501Spring2017.m4
+	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" LIS501Spring2017.m4 > $*.md
 
-%.html : %.m4 ABCFall2016.m4
-	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" ABCFall2016.m4|pandoc -s -c https://www.w3.org/StyleSheets/Core/Swiss -o $*.html
-
-%.docx : %.m4 ABCFall2016.m4
-	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="$*.m4" ABCFall2016.m4|pandoc -s  -o $*.docx
-
-Topics :
-	python NewCalendar.py fall16calendar.ttl > md/fall16topicReadings.md
-
-Readings : SecAFall16.m4 CalendarReadings.m4
-	m4 -DFORMATDEFS="wpformat.m4" -DMYDEFS="SecAFall16.m4" CalendarReadings.m4|pandoc -s -c https://www.w3.org/StyleSheets/Core/Swiss -o LIS501Readings.html
+%.docx : %.md
+	pandoc -o $*.docx $*.md
 
 
-AllThree : SecAFall16.docx SecBFall16.docx SecCFall16.docx
-	echo "Done"
+%.cldr : %.ttl 
+	./NewCalendar3.py $*.ttl
+
+%.defs : %.ttl 
+	./NewCalendar3.py $*.ttl
+

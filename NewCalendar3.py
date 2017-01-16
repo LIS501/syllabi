@@ -92,16 +92,6 @@ for d in wlist:
               topics[myconcept] = required  
         cldrfile.write("\n")
         cldrfile.write("### " +  myweek + ": " + weekdate + ": \n")
-        for t in topics.keys():
-            cldrfile.write("#### " + t + "\n")
-            rstring = "**Required Readings:** \n"
-            if required:
-              cldrfile.write(rstring)
-              cldrfile.write("\n")
-              bibfile = topics[t][5:] + '.md'
-              with open(bibfile, 'r') as md_file:
-                  md_str = md_file.read()
-                  cldrfile.write(md_str)
 
         dstring = "#### Due today: "
         if sessionstart[d] in deadlines.keys():
@@ -115,6 +105,18 @@ for d in wlist:
         if background:
           cldrfile.write(bstring + " " + background + "\n")
           cldrfile.write("\n")
+
+        
+        for t in topics.keys():
+            cldrfile.write("### " + t + "\n")
+            rstring = "\n"
+            if required:
+              cldrfile.write(rstring)
+              cldrfile.write("\n")
+              bibfile = topics[t][5:] + '.md'
+              with open(bibfile, 'r') as md_file:
+                  md_str = md_file.read()
+                  cldrfile.write(md_str)
 
 if newdefs:
         for k in newdefs.keys():
