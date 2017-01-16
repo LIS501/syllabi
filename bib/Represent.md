@@ -7,4 +7,6 @@ Dominici, Massimiliano. “An Overview of Pandoc.” *TUGboat* 35, no. 1
 Dyson, Freeman. “How We Know.” *The New York Review of Books*, March 10,
 2011. http://www.nybooks.com/articles/archives/2011/mar/10/how-we-know/.
 
+“YAML,” n.d.
+
 </div>
