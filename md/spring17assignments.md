@@ -17,7 +17,10 @@ assignment in the final grade is noted below.
 
 **Reading Response** (12 points: 4 worth 3 points each)
 
-(TBA)
+You are responsible for writing brief two paragraph (300-400 words)
+reading responses for *four* class sessions. Post to the forum set up
+for the week’s discussion by 11 pm on the day following the class
+meeting for that week. See [below](#ReadingResponse) for details.
 
 **Participation** (3 points)
 

@@ -1,5 +1,5 @@
-Course Reading Responses (Directions and Rubric)
-------------------------------------------------
+# Course Reading Responses {#ReadingResponse .task}
+
 
 **Reading responses (4 worth 3 points each)**
 
