@@ -63,8 +63,11 @@ work in this class. This is part of your education because:
        are still looking for, or a very brief commentary about a
        resource you found interesting. Also provide feedback and
        suggestions to your classmates by replying to their posts.
+
+7. **Outline of your abstract & 2 annotated bibliography items due M7DUE**, to be shared with the instructors
+     - **Add in outline format here**, second annotated item as the first (one may be a rewrite of the first item from Milestone 4)
        
- 7. **Research Reflection notebook due M7DUE **, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+8. **Research Reflection notebook due M8DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate.
      
      
