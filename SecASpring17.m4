@@ -19,7 +19,7 @@ define(CLASS03_2DATE, February 2)dnl
 define(CLASS04_1DATE, February 7)dnl
 define(CLASS04_2DATE, February 9)dnl
 define(CLASS05_1DATE, February 14)dnl
-define(CLASS05_2DATE, Febrary 16)dnl
+define(CLASS05_2DATE, February 16)dnl
 define(CLASS06_1DATE, February 21)dnl
 define(CLASS06_2DATE, February 23)dnl
 define(CLASS07_1DATE, February 28)dnl

@@ -1,29 +1,68 @@
 # Assignments and Evaluation
-All assignments are required for all students. Completing all assignments is not a guarantee of a passing grade. 
-All work must be completed in order to pass this class. Late or incomplete assignments will not be given 
-full credit unless the student has contacted the instructor prior to the due date of the assignment 
-(or in the case of emergencies, as soon as practicable).  There will be three main assignments, and ten labs.
-The weighting of each assignment in the final grade is noted below. 
 
-**Assignments, Exercises & Grade Distribution:** 
+All assignments are required for all students. Completing all
+assignments is not a guarantee of a passing grade.  All work must be
+completed in order to pass this class. Late or incomplete assignments
+will not be given full credit unless the student has contacted the
+instructor prior to the due date of the assignment (or in the case of
+emergencies, as soon as practicable).  There will be three main
+assignments, and fifteen lab exercises.  The weighting of each
+assignment in the final grade is noted below.
 
- - Assignment 1: Information Needs/Information Seeking Behavior. Due A1DUE (20%).
- - Assignment 2: Digital Collections Assessment. Due A2DUE (20%).
- - Assignment 3: Final Project. Due A3DUE (40%).
- - 10 Labs for Attendance and Completion/Class Participation (20%) 
+**Graded Assignments** (55 points)
 
-**Labs:**
+1. Collections Assessment - 15 points - due A1DUE.
+2. Use and Users - 15 points - due A2DUE
+3. Final Project - 25 points (5 for presentation, 10 for 2-page essay, 10 for bibliography) 
 
- 1. Library resources (LAB1DATE) 
- 2. ITD on computing resources (LAB2DATE)
- 3. Research methods exercise (LAB3DATE) 
- 4. Pandoc encoding and transformation (LAB4DATE) 
- 5. Cultural heritage object description (LAB5DATE)
- 6. Zotero bibliography and formatting (LAB6DATE) 
- 7. Generating Resource Description Framework (RDF) output from Zotero: Bibliographic Ontology (bibo) and Dublin Core (dc) (LAB7DATE)
- 8. Collection stewardship exercise (LAB8DATE) 
- 9. In-class time to work on your research design proposal (LAB9DATE) 
- 10. Presentations of research design proposals (LAB10DATE) 
+**Reading Response** (12 points: 4 worth 3 points each)
+
+(TBA)
+
+**Participation** (3 points)
+
+**Discussion Leading** (3 points)
+
+Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a question. 
+
+**Ungraded Assignments** (5 points)
+
+- Week 1: On the introduction forum, post a brief introduction
+  including: your experience in the iSchool and your motivation for
+  pursuing this degree.
+
+- Class 1.2: Complete sign up for Assignment 1
+  topics on the wiki set up for this purpose.  (3 points)
+
+- Database design (LibraryThing)
+
+**Assignment 3 Milestones** (7 points)
+
+1. Research question (1 paragraph) - due M1DUE
+2. Research reflection plan - due M2DUE
+3. Research Methods (2 paragraphs) - due M3DUE
+4. One annotated bibliography item - due M4DUE
+5. One reflection about finding items - due M5DUE
+6. Share 20 resources via Zotero - due M6DUE
+7. Abstract outline & 2 annotations due M7DUE
+
+**Ungraded Labs** (15 points)
+
+1. .txt, .rtf, .docx (FILELABDATE)
+2. Collection stewardship exercise (COLLECTIONLABDATE)
+3. Command line exercise (INTERFACELABDATE)
+4. Reference question exercise (REFLAB1DATE) 
+5. Return to reference question exercise (REFLAB2DATE)
+6. Zotero introduction (ZOTERO1LABDATE)
+7. Research methods (METHODSLABDATE)
+8. Use & Users discussion (USERSLABDATE)
+9. Cultural heritage object description (SPURLOCKDATE)
+10. Pandoc on cultural heritage object description (PANDOC1LABDATE)
+11. Pandoc formatting an ebook (PANDOC2LABDATE)
+12. Character encoding exercise (UNICODELABDATE) 
+13. Pandoc of ebook (???)
+14. Zotero output and applications (ZOTERO2LABDATE)
+15. Practice presentations (PRACTICEDATE)
 
 **Grading Scale:**
 
