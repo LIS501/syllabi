@@ -34,7 +34,7 @@
 
 :Session1-1 a :Session ;
   :date "CLASS01_1DATE" ;
-  dcterms:subject :Documents ;
+  dcterms:subject :Documents, :LIS501 ;
   rdfs:label "Week 1, session 1"@en .
 
 :Session1-2 a :Session ;
@@ -44,21 +44,21 @@
 
 :Session2-1 a :Session ;
   :date "CLASS02_1DATE" ;
+  dcterms:subject :Interfaces ;  
   rdfs:label "Week 2, session 1"@en .
 
 :Session2-2 a :Session ;
   :date "CLASS02_2DATE" ;
-  dcterms:subject :Interfaces ;
   rdfs:label "Week 2, session 2"@en .
 
 :Session3-1 a :Session ;
   :date "CLASS03_1DATE" ;
-  dcterms:subject :Searching ;
+  dcterms:subject :Searching, :Serendipity ;
   rdfs:label "Week 3, session 1"@en .
 
 :Session3-2 a :Session ;
   :date "CLASS03_2DATE" ;
-  dcterms:subject :Social, :Overload, :Convenience, :Specifying ;
+  dcterms:subject :Overload, :Convenience, :Specifying ;
   rdfs:label "Week 3, session 2"@en .
 
 :Session4-1 a :Session ;
@@ -106,6 +106,7 @@
 
 :Session8-2 a :Session ;
   :date "CLASS08_2DATE" ;
+  dcterms:subject :Metadata ;  
   rdfs:label "Week 8, session 2"@en .
 
 :Session9-1 a :Session ;
@@ -120,7 +121,7 @@
 
 :Session10-1 a :Session ;
   :date "CLASS10_1DATE" ;
-  rdfs:label "Spring break, no class meeting"@en .
+  rdfs:label "Week 10, Spring break, no class meeting"@en .
 
 :Session11-1 a :Session ;
   :date "CLASS11_1DATE" ;
@@ -148,7 +149,6 @@
   :during :Session2-1 ;
   :date "ITDDATE" ;
   rdfs:label "ITD on Computing resources"@en .
-
 
 :LabReference a :Activity ;
   :during :Session2-2 ;
@@ -239,7 +239,7 @@
 
 :Classification a skos:Concept ;
   :reqReading bib:Classification ;
-  skos:prefLabel "Subject Analysis and subject languages"@en.
+  skos:prefLabel "Classification and folksonomy"@en.
 
 :Collections a skos:Concept ;
   :reqReading bib:Collections ;
@@ -256,6 +256,9 @@
 :Interfaces a skos:Concept ;
   :reqReading bib:Interfaces ;
   skos:prefLabel "Interfaces and interaction"@en.
+
+:Metadata a skos:Concept ;
+  skos:prefLabel "Metadata and metadata interchange"@en.
 
 :Methods a skos:Concept ;
   :reqReading bib:Methods ;
@@ -287,7 +290,7 @@
 
 :Social a skos:Concept ;
   :reqReading bib:Social ;
-  skos:prefLabel "Indigenous knowledge and social reproduction"@en.
+  skos:prefLabel "Problems of social reproduction, subject analysis, identity, and authority"@en.
 
 :Specifying a skos:Concept ;
   :reqReading bib:Specifying ;
@@ -342,7 +345,7 @@
 :A3M3 a :Deadline ;
   rdfs:label "Assignment 3 research methods"@en ;
   :date "M3DUE" ;
-  :during :Session5-1 .
+  :during :Session5-2 .
 
 :A3M4 a :Deadline ;
   rdfs:label "Assignment 3: one annotated bibliography item"@en ;
