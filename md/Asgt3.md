@@ -74,7 +74,16 @@ work in this class. This is part of your education because:
 ## Final Deliverables  {.result}
 
 
-1. **Due A3ADUE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
+1. **Due A3CDUE Five minute oral presentation, during the last class meeting**
+     - Use this presentation to efficiently summarize the relevance of
+       this problem to people and organizations who have a stake in
+       resolving the knowledge gap that you have identified. Do
+       explain the general approach to investigating the question, but
+       save methodological details for the extended abstract. Five
+       minute summaries are difficult, so practice your presentation
+       with a classmate or colleague outside class.
+       
+2. **Due A3ADUE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Develop the two paragraph summary of your research question
        into a two page extended abstract. Focus on describing and
        justifying the methods for investigating your research
@@ -84,7 +93,7 @@ work in this class. This is part of your education because:
        explanation of what form the results of the investigation will
        take.
 
-2. **Due A3BDUE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
+3. **Due A3BDUE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Create an annotated bibliography. Format entries consistency and indicate the citation format you use. Number each entry.
        For each resource, write a 2-paragraph annotation. The first paragraph should describe the resource while the second paragraph 
        should situate it with respect to your research question and/or method.
@@ -99,14 +108,7 @@ work in this class. This is part of your education because:
        connections between the resource and your problem, and to other
        resources in the bibliography.
 
-3. **Due A3CDUE Five minute oral presentation, during the last class meeting**
-     - Use this presentation to efficiently summarize the relevance of
-       this problem to people and organizations who have a stake in
-       resolving the knowledge gap that you have identified. Do
-       explain the general approach to investigating the question, but
-       save methodological details for the extended abstract. Five
-       minute summaries are difficult, so practice your presentation
-       with a classmate or colleague outside class.
+
        
      
 ## Resources {.section}
