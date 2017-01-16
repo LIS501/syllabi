@@ -21,10 +21,6 @@ Classification (LCC).” *Encyclopedia of Library and Information
 Sciences*. CRC Press, December 9, 2009. \[Locate full text from
 http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html\].
 
-Fidel, Raya. “User-Centered Indexing.” *Journal of the American Society
-for Information Science* 45, no. 8 (1994): 572–76. \[Locate full text
-from http://sfx.carli.illinois.edu/sfxuiu/az\].
-
 Fister, Barbara. “The Dewey Dilemma.” *Library Journal* 134, no. 16
 (2009): 22–25.
 http://lj.libraryjournal.com/2010/05/public-services/the-dewey-dilemma/.
@@ -39,7 +35,7 @@ World in Numbers?” *Cataloging & Classification Quarterly* 50, no. 4
 (2012): 249–62. \[Locate full text from
 http://sfx.carli.illinois.edu/sfxuiu/az\].
 
-Kreyche, Michael. “Subject Headings in Spanish: The Lcsh-Es. Org
+Kreyche, Michael. “Subject Headings in Spanish: The Lcsh-Es.org
 Bilingual Database.” *Cataloging & Classification Quarterly* 51, no. 4
 (2013): 389–403.
 

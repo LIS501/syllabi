@@ -140,6 +140,11 @@
   :date "CLASS12_2DATE" ;
   rdfs:label "Week 1, session 1"@en .
 
+:FileFormat a :Activity ;
+  :during :Session2-1 ;
+  :date "FILELABDATE" ;
+  rdfs:label "File format exercise"@en .
+
 :LabCollection a :Activity ;
   :during :Session2-1 ;
   :date "COLLECTIONLABDATE" ;

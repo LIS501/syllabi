@@ -5,25 +5,15 @@ Aufderheide, Patricia. “‘Does This Have to Go through the IRB?’” *The
 Chronicle of Higher Education*, August 17, 2016.
 http://chronicle.com/article/Does-This-Have-to-Go/237476/.
 
-Connaway, Lynn Silipigni, and Ronald R. Powell. *Basic Research Methods
-for Librarians*. Vol. 5th ed. Library and Information Science Text
-Series. Santa Barbara, Calif: ABC-CLIO, 2010. \[Locate full text from
-http://vufind.carli.illinois.edu/vf-uiu/\].
-
-———. “Selecting the Research Method.” In *Basic Research Methods for
-Librarians*, 71–106. Library and Information Science Text Series. Santa
-Barbara, Calif: Libraries Unlimited, 2010. \[Locate full text from
+Connaway, Lynn Silipigni, and Ronald R. Powell. “Selecting the Research
+Method.” In *Basic Research Methods for Librarians*, 71–106. Library and
+Information Science Text Series. Santa Barbara, Calif: Libraries
+Unlimited, 2010. \[Locate full text from
 http://vufind.carli.illinois.edu/vf-uiu/\].
 
 Fidel, Raya. “Are We There yet?: Mixed Methods Research in Library and
 Information Science.” *Library & Information Science Research* 30, no. 4
 (December 2008): 265–72. \[Locate full text from
-http://sfx.carli.illinois.edu/sfxuiu/az\].
-
-Sandstrom, Alan R., and Pamela Effrein Sandstrom. “The Use and Misuse of
-Anthropological Methods in Library and Information Science Research.”
-*The Library Quarterly: Information, Community, Policy* 65, no. 2
-(1995): 161–99. \[Locate full text from
 http://sfx.carli.illinois.edu/sfxuiu/az\].
 
 Sutton, Brett. “Qualitative Research Methods in Library and Information

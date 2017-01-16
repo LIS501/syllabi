@@ -51,7 +51,7 @@ Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a q
 
 **Ungraded Labs** (15 points)
 
-1. .txt, .rtf, .docx (FILELABDATE)
+1. File format exercise (FILELABDATE)
 2. Collection stewardship exercise (COLLECTIONLABDATE)
 3. Command line exercise (INTERFACELABDATE)
 4. Reference question exercise (REFLAB1DATE) 
@@ -63,7 +63,7 @@ Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a q
 10. Pandoc on cultural heritage object description (PANDOC1LABDATE)
 11. Pandoc formatting an ebook (PANDOC2LABDATE)
 12. Character encoding exercise (UNICODELABDATE) 
-13. Pandoc of ebook (???)
+13. Pandoc of ebook (PANDOC3LABDATE)
 14. Zotero output and applications (ZOTERO2LABDATE)
 15. Practice presentations (PRACTICEDATE)
 
