@@ -141,7 +141,7 @@
   rdfs:label "Week 1, session 1"@en .
 
 :FileFormat a :Activity ;
-  :during :Session2-1 ;
+  :during :Session1-1 ;
   :date "FILELABDATE" ;
   rdfs:label "File format exercise"@en .
 
