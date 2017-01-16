@@ -331,7 +331,7 @@
 
 :A3M1 a :Deadline ;
   rdfs:label "Assignment 3 research question draft"@en ;
-  :date "M12DUE" ;
+  :date "M1DUE" ;
   :during :Session3-2 .
 
 :A3M2 a :Deadline ;

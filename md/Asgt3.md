@@ -1,5 +1,5 @@
 # Assignment 3: Research Design Proposal  {#ResearchProposal .task}
-Materials due LAB3DATE, LAB5DATE, LAB6DATE, LAB7DATE, and LAB10DATE (40 points).
+Materials due M1DUE, M2DUE, M4DUE, M5DUE, M6DUE, A3ADUE, and A3CDUE (40 points).
  
 ## Rationale {.context}
 
@@ -38,24 +38,24 @@ work in this class. This is part of your education because:
 
 ## Milestone Deliverables {.steps}
 
-1. **Research Question due LAB3DATE**, to be posted to the *Assignment 3A: Research Question* forum
+1. **Research Question due M1DUE**, to be posted to the *Assignment 3A: Research Question* forum
      - Pose a research question. Your post should be a sentence or two
        (no more than a paragraph). Also provide feedback and
        suggestions to your classmates by replying to their posts.
 
-2. **Start your research reflection notebook**, to be posted to the *Assignment 3B: Research Reflection* forum
+2. **Start your research reflection notebook**, to be posted to the *Assignment 3B: Research Reflection* forum by M2DUE.
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate. Indicate what method you will be using to track your reflections (while we call this a 'notebook', various approaches can be used). Your instructors will be happy to provide feedback as often as you wish. While this first post is public, future communications about your research reflection may be either public or private as you prefer.
 
-2. **Research Methods due LAB5DATE**, to be posted to the *Assignment 3C: Research Methods* forum
+3. **Research Methods due M3DUE**, to be posted to the *Assignment 3C: Research Methods* forum
      - Post no more than two paragraphs (the first paragraph is revised from Assignment 3A; the second paragraph is on research methods). In the new paragraph, devise methods for addressing your research question and write a one paragraph description of an approach that you feel would be appropriate for investigating the question. Draw on and connect this to research methods discussed in class. Also provide feedback and suggestions to your classmates by replying to their posts.
 
-3. **1 annotated bibliography item due LAB6DATE**, to be posted to the *Assignment 3D: Annotated Bibliography* forum
+4. **1 annotated bibliography item due M4DUE**, to be posted to the *Assignment 3D: Annotated Bibliography* forum
      - Share 1 entry from your annotated bibliography. Provide a formatted citation (indicate the citation format used) and a 2-paragraph annotation. The first paragraph should describe the item while the second paragraph should indicate how this item is related to your research question and or/methods. Also provide feedback and suggestions to your classmates by replying to their posts.
        
-4. **1 reflection about finding items due LAB7DATE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+5. **1 reflection about finding items due M5DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - Reflections might include search strategies, ideas, failed approaches, things you want to try next, or requests for advice.
 
-5. **Resource List due LAB8DATE**, to the *Assignment 3E: Resource List* forum
+6. **Resource List due M6DUE**, to the *Assignment 3E: Resource List* forum
      - Use Zotero to share 20 resources related to your research
        question and/or method. Your post should include a link to
        Zotero's RSS feed for the collection and 1-2 sentences. This
@@ -64,14 +64,14 @@ work in this class. This is part of your education because:
        resource you found interesting. Also provide feedback and
        suggestions to your classmates by replying to their posts.
        
- 6. **Research Reflection notebook due LAB10DATE **, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
+ 7. **Research Reflection notebook due M7DUE **, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate.
      
      
 ## Final Deliverables  {.result}
 
 
-1. **Due LAB11DATE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
+1. **Due A3ADUE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Develop the two paragraph summary of your research question
        into a two page extended abstract. Focus on describing and
        justifying the methods for investigating your research
@@ -81,7 +81,7 @@ work in this class. This is part of your education because:
        explanation of what form the results of the investigation will
        take.
 
-2. **Due LAB11DATE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
+2. **Due A3BDUE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
      - Create an annotated bibliography. Format entries consistency and indicate the citation format you use. Number each entry.
        For each resource, write a 2-paragraph annotation. The first paragraph should describe the resource while the second paragraph 
        should situate it with respect to your research question and/or method.
@@ -96,7 +96,7 @@ work in this class. This is part of your education because:
        connections between the resource and your problem, and to other
        resources in the bibliography.
 
-3. **Due LAB11DATE Five minute oral presentation, during the last class meeting**
+3. **Due A3CDUE Five minute oral presentation, during the last class meeting**
      - Use this presentation to efficiently summarize the relevance of
        this problem to people and organizations who have a stake in
        resolving the knowledge gap that you have identified. Do
