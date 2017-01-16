@@ -111,7 +111,7 @@
 
 :Session9-1 a :Session ;
   :date "CLASS09_1DATE" ;
-  dcterms:subject :Social ;
+  dcterms:subject :Databases ;
   rdfs:label "Week 9, session 1"@en .
 
 :Session9-2 a :Session ;
@@ -123,6 +123,10 @@
   :date "CLASS10_1DATE" ;
   rdfs:label "Week 10, Spring break, no class meeting"@en .
 
+:Session10-2 a :Session ;
+  :date "CLASS10_2DATE" ;
+  rdfs:label "Week 10, Spring break, no class meeting"@en .
+  
 :Session11-1 a :Session ;
   :date "CLASS11_1DATE" ;
   dcterms:subject :Production ;
@@ -134,6 +138,7 @@
 
 :Session12-1 a :Session ;
   :date "CLASS12_1DATE" ;
+    dcterms:subject :Social ;
   rdfs:label "Week 12, session 1"@en .
 
 :Session12-2 a :Session ;
@@ -259,6 +264,10 @@
   :reqReading bib:Convenience ;
   skos:prefLabel "Small worlds, convenience and information poverty"@en.
 
+:Databases a skos:Concept ;
+  :reqReading bib:Databases ;
+  skos:prefLabel "Database design"@en.
+  
 :Evaluation a skos:Concept ;
   :reqReading bib:Evaluation ;
   skos:prefLabel "Evaluation of systems and services"@en.

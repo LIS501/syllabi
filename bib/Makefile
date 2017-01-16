@@ -10,6 +10,9 @@ All: Approaches Documents Classification Collections Convenience Evaluation Inte
 LIS501:
 	curl 'https://api.zotero.org/groups/344216/collections/RQXF535V/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o LIS501.md
 
+Databases:
+	curl 'https://api.zotero.org/groups/344216/collections/7N9C63UF/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Documents.md
+
 Documents: 
 	curl 'https://api.zotero.org/groups/344216/collections/Q2ZIVKGF/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Documents.md
 

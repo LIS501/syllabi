@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Dominici, Massimiliano. “An Overview of Pandoc.” *TUGboat* 35, no. 1
 (2014): 44–50.
 
@@ -10,4 +7,3 @@ Dyson, Freeman. “How We Know.” *The New York Review of Books*, March 10,
 Wikipedia. “YAML — Wikipedia, The Free Encyclopedia,” 2017.
 https://en.wikipedia.org/w/index.php?title=YAML&oldid=759599372.
 
-</div>

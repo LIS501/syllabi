@@ -1,6 +1,3 @@
-<div class="csl-bib-body"
-style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
-
 Bush, Vannevar. “As We May Think.” *The Atlantic Monthly*, 1945.
 http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm.
 
@@ -16,4 +13,3 @@ doi:10.1145/286498.286548.
 The ICT Lounge. “Operating Systems,” n.d.
 http://www.ictlounge.com/html/operating\_systems.htm.
 
-</div>
