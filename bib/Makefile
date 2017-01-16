@@ -5,7 +5,7 @@
 .SUFFIXES: .tex .dvi .bib .pdf .sgml .html .md
 
 
-All: Approaches Documents Classification Collections Convenience Evaluation Interfaces Methods Overload Preservation Production Represent  Searching Serendipity Social Specifying Standards Users LIS501
+All: Approaches Documents Classification Collections Convenience Evaluation Interfaces Metadata Methods Overload Preservation Production Represent Searching Serendipity Social Specifying Standards Users LIS501
 
 LIS501:
 	curl 'https://api.zotero.org/groups/344216/collections/RQXF535V/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o LIS501.md
@@ -36,6 +36,9 @@ Convenience:
 
 Users:
 	curl 'https://api.zotero.org/groups/344216/collections/EF3NZUEH/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Users.md
+
+Metadata:
+	curl 'https://api.zotero.org/groups/344216/collections/MHQVQ5JS/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Metadata.md
 
 Methods:
 	curl 'https://api.zotero.org/groups/344216/collections/HSJKH49T/items/top?format=bib&v=1'|python filter1.py|pandoc -f html -o Methods.md

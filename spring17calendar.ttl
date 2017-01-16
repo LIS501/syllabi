@@ -191,9 +191,14 @@
   rdfs:label "Pandoc exercise: cultural heritage metadata"@en .
 
 :LabPandoc2 a :Activity ;
-  :during :Session7-2 ;
+  :during :Session7-1 ;
   :date "PANDOC2LABDATE" ;
   rdfs:label "Pandoc exercise: text encoding"@en .
+
+:LabPandoc3 a :Activity ;
+  :during :Session7-2 ;
+  :date "PANDOC3LABDATE" ;
+  rdfs:label "Pandoc exercise: Pandoc and EPUB"@en .
 
 :LabUnicode a :Activity ;
   :during :Session7-2 ;
@@ -258,6 +263,7 @@
   skos:prefLabel "Interfaces and interaction"@en.
 
 :Metadata a skos:Concept ;
+  :reqReading bib:Metadata ;
   skos:prefLabel "Metadata and metadata interchange"@en.
 
 :Methods a skos:Concept ;
@@ -308,7 +314,7 @@
   rdfs:label "Assignment 3: Research Design Proposal"@en ;
   :moodleURL hwk:MOODLEASGT3 ;
   :sylSecId "ResearchProposal" ;
-  :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6, :A3D1, :A3D2, :A3D3 .
+  :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6,:A3M7, :A3M8, :A3D1, :A3D2, :A3D3 .
 
 :Asgt2 a :Assignment ;
   rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior"@en ;
@@ -361,6 +367,17 @@
   rdfs:label "Assignment 3: resource list"@en ;
   :date "M6DUE" ;
   :during :Session8-2 .
+
+:A3M7 a :Deadline ;
+  rdfs:label "Assignment 3: Abstract outline and two annotations"@en ;
+  :date "M7DUE" ;
+  :during :Session9-1 .
+
+:A3M8 a :Deadline ;
+  rdfs:label "Assignment 3: Reflections journal"@en ;
+  :date "M8DUE" ;
+  :during :Session11-2 .
+
 
 :A3D1 a :Deadline ;
   rdfs:label "Assignment 3: extended abstract"@en ;
