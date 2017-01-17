@@ -9,8 +9,8 @@ http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Higgins, Molly. “Totally Invisible: Asian American Representation in the
 Dewey Decimal Classification, 1876-1996.” *Knowledge Organization* 43,
-no. 8 (December 2016): 609–21.
-http://search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=120358349&site=eds-live.
+no. 8 (December 2016): 609–21. [Locate full text from
+http://sfx.carli.illinois.edu/sfxuiu/az].
 
 Lee, Deborah. “Indigenous Knowledge Organization: A Study of Concepts,
 Terminology, Structure and (Mostly) Indigenous Voices.” *Partnership:

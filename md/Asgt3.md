@@ -1,5 +1,6 @@
 # Assignment 3: Research Design Proposal  {#ResearchProposal .task}
 Ungraded milestones due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, M7DUE, M8DUE.
+
 Final deliverables due A3CDUE and A3ADUE.
  
 ## Rationale {.context}
@@ -43,7 +44,7 @@ work in this class. This is part of your education because:
        (no more than a paragraph). Also provide feedback and
        suggestions to your classmates by replying to their posts.
 
-2. **Start your research reflection notebook**, to be posted to the *Assignment 3B: Research Reflection* forum by M2DUE.
+2. **Start your research reflection notebook due M2DUE**, post about how/where you will keep these reflections *Assignment 3B: Research Reflection* forum.
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate. Indicate what method you will be using to track your reflections (while we call this a 'notebook', various approaches can be used). Your instructors will be happy to provide feedback as often as you wish. While this first post is public, future communications about your research reflection may be either public or private as you prefer.
 
 3. **Research Methods due M3DUE**, to be posted to the *Assignment 3C: Research Methods* forum
@@ -67,13 +68,13 @@ work in this class. This is part of your education because:
 
 7. **Outline of your abstract & 2 annotated bibliography items due M7DUE**, to be shared with the instructors
      - Develop the two paragraph summary of your research question into an outline. Your outline should have one bullet point for each of these items, in order:
-1. What is the problem
-2. Why is it important?
-3. What is known?
-4. What is the gap in knowledge? (What do we not know?)
-5. What methods do you propose using? (may include hypotheses, data)
-6. What would the results & implications be useful for?
-Reference items from your resource list as appropriate. Identify gaps where additional bibliography resources might support your argument.
+	1. What is the problem
+	2. Why is it important?
+	3. What is known?
+	4. What is the gap in knowledge? (What do we not know?)
+	5. What methods do you propose using? (may include hypotheses, data)
+	6. What would the results & implications be useful for?
+	Reference items from your resource list as appropriate. Identify gaps where additional bibliography resources might support your argument.
      - The second annotated item should follow the same format from Milestone 4; one of your two annotated items may be a rewrite of the first item from Milestone 4 if you like.
        
 8. **Research Reflection notebook due M8DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum

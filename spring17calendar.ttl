@@ -538,7 +538,7 @@
   :during :Session11-1 .
 
 :RR4 a :Deadline ;
-  rdfs:label "All 4Reading Responses should be complete by 11 PM tomorrow."@en ;
+  rdfs:label "All 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
   :date "RR4DUE" ;
   :during :Session12-2 .
 
