@@ -138,18 +138,48 @@
 
 :Session12-1 a :Session ;
   :date "CLASS12_1DATE" ;
-    dcterms:subject :Social ;
   rdfs:label "Week 12, session 1"@en .
 
 :Session12-2 a :Session ;
   :date "CLASS12_2DATE" ;
-  rdfs:label "Week 1, session 1"@en .
+      dcterms:subject :Social ;
+  rdfs:label "Week 12, session 2"@en .
+
+:501Lecture a :Activity ;
+  :during :Session1-1 ;
+  :date "FIRSTLECTUREDATE" ;
+  rdfs:label "Presentation of the syllabus & core competencies"@en .
+  
+:DocumentsLecture a :Activity ;
+  :during :Session1-1 ;
+  :date "DOCUMENTSLECTUREDATE" ;
+  rdfs:label "Lecture on documents"@en .
+
+:Introductions a :Activity ;
+  :during :Session1-1 ;
+  :date "INTROLABDATE" ;
+  rdfs:label "Introductions exercise"@en .
+
+:Introductions a :Activity ;
+  :during :Session1-1 ;
+  :date "INTROLABDATE" ;
+  rdfs:label "Introductions exercise"@en .
 
 :FileFormat a :Activity ;
   :during :Session1-1 ;
   :date "FILELABDATE" ;
   rdfs:label "File format exercise"@en .
 
+:FileFormat a :Activity ;
+  :during :Session1-2 ;
+  :date "COLLECTIONSIGNUPLABDATE" ;
+  rdfs:label "Sign up for 2 collections for Assignment 1 on the wiki set up for this purpose"@en .
+
+:LectureCollection a :Activity ;
+  :during :Session1-2 ;
+  :date "COLLECTIONLECTUREBDATE" ;
+  rdfs:label "Lecture on Collections"@en .
+    
 :LabCollection a :Activity ;
   :during :Session2-1 ;
   :date "COLLECTIONLABDATE" ;
@@ -158,7 +188,7 @@
 :ITDvisit a :Activity ;
   :during :Session2-1 ;
   :date "ITDDATE" ;
-  rdfs:label "ITD on Computing resources"@en .
+  rdfs:label "Visit from Instructional Technology and Design on Computing resources"@en .
 
 :LabReference a :Activity ;
   :during :Session2-2 ;
@@ -170,16 +200,31 @@
   :date "INTERFACELABDATE" ;
   rdfs:label "Command line exercise"@en .
 
+:LibraryInstructionVisit a :Activity ;
+  :during :Session3-1 ;
+  :date "DANDATE" ;
+  rdfs:label "Visit from Dan Tracy, LIS and Research Services Librarian"@en .
+  
 :LabReference2 a :Activity ;
   :during :Session3-1 ;
   :date "REFLAB2DATE" ;
-  rdfs:label"Revisit reference questions"@en .
+  rdfs:label"Revisit reference questions exercise"@en .
 
+:LectureUsers a :Activity ;
+  :during :Session4-1 ;
+  :date "USERSLECTUREDATE" ;
+  rdfs:label "Lecture on Information use and users"@en .
+  
 :LabZotero1 a :Activity ;
   :during :Session4-2 ;
   :date "ZOTERO1LABDATE" ;
   rdfs:label "Zotero exercise"@en .
 
+:LectureResearch a :Activity ;
+  :during :Session4-2 ;
+  :date "RESEARCHLECTUREDATE" ;
+  rdfs:label "Lecture on Research methods"@en .
+ 
 :LabMethods a :Activity ;
   :during :Session5-1 ;
   :date "METHODSLABDATE" ;
@@ -188,12 +233,22 @@
 :LabUsers a :Activity ;
   :during :Session5-1 ;
   :date "USERSLABDATE";
-  rdfs:label "Use and Users discussion"@en .
+  rdfs:label "Group discussion of Use and Users (drawing on Assignment 1)"@en .
+
+:LabSpurlockVisit a :Activity ;
+  :during :Session6-2 ;
+  :date "SPURLOCKDATE";  
+  rdfs:label "Visit to Spurlock Museum"@en .
 
 :LabSpurlock a :Activity ;
   :during :Session6-2 ;
   :date "SPURLOCKDATE";  
   rdfs:label "Cultural heritage object description exercise"@en .
+
+:LectureStructures a :Activity ;
+  :during :Session7-1 ;
+  :date "STRUCTURESLECTUREDATE" ;
+  rdfs:label "Lecture on Structuring and representing information"@en .
 
 :LabPandoc1 a :Activity ;
   :during :Session7-1 ;
@@ -205,6 +260,11 @@
   :date "PANDOC2LABDATE" ;
   rdfs:label "Pandoc exercise: text encoding"@en .
 
+:LectureStandards a :Activity ;
+  :during :Session7-2 ;
+  :date "STANDARDSLECTUREDATE" ;
+  rdfs:label "Lecture on Standards and standardization"@en .
+
 :LabPandoc3 a :Activity ;
   :during :Session7-2 ;
   :date "PANDOC3LABDATE" ;
@@ -215,10 +275,25 @@
   :date "UNICODELABDATE" ;
   rdfs:label "Character encoding exercise"@en .
 
+:LectureEvaluation a :Activity ;
+  :during :Session8-1 ;
+  :date "EVALUATIONLECTUREDATE" ;
+  rdfs:label "Lecture on Evaluation of systems and services"@en .
+
 :LabZotero2 a :Activity ;
   :during :Session8-2 ;
   :date "ZOTERO2LABDATE" ;
   rdfs:label "Zotero applications"@en .
+
+:LabDatabase a :Activity ;
+  :during :Session9-1 ;
+  :date "DATABASELABDATE" ;
+  rdfs:label "Database DesignLab"@en .
+  
+:PreservationVisit a :Activity ;
+  :during :Session9-2 ;
+  :date "PRESERVATIONDATE" ;
+  rdfs:label "Visit from Jennifer Hain Teper, Bud Velde Professor of Library Preservation and Head, Preservation Services, Professor, University Library"@en .
 
 :Practice a :Activity ;
   :during :Session11-1 ;
@@ -240,6 +315,56 @@
   :date "ICESDATE" ;
   rdfs:label "ICES evaluations"@en .
 
+:DiscussionInterfaces a :Activity ;
+  :during :Session2-1 ;
+  :date "DISCUSSIONINTERFACES" ;
+  rdfs:label "Student-led discussion of interfaces and interaction"@en .
+
+:DiscussionAsk a :Activity ;
+  :during :Session3-2 ;
+  :date "DISCUSSIONASK" ;
+  rdfs:label "Student-led discussion of anomalous states of knowledge"@en .
+
+:DiscussionInfoPoverty a :Activity ;
+  :during :Session3-2 ;
+  :date "DISCUSSIONINFOPOVERTY" ;
+  rdfs:label "Student-led discussion of small worlds, convenience and information poverty"@en .
+
+:DiscussionInfoOverload a :Activity ;
+  :during :Session3-2 ;
+  :date "DISCUSSIONINFOOVERLOAD" ;
+  rdfs:label "Student-led discussion of information overload and anxiety"@en .
+
+:DiscussionOrganizing a :Activity ;
+  :during :Session5-2 ;
+  :date "DISCUSSIONORGANIZING" ;
+  rdfs:label "Student-led discussion of approaches to organizing information"@en .
+
+:DiscussionClassification a :Activity ;
+  :during :Session6-1 ;
+  :date "DISCUSSIONCLASSIFICATION" ;
+  rdfs:label "Student-led discussion of classification and folksonomy"@en .
+
+:LectureMetadata a :Activity ;
+  :during :Session8-2 ;
+  :date "LECTUREMETADATA" ;
+  rdfs:label "Lecture on metadata and metadata interchange"@en .
+
+:DiscussionDatabases a :Activity ;
+  :during :Session9-1 ;
+  :date "DISCUSSIONDATABASES" ;
+  rdfs:label "Student-led discussion of database design"@en .
+
+:DiscussionInfoProduction a :Activity ;
+  :during :Session11-1 ;
+  :date "DISCUSSIONINFOPRODUCTION" ;
+  rdfs:label "Student-led discussion of information life cycles and production"@en .
+
+:LectureSocial a :Activity ;
+  :during :Session12-2 ;
+  :date "LECTURESOCIAL" ;
+  rdfs:label "Lecture on problems of social reproduction, subject analysis, identity, and authority"@en .
+  
 :LIS501 a skos:Concept ;
   :reqReading bib:LIS501 ;
   skos:prefLabel "Core Competencies"@en.
@@ -331,82 +456,87 @@
   :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6,:A3M7, :A3M8, :A3D1, :A3D2, :A3D3 .
 
 :Asgt2 a :Assignment ;
-  rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior"@en ;
+  rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior Essay"@en ;
   :moodleURL hwk:MOODLEASGT2 ;
   :sylSecId "InfoNeedsAsgt" ;
   :hasDeadline :A2D1 .
 
 :Asgt1 a :Assignment ;
-  rdfs:label "Assignment 1 Collections Assessment and Comparison"@en ;
+  rdfs:label "Assignment 1 Collections Assessment and Comparison Essay"@en ;
   :moodleURL hwk:MOODLEASGT1 ;
   :sylSecId "CollectionsAsgt" ;
   :hasDeadline :A1D1 .
 
 :A1D1 a :Deadline ;
-  rdfs:label "Assignment 1: collections essay"@en ;
+  rdfs:label "Assignment 1: Collections Assessment and Comparison"@en ;
   :date "A1DUE" ;
   :during :Session2-2 .
 
 :A2D1 a :Deadline ;
-  rdfs:label "Assignment 1: information seeking behavior/needs essay"@en ;
+  rdfs:label "Assignment 1: Information Needs/Information Seeking Behavior Essay"@en ;
   :date "A2DUE" ;
   :during :Session5-1 .
 
 :A3M1 a :Deadline ;
-  rdfs:label "Assignment 3: research question draft"@en ;
+  rdfs:label "Assignment 3 Milestone 1: Research question draft"@en ;
   :date "M1DUE" ;
   :during :Session3-2 .
 
 :A3M2 a :Deadline ;
-  rdfs:label "Assignment 3: research reflection"@en ;
+  rdfs:label "Assignment 3 Milestone 2: Research reflection plan"@en ;
   :date "M2DUE" ;
   :during :Session3-2 .
 
 :A3M3 a :Deadline ;
-  rdfs:label "Assignment 3: research methods"@en ;
+  rdfs:label "Assignment 3 Milestone 3: Research methods draft"@en ;
   :date "M3DUE" ;
   :during :Session5-2 .
 
 :A3M4 a :Deadline ;
-  rdfs:label "Assignment 3: one annotated bibliography item"@en ;
+  rdfs:label "Assignment 3 Milestone 4: One annotated bibliography item"@en ;
   :date "M4DUE" ;
   :during :Session6-2 .
 
 :A3M5 a :Deadline ;
-  rdfs:label "Assignment 3: one search reflection"@en ;
+  rdfs:label "Assignment 3 Milestone 5: One search reflection"@en ;
   :date "M5DUE" ;
   :during :Session7-2 .
 
 :A3M6 a :Deadline ;
-  rdfs:label "Assignment 3: resource list"@en ;
+  rdfs:label "Assignment 3 Milestone 6: 20-item resource list, as Zotero RSS feed"@en ;
   :date "M6DUE" ;
   :during :Session8-2 .
 
 :A3M7 a :Deadline ;
-  rdfs:label "Assignment 3: Abstract outline and two annotations"@en ;
+  rdfs:label "Assignment 3 Milestone 7: Abstract outline and two annotations"@en ;
   :date "M7DUE" ;
   :during :Session9-1 .
 
 :A3M8 a :Deadline ;
-  rdfs:label "Assignment 3: Reflections journal"@en ;
+  rdfs:label "Assignment 3 Milestone 8: Reflections journal"@en ;
   :date "M8DUE" ;
   :during :Session11-2 .
 
 
+:A3D3 a :Deadline ;
+  rdfs:label "Assignment 3 Final deliverable: Oral presentation"@en ;
+  :date "A3CDUE" ;
+  :during :Session11-2 .
+  
 :A3D1 a :Deadline ;
-  rdfs:label "Assignment 3: extended abstract"@en ;
+  rdfs:label "Assignment 3 Final deliverable: Extended abstract"@en ;
   :date "A3ADUE" ;
   :during :Session12-2 .
 
 :A3D2 a :Deadline ;
-  rdfs:label "Assignment 3: annotated bibliography"@en ;
+  rdfs:label "Assignment 3 Final deliverable: Annotated bibliography"@en ;
   :date "A3BDUE" ;
   :during :Session12-2 .
 
-:A3D3 a :Deadline ;
-  rdfs:label "Assignment 3: oral presentation"@en ;
-  :date "A3CDUE" ;
-  :during :Session11-2 .
+:RR a :Deadline ;
+  rdfs:label "Complete at least 3 Reading Responses"@en ;
+  :date "RR3DUE" ;
+  :during :Session11-1 .
 
 
 

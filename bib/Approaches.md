@@ -7,6 +7,11 @@ Glushko, Robert J. “Resources in Organizing Systems.” In *The Discipline
 of Organizing*, 3rd ed., 169–230. O’Reilly, 2015.
 http://disciplineoforganizing.org/.
 
+Gross, Tina, Arlene G. Taylor, and Daniel N. Joudrey. “Still a Lot to
+Lose: The Role of Controlled Vocabulary in Keyword Searching.”
+*Cataloging & Classification Quarterly* 53, no. 1 (January 2, 2015):
+1–39. doi:10.1080/01639374.2014.917447.
+
 Maxwell, R.L. “Bibliographic Control.” *Encyclopedia of Library and
 Information Sciences*, 2010. [Locate full text from
 http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html].

@@ -5,41 +5,24 @@ assignments is not a guarantee of a passing grade.  All work must be
 completed in order to pass this class. Late or incomplete assignments
 will not be given full credit unless the student has contacted the
 instructor prior to the due date of the assignment (or in the case of
-emergencies, as soon as practicable).  There will be three main
-assignments, and fifteen lab exercises.  The weighting of each
+emergencies, as soon as practicable). The weighting of each
 assignment in the final grade is noted below.
 
-**Graded Assignments** (55 points)
+**Graded Written Assignments** (67 points total)
 
 1. Collections Assessment - 15 points - due A1DUE.
 2. Use and Users - 15 points - due A2DUE
 3. Final Project - 25 points (5 for presentation, 10 for 2-page essay, 10 for bibliography) 
+4. 4 Reading Responses - 12 points total (3 points each) - due by 11 PM on the day following the class meeting they are discussed.
 
-**Reading Response** (12 points: 4 worth 3 points each)
+**Graded Participation Assignments** (7 points total)
 
-You are responsible for writing brief two paragraph (300-400 words)
-reading responses for *four* class sessions. Post to the forum set up
-for the week’s discussion by 11 pm on the day following the class
-meeting for that week. See [below](#ReadingResponse) for details.
+1. Lead 1 in-class discussion of the readings - 3 points - Sign up for 1 topic, groups of 1-3 students.
+2. Overall participation - 4 points - Written & oral participation in class
 
-**Participation** (3 points)
+**Ungraded Milestones (towards the Final Project)** (8 points total)
 
-**Discussion Leading** (3 points)
-
-Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a question. 
-
-**Ungraded Assignments** (5 points)
-
-- Week 1: On the introduction forum, post a brief introduction
-  including: your experience in the iSchool and your motivation for
-  pursuing this degree.
-
-- Class 1.2: Complete sign up for Assignment 1
-  topics on the wiki set up for this purpose.  (3 points)
-
-- Database design (LibraryThing)
-
-**Assignment 3 Milestones** (7 points)
+These are ungraded; submit materials by 11PM on the deadline for full credit.
 
 1. Research question (1 paragraph) - due M1DUE
 2. Research reflection plan - due M2DUE
@@ -47,26 +30,31 @@ Groups of 2-3 sign up to lead discussion on one topic. Start discussion with a q
 4. One annotated bibliography item - due M4DUE
 5. One reflection about finding items - due M5DUE
 6. Share 20 resources via Zotero - due M6DUE
-7. Abstract outline & 2 annotations due M7DUE
-8. Research Reflection notebook due M8DUE
+7. Abstract outline & 2 annotations - due M7DUE
+8. Research Reflection notebook  - due M8DUE
 
-**Ungraded Labs** (15 points)
+**Ungraded In-Class Exercises** (18 points total)
 
-1. File format exercise (FILELABDATE)
-2. Collection stewardship exercise (COLLECTIONLABDATE)
-3. Command line exercise (INTERFACELABDATE)
-4. Reference question exercise (REFLAB1DATE) 
-5. Return to reference question exercise (REFLAB2DATE)
-6. Zotero introduction (ZOTERO1LABDATE)
-7. Research methods (METHODSLABDATE)
-8. Use & Users discussion (USERSLABDATE)
-9. Cultural heritage object description (SPURLOCKDATE)
-10. Pandoc on cultural heritage object description (PANDOC1LABDATE)
-11. Pandoc formatting an ebook (PANDOC2LABDATE)
-12. Character encoding exercise (UNICODELABDATE) 
-13. Pandoc of ebook (PANDOC3LABDATE)
-14. Zotero output and applications (ZOTERO2LABDATE)
-15. Practice presentations (PRACTICEDATE)
+These are ungraded; participate in class and submit any associated by 11PM on the deadline for full credit.
+
+1. Introduce yourself both in person in class and in writing on the Moodle forum. - due INTROLABDATE
+2. File format exercise - planned for FILELABDATE
+3. Sign up for 2 collections for Assignment 1 on the wiki set up for this purpose. - planned for COLLECTIONSIGNUPLABDATE
+4. Collection stewardship exercise - participate on COLLECTIONLABDATE
+5. Command line exercise - planned for INTERFACELABDATE
+6. Reference question exercise - participate on REFLAB1DATE 
+7. Return to reference question exercise - participate on REFLAB2DATE
+8. Zotero introduction exercise - planned for ZOTERO1LABDATE
+9. Research methods exercise - planned for METHODSLABDATE
+10. Use & Users discussion - participate on USERSLABDATE
+11. Cultural heritage object description exercise - planned for SPURLOCKDATE
+12. Pandoc on cultural heritage object description - planned for PANDOC1LABDATE
+13. Markdown of an ebook - planned for PANDOC2LABDATE
+14. Character encoding exercise - planned for UNICODELABDATE 
+15. Pandoc assembly of an EPUB ebook - planned for PANDOC3LABDATE
+16. Zotero output and applications exercise - planned for ZOTERO2LABDATE
+17. Database design exercise - planned for DATABASELABDATE
+18. Practice presentations - participate on PRACTICEDATE
 
 **Grading Scale:**
 
