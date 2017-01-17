@@ -58,5 +58,6 @@ Some issues you may want to consider in your writing include:
 ## Submitting {.postreq}
 Post the essay to the Moodle forum designated for this assignment.
 Assessment will be based on evidence of engagement with issue(s) related
-to the class topic. Each response is worth a possible 3 points.
+to the class topic. Each response is worth a possible 3 points. 
+Be sure to complete 3 reading responses following RR3DUE and the fourth for the last day of class.
 
