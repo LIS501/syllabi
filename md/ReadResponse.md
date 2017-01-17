@@ -56,8 +56,8 @@ Some issues you may want to consider in your writing include:
     you also might cite other readings for this connection if you want.
 
 ## Submitting {.postreq}
-Post the essay to the Moodle forum designated for this assignment.
-Assessment will be based on evidence of engagement with issue(s) related
-to the class topic. Each response is worth a possible 3 points. 
-Be sure to complete 3 reading responses following RR3DUE and the fourth for the last day of class.
+Post to the forum set up for the week’s discussion by 11 pm on the day following the class
+meeting for that week. Include Reading Response \#N in the subject line, so it will be clear which of your posts is to be evaluated as a reading response. Assessment will be based on evidence of engagement with issue(s) related to the class topic. Each response is worth a possible 3 points. 
+Be sure to complete 3 reading responses following RR3DUE and the fourth following RR4DUE, the last day of class. 
+
 

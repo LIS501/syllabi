@@ -40,7 +40,7 @@ and citations are formatted at the markdown source level
 (by hand, via Zotero, etc.).
 
 ## Submitting {.postreq}
-Post the essay to the Moodle forum designated for this assignment.
+Post the essay to the Moodle Dropbox designated for this assignment.
 			
 ## Resources {.section}
 

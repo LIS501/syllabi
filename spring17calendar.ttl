@@ -160,11 +160,6 @@
   :date "INTROLABDATE" ;
   rdfs:label "Introductions exercise"@en .
 
-:Introductions a :Activity ;
-  :during :Session1-1 ;
-  :date "INTROLABDATE" ;
-  rdfs:label "Introductions exercise"@en .
-
 :FileFormat a :Activity ;
   :during :Session1-1 ;
   :date "FILELABDATE" ;
@@ -233,7 +228,7 @@
 :LabUsers a :Activity ;
   :during :Session5-1 ;
   :date "USERSLABDATE";
-  rdfs:label "Group discussion of Use and Users (drawing on Assignment 1)"@en .
+  rdfs:label "Small group discussiond of Use and Users (drawing on Assignment 1)"@en .
 
 :LabSpurlockVisit a :Activity ;
   :during :Session6-2 ;
@@ -288,7 +283,7 @@
 :LabDatabase a :Activity ;
   :during :Session9-1 ;
   :date "DATABASELABDATE" ;
-  rdfs:label "Database DesignLab"@en .
+  rdfs:label "Database Design exercise"@en .
   
 :PreservationVisit a :Activity ;
   :during :Session9-2 ;
@@ -314,6 +309,11 @@
   :during :Session12-2 ;
   :date "ICESDATE" ;
   rdfs:label "ICES evaluations"@en .
+
+:CollectionsSignup a :Activity ;
+  :during :Session1-2 ;
+  :date "COLLECTIONSIGNUPLABDATE" ;
+  rdfs:label "Sign up for 2 collections for Assignment 1 on the wiki set up for this purpose"@en .
 
 :DiscussionInterfaces a :Activity ;
   :during :Session2-1 ;
@@ -517,7 +517,6 @@
   :date "M8DUE" ;
   :during :Session11-2 .
 
-
 :A3D3 a :Deadline ;
   rdfs:label "Assignment 3 Final deliverable: Oral presentation"@en ;
   :date "A3CDUE" ;
@@ -533,10 +532,13 @@
   :date "A3BDUE" ;
   :during :Session12-2 .
 
-:RR a :Deadline ;
-  rdfs:label "Complete at least 3 Reading Responses"@en ;
+:RR3 a :Deadline ;
+  rdfs:label "3 of your 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
   :date "RR3DUE" ;
   :during :Session11-1 .
 
-
+:RR4 a :Deadline ;
+  rdfs:label "All 4Reading Responses should be complete by 11 PM tomorrow."@en ;
+  :date "RR4DUE" ;
+  :during :Session12-2 .
 

@@ -10,10 +10,13 @@ assignment in the final grade is noted below.
 
 **Graded Written Assignments** (67 points total)
 
-1. Collections Assessment - 15 points - due A1DUE.
+1. Collections Assessment - 15 points - due A1DUE
 2. Use and Users - 15 points - due A2DUE
-3. Final Project - 25 points (5 for presentation, 10 for 2-page essay, 10 for bibliography) 
-4. 4 Reading Responses - 12 points total (3 points each) - due by 11 PM on the day following the class meeting they are discussed.
+3. Final Project - 25 points comprised of:
+	- Presentation due A3CDUE (5 points)
+	- 2-page research proposal due A3ADUE (10 points)
+	- 20-item annotated bibliography due A3BDUE (10 points)
+4. 4 Reading Responses - 12 points total (3 points each) - due by 11 PM on the day following the class meeting they are discussed. 3 reading responses should be completed following RR3DUE; all 4 should be completed following RR4DUE.
 
 **Graded Participation Assignments** (7 points total)
 

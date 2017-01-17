@@ -1,5 +1,6 @@
 # Assignment 3: Research Design Proposal  {#ResearchProposal .task}
-Materials due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, M7DUE, M8DUE, A3ADUE, and A3CDUE 
+Ungraded milestones due M1DUE, M3DUE, M4DUE, M5DUE, M6DUE, M7DUE, M8DUE.
+Final deliverables due A3CDUE and A3ADUE.
  
 ## Rationale {.context}
 
@@ -29,12 +30,11 @@ work in this class. This is part of your education because:
 
 ## Before you begin {.prereq}
 - Think about any problems that interest you. How could they be formulated as research questions?
-- During the first four weeks of class, review the literature related to open questions in a part of
-  our discipline that interests you.
-- Complete the research methods exercise during our METHODSLABDATE lab session.
-- Complete the readings on finding information.
+- During the first few weeks of class, review the literature related to open questions in a part of our discipline that interests you.
+- Complete the readings on search strategy and on browsing and serendipity.
+- Attend Dan Tracy's library instruction session in Week 3.
 - As background for Zotero, complete the ZOTERO1LABDATE Zotero exercise.
-- As background for the annotated bibliography, review the Purdue University resources on annotated bibliographies here: <https://owl.english.purdue.edu/owl/resource/614/01/> .
+- Complete the research methods exercise during our METHODSLABDATE lab session.
 
 ## Milestone Deliverables {.steps}
 
@@ -54,6 +54,7 @@ work in this class. This is part of your education because:
        
 5. **1 reflection about finding items due M5DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - Reflections might include search strategies, ideas, failed approaches, things you want to try next, or requests for advice.
+     - This is a good week to reflect on your choice of topic. You may change your topic at any point (consult with the instructors); after this point such a shift will become more time-consuming.
 
 6. **Resource List due M6DUE**, to the *Assignment 3E: Resource List* forum
      - Use Zotero to share 20 resources related to your research
@@ -65,7 +66,15 @@ work in this class. This is part of your education because:
        suggestions to your classmates by replying to their posts.
 
 7. **Outline of your abstract & 2 annotated bibliography items due M7DUE**, to be shared with the instructors
-     - **Add in outline format here**, second annotated item as the first (one may be a rewrite of the first item from Milestone 4)
+     - Develop the two paragraph summary of your research question into an outline. Your outline should have one bullet point for each of these items, in order:
+1. What is the problem
+2. Why is it important?
+3. What is known?
+4. What is the gap in knowledge? (What do we not know?)
+5. What methods do you propose using? (may include hypotheses, data)
+6. What would the results & implications be useful for?
+Reference items from your resource list as appropriate. Identify gaps where additional bibliography resources might support your argument.
+     - The second annotated item should follow the same format from Milestone 4; one of your two annotated items may be a rewrite of the first item from Milestone 4 if you like.
        
 8. **Research Reflection notebook due M8DUE**, to be shared with the instructors and/or posted to the *Assignment 3B: Research Reflection* forum
      - In this project you will attend not only to your research question but also, especially, to the process of identifying a question, determining how to address it, and how to search and annotate.
@@ -84,8 +93,7 @@ work in this class. This is part of your education because:
        with a classmate or colleague outside class.
        
 2. **Due A3ADUE Two page extended abstract**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
-     - Develop the two paragraph summary of your research question
-       into a two page extended abstract. Focus on describing and
+     - Develop your outline into a two page extended abstract. Focus on describing and
        justifying the methods for investigating your research
        question. The extended abstract is a proposal. It should
        include a statement of your research problem, a description of
@@ -94,7 +102,8 @@ work in this class. This is part of your education because:
        take.
 
 3. **Due A3BDUE Annotated bibliography of 20 items**, to the Moodle drop box *Assignment 3 abstract & bibliography* 
-     - Create an annotated bibliography. Format entries consistency and indicate the citation format you use. Number each entry.
+     - Create an annotated bibliography. Format entries consistency and indicate the citation format you use. Number each entry. See the Purdue University Online Writing Lab resources on annotated bibliographies: <https://owl.english.purdue.edu/owl/resource/614/01/>
+     
        For each resource, write a 2-paragraph annotation. The first paragraph should describe the resource while the second paragraph 
        should situate it with respect to your research question and/or method.
        
@@ -115,7 +124,7 @@ work in this class. This is part of your education because:
 
 - Walliman on defining the research problem
 	- <http://methods.sagepub.com/book/social-research-methods/n6.xml>
--  Purdue University resources on annotated bibliographies
+-  Purdue University Online Writing Lab resources on annotated bibliographies
 	- <https://owl.english.purdue.edu/owl/resource/614/01/>
 -  Our readings on [research methods](#research-methods)
 - Using Zotero to create an annotated bibliography
