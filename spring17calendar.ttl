@@ -165,7 +165,7 @@
   :date "FILELABDATE" ;
   rdfs:label "File format exercise"@en .
 
-:FileFormat a :Activity ;
+:CollectionsSignup a :Activity ;
   :during :Session1-2 ;
   :date "COLLECTIONSIGNUPLABDATE" ;
   rdfs:label "Sign up for 2 collections for Assignment 1 on the wiki set up for this purpose"@en .
