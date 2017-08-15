@@ -7,6 +7,7 @@ You may wish to look at some sample policies:
 * Washington and Lee University Library Collection Development Policy http://library.wlu.edu/about/policies/collection-development-policy
 * Georgia Public Library model policies and guidelines: http://www.georgialibraries.org/lib/collections/
 * American Alliance of Museums guidelines: http://www.aam-us.org/docs/default-source/continuum/developing-a-cmp-final.pdf?sfvrsn=4
+* Natural History example from the Florida Museum of Natural History: https://www.floridamuseum.ufl.edu/collections/policy/#How-Natural-History-Objects-and-Collections-are-Acquired
 
 Either post your individual contribution to the forum (with a label that identifies which group) or compile into a single document and attach the names of all group member and have one person post to the forum with a label that identifies the collection group
 
