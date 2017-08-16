@@ -12,7 +12,7 @@ date: January 16, 2017
 6. Jane Addams Book Shop, 208 N Neil St, Champaign, IL 61820
 7. Priceless Books, 108 W Main St, Urbana, IL 61801
 8. Barnes & Noble, 65 E Marketview Dr, Champaign, IL 61820
-9. Dr. G's BrainWorks, 2000 N Neil St, Champaign, IL 61820
+9. Dr. G's BrainWorks, Market Place Shopping Center, 2000 N Neil Street, Champaign, IL 61821
 10. Toys"R"Us, 40 E Anthony Dr, Champaign, IL 61820
 11. Exile on Main Street, 100 N Chestnut St #120, Champaign, IL 61820
 12. See You CD & Vinyl, 123 W Main St, Urbana, IL 61801
@@ -35,4 +35,7 @@ date: January 16, 2017
 29. CU Woodshop Supply, 1401 Parkland Ct, Champaign, IL 61821  Lemley Mullett
 30. Serv-U Restaurant Equipment & Supply, 3201 Apollo Dr, Champaign, IL 61822 YOUR NAME HERE
 31. World Harvest Foods, 519 E. University Ave, Champaign IL 61822
-32. I.D.E.A. store, 28 E. Springfield Avenue, 2nd Floor, Champaign IL 61820 (see http://the-idea-store.org)
+32. I.D.E.A. store, 28 E. Springfield Avenue, Champaign IL 61820 (see http://the-idea-store.org)
+33. Fresh International Market, 505 S Neil St, Champaign, IL 61820
+34. GFS Marketplace, 502 Wtown Center Blvd, Champaign, IL 61822
+35. Maligaya’s Store, 2410 W Springfield Ave, Champaign, IL 61821
