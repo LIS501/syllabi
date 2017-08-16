@@ -39,3 +39,23 @@ date: January 16, 2017
 33. Fresh International Market, 505 S Neil St, Champaign, IL 61820
 34. GFS Marketplace, 502 Wtown Center Blvd, Champaign, IL 61822
 35. Maligaya’s Store, 2410 W Springfield Ave, Champaign, IL 61821
+36. Grovestone - Olive Oil, 1707 W Kirby Ave, Champaign, IL 61821
+37. Furniture Lounge, 11 E University Ave, Champaign, IL 61820
+38. Plato's Closet, 29 E Marketview Dr, Champaign, IL 61820
+39. Karen's Kloset, 231 S Mattis Ave, Champaign, IL 61821
+40. Classic Home Consignment, 1912 Round Barn Rd, Champaign, IL 61821
+41. Crossroads Corner Consignment, 723 S Neil St #103, Champaign, IL 61820
+42. Hopscotch Bakery and Market, 802 W John St, Champaign, IL 61820
+43. The Best of Africa's Food Store, 208 W Griggs St, Urbana, IL 61802
+44. Dear 72, 700 S Gregory St, Urbana, IL 61801
+45. Circles Boutique, 114 N Neil St, Champaign, IL 61820
+46. Bohemia, 135 W Main St, Urbana, IL 61801
+47. Ten Thousand Villages, 105 N Walnut St, Champaign, IL 61820
+48. Cream & Flutter, 114 N Walnut St, Champaign, IL 61820
+49. Wood N' Hog, 904 N 4th St, Champaign, IL 61820
+50. Neutral Cycle, 624 S 5th St, Champaign, IL 61820
+51. Champaign Cycle, 506 S Country Fair Dr, Champaign, IL 61821
+52. The Bike Project, 202 S Broadway Ave, Urbana, IL 61801
+53. Durst Cycle & Fitness, 1112 W University Ave, Urbana, IL 61801
+
+
