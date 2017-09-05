@@ -10,7 +10,7 @@ Please sign up for 2 locales to visit for Assignment 1.
 4. AM-KO Oriental Foods & Gifts, 101 E Springfield Ave, Champaign, IL 61820 -YOUR NAME HERE
 5. Far East Grocery, 105 S 5th St, Champaign, IL 61820 - YOUR NAME HERE
 6. Jane Addams Book Shop, 208 N Neil St, Champaign, IL 61820 - YOUR NAME HERE
-7. Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE
+**Check** 7. Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE
 8. Barnes & Noble, 65 E Marketview Dr, Champaign, IL 61820 - YOUR NAME HERE
 9. Dr. G's BrainWorks, Market Place Shopping Center, 2000 N Neil Street, Champaign, IL 61821 - YOUR NAME HERE
 10. Toys"R"Us, 40 E Anthony Dr, Champaign, IL 61820 - YOUR NAME HERE
@@ -34,7 +34,7 @@ Please sign up for 2 locales to visit for Assignment 1.
 28. Rural King, 913 W Marketview Dr, Champaign, IL 61821 - YOUR NAME HERE
 29. CU Woodshop Supply, 1401 Parkland Ct, Champaign, IL 61821 - YOUR NAME HERE
 30. Serv-U Restaurant Equipment & Supply, 3201 Apollo Dr, Champaign, IL 61822 - YOUR NAME HERE
-31. World Harvest Foods, 519 E. University Ave, Champaign IL 61822 - YOUR NAME HERE
+**Check** 31. World Harvest Foods, 519 E. University Ave, Champaign IL 61822 - YOUR NAME HERE
 32. I.D.E.A. store, 28 E. Springfield Avenue, Champaign IL 61820 (see http://the-idea-store.org) - YOUR NAME HERE
 33. Fresh International Market, 505 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 34. GFS Marketplace, 502 Wtown Center Blvd, Champaign, IL 61822 - YOUR NAME HERE
