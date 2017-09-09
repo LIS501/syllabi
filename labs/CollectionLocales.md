@@ -4,13 +4,13 @@ author: Dave Dubin
 date: January 16, 2017
 ---
 Please sign up for 2 locales to visit for Assignment 1.
-1. Lee's Oriental Foods, 303 Cedar St, Champaign, IL 61820 - YOUR NAME HERE
+1. **Check** Lee's Oriental Foods, 303 Cedar St, Champaign, IL 61820 - YOUR NAME HERE
 2. Green Onion Asian Market, 2020 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 3. Annapoorna stores, 505 S Neil St #11, Champaign, IL 61820 - YOUR NAME HERE
 4. AM-KO Oriental Foods & Gifts, 101 E Springfield Ave, Champaign, IL 61820 -YOUR NAME HERE
 5. Far East Grocery, 105 S 5th St, Champaign, IL 61820 - YOUR NAME HERE
 6. Jane Addams Book Shop, 208 N Neil St, Champaign, IL 61820 - YOUR NAME HERE
-7. Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE **Check** 
+7.  **Check** Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE **Check** 
 8. Barnes & Noble, 65 E Marketview Dr, Champaign, IL 61820 - YOUR NAME HERE
 9. Dr. G's BrainWorks, Market Place Shopping Center, 2000 N Neil Street, Champaign, IL 61821 - YOUR NAME HERE
 10. Toys"R"Us, 40 E Anthony Dr, Champaign, IL 61820 - YOUR NAME HERE
