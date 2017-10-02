@@ -37,7 +37,7 @@ share a screenshot
 ## Getting ready to use Pandoc
 
 1.  Do you know how to get to your shell? ("[command line
-    interface](https://courses.ischool.illinois.edu/mod/forum/discuss.php?d=354946)")
+    interface](https://www.ictlounge.com/html/operating_systems.htm)")
 2.  Do you know how to get to your text editor?
 3.  Linked is an input file, [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md)
 4.  Can you figure out how to get HTML or a DOCX file from this input
