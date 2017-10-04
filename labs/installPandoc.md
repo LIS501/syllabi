@@ -16,9 +16,7 @@ Overall you will:
 5. Transform your cultural heritage object description into two versions (e.g. HTML and DOCX), with pandoc. 
 6. Markup a recipe in markdown and post it to this week's forum.
 7. Download several recipes from the forum. Use pandoc to make an EPUB cookbook.
-
-During lab please post your recipe in markdown; put this in this since other students will need that during lab for their cookbook.
-By the end of this week, please upload your HTML and DOCX of the cultural heritage object description, and your EPUB cookbook to this week's forum. Need help? Please come to office hours.
+8. Upload your HTML and DOCX of the cultural heritage object description, and your EPUB cookbook to this week's forum. Try to do this by the end of the week. Need help? Please come to office hours.
 
 ## First install Pandoc
 
@@ -65,9 +63,19 @@ If the message you get shows an error, ask one of the instructors. If you're doi
 5.  What needs to be different to use your own file?
 6.  Hint: What do spaces mean in commands at the command line?
 
-## Markup a recipe in markdown and post it to the forum.
+## Markup a recipe in markdown and post it to this week's forum.
 
-1. Find (or remember) a recipe. You can use any recipe. If you don't know one off-hand, you might like to find a public domain recipe from searching [http://archive.org].
+1. Find (or remember) a recipe. You can use any recipe. If you don't know one off-hand, you might like to find a public domain recipe from searching <http://archive.org>.
+2. Type the recipe. Add markdown formatting. For formatting tips, see Table 2 of Dominici's "An Overview of Pandoc" or [sample1.md](https://raw.githubusercontent.com/LIS501/syllabi/master/labs/sample1.md) 
+3. Post your recipe to this week's forum.
 
-7. Download several recipes from the forum. Use pandoc to make an EPUB cookbook.
+## Download several recipes from this week's forum. Use pandoc to make an EPUB cookbook.
 
+1. From this week's forum, download several recipes (or markup a second recipe).
+2. Can you figure out how to get EPUB from multiple files at once with Pandoc?
+3. Add a YAML block with title, author, and date to one of your recipes. What happens when you run Pandoc on all the files?
+4. Can you open your EPUB file? If you don't already have an ebook readiner, [Calibre](https://calibre-ebook.com) is a good option.
+
+## Upload files
+1. By the end of today (or by the week if you need more time), upload your HTML and DOCX of the cultural heritage object description, and your EPUB cookbook to this week's forum. 
+2. Need help? Please come to office hours.
