@@ -18,6 +18,8 @@ Overall you will:
 7. Download several recipes from the forum. Use pandoc to make an EPUB cookbook.
 8. Upload your HTML and DOCX of the cultural heritage object description, and your EPUB cookbook to this week's forum. Try to do this by the end of the week. Need help? Please come to office hours.
 
+Here are the details for each of these steps:
+
 ## 1. First install Pandoc
 
 1.  Download the right installer for your operating system. (Pick
