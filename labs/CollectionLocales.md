@@ -4,7 +4,6 @@ author: Dave Dubin
 date: January 16, 2017
 ---
 Please sign up for 2 locales to visit for Assignment 1.
-1. **Check** Lee's Oriental Foods, 303 Cedar St, Champaign, IL 61820 - YOUR NAME HERE
 2. Green Onion Asian Market, 2020 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 3. Annapoorna stores, 505 S Neil St #11, Champaign, IL 61820 - YOUR NAME HERE
 4. AM-KO Oriental Foods & Gifts, 101 E Springfield Ave, Champaign, IL 61820 -YOUR NAME HERE
