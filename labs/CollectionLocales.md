@@ -3,8 +3,8 @@ title: Locales for collection assessment exercise
 author: Dave Dubin
 date: January 16, 2017
 ---
-Please sign up for 1 locale to visit for Assignment 1 
-1. World Harvest Foods, 306 Springfield Ave, Urbana, IL 61801
+Please sign up for 2 locales to visit for Assignment 1 
+1. World Harvest Foods, 306 Springfield Ave, Urbana, IL 61801 - YOUR NAME HERE
 2. Green Onion Asian Market, 2020 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 3. Annapoorna stores, 505 S Neil St #11, Champaign, IL 61820 - YOUR NAME HERE
 4. AM-KO Oriental Foods & Gifts, 101 E Springfield Ave, Champaign, IL 61820 -YOUR NAME HERE
@@ -56,3 +56,13 @@ Please sign up for 1 locale to visit for Assignment 1
 50. Champaign Cycle, 506 S Country Fair Dr, Champaign, IL 61821 - YOUR NAME HERE
 51. The Bike Project, 202 S Broadway Ave, Urbana, IL 61801 - YOUR NAME HERE
 52. Durst Cycle & Fitness, 1112 W University Ave, Urbana, IL 61801 - YOUR NAME HERE
+53. Cracked Glass, 602 E High St, Urbana, IL 61801 - YOUR NAME HERE
+54. Tepper Electric Supply Company, 608 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
+55. Art Coop, 300 S Broadway Ave, Urbana, IL 61801 - YOUR NAME HERE
+56. Art Box, 707 S 6th St, Champaign, IL 61820 - YOUR NAME HERE
+57. The Habitat for Humanity Restore, 119 E University Ave, Champaign, IL 61820 - YOUR NAME HERE
+58. PACA Architectural Salvage, 44 E Washington St, Champaign, IL 61820 (see http://pacacc.org/architectural-salvage-warehouse/ ) - YOUR NAME HERE
+59. Rumours Hat Shoppe, 75 E Chester St, Champaign, IL 61820 - YOUR NAME HERE
+60. Antiques & More, 606 S Staley Rd, Champaign, IL 61822 - YOUR NAME HERE
+61. Prairie Gardens, 3000 W Springfield Ave, Champaign, IL 61822 - YOUR NAME HERE
+62. Ragstock, 627 S Wright St, Champaign, IL 61820 - YOUR NAME HERE
