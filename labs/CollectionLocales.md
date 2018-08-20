@@ -11,7 +11,7 @@ Please sign up for 2 locales to visit for Assignment 1
 5. Far East Grocery, 105 S 5th St, Champaign, IL 61820 - YOUR NAME HERE
 6. Jane Addams Book Shop, 208 N Neil St, Champaign, IL 61820 - YOUR NAME HERE
 7. Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE
-8. Barnes & Noble, 65 E Marketview Dr, Champaign, IL 61820 - YOUR NAME HERE
+8. Orphans Treasure Box, 826 Pioneer St, Champaign, IL 61820 - YOUR NAME HERE
 9. Dr. G's BrainWorks, Market Place Shopping Center, 2000 N Neil Street, Champaign, IL 61821 - YOUR NAME HERE
 10. Toys"R"Us, 40 E Anthony Dr, Champaign, IL 61820 - YOUR NAME HERE
 11. Exile on Main Street, 100 N Chestnut St #120, Champaign, IL 61820 - YOUR NAME HERE
@@ -66,3 +66,5 @@ Please sign up for 2 locales to visit for Assignment 1
 60. Antiques & More, 606 S Staley Rd, Champaign, IL 61822 - YOUR NAME HERE
 61. Prairie Gardens, 3000 W Springfield Ave, Champaign, IL 61822 - YOUR NAME HERE
 62. Ragstock, 627 S Wright St, Champaign, IL 61820 - YOUR NAME HERE
+63. Fira Boutique, 700 S Gregory St, Urbana, IL 61801 - YOUR NAME HERE
+64. Titan Games, 723 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
