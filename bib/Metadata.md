@@ -1,30 +1,52 @@
-“Bibliographic Ontology.” *Wikipedia*, September 29, 2016.
-https://en.wikipedia.org/w/index.php?title=Bibliographic\_Ontology&oldid=741752708.
+*Required Readings:*
 
-Elings, Mary W., and Günter Waibel. “Metadata for All: Descriptive
-Standards and Metadata Sharing across Libraries, Archives and Museums.”
-*First Monday* 12, no. 3 (March 5, 2007).
-http://journals.uic.edu/ojs/index.php/fm/article/view/1628.
+Swoger, B. (2012). What is metadata? A Christmas-themed exploration.
+Info Culture.
+<https://blogs.scientificamerican.com/information-culture/what-is-metadata-a-christmas-themed-exploration/>\
+\
+Pomerantz, J. (2015). Chapter 1. Introduction. In: Metadata. Cambridge,
+MA: MIT Press, 1-18.
+<http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7937922>\
+\
+[Choosing a metadata scheme]{.underline}
 
-Gartner, Richard. “Metadata Becomes Digital.” In *Metadata*, 27–39.
-Springer International Publishing, 2016.
-http://link.springer.com.proxy2.library.illinois.edu/chapter/10.1007/978-3-319-40893-4\_3.
+Kennedy, M. R. (2008). Nine questions to guide you in choosing a
+metadata schema. Journal of Digital Information 9(1).
+<http://journals.tdl.org/jodi/article/view/226/205>
 
-Kennedy, M.R. “Nine Questions to Guide You in Choosing a Metadata
-Schema.” *Journal of Digital Information* 9, no. 1 (2008). [Locate full
-text from http://sfx.carli.illinois.edu/sfxuiu/az].
+Smith-Yoshimura, K. (2017). How much metadata is practical?
+Hangingtogether.org blog. November 14.
+<http://hangingtogether.org/?p=6328>
 
-Pomerantz, Jeffrey. “Chapter 1. Introduction.” In *Metadata*, 1–18. The
-MIT Press Essential Knowledge Series. Cambridge, Massachusetts: The MIT
-Press, 2015.
-http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1100624&site=ehost-live.
+[Metadata standards for different purposes]{.underline}
 
-Swoger, B. “What Is Metadata? A Christmas-Themed Exploration. Info
-Culture.” *Scientific American*, 2012.
-http://blogs.scientificamerican.com/information-
-culture/2012/12/17/what-is-metadata-a-christmas-themed-exploration/.
+Elings, M. W.; Waibel, G. (2007). Metadata for all: Descriptive
+standards and metadata sharing across libraries, archives, and museums.
+First Monday 12(3).\
+<http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1628/1543>
 
-Warren, John. “Zen and the Art of Metadata Maintenance.” *Journal of
-Electronic Publishing* 18, no. 3 (2015). [Locate full text from
-http://sfx.carli.illinois.edu/sfxuiu/az].
+Gartner, R. (2016). Chapter 3. Metadata becomes digital. In: *Metadata:
+Shaping knowledge from antiquity to the semantic web*. Switzerland:
+Springer, 27-39.
+<https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8128614>
 
+Warren, J. W. (2015). Zen and the art of metadata maintenance. *Journal
+of Electronic Publishing*. 18(3).
+<http://quod.lib.umich.edu/j/jep/3336451.0018.305?view=text;rgn=main>\
+\
+*Optional Readings: *
+
+[Map of metadata standards\
+]{.underline}Riley, Jenn. (2009-2010). Seeing Standards: A Visualization
+of the Metadata Universe. Retrieved from
+<http://jennriley.com/metadatamap/>\
+\
+[Historical context\
+]{.underline}Coyle, K. (2016). The evolving catalog: cataloging tech
+from scrolls to computers. *American Libraries*. 47(1/2): 48-\
+53.
+<https://americanlibrariesmagazine.org/2016/01/04/cataloging-evolves/>\
+\
+Blei, D. (2017). How the index card cataloged the world. *The Atlantic*.
+December 1.
+<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
