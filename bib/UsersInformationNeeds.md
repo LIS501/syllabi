@@ -26,7 +26,7 @@ User Behaviors, Shifting Priorities.* Dublin, OH: OCLC Research, 1-5,
 
 *Optional Readings:*
 
-*Archival users*
+[_Archival users_]
 
 Rhee, H. L. (2015). Reflections on archival user studies. *Reference and
 User Services Quarterly 54*(4): 29-42. \[e-journal\] \[Locate full text

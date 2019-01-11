@@ -29,9 +29,10 @@ promise. *Notes* *74*(1), 9-23. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
 UCLA Continuing Resources Study Group. (n.d.). Semantic Web and Linked
-Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>\
-\
-*Optional:*\
+Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>
+
+*Optional:*
+
 [_Linked data_]
 
 Eric Lease Morgan and LiAM. (2014). Linked Archival Metadata: A
@@ -48,7 +49,7 @@ records and their influence in conceptualizing bibliographic data.
 Cataloging & Classification Quarterly *53*(3-4): 286-302. \[e-journal\]
 \[Locate full text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-*Standards making*
+[_Standards making_]
 
 Example: Unicode as a standard
 
