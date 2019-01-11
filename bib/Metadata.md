@@ -32,8 +32,8 @@ Springer, 27-39.
 
 Warren, J. W. (2015). Zen and the art of metadata maintenance. *Journal
 of Electronic Publishing*. 18(3).
-<http://quod.lib.umich.edu/j/jep/3336451.0018.305?view=text;rgn=main>\
-\
+<http://quod.lib.umich.edu/j/jep/3336451.0018.305?view=text;rgn=main>
+
 *Optional Readings: *
 
 [_Map of metadata standards_]

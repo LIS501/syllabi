@@ -11,9 +11,7 @@ Wittgenstein Society-New Series (Volumes 1-18)*, *3*. Retrieved from\
 
 Kichuk, D. (2015). Loose, falling characters and sentences: The
 persistence of the OCR problem in digital repository e-books. *Portal:
-Libraries and the Academy 15*(1): 59-91.
-
-\[e-journal\] \[Locate full text from
+Libraries and the Academy 15*(1): 59-91. [e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
 Loesch, M. F. (2011). VIAF (Virtual International Authority File).

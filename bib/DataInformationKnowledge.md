@@ -16,7 +16,6 @@ Society for Information Science* *48*(9): 804-809.
 <http://people.ischool.berkeley.edu/~buckland/whatdoc.html>
 
 Bush, V. (1945). As we may think. *Atlantic Monthly.*
-
 <http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/>
 
 *Optional*

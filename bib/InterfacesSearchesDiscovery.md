@@ -2,9 +2,8 @@
 
 \[Video\] Christen, K. (2017, July 13). We have never been neutral:
 Search, discovery, and the politics of access. OCLC Distinguished
-Seminar Series. Retrieved
-
-via <http://www.oclc.org/research/events/2017/07-13.html>
+Seminar Series. Retrieved via
+<http://www.oclc.org/research/events/2017/07-13.html>
 
 [_Searching and search systems_]
 

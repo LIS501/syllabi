@@ -48,27 +48,31 @@ records and their influence in conceptualizing bibliographic data.
 Cataloging & Classification Quarterly *53*(3-4): 286-302. \[e-journal\]
 \[Locate full text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-*Standards making*\
-Example: Unicode as a standard\
+*Standards making*
+
+Example: Unicode as a standard
+
 Bettels, J., & Bishop, F. A. (1993). Unicode: A Universal Character
 Code. *Digital Technical Journal* *5*(3), 21--31. \[e-journal\] \[Locate
 full text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]\
-\
+
+
 Example: markdown as a standard\
+
 Leonard, S. (2016, March). Guidance on markdown: Design philosophies,
 stability strategies, and select registrations (No. RFC 7764). RFC
-Editor. Retrieved\
-from <https://tools.ietf.org/html/rfc7764>\
-\
+Editor. Retrieved from <https://tools.ietf.org/html/rfc7764>
+
 Leonard, S. (2016, March). The text/markdown media type (No. RFC 7763).
-RFC Editor. Retrieved from <https://tools.ietf.org/html/rfc7763>\
-\
+RFC Editor. Retrieved from <https://tools.ietf.org/html/rfc7763>
+
 [_Historical context_]
 
-Blei, D. (2017). How the index card cataloged the world.
-The Atlantic. December 1.
-<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>\
-\
+Blei, D. (2017). How the index card cataloged the world.  The
+Atlantic. December 1.
+<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
+
+
 [_Semantic Web_]
 
 Wong, E. Y. (2016). UCLA CRSG semantic web resources. *Technical
