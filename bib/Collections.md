@@ -5,6 +5,7 @@ Journal.* September 15.
 <http://lj.libraryjournal.com/2017/09/buildings/lbd/balancing-connections-collections-library-design/>
 
 [Open access]
+
 Björk, B.-C. (2017) Gold, green, and black open access. *Learned
 Publishin*g *30*: 173-175. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
@@ -12,6 +13,7 @@ Publishin*g *30*: 173-175. \[e-journal\] \[Locate full text from
 Herther, N. K. (2017). Open access repositories: Revealing the mother lode of research to the world. Online Searcher 41(6): 34-39. e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
 
 [Accessibility]
+
 Big Ten Academic Alliance. (2017). Library e-resource accessibility. http://www.btaa.org/library/accessibility/reports
 
 Junus, R. (2014). Digital collections and accessibility. *DSC Sandbox blog.*
