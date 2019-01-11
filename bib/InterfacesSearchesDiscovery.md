@@ -6,10 +6,7 @@ Seminar Series. Retrieved via
 <http://www.oclc.org/research/events/2017/07-13.html>
 
 [_Searching and search systems_]
-
-Burke, J. J.; Tumbleson, B. E. (2016). Search systems and finding tools.
-*Library Technology Reports 52*(2): 17-22. \[e-journal\] \[Locate full
-text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
+Breeding, M. (2018). Index-based discovery services: Current market positions and trends. Library Technology Reports 54(8): 5-11 (Chapters 1 and 2).
 
 LaFrance, A. (2016). Searching for lost knowledge in the age of
 intelligent machines. *The Atlantic.* December 1.
@@ -31,6 +28,8 @@ Maloney, A.; Conrad, L. Y. (2016). *Expecting the unexpected:
 Serendipity, discovery, and the scholarly research process.* Thousand
 Oaks, CA: SAGE Publishing.
 <http://us.sagepub.com/sites/default/files/serrdiscovery.pdf>
+
+Thorp, J. (2018). Uncovering surprises in the collections, serendipitously. Library of Congress Blog. December 10. https://blogs.loc.gov/loc/2018/12/uncovering-surprises-in-the-collections-serendipitously/
 
 [_Recommending_]
 
