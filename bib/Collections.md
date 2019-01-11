@@ -22,9 +22,7 @@ academic library collecting. *College & Research Libraries 14*(2),
 159--176. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-Library of Congress. (2013). Update on the Twitter Archive at the
-Library of Congress. Retrieved from
-<http://blogs.loc.gov/loc/2013/01/update-on-the-twitter-archive-at-the-library-of-congress/>
+Library of Congress. (2017). Update on the Twitter archive at the Library of Congress.  December. https://blogs.loc.gov/loc/files/2017/12/2017dec_twitter_white-paper.pdf
 
 Roberts, A. (2016). Chapter 10. Conceptualising the library collection
 for the digital world. In: *Digital Information Strategies: From
