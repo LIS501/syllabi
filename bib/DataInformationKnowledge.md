@@ -8,7 +8,7 @@ heritage. *Information Research 20*(1), paper 655. <http://www.informationr.net/
 
 Buckland, M. K. (2017). Introduction. In *Information and Society*.
 Cambridge: MIT Press, 1-19.
-[https://vufind.carli.illinois.edu/vf-uiu/Record/uiu\_8275269](%20https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8275269)
+<https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8275269>
 or <https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8286111>
 
 Buckland, M. K. (1997). What is a "document"? *Journal of the American
