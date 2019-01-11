@@ -40,7 +40,7 @@ Tomka, P. (2014). Unusual Collections: Oddities and Necessities.
 *Illinois Library Association Reporter 32*(8), 4-7.
 <https://www.ila.org/content/documents/Reporter_0814.pdf>
 
-[Definitions]{.underline}
+[_Definitions_]
 
 Lee, H-L. (2000). "What Is a Collection?" *Journal of the American
 Society for Information Science 51*(12): 1106--13. \[e-journal\]
