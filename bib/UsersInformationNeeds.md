@@ -26,13 +26,13 @@ User Behaviors, Shifting Priorities.* Dublin, OH: OCLC Research, 1-5,
 
 *Optional Readings:*
 
-[_Archival users_]
+*Archival users*
 
 Rhee, H. L. (2015). Reflections on archival user studies. *Reference and
 User Services Quarterly 54*(4): 29-42. \[e-journal\] \[Locate full text
 from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-*Effects of age on information overload *
+*Effects of age on information overload*
 
 Benselin, J. C.; Ragsdell, G. (2016). Information overload: the
 differences that age makes. *Journal of Librarianship and Information
