@@ -20,6 +20,8 @@ The role of controlled vocabulary in keyword searching. *Cataloging &
 Classification Quarterly 53*(1): 1-39. \[e-journal\] \[Locate full text
 from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
+Nesset, V. (2018). Indexing databases for our users, not ourselves.  The Indexer 36(3): 105-109. [e-journal]  [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
+
 ***(read any two of the following):** Limitations of subject languages *
 
 Buckland, M. K. (2012). Obsolescence in subject description. *Journal of
@@ -54,6 +56,9 @@ elementary school children: who are we really serving? *The Indexer
 Ferris, A. M. (2018). Birth of a subject heading. *Library Resources and
 Technical Services* 62(1): 16-27.
 <https://journals.ala.org/index.php/lrts/article/view/6555>
+
+[Indexing]
+Rafferty, P. (2018). Tagging. Knowledge Organization 45(6): 500-516.  [e-journal]  [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
 
 [_Taxonomies_]
 
