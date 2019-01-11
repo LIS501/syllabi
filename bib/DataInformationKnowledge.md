@@ -18,6 +18,8 @@ Society for Information Science* *48*(9): 804-809. Preprint available at
 Bush, V. (1945). As we may think. *Atlantic Monthly.*
 <http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/>
 
+Peekhaus, W. (2018). Seed libraries: Sowing the seeds for community and public library resilience. Library Quarterly 88(3): 271-285. [e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
+
 *Optional*
 
 Video: Memex animation <http://www.youtube.com/watch?v=c539cK58ees>
