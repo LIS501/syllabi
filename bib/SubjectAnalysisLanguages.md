@@ -1,6 +1,6 @@
 *Required Readings:*
 
-[Subject analysis]{.underline}*\
+[_Subject analysis_]
 *Joudrey, D. N.; Taylor, A. G. (2018). *The Organization of
 Information.* 4th ed. Santa Barbara, CA: Libraries Unlimited. Appendix
 A. An approach to subject analysis (pp. 579-584). \[linked in Moodle
@@ -49,29 +49,33 @@ elementary school children: who are we really serving? *The Indexer
 
 *Optional readings:*
 
-[Subject headings]{.underline}
+[_Subject headings_]
 
 Ferris, A. M. (2018). Birth of a subject heading. *Library Resources and
 Technical Services* 62(1): 16-27.
 <https://journals.ala.org/index.php/lrts/article/view/6555>
 
-[Taxonomies*\
-*]{.underline}Hedden, H. (2016). Chapter 1. What are taxonomies? *The
+[_Taxonomies_]
+
+Hedden, H. (2016). Chapter 1. What are taxonomies? *The
 Accidental Taxonomist.* 2nd ed. Medford, NJ: Information Today, 16-32.
 <https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8104155>
 
-[Tagging\
-]{.underline}Rafferty, P. M. (2017). Tagging. *Encyclopedia of Knowledge
+[_Tagging_]
+
+Rafferty, P. M. (2017). Tagging. *Encyclopedia of Knowledge
 Organization.* <http://www.isko.org/cyclo/tagging>
 
-[New uses for metadata\
-]{.underline}Bauder, J.; Lange, E. (2015). Exploratory subject searching
+[_New uses for metadata_]
+
+Bauder, J.; Lange, E. (2015). Exploratory subject searching
 in library catalogs: reclaiming the vision. *Information Technology and
 Libraries 34*(2): 92-102.
 <http://ejournals.bc.edu/ojs/index.php/ital/article/view/5888/pdf>
 
-[OCR\
-]{.underline}Kean, S. (2018). Artificial intelligence is cracking open
+[_OCR_]
+
+Kean, S. (2018). Artificial intelligence is cracking open
 the Vatican's secret archives. *The Atlantic.* April 30.
 <https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/>
 
@@ -80,7 +84,7 @@ persistence of the OCR problem in digital repository e-books. *Portal:
 Libraries and the Academy 15*(1): 59-91. \[e-journal\] \[Locate full
 text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-[Quality]{.underline}
+[_Quality_]
 
 Beall, J. (2005). Metadata and data quality problems in the digital
 library. *Journal of Digital Information,*6(3).

@@ -34,7 +34,7 @@ Publishing, 143-156.
 
 *Optional Readings*
 
-[Public libraries]{.underline}
+[_Public libraries_]
 
 Tomka, P. (2014). Unusual Collections: Oddities and Necessities.
 *Illinois Library Association Reporter 32*(8), 4-7.

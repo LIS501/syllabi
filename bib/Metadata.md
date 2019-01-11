@@ -8,7 +8,7 @@ Pomerantz, J. (2015). Chapter 1. Introduction. In: Metadata. Cambridge,
 MA: MIT Press, 1-18.
 <http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7937922>\
 \
-[Choosing a metadata scheme]{.underline}
+[_Choosing a metadata scheme_]
 
 Kennedy, M. R. (2008). Nine questions to guide you in choosing a
 metadata schema. Journal of Digital Information 9(1).
@@ -18,7 +18,7 @@ Smith-Yoshimura, K. (2017). How much metadata is practical?
 Hangingtogether.org blog. November 14.
 <http://hangingtogether.org/?p=6328>
 
-[Metadata standards for different purposes]{.underline}
+[_Metadata standards for different purposes_]
 
 Elings, M. W.; Waibel, G. (2007). Metadata for all: Descriptive
 standards and metadata sharing across libraries, archives, and museums.
@@ -36,13 +36,15 @@ of Electronic Publishing*. 18(3).
 \
 *Optional Readings: *
 
-[Map of metadata standards\
-]{.underline}Riley, Jenn. (2009-2010). Seeing Standards: A Visualization
+[_Map of metadata standards_]
+
+Riley, Jenn. (2009-2010). Seeing Standards: A Visualization
 of the Metadata Universe. Retrieved from
 <http://jennriley.com/metadatamap/>\
 \
-[Historical context\
-]{.underline}Coyle, K. (2016). The evolving catalog: cataloging tech
+[_Historical context_]
+
+Coyle, K. (2016). The evolving catalog: cataloging tech
 from scrolls to computers. *American Libraries*. 47(1/2): 48-\
 53.
 <https://americanlibrariesmagazine.org/2016/01/04/cataloging-evolves/>\

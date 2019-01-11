@@ -1,6 +1,7 @@
 *Required Readings and videos:*
 
-[Introducing terminology]{.underline}\
+[_Introducing terminology_]
+
 Banerjee, K. (2017). Translating technobabble: All you really need to
 know about URIs, linked data, and FRBR. *Computers in Libraries*
 *37*(10): 21-24. \[e-journal\] \[Locate full text from
@@ -9,15 +10,17 @@ know about URIs, linked data, and FRBR. *Computers in Libraries*
 \[Video\] Ray, K. (2010). Web 3.0: a documentary.
 <https://vimeo.com/11529540>\
 \
-[FRBR]{.underline}\
+[_FRBR_]
+
 \[Video\] Bram Stoker's Dracula in FRBR Terms.\
 (2009). <http://www.youtube.com/watch?v=LN0vKCFsXPE>\
 \
 Tillett, B. (2003). What is FRBR? A conceptual model for the
 bibliographic universe. <http://www.loc.gov/cds/downloads/FRBR.PDF>\
 \
-[Linked data\
-]{.underline}Fons, T. (2016). Making libraries visible on the web.
+[_Linked data_]
+
+Fons, T. (2016). Making libraries visible on the web.
 *Library Journal* *141*(13): 44-46.
 <https://www.libraryjournal.com/?detailStory=making-libraries-visible-on-the-web-the-digital-shift>\
 \
@@ -29,13 +32,15 @@ UCLA Continuing Resources Study Group. (n.d.). Semantic Web and Linked
 Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>\
 \
 *Optional:*\
-[Linked data]{.underline}\
+[_Linked data_]
+
 Eric Lease Morgan and LiAM. (2014). Linked Archival Metadata: A
 Guidebook. version .99 pages 6-24
 <http://infomotions.com/sandbox/liam/tmp/guidebook.pdf>\
 \
-[MARC & bibliographic records\
-]{.underline}Library of Congress. (2004). Understanding MARC
+[_MARC & bibliographic records_]
+
+Library of Congress. (2004). Understanding MARC
 Bibliographic. (Part I- VI). <http://www.loc.gov/marc/umb>\
 \
 Clarke, R. I. (2015). Breaking records: the history of bibliographic
@@ -58,12 +63,14 @@ from <https://tools.ietf.org/html/rfc7764>\
 Leonard, S. (2016, March). The text/markdown media type (No. RFC 7763).
 RFC Editor. Retrieved from <https://tools.ietf.org/html/rfc7763>\
 \
-[Historical context\
-]{.underline}Blei, D. (2017). How the index card cataloged the world.
+[_Historical context_]
+
+Blei, D. (2017). How the index card cataloged the world.
 The Atlantic. December 1.
 <https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>\
 \
-[Semantic Web]{.underline}\
+[_Semantic Web_]
+
 Wong, E. Y. (2016). UCLA CRSG semantic web resources. *Technical
 Services Quarterly* *33*(3): 340-341. \[e-journal\] \[Locate full text
 from <https://sfx.carli.illinois.edu/sfxuiu/az>\]

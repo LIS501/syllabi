@@ -1,6 +1,6 @@
 *Required Readings:*
 
-[Selection for preservation]{.underline}
+[_Selection for preservation_]
 
 Madrigal, A. C. (2017). Future historians probably won't understand our
 Internet, and that's okay. *The Atlantic*. December 6.
@@ -16,7 +16,7 @@ practices in the field of preservation. *Library Resources & Technical
 Services 58*(4): 220-232. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]\
 \
-[Digital preservation]{.underline}
+[_Digital preservation_]
 
 Barone, F.; Zeitlyn, D.; Majer-Schönberger, V. (2015). Learning from
 failure: The case of the disappearing website. *First Monday* 20(5).
