@@ -12,7 +12,7 @@ Cambridge: MIT Press, 1-19.
 or <https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8286111>
 
 Buckland, M. K. (1997). What is a "document"? *Journal of the American
-Society for Information Science* *48*(9): 804-809.
+Society for Information Science* *48*(9): 804-809. Preprint available at
 <http://people.ischool.berkeley.edu/~buckland/whatdoc.html>
 
 Bush, V. (1945). As we may think. *Atlantic Monthly.*
