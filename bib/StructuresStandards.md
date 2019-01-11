@@ -33,11 +33,17 @@ Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>
 
 *Optional:*
 
-[_Linked data_]
+[_Linked data_and Seamntic Web]
 
 Eric Lease Morgan and LiAM. (2014). Linked Archival Metadata: A
 Guidebook. version .99 pages 6-24
 <http://infomotions.com/sandbox/liam/tmp/guidebook.pdf>\
+
+Wong, E. Y. (2016). UCLA CRSG semantic web resources. *Technical
+Services Quarterly* *33*(3): 340-341. \[e-journal\] \[Locate full text
+from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
+
+Carboni, N. (ed) (2018). GLAM flavoured Semantic Web List. A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners. https://github.com/ncarboni/GLAM-Semantic-Web
 \
 [_MARC & bibliographic records_]
 
@@ -72,10 +78,3 @@ RFC Editor. Retrieved from <https://tools.ietf.org/html/rfc7763>
 Blei, D. (2017). How the index card cataloged the world.  The
 Atlantic. December 1.
 <https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
-
-
-[_Semantic Web_]
-
-Wong, E. Y. (2016). UCLA CRSG semantic web resources. *Technical
-Services Quarterly* *33*(3): 340-341. \[e-journal\] \[Locate full text
-from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
