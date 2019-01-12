@@ -13,7 +13,7 @@ Please sign up for 2 locales to visit for Assignment 1
 7. Priceless Books, 108 W Main St, Urbana, IL 61801 - YOUR NAME HERE
 8. Orphans Treasure Box, 826 Pioneer St, Champaign, IL 61820 - YOUR NAME HERE
 9. Dr. G's BrainWorks, Market Place Shopping Center, 2000 N Neil Street, Champaign, IL 61821 - YOUR NAME HERE
-10. Toys"R"Us, 40 E Anthony Dr, Champaign, IL 61820 - YOUR NAME HERE
+10. Titan Games, 723 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 11. Exile on Main Street, 100 N Chestnut St #120, Champaign, IL 61820 - YOUR NAME HERE
 12. See You CD & Vinyl, 123 W Main St, Urbana, IL 61801 - YOUR NAME HERE
 13. Parasol, 303 W Griggs St, Urbana, IL 61801 - YOUR NAME HERE
@@ -34,7 +34,7 @@ Please sign up for 2 locales to visit for Assignment 1
 28. Rural King, 913 W Marketview Dr, Champaign, IL 61821 - YOUR NAME HERE
 29. CU Woodshop Supply, 1401 Parkland Ct, Champaign, IL 61821 - YOUR NAME HERE
 30. Serv-U Restaurant Equipment & Supply, 3201 Apollo Dr, Champaign, IL 61822 - YOUR NAME HERE
-31. I.D.E.A. store, 28 E. Springfield Avenue, Champaign IL 61820 (see http://the-idea-store.org) - YOUR NAME HERE
+31. I.D.E.A. store, 125 Lincoln Square Mall, Urbana, IL 61800 (see http://the-idea-store.org) - YOUR NAME HERE
 32. Cream & Flutter, 114 N Walnut St, Champaign, IL 61820 - YOUR NAME HERE
 33. Fresh International Market, 505 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 34. GFS Marketplace, 502 Wtown Center Blvd, Champaign, IL 61822 - YOUR NAME HERE
@@ -60,11 +60,11 @@ Please sign up for 2 locales to visit for Assignment 1
 54. Tepper Electric Supply Company, 608 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
 55. Art Coop, 300 S Broadway Ave, Urbana, IL 61801 - YOUR NAME HERE
 56. Art Box, 707 S 6th St, Champaign, IL 61820 - YOUR NAME HERE
-57. The Habitat for Humanity Restore, 119 E University Ave, Champaign, IL 61820 - YOUR NAME HERE
+57. The Habitat for Humanity ReStore, 119 E University Ave, Champaign, IL 61820 - YOUR NAME HERE
 58. PACA Architectural Salvage, 44 E Washington St, Champaign, IL 61820 (see http://pacacc.org/architectural-salvage-warehouse/ ) - YOUR NAME HERE
 59. Rumours Hat Shoppe, 75 E Chester St, Champaign, IL 61820 - YOUR NAME HERE
 60. Antiques & More, 606 S Staley Rd, Champaign, IL 61822 - YOUR NAME HERE
 61. Prairie Gardens, 3000 W Springfield Ave, Champaign, IL 61822 - YOUR NAME HERE
 62. Ragstock, 627 S Wright St, Champaign, IL 61820 - YOUR NAME HERE
 63. Fira Boutique, 700 S Gregory St, Urbana, IL 61801 - YOUR NAME HERE
-64. Titan Games, 723 S Neil St, Champaign, IL 61820 - YOUR NAME HERE
+
