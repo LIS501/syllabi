@@ -77,20 +77,3 @@ Bauder, J.; Lange, E. (2015). Exploratory subject searching
 in library catalogs: reclaiming the vision. *Information Technology and
 Libraries 34*(2): 92-102.
 <http://ejournals.bc.edu/ojs/index.php/ital/article/view/5888/pdf>
-
-[_OCR_]
-
-Kean, S. (2018). Artificial intelligence is cracking open
-the Vatican's secret archives. *The Atlantic.* April 30.
-<https://www.theatlantic.com/technology/archive/2018/04/vatican-secret-archives-artificial-intelligence/559205/>
-
-Kichuk, D. (2015). Loose, falling characters and sentences: The
-persistence of the OCR problem in digital repository e-books. *Portal:
-Libraries and the Academy 15*(1): 59-91. \[e-journal\] \[Locate full
-text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
-
-[_Quality_]
-
-Beall, J. (2005). Metadata and data quality problems in the digital
-library. *Journal of Digital Information,*6(3).
-<http://journals.tdl.org/jodi/article/viewArticle/65>
