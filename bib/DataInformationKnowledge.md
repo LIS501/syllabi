@@ -7,7 +7,7 @@ Bates, M. J. (2015). The information professions: knowledge, memory,
 heritage. *Information Research 20*(1), paper 655. <http://www.informationr.net/ir/20-1/paper655.html>
 
 Buckland, M. K. (2017). Introduction. In *Information and Society*.
-Cambridge: MIT Press, 1-19.
+Cambridge: MIT Press, 1-19. Ebooks via
 <https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8275269>
 or <https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8286111>
 
