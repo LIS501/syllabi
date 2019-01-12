@@ -1,5 +1,13 @@
 *Required Readings and videos:*
 
+[_Historical context_]
+
+Blei, D. (2017). How the index card cataloged the world.  The Atlantic. December 1.
+<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
+
+Coyle, K. (2016). The evolving catalog: cataloging tech from scrolls to computers. American Libraries 47(1/2): 48-53. <https://americanlibrariesmagazine.org/2016/01/04/cataloging-evolves/>
+
+
 [_Introducing terminology_]
 
 Banerjee, K. (2017). Translating technobabble: All you really need to
@@ -73,8 +81,3 @@ Editor. Retrieved from <https://tools.ietf.org/html/rfc7764>
 Leonard, S. (2016, March). The text/markdown media type (No. RFC 7763).
 RFC Editor. Retrieved from <https://tools.ietf.org/html/rfc7763>
 
-[_Historical context_]
-
-Blei, D. (2017). How the index card cataloged the world.  The
-Atlantic. December 1.
-<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
