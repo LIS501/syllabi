@@ -25,5 +25,6 @@ Peekhaus, W. (2018). Seed libraries: Sowing the seeds for community and public l
 Video: Memex animation <http://www.youtube.com/watch?v=c539cK58ees>
 
 Video: The Man Who Wanted to Classify the World
-<http://search.alexanderstreet.com/view/work/1641522>
+<http://search.alexanderstreet.com/view/work/1641522> and 
+<https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_6800188>
 
