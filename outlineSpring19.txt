@@ -1,0 +1,57 @@
+Week 1 - Data, Information, Knowledge (IN-CLASS: LI #1; INTROS)
+Week 2 - Collections (DEADLINE: Collection assignment)
+Week 3 - Users and Information Needs;  (IN-CLASS: LI #2; CLI vs. GUI)
+Week 4 - Research Methods and Evaluation (IN-CLASS: Research exercise; 
+(DEADLINE: Info needs article summary)
+Week 5 - Preservation (IN-CLASS: TXT vs DOCX; Info needs articles small 
+group discussion) (DEADLINE: Info needs paper)
+Week 6 - Metadata (IN-CLASS: Spurlock visit 1 hour; Metadata lecture 1 
+hour; Cultural heritage object description 40 minutes) (DEADLINE: Topic 
+for final project)
+Week 7 - Structures and Standards in organizing and representing 
+information (IN-CLASS: Pandoc exercise)
+Week 8 - JODI AWAY (US2TS, Tues 3/12); Subject Analysis/Subject 
+Languages (Indexing exercise) (DEADLINE: Revised topic for final 
+project)
+Week 9 - Interfaces, Search, and Discovery (DEADLINE: Sample search 
+diary)
+Spring break (week 10)
+Week 11 - JODI AWAY (AAAI-MAKE, Tues 3/26) - Work on projects, no class 
+meeting
+Week 12 - (No additional readings) Student presentations; (IN-CLASS: 
+Discussion of projects, LI #3) (DEADLINE: Reflection on expanding search 
+and/or sifting through items)
+Week 13 - Authority Control/Data Quality Issues (DEADLINE: 2 sample 
+thesaurus entries)
+Week 14 - Student presentations (DEADLINE: Sample Annotation)
+Week 15 - Assignment due, no class
+Week 16 - Wrap-up week
+
+
+Activities
+
+Library instruction: known item search
+Library instruction: databases
+Interfaces: command line vs. GUI
+Research exercise
+File formats: plain text vs. docx
+Cultural heritage description
+Pandoc exercise
+Indexing exercise
+Student presentations, part 1
+Student presentations, part 2
+
+
+
+Topics
+
+Data, Information, Knowledge
+Collections
+Users and Information Needs
+Research Methods and Evaluation
+Preservation
+Metadata
+Structures and Standards
+Subject Analysis and Subject Languages
+Interfaces, Search, and Discovery
+Authority Control and Data Quality Issues

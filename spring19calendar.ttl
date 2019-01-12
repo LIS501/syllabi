@@ -1,0 +1,296 @@
+@prefix : <http://courseweb.ischool.illinois.edu/lis/2017sp/lis501/> .
+@prefix hwk: <https://courses.ischool.illinois.edu/mod/assign/> .
+@prefix z: <http://www.zotero.org/namespaces/export#> .
+@prefix ad: <http://schemas.talis.com/2005/address/schema#> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix bib: <file:bib/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sam: <http://cirss.lis.illinois.edu/DataCon/SAM/> .
+@prefix sro: <http://salt.semanticauthoring.org/ontologies/sro#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dolce: <http://ontology.ip.rm.cnr.it/ontologies/DOLCE-Lite#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix frbr: <http://purl.org/vocab/frbr/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xref: <http://id.crossref.org/contributor/> .
+@prefix event: <http://purl.org/NET/c4dm/event.owl#> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix madsrdf: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix resource: <http://purl.org/vocab/resourcelist/schema#> .
+@base <http://courseweb.ischool.illinois.edu/lis/2019sp/is501/> .
+
+:SemesterSpring2019 a :Semester ;
+  event:time [ a tl:Interval ;
+      tl:at "2017-01-13T00:00:00-5:00"^^xsd:dateTime ;
+      tl:duration "P70D"^^xsd:duration] ;
+  dcterms:subject :GenBackground ;
+  rdfs:label "Spring semester"@en .
+
+:Session01 a :Session ;
+  :date "CLASS01DATE" ;
+  dcterms:subject :Documents, :LIS501 ;
+  rdfs:label "Week 1"@en .
+
+:Session02 a :Session ;
+  :date "CLASS02_1DATE" ;
+  dcterms:subject :Interfaces ;  
+  rdfs:label "Week 2"@en .
+
+:Session03 a :Session ;
+  :date "CLASS03_1DATE" ;
+  dcterms:subject :Searching, :Serendipity ;
+  rdfs:label "Week 3"@en .
+
+:Session04 a :Session ;
+  :date "CLASS04_DATE" ;
+  dcterms:subject :Users ;
+  rdfs:label "Week 4"@en .
+
+:Session05 a :Session ;
+  :date "CLASS05_DATE" ;
+  rdfs:label "Week 5"@en .
+
+:Session06 a :Session ;
+  :date "CLASS06_DATE" ;
+  dcterms:subject :Classification ;
+  rdfs:label "Week 6"@en .
+
+:Session07 a :Session ;
+  :date "CLASS07_DATE" ;
+  dcterms:subject :Represent ;
+  rdfs:label "Week 7"@en .
+
+:Session08 a :Session ;
+  :date "CLASS08_DATE" ;
+  dcterms:subject :Evaluation ;
+  rdfs:label "Week 8"@en .
+
+:Session09 a :Session ;
+  :date "CLASS09_DATE" ;
+  dcterms:subject :Databases ;
+  rdfs:label "Week 9"@en .
+
+:Session10 a :Session ;
+  :date "CLASS10_DATE" ;
+  rdfs:label "Week 10, Spring break, no class meeting"@en .
+
+:Session11 a :Session ;
+  :date "CLASS11_DATE" ;
+  dcterms:subject :Production ;
+  rdfs:label "Week 11"@en .
+
+:Session12 a :Session ;
+  :date "CLASS12_DATE" ;
+  rdfs:label "Week 12"@en .
+
+:Session13 a :Session ;
+  :date "CLASS13_DATE" ;
+      dcterms:subject :Social ;
+  rdfs:label "Week 13"@en .
+
+:Session14 a :Session ;
+  :date "CLASS14_DATE" ;
+      dcterms:subject :Social ;
+  rdfs:label "Week 14"@en .
+
+:Session15 a :Session ;
+  :date "CLASS15_DATE" ;
+      dcterms:subject :Social ;
+  rdfs:label "Week 15"@en .
+
+:Session16 a :Session ;
+  :date "CLASS16_DATE" ;
+      dcterms:subject :Social ;
+  rdfs:label "Week 16"@en .
+
+:FileFormat a :Activity ;
+  :during :Session1-1 ;
+  :date "FILELABDATE" ;
+  rdfs:label "File format exercise"@en .
+
+:LabInterface a :Activity ;
+  :during :Session2-2 ;
+  :date "INTERFACELABDATE" ;
+  rdfs:label "Command line exercise"@en .
+
+:LibraryInstruction1 a :Activity ;
+  :during :Session3-1 ;
+  :date "DANDATE" ;
+  rdfs:label "Known item searching"@en .
+
+:LibraryInstruction2 a :Activity ;
+  :during :Session3-1 ;
+  :date "DANDATE" ;
+  rdfs:label "Library databases"@en .
+
+:ResearchMethods a :Activity ;
+  :during :Session5-1 ;
+  :date "METHODSLABDATE" ;
+  rdfs:label "Research methods exercise"@en .
+
+:IndexingExercise a :Activity ;
+  :during :Session5-1 ;
+  :date "METHODSLABDATE" ;
+  rdfs:label "Indexing exercise"@en .
+
+:LabSpurlock a :Activity ;
+  :during :Session6-2 ;
+  :date "SPURLOCKDATE";  
+  rdfs:label "Cultural heritage object description exercise"@en .
+
+:LabPandoc1 a :Activity ;
+  :during :Session7-1 ;
+  :date "PANDOC1LABDATE" ;
+  rdfs:label "Pandoc exercise"@en .
+
+:Presentations1 a :Activity ;
+  :during :Session11-2 ;
+  :date "PRESENTATIONSDATE" ;
+  rdfs:label "Project presentations"@en .
+
+:Presentations2 a :Activity ;
+  :during :Session11-2 ;
+  :date "PRESENTATIONSDATE" ;
+  rdfs:label "Project presentations"@en .
+
+:Information a skos:Concept ;
+  :reqReading bib:DataInformationKnowledge ;
+  skos:prefLabel "Data, information, and knowledge"@en.
+
+:Collections a skos:Concept ;
+  :reqReading bib:Collections ;
+  skos:prefLabel "Collections"@en.
+
+:Users a skos:Concept ;
+  :reqReading bib:UsersInformationNeeds ;
+  skos:prefLabel "Users and information needs"@en.
+
+:ResearchEvaluation a skos:Concept ;
+  :reqReading bib:ResearchMethodsEvaluations ;
+  skos:prefLabel "Research methods and evaluation"@en.
+
+:Preservation a skos:Concept ;
+  :reqReading bib:Preservation ;
+  skos:prefLabel "Resource preservation"@en.
+
+:Metadata a skos:Concept ;
+  :reqReading bib:Metadata ;
+  skos:prefLabel "Metadata and metadata interchange"@en.
+
+:Standards a skos:Concept ;
+  :reqReading bib:StructuresStandards ;
+  skos:prefLabel "Structures and standards"@en.
+
+:SubjectAnalysus a skos:Concept ;
+  :reqReading bib:SubjectAnalysisLanguages ;
+  skos:prefLabel "Subject analaysis and subject languages"@en.
+
+:Interfaces a skos:Concept ;
+  :reqReading bib:InterfacesSearchesDiscovery ;
+  skos:prefLabel "Interfaces, search, and discovery"@en.
+
+:Authority a skos:Concept ;
+  :reqReading bib:Authority ;
+  skos:prefLabel "Authority control and data quality issues"@en.
+
+
+
+:Asgt3 a :Assignment ;
+  rdfs:label "Assignment 3: Research Design Proposal"@en ;
+  :moodleURL hwk:MOODLEASGT3 ;
+  :sylSecId "ResearchProposal" ;
+  :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6,:A3M7, :A3M8, :A3D1, :A3D2, :A3D3 .
+
+:Asgt2 a :Assignment ;
+  rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior Essay"@en ;
+  :moodleURL hwk:MOODLEASGT2 ;
+  :sylSecId "InfoNeedsAsgt" ;
+  :hasDeadline :A2D1 .
+
+:Asgt1 a :Assignment ;
+  rdfs:label "Assignment 1 Collections Assessment and Comparison Essay"@en ;
+  :moodleURL hwk:MOODLEASGT1 ;
+  :sylSecId "CollectionsAsgt" ;
+  :hasDeadline :A1D1 .
+
+:A1D1 a :Deadline ;
+  rdfs:label "Assignment 1: Collections Assessment and Comparison"@en ;
+  :date "A1DUE" ;
+  :during :Session2-2 .
+
+:A2D1 a :Deadline ;
+  rdfs:label "Assignment 1: Information Needs/Information Seeking Behavior Essay"@en ;
+  :date "A2DUE" ;
+  :during :Session5-1 .
+
+:A3M1 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 1: Research question draft"@en ;
+  :date "M1DUE" ;
+  :during :Session3-2 .
+
+:A3M2 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 2: Research reflection plan"@en ;
+  :date "M2DUE" ;
+  :during :Session3-2 .
+
+:A3M3 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 3: Research methods draft"@en ;
+  :date "M3DUE" ;
+  :during :Session5-2 .
+
+:A3M4 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 4: One annotated bibliography item"@en ;
+  :date "M4DUE" ;
+  :during :Session6-2 .
+
+:A3M5 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 5: One search reflection"@en ;
+  :date "M5DUE" ;
+  :during :Session7-2 .
+
+:A3M6 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 6: 20-item resource list, as Zotero RSS feed"@en ;
+  :date "M6DUE" ;
+  :during :Session8-2 .
+
+:A3M7 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 7: Abstract outline and two annotations"@en ;
+  :date "M7DUE" ;
+  :during :Session9-1 .
+
+:A3M8 a :Deadline ;
+  rdfs:label "Assignment 3 Milestone 8: Reflections journal"@en ;
+  :date "M8DUE" ;
+  :during :Session11-2 .
+
+:A3D3 a :Deadline ;
+  rdfs:label "Assignment 3 Final deliverable: Oral presentation"@en ;
+  :date "A3CDUE" ;
+  :during :Session11-2 .
+  
+:A3D1 a :Deadline ;
+  rdfs:label "Assignment 3 Final deliverable: Extended abstract"@en ;
+  :date "A3ADUE" ;
+  :during :Session12-2 .
+
+:A3D2 a :Deadline ;
+  rdfs:label "Assignment 3 Final deliverable: Annotated bibliography"@en ;
+  :date "A3BDUE" ;
+  :during :Session12-2 .
+
+:RR3 a :Deadline ;
+  rdfs:label "3 of your 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
+  :date "RR3DUE" ;
+  :during :Session11-1 .
+
+:RR4 a :Deadline ;
+  rdfs:label "All 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
+  :date "RR4DUE" ;
+  :during :Session12-2 .
+
