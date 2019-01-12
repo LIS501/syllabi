@@ -41,14 +41,4 @@ of Electronic Publishing*. 18(3).
 Riley, Jenn. (2009-2010). Seeing Standards: A Visualization
 of the Metadata Universe. Retrieved from
 <http://jennriley.com/metadatamap/>\
-\
-[_Historical context_]
 
-Coyle, K. (2016). The evolving catalog: cataloging tech
-from scrolls to computers. *American Libraries*. 47(1/2): 48-\
-53.
-<https://americanlibrariesmagazine.org/2016/01/04/cataloging-evolves/>\
-\
-Blei, D. (2017). How the index card cataloged the world. *The Atlantic*.
-December 1.
-<https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/>
