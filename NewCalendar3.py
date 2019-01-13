@@ -1,6 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from rdflib import *
-import bibtexparser
 import sys
 import re
 
@@ -32,8 +31,8 @@ wlist = []  # List of sessions
 sessionstart = {} # associate sessions with their starting date
 
 for s in mygraph.subjects(RDF.type, l501.Session):
-	for i in mygraph.objects(s,l501.date):
-	    sessionstart[str(i)] = s
+        for i in mygraph.objects(s,l501.date):
+            sessionstart[str(i)] = s
 deadlines = {}
 activities = {}
 
@@ -73,17 +72,17 @@ for d in mygraph.subjects(RDF.type, l501.Activity):
                             
 cldrfile.write("# Topic Schedule\n")
 
-wlist = sessionstart.keys()
+wlist = list(sessionstart.keys())
 wlist.sort()
 for d in wlist:
         myweek = weekdate = myconcept = required = background  = ''
         topics = {}
-	for o in mygraph.objects(sessionstart[d], RDFS.label):
-	      myweek = str(o)
-	for o in mygraph.objects(sessionstart[d], l501.date):
-	      weekdate = str(o)
-	for s in mygraph.objects(sessionstart[d],dc.subject):
-	      for p in mygraph.objects(s,skos.prefLabel):
+        for o in mygraph.objects(sessionstart[d], RDFS.label):
+              myweek = str(o)
+        for o in mygraph.objects(sessionstart[d], l501.date):
+              weekdate = str(o)
+        for s in mygraph.objects(sessionstart[d],dc.subject):
+              for p in mygraph.objects(s,skos.prefLabel):
                       myconcept = str(p)
               for q in mygraph.objects(s,l501.backgroundReading):
                       background = str(q)
