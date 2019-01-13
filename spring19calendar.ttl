@@ -1,4 +1,4 @@
-@prefix : <http://courseweb.ischool.illinois.edu/lis/2017sp/lis501/> .
+@prefix : <http://courseweb.ischool.illinois.edu/lis/2019sp/is501/> .
 @prefix hwk: <https://courses.ischool.illinois.edu/mod/assign/> .
 @prefix z: <http://www.zotero.org/namespaces/export#> .
 @prefix ad: <http://schemas.talis.com/2005/address/schema#> .
@@ -32,85 +32,85 @@
   dcterms:subject :GenBackground ;
   rdfs:label "Spring semester"@en .
 
-:Session01 a :Session ;
+:Week01 a :Session ;
   :date "CLASS01DATE" ;
   dcterms:subject :Documents, :LIS501 ;
   rdfs:label "Week 1"@en .
 
-:Session02 a :Session ;
+:Week02 a :Session ;
   :date "CLASS02_1DATE" ;
   dcterms:subject :Interfaces ;  
   rdfs:label "Week 2"@en .
 
-:Session03 a :Session ;
+:Week03 a :Session ;
   :date "CLASS03_1DATE" ;
   dcterms:subject :Searching, :Serendipity ;
   rdfs:label "Week 3"@en .
 
-:Session04 a :Session ;
+:Week04 a :Session ;
   :date "CLASS04_DATE" ;
   dcterms:subject :Users ;
   rdfs:label "Week 4"@en .
 
-:Session05 a :Session ;
+:Week05 a :Session ;
   :date "CLASS05_DATE" ;
   rdfs:label "Week 5"@en .
 
-:Session06 a :Session ;
+:Week06 a :Session ;
   :date "CLASS06_DATE" ;
   dcterms:subject :Classification ;
   rdfs:label "Week 6"@en .
 
-:Session07 a :Session ;
+:Week07 a :Session ;
   :date "CLASS07_DATE" ;
   dcterms:subject :Represent ;
   rdfs:label "Week 7"@en .
 
-:Session08 a :Session ;
+:Week08 a :Session ;
   :date "CLASS08_DATE" ;
   dcterms:subject :Evaluation ;
   rdfs:label "Week 8"@en .
 
-:Session09 a :Session ;
+:Week09 a :Session ;
   :date "CLASS09_DATE" ;
   dcterms:subject :Databases ;
   rdfs:label "Week 9"@en .
 
-:Session10 a :Session ;
+:Week10 a :Session ;
   :date "CLASS10_DATE" ;
   rdfs:label "Week 10, Spring break, no class meeting"@en .
 
-:Session11 a :Session ;
+:Week11 a :Session ;
   :date "CLASS11_DATE" ;
   dcterms:subject :Production ;
   rdfs:label "Week 11"@en .
 
-:Session12 a :Session ;
+:Week12 a :Session ;
   :date "CLASS12_DATE" ;
   rdfs:label "Week 12"@en .
 
-:Session13 a :Session ;
+:Week13 a :Session ;
   :date "CLASS13_DATE" ;
       dcterms:subject :Social ;
   rdfs:label "Week 13"@en .
 
-:Session14 a :Session ;
+:Week14 a :Session ;
   :date "CLASS14_DATE" ;
       dcterms:subject :Social ;
   rdfs:label "Week 14"@en .
 
-:Session15 a :Session ;
+:Week15 a :Session ;
   :date "CLASS15_DATE" ;
       dcterms:subject :Social ;
   rdfs:label "Week 15"@en .
 
-:Session16 a :Session ;
+:Week16 a :Session ;
   :date "CLASS16_DATE" ;
       dcterms:subject :Social ;
   rdfs:label "Week 16"@en .
 
 :FileFormat a :Activity ;
-  :during :Session1-1 ;
+  :during :Week1-1 ;
   :date "FILELABDATE" ;
   rdfs:label "File format exercise"@en .
 
@@ -134,6 +134,13 @@
   :date "METHODSLABDATE" ;
   rdfs:label "Research methods exercise"@en .
 
+
+:Introductions a :Activity ;
+  :during :Week1 ;
+  :date "INTRODATE" ;
+  rdfs:label "Post to the Introductions forum"@en .
+
+
 :IndexingExercise a :Activity ;
   :during :Session5-1 ;
   :date "METHODSLABDATE" ;
@@ -150,12 +157,12 @@
   rdfs:label "Pandoc exercise"@en .
 
 :Presentations1 a :Activity ;
-  :during :Session11-2 ;
+  :during :Week11-2 ;
   :date "PRESENTATIONSDATE" ;
   rdfs:label "Project presentations"@en .
 
 :Presentations2 a :Activity ;
-  :during :Session11-2 ;
+  :during :Week11-2 ;
   :date "PRESENTATIONSDATE" ;
   rdfs:label "Project presentations"@en .
 
@@ -200,97 +207,85 @@
   skos:prefLabel "Authority control and data quality issues"@en.
 
 
-
 :Asgt3 a :Assignment ;
-  rdfs:label "Assignment 3: Research Design Proposal"@en ;
+  rdfs:label "Final Assignment"@en ;
   :moodleURL hwk:MOODLEASGT3 ;
   :sylSecId "ResearchProposal" ;
   :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6,:A3M7, :A3M8, :A3D1, :A3D2, :A3D3 .
 
 :Asgt2 a :Assignment ;
-  rdfs:label "Assignment 2 Information Needs/Information Seeking Behavior Essay"@en ;
+  rdfs:label "Information Needs Assignment"@en ;
   :moodleURL hwk:MOODLEASGT2 ;
   :sylSecId "InfoNeedsAsgt" ;
-  :hasDeadline :A2D1 .
+  :hasDeadline :A2D1, :A2D2 .
 
 :Asgt1 a :Assignment ;
-  rdfs:label "Assignment 1 Collections Assessment and Comparison Essay"@en ;
+  rdfs:label "Collections Assessment Assignment"@en ;
   :moodleURL hwk:MOODLEASGT1 ;
   :sylSecId "CollectionsAsgt" ;
   :hasDeadline :A1D1 .
 
 :A1D1 a :Deadline ;
-  rdfs:label "Assignment 1: Collections Assessment and Comparison"@en ;
-  :date "A1DUE" ;
-  :during :Session2-2 .
+  rdfs:label "Collections Assessment and Comparison"@en ;
+  :date "January 23" ;
+  :during :Week02 .
 
 :A2D1 a :Deadline ;
-  rdfs:label "Assignment 1: Information Needs/Information Seeking Behavior Essay"@en ;
-  :date "A2DUE" ;
-  :during :Session5-1 .
+  rdfs:label "Information needs article summary"@en ;
+  :date "February 4" ;
+  :during :Week04 .
+
+:A2D1 a :Deadline ;
+  rdfs:label "Information Needs/Information Seeking Behavior Essay"@en ;
+  :date "February 6" ;
+  :during :Week04 .
 
 :A3M1 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 1: Research question draft"@en ;
-  :date "M1DUE" ;
-  :during :Session3-2 .
+  rdfs:label "Final Assignment Milestone 1: topic proposal"@en ;
+  :date "February 12" ;
+  :during :Week05 .
 
 :A3M2 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 2: Research reflection plan"@en ;
-  :date "M2DUE" ;
-  :during :Session3-2 .
+  rdfs:label "Final Assignment Milestone 2: Revised topic"@en ;
+  :date "February 26" ;
+  :during :Week07 .
 
 :A3M3 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 3: Research methods draft"@en ;
-  :date "M3DUE" ;
-  :during :Session5-2 .
+  rdfs:label "Final Assignment Milestone 3: Sample annotation"@en ;
+  :date "March 5" ;
+  :during :Week08 .
 
 :A3M4 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 4: One annotated bibliography item"@en ;
-  :date "M4DUE" ;
-  :during :Session6-2 .
+  rdfs:label "Final Assignment Milestone 4: Reflection on process"@en ;
+  :date "March 12" ;
+  :during :Week09 .
 
 :A3M5 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 5: One search reflection"@en ;
-  :date "M5DUE" ;
-  :during :Session7-2 .
+  rdfs:label "Final Assignment Milestone 5: Sign up for presentation slot"@en ;
+  :date "March 12" ;
+  :during :Week09 .
 
 :A3M6 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 6: 20-item resource list, as Zotero RSS feed"@en ;
-  :date "M6DUE" ;
-  :during :Session8-2 .
+  rdfs:label "Final Assignment Milestone 6: 2 thesaurus entries"@en ;
+  :date "March 26" ;
+  :during :Week11 .
 
 :A3M7 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 7: Abstract outline and two annotations"@en ;
-  :date "M7DUE" ;
-  :during :Session9-1 .
+  rdfs:label "Final Assignment Milestone 7: Second process reflection"@en ;
+  :date "April 2" ;
+  :during :Week12 .
 
 :A3M8 a :Deadline ;
-  rdfs:label "Assignment 3 Milestone 8: Reflections journal"@en ;
-  :date "M8DUE" ;
-  :during :Session11-2 .
+  rdfs:label "Final Assignment Milestone 8: Second sample annotation"@en ;
+  :date "April 16" ;
+  :during :Week14 .
 
-:A3D3 a :Deadline ;
-  rdfs:label "Assignment 3 Final deliverable: Oral presentation"@en ;
-  :date "A3CDUE" ;
-  :during :Session11-2 .
+:A3M9 a :Deadline ;
+  rdfs:label "Final Assignment: Reply to your own post on who you've talked to"@en ;
+  :date "April 16" ;
+  :during :Week14 .
   
-:A3D1 a :Deadline ;
-  rdfs:label "Assignment 3 Final deliverable: Extended abstract"@en ;
-  :date "A3ADUE" ;
-  :during :Session12-2 .
-
-:A3D2 a :Deadline ;
-  rdfs:label "Assignment 3 Final deliverable: Annotated bibliography"@en ;
-  :date "A3BDUE" ;
-  :during :Session12-2 .
-
-:RR3 a :Deadline ;
-  rdfs:label "3 of your 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
-  :date "RR3DUE" ;
-  :during :Session11-1 .
-
-:RR4 a :Deadline ;
-  rdfs:label "All 4 Reading Responses should be complete by 11 PM tomorrow."@en ;
-  :date "RR4DUE" ;
-  :during :Session12-2 .
-
+:A3M10 a :Deadline ;
+  rdfs:label "Final Assignment: written deliverables"@en ;
+  :date "April 23" ;
+  :during :Week15 .

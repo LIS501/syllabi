@@ -19,7 +19,7 @@ if project:
         defsfilename = project + ".defs"
         defsfile = open(defsfilename,"w")
 
-l501 = Namespace("http://courseweb.ischool.illinois.edu/lis/2017sp/lis501/")
+l501 = Namespace("http://courseweb.ischool.illinois.edu/lis/2019sp/is501/")
 event = Namespace("http://purl.org/NET/c4dm/event.owl#")
 tl = Namespace("http://purl.org/NET/c4dm/timeline.owl#")
 dc = Namespace("http://purl.org/dc/terms/")
