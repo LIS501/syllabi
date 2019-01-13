@@ -1,2 +1,2 @@
 # syllabi
-Syllabi for LIS501
+Syllabi for LIS501/IS501
