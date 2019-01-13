@@ -1,7 +1,7 @@
 # Library Resources
-| <http://www.library.illinois.edu/lis/>
+| <https://www.library.illinois.edu/infosci/>
 | lislib@library.illinois.edu 
-| Phone: (217) 300-8439
+| Phone: (217) 300-8365
 
 # Writing and Bibliographic Style Resources
 The iSchool has a Writing Resources Moodle site
