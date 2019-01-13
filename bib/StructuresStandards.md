@@ -45,13 +45,16 @@ Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>
 
 Eric Lease Morgan and LiAM. (2014). Linked Archival Metadata: A
 Guidebook. version .99 pages 6-24
-<http://infomotions.com/sandbox/liam/tmp/guidebook.pdf>\
+<http://infomotions.com/sandbox/liam/tmp/guidebook.pdf>
 
 Wong, E. Y. (2016). UCLA CRSG semantic web resources. *Technical
 Services Quarterly* *33*(3): 340-341. \[e-journal\] \[Locate full text
 from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
 Carboni, N. (ed) (2018). GLAM flavoured Semantic Web List. A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners. https://github.com/ncarboni/GLAM-Semantic-Web
+
+The Getty Research Institute. Getty Vocabularies as Linked Open Data. <http://www.getty.edu/research/tools/vocabularies/lod/index.html>
+
 \
 [_MARC & bibliographic records_]
 
