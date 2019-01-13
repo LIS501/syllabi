@@ -6,4 +6,4 @@ Remember that the Library provides access to some reference sources online that 
 background and explanations.  
 These titles are linked from: <http://www.library.illinois.edu/lsx/findit/tools/dictionaries.html> and <http://www.library.illinois.edu/lsx/findit/tools/encyclopedias.html>.   
 They include: *ODLIS: Online Dictionary for Library and Information Science* and 
-the *Encyclopedia of Library and Information Sciences*.   
+the *Encyclopedia of Library and Information Sciences*.
