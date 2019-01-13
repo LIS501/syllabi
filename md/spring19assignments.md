@@ -1,24 +1,28 @@
 # Assignments and Evaluation
 
-Assignments are due by 11:59 PM on Thursdays meets unless otherwise
-noted in the assignment description. All assignments are required for
-all students. Completing all assignments is not a guarantee of a passing
+Assignments are due by 11:59 PM unless otherwise noted in the
+assignment description. All assignments are required for all
+students. Completing all assignments is not a guarantee of a passing
 grade. All work must be completed in order to pass this class. Late or
-incomplete assignments will not be given full credit unless the student
-has contacted the instructor prior to the due date of the assignment (or
-in the case of emergencies, as soon as practicable). Late assignments
-will include a penalty (half a letter grade for each day late), and no
-late assignments will be accepted after 5 days from the date due. Full
-assignment descriptions are available on your lab Moodle page.
+incomplete assignments will not be given full credit unless the
+student has contacted the instructor prior to the due date of the
+assignment (or in the case of emergencies, as soon as
+practicable). Late assignments will include a penalty (half a letter
+grade for each day late), and no late assignments will be accepted
+after 5 days from the date due.
 
 ### Grade Distribution
 
-  **Assessment**           **Deadline**            **Percentage**
-  ------------------------ ----------------------- ----------------
-  Participation            All semester            10%
-  Collections Assessment   September 6, 11:59pm    20%
-  Information Needs        September 20, 11:59pm   20%
-  Final Assignment         November 8, 11:59pm     50%
+  **Assessment**            **Deadline**            **Percentage**
+  ------------------------- ----------------------- ----------------
+  Participation             All semester            10%
+  Collections Assessment    January 23              15%
+  Information Needs         February 6              20%
+  Five Ungraded Assignments January-March           15%
+  Final Assignment          Milestones Jan-April    40%                        
+                            Presentation Apr 2 or 9 
+                            Writeup April 23
+			    
 
 ### Grading Scale:
 
