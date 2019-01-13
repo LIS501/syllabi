@@ -28,11 +28,11 @@ mygraph = ConjunctiveGraph()
 mygraph.parse(ttlfilename,format="n3")
 
 wlist = []  # List of sessions
-sessionstart = {} # associate sessions with their starting date
+sessionstart = {} # associate sessions with their labels
 
 for s in mygraph.subjects(RDF.type, l501.Session):
         for i in mygraph.objects(s,l501.date):
-            sessionstart[str(i)] = s
+            sessionstart[str(s)] = s
 deadlines = {}
 activities = {}
 
@@ -92,7 +92,7 @@ for d in wlist:
         cldrfile.write("\n")
         cldrfile.write("### " +  myweek + ": " + weekdate + ": \n")
 
-        dstring = "#### Due today: "
+        dstring = "#### Due this week: "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
                 cldrfile.write("\n")
