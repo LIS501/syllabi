@@ -1,8 +1,7 @@
 Assignment 1 - Collections Assessment
 =====================================
 
-**Sign up for 2 collections on the_[locale sign up
-wiki](https://courses.ischool.illinois.edu/mod/wiki/view.php?id=305274)._**
+**Sign up for 2 collections on the [locale sign up wiki](https://courses.ischool.illinois.edu/mod/wiki/view.php?id=305274)**
 
 **Assignment 1 Collections Assessment and Comparison**
 
@@ -87,42 +86,42 @@ the [campus Writers Workshop](http://www.cws.illinois.edu/workshop/).
 
 **Grading Rubric**
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Clearly         |   4             |                 |                 |
-| described the   |                 |                 |                 |
-| exemplar        |                 |                 |                 |
-| collections     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Strongly        |   8             |                 |                 |
-| evaluated the   |                 |                 |                 |
-| collections     |                 |                 |                 |
-| using ALL the   |                 |                 |                 |
-| considerations  |                 |                 |                 |
-| described in    |                 |                 |                 |
-| the assignment  |                 |                 |                 |
-| prompt.         |                 |                 |                 |
-|                 |                 |                 |                 |
-| Supported all   |                 |                 |                 |
-| arguments       |                 |                 |                 |
-| given.          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Writing         |   3             |                 |                 |
-| Quality:        |                 |                 |                 |
-| Grammar,        |                 |                 |                 |
-| citations, and  |                 |                 |                 |
-| syntax          |                 |                 |                 |
-|                 |                 |                 |                 |
-| Included at     |                 |                 |                 |
-| least one       |                 |                 |                 |
-| direct          |                 |                 |                 |
-| reference to    |                 |                 |                 |
-| the readings,   |                 |                 |                 |
-| with            |                 |                 |                 |
-| bibliography.   |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **  15**        |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+
+| **Factor**      | **Points        |
+|                 | Possible**      |
++-----------------+-----------------+
+| Clearly         |   4             |
+| described the   |                 |
+| exemplar        |                 |
+| collections     |                 |
++-----------------+-----------------+
+| Strongly        |   8             |
+| evaluated the   |                 |
+| collections     |                 |
+| using ALL the   |                 |
+| considerations  |                 |
+| described in    |                 |
+| the assignment  |                 |
+| prompt.         |                 |
+|                 |                 |
+| Supported all   |                 |
+| arguments       |                 |
+| given.          |                 |
++-----------------+-----------------+
+| Writing         |   3             |
+| Quality:        |                 |
+| Grammar,        |                 |
+| citations, and  |                 |
+| syntax          |                 |
+|                 |                 |
+| Included at     |                 |
+| least one       |                 |
+| direct          |                 |
+| reference to    |                 |
+| the readings,   |                 |
+| with            |                 |
+| bibliography.   |                 |
++-----------------+-----------------+
+| **Total**       | **  15**        |
++-----------------+-----------------+
 

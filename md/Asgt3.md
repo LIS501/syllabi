@@ -1,7 +1,7 @@
 Final Assignment
 ================
 
-**Final Assignment: The Research Process -- 40% of final grade**
+**Final Assignment: The Research Process – 40% of final grade**
 
 The purpose of this assignment is for you to synthesize and demonstrate
 your understanding of the various concepts that you have learned
@@ -18,8 +18,8 @@ Steps:
 -   Identify an issue or topic you want to investigate
 -   Search the literature and read about your topic, collecting
     citations to possible sources
--   Talk to Chris Bailey\*, a subject reference librarian, or a subject
-    expert. DO NOT SKIP THIS STEP!\*
+-   Talk to Chris Bailey, a subject reference librarian, or a subject
+    expert. DO NOT SKIP THIS STEP!
 -   Choose the ten best items out of a larger pool of selected sources
 -   Annotate them.
 -   Prepare your presentation.
@@ -66,9 +66,8 @@ There are a number of milestones along the way:
 
 There are 2 kinds of final deliverables:
 
-1. A 5-minute presentation during lab, **April 2 or April 9**;
-   see [[Final Assignment
-   Presentations](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305302
+1. A 5-minute presentation during lab, April 2 or April 9;
+   see [[Final Assignment Presentations](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305302
    "Assignment").]
 
 2. Written deliverables. The writeup consists of three parts:
@@ -90,9 +89,7 @@ the way. Visual aids, if any can be posted on [this
 forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305303);
 they are optional for this assignment, but not required. \
 
-\
-
-*Search Diary*\
+*Search Diary*
 
 The search diary is a record of your process. Date each entry and note
 what you are experiencing, thinking, or doing related to the final
@@ -196,7 +193,7 @@ the item?*
 *Comment about finding the item. At what point did you find the source
 in your overall process? How did you find the source?  What search terms
 and/or  strategy did you use? *
-:::
+
 
 d. Metadata\
 
@@ -208,7 +205,7 @@ d. Metadata\
 
 \
 
-*\*NOTE: Chris Bailey can be reached at cbailey3@illinois.edu *
+*NOTE: Chris Bailey can be reached at cbailey3@illinois.edu
 
 -   Mondays 2PM-3PM, iSchool Room 251 (and broadcast via Blackboard)\
 -   Tuesdays 9:30AM-10:30AM, iSchool Room 251 (and broadcast via
@@ -219,57 +216,57 @@ d. Metadata\
 
 Grading rubric for Presentation:
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 3               |                 |                 |
-| briefly         |                 |                 |                 |
-| describes your  |                 |                 |                 |
-| research topic  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 7               |                 |                 |
-| describes their |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 5               |                 |                 |
-| describes       |                 |                 |                 |
-| lessons learned |                 |                 |                 |
-| and/or mistakes |                 |                 |                 |
-| made during the |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation is | 5               |                 |                 |
-| polished and    |                 |                 |                 |
-| lasts 5         |                 |                 |                 |
-| minutes, with   |                 |                 |                 |
-| +/- 30-second   |                 |                 |                 |
-| grace period    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **20**          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+
+| **Factor**      | **Points        |
+|                 | Possible**      |
++-----------------+-----------------+
+| Presentation    | 3               |
+| briefly         |                 |
+| describes your  |                 |
+| research topic  |                 |
++-----------------+-----------------+
+| Presentation    | 7               |
+| describes their |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation    | 5               |
+| describes       |                 |
+| lessons learned |                 |
+| and/or mistakes |                 |
+| made during the |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation is | 5               |
+| polished and    |                 |
+| lasts 5         |                 |
+| minutes, with   |                 |
+| +/- 30-second   |                 |
+| grace period    |                 |
++-----------------+-----------------+
+| **Total**       | **20**          |
++-----------------+-----------------+
 
  
 
 Grading rubric for Final Writeup (Search Diary, Reflection Essay,
 Annotated Bibliography)
 
-  -------------------------------------------------------------------------------------------------------------- ----------------- --------------- ----------
-  Factor                                                                                                         Points Possible   Points Earned   Comments
-  Search Diary: Includes dated entries describing the process                                                    10                                
+  -------------------------------------------------------------------------------------------------------------- -----------------
+  Factor                                                                                                         Points Possible  
+  Search Diary: Includes dated entries describing the process                                                    10
   Reflection Essay: Includes thoughtful reflection and analysis of the search process; grammar, style syntax.    25                                
   Bibliography: Annotations are present, descriptive, and include analysis                                       25                                
   Bibliography: Matches the specified format (e.g. APA, Chicago, or MLA); grammar, style, syntax                 10                                
   Bibliography: Quality of resources                                                                             10                                
   **TOTAL**                                                                                                      **80**                            
-  -------------------------------------------------------------------------------------------------------------- ----------------- --------------- ----------
+  -------------------------------------------------------------------------------------------------------------- -----------------
 
-\
 
-Final Assignment Presentations
-==============================
+
+# Final Assignment Presentations
+
 
 For your [Final
 Assignment](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305306)
@@ -283,37 +280,37 @@ they are optional for this assignment, but not required. 
 
 Grading Rubric:
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 3               |                 |                 |
-| briefly         |                 |                 |                 |
-| describes your  |                 |                 |                 |
-| research topic  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 7               |                 |                 |
-| describes their |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 5               |                 |                 |
-| describes       |                 |                 |                 |
-| lessons learned |                 |                 |                 |
-| and/or mistakes |                 |                 |                 |
-| made during the |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation is | 5               |                 |                 |
-| polished and    |                 |                 |                 |
-| lasts 5         |                 |                 |                 |
-| minutes, with   |                 |                 |                 |
-| +/- 30-second   |                 |                 |                 |
-| grace period    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **20**          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+
+| **Factor**      | **Points        |
+|                 | Possible**      |
++-----------------+-----------------+
+| Presentation    | 3               |
+| briefly         |                 |
+| describes your  |                 |
+| research topic  |                 |
++-----------------+-----------------+
+| Presentation    | 7               |
+| describes their |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation    | 5               |
+| describes       |                 |
+| lessons learned |                 |
+| and/or mistakes |                 |
+| made during the |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation is | 5               |
+| polished and    |                 |
+| lasts 5         |                 |
+| minutes, with   |                 |
+| +/- 30-second   |                 |
+| grace period    |                 |
++-----------------+-----------------+
+| **Total**       | **20**          |
++-----------------+-----------------+
 
 Writeup rubric and details are in the [overview of the final
 assignment](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305306).

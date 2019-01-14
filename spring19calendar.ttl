@@ -83,12 +83,11 @@
 
 :Week11 a :Session ;
   :date "March 26" ;
-  dcterms:subject :Production ;
   rdfs:label "Week 11, no class meeting"@en .
 
 :Week12 a :Session ;
   :date "April 2" ;
-  rdfs:label "Week 12"@en .
+  rdfs:label "Week 12, no class meeting"@en .
 
 :Week13 a :Session ;
   :date "April 9" ;
@@ -126,6 +125,18 @@
   :during :Week03 ;
   :date "LI2DATE" ;
   rdfs:label "Library databases"@en .
+
+:LibraryInstruction4 a :Activity ;
+  :during :Week13 ;
+  :date "LI4DATE" ;
+  rdfs:label "Citation searching"@en .
+
+:LibraryInstruction3 a :Activity ;
+  :during :Week09 ;
+  :date "LI3DATE" ;
+  rdfs:label "Thesauri revisted and Zotero"@en .
+
+
 
 :ResearchMethods a :Activity ;
   :during :Week04 ;
@@ -276,12 +287,12 @@
 :A3M8 a :Deadline ;
   rdfs:label "Final Assignment Milestone 8: Second sample annotation"@en ;
   :date "A3M8DATE" ;
-  :during :Week14 .
+  :during :Week12 .
 
 :A3M9 a :Deadline ;
   rdfs:label "Final Assignment: Reply to your own post on who you've talked to"@en ;
   :date "A3M9DATE" ;
-  :during :Week14 .
+  :during :Week11 .
   
 :A3M10 a :Deadline ;
   rdfs:label "Final Assignment: written deliverables"@en ;
