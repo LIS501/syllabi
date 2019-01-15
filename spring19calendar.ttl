@@ -287,7 +287,7 @@
   rdfs:label "Ungraded exercises"@en ;
   :moodleURL hwk:MOODLEASGT0 ;
   :sylSecId "UngradedExercises" ;
-  :hasDeadline :A0D1, :A0D2, A0D4, A0D5 .
+  :hasDeadline :A0D1, :A0D2, :A0D4, :A0D5 .
 
 
 :A0D1 a :Deadline ;
@@ -301,11 +301,11 @@
   :date "A0D2DATE" ;
   :during :Week07 .
 
-
 :A0D4 a :Deadline ;
   rdfs:label "Ungraded authoring and transformation exercise"@en ;
   :date "A0D4DATE" ;
   :during :Week08 .
+  
 :A0D5 a :Deadline ;
   rdfs:label "Poll response for indexing exercise"@en ;
   :date "A0D5DATE" ;

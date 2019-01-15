@@ -41,7 +41,8 @@ Data Research Guide. <http://guides.library.ucla.edu/c.php?g=357266>
 
 *Optional:*
 
-[_Linked data_and Seamntic Web]
+\
+[_Linked data and the Semantic Web_]
 
 Eric Lease Morgan and LiAM. (2014). Linked Archival Metadata: A
 Guidebook. version .99 pages 6-24

@@ -77,9 +77,8 @@ There are a number of milestones along the way:
 -   Wednesday April 24: Written deliverables (search diary, reflection
     essay, annotated bibliography) due. (Submit on this page.)
 
-----------------
 
-There are 2 kinds of final deliverables:
+There are two kinds of final deliverables:
 
 1\. A 5-minute presentation during lab, **April 9 or April 16**;
 see [[Final Assignment
