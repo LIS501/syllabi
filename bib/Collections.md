@@ -10,7 +10,7 @@ Björk, B.-C. (2017) Gold, green, and black open access. *Learned
 Publishin*g *30*: 173-175. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-Herther, N. K. (2017). Open access repositories: Revealing the mother lode of research to the world. Online Searcher 41(6): 34-39. e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
+Herther, N. K. (2017). Open access repositories: Revealing the mother lode of research to the world. Online Searcher 41(6): 34-39. [e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
 
 [Accessibility]
 
