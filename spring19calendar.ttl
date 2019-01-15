@@ -83,15 +83,14 @@
 
 :Week11 a :Session ;
   :date "March 26" ;
-  rdfs:label "Week 11, no class meeting"@en .
+  rdfs:label "Week 11, Instructor office hours, no class meeting"@en .
 
 :Week12 a :Session ;
   :date "April 2" ;
-  rdfs:label "Week 12, no class meeting"@en .
+  rdfs:label "Week 12, Instructor office hours, no class meeting"@en .
 
 :Week13 a :Session ;
   :date "April 9" ;
-  dcterms:subject :Authority ;
   rdfs:label "Week 13"@en .
 
 :Week14 a :Session ;
@@ -100,11 +99,46 @@
 
 :Week15 a :Session ;
   :date "April 23" ;
+  dcterms:subject :Authority ;
   rdfs:label "Week 15"@en .
 
 :Week16 a :Session ;
   :date "April 30" ;
+  dcterms:subject :Wrapup ;
   rdfs:label "Week 16"@en .
+
+:WritingConsultant a :Activity ;
+  :during :Week01 ;
+  :date "WRITINGCONSULTDATE" ;
+  rdfs:label "iSchool Writing Consultant visit"@en .
+
+:CCBvisit a :Activity ;
+  :during :Week02 ;
+  :date "CCBVISITDATE" ;
+  rdfs:label "CCB colleague visit"@en .
+
+:SLLvisit a :Activity ;
+  :during :Week02 ;
+  :date "SLLVISITDATE" ;
+  rdfs:label "School Librarian Licensure visit"@en .
+
+:PreservationVisit a :Activity ;
+  :during :Week05 ;
+  :date "PRESVISITDATE" ;
+  rdfs:label "Preservation specialist visit"@en .
+
+
+:DiscoveryVisit a :Activity ;
+  :during :Week09 ;
+  :date "DISCOVERYVISITDATE" ;
+  rdfs:label "Interfaces, search, and discovery specialist visit"@en .
+
+
+
+:ReadingGrid a :Activity ;
+  :during :Week05 ;
+  :date "READGRIDDATE" ;
+  rdfs:label "Reading grid activity"@en .
 
 :FileFormat a :Activity ;
   :during :Week05 ;
@@ -119,54 +153,62 @@
 :LibraryInstruction1 a :Activity ;
   :during :Week01 ;
   :date "LI1DATE" ;
-  rdfs:label "Known item searching"@en .
+  rdfs:label "Library instruction 1: known item searching"@en .
 
 :LibraryInstruction2 a :Activity ;
   :during :Week03 ;
   :date "LI2DATE" ;
-  rdfs:label "Library databases"@en .
+  rdfs:label "Library instruction 2: library databases"@en .
 
 :LibraryInstruction4 a :Activity ;
   :during :Week13 ;
   :date "LI4DATE" ;
-  rdfs:label "Citation searching"@en .
+  rdfs:label "Library instruction 4: citation searching"@en .
 
 :LibraryInstruction3 a :Activity ;
   :during :Week09 ;
   :date "LI3DATE" ;
-  rdfs:label "Thesauri revisted and Zotero"@en .
-
-
+  rdfs:label "Library instruction 3: thesauri revisted and Zotero"@en .
 
 :ResearchMethods a :Activity ;
   :during :Week04 ;
   :date "METHODSLABDATE" ;
   rdfs:label "Research methods exercise"@en .
 
+:ArticleDiscussions a :Activity ;
+  :during :Week04 ;
+  :date "ARTICLEDISCUSSIONDATE" ;
+  rdfs:label "Discussion of article summaries"@en .
 
 :Introductions a :Activity ;
   :during :Week01 ;
   :date "INTRODATE" ;
   rdfs:label "Post to the Introductions forum"@en .
 
-
 :IndexingExercise a :Activity ;
   :during :Week08 ;
   :date "INDEXLABDATE" ;
-  rdfs:label "Indexing exercise"@en .
+  rdfs:label "Variations in indexing practices"@en .
 
-:LabSpurlock a :Activity ;
+:CultHeritageLab a :Activity ;
+  :during :Week06 ;
+  :date "CULTHERITDATE";  
+  rdfs:label "Cultural heritage object description exercise"@en .
+
+:VisitSpurlock a :Activity ;
   :during :Week06 ;
   :date "SPURLOCKDATE";  
-  rdfs:label "Cultural heritage object description exercise"@en .
+  rdfs:label "Field trip: meet at Spurlock museum"@en .
+
+
 
 :LabPandoc a :Activity ;
   :during :Week07 ;
   :date "PANDOCLABDATE" ;
-  rdfs:label "Pandoc exercise"@en .
+  rdfs:label "Pandoc exercise: authoring and transforming"@en .
 
 :Presentations1 a :Activity ;
-  :during :Week12 ;
+  :during :Week13 ;
   :date "PRESENTATIONS1DATE" ;
   rdfs:label "Project presentations"@en .
 
@@ -216,6 +258,12 @@
   skos:prefLabel "Authority control and data quality issues"@en.
 
 
+:Wrapup a skos:Concept ;
+  :reqReading bib:Wrapup ;
+  skos:prefLabel "Wrapup and debriefing"@en.
+
+
+
 :Asgt3 a :Assignment ;
   rdfs:label "Final Assignment"@en ;
   :moodleURL hwk:MOODLEASGT3 ;
@@ -223,29 +271,60 @@
   :hasDeadline :A3M1, :A3M2, :A3M3, :A3M4, :A3M5, :A3M6,:A3M7, :A3M8, :A3M9, :A3M10 .
 
 :Asgt2 a :Assignment ;
-  rdfs:label "Information Needs Assignment"@en ;
+  rdfs:label "Assignment 2: Information Needs"@en ;
   :moodleURL hwk:MOODLEASGT2 ;
   :sylSecId "InfoNeedsAsgt" ;
   :hasDeadline :A2D1, :A2D2 .
 
 :Asgt1 a :Assignment ;
-  rdfs:label "Collections Assessment Assignment"@en ;
+  rdfs:label "Assignment 1: Collections Assessment"@en ;
   :moodleURL hwk:MOODLEASGT1 ;
   :sylSecId "CollectionsAsgt" ;
   :hasDeadline :A1D1 .
 
+
+:Asgt0 a :Assignment ;
+  rdfs:label "Ungraded exercises"@en ;
+  :moodleURL hwk:MOODLEASGT0 ;
+  :sylSecId "UngradedExercises" ;
+  :hasDeadline :A0D1, :A0D2, A0D4, A0D5 .
+
+
+:A0D1 a :Deadline ;
+  rdfs:label "Ungraded text editor exercise"@en ;
+  :date "A0D1DATE" ;
+  :during :Week03 .
+
+
+:A0D2 a :Deadline ;
+  rdfs:label "Ungraded cultural heritage object description"@en ;
+  :date "A0D2DATE" ;
+  :during :Week07 .
+
+
+:A0D4 a :Deadline ;
+  rdfs:label "Ungraded authoring and transformation exercise"@en ;
+  :date "A0D4DATE" ;
+  :during :Week08 .
+:A0D5 a :Deadline ;
+  rdfs:label "Poll response for indexing exercise"@en ;
+  :date "A0D5DATE" ;
+  :during :Week08 .
+
+
+
 :A1D1 a :Deadline ;
-  rdfs:label "Collections Assessment and Comparison"@en ;
+  rdfs:label "Assignment 1: Collections Assessment and Comparison"@en ;
   :date "A1D1DATE" ;
   :during :Week02 .
 
 :A2D1 a :Deadline ;
-  rdfs:label "Information needs article summary"@en ;
+  rdfs:label "Assignment 2: Information needs article summary"@en ;
   :date "A2D1DATE" ;
   :during :Week04 .
 
 :A2D2 a :Deadline ;
-  rdfs:label "Information Needs/Information Seeking Behavior Essay"@en ;
+  rdfs:label "Assignment 2: Information Needs/Information Seeking Behavior Essay"@en ;
   :date "A2D2DATE" ;
   :during :Week04 .
 
@@ -260,41 +339,51 @@
   :during :Week07 .
 
 :A3M3 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 3: Sample annotation"@en ;
+  rdfs:label "Final Assignment Milestone 3: brainstorming forum post"@en ;
   :date "A3M3DATE" ;
-  :during :Week08 .
+  :during :Week07 .
 
 :A3M4 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 4: Reflection on process"@en ;
+  rdfs:label "Final Assignment Milestone 4: Sample annotation"@en ;
   :date "A3M4DATE" ;
-  :during :Week09 .
+  :during :Week08 .
 
 :A3M5 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 5: Sign up for presentation slot"@en ;
+  rdfs:label "Final Assignment Milestone 5: Reflection on process"@en ;
   :date "A3M5DATE" ;
   :during :Week09 .
 
 :A3M6 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 6: 2 thesaurus entries"@en ;
+  rdfs:label "Final Assignment Milestone 6: Sign up for presentation slot"@en ;
   :date "A3M6DATE" ;
-  :during :Week11 .
+  :during :Week09 .
 
 :A3M7 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 7: Second process reflection"@en ;
+  rdfs:label "Final Assignment Milestone 7: 2 thesaurus entries"@en ;
   :date "A3M7DATE" ;
-  :during :Week12 .
+  :during :Week11 .
 
 :A3M8 a :Deadline ;
-  rdfs:label "Final Assignment Milestone 8: Second sample annotation"@en ;
+  rdfs:label "Final Assignment Milestone 8: First brainstorming reply"@en ;
   :date "A3M8DATE" ;
-  :during :Week12 .
+  :during :Week11 .
 
 :A3M9 a :Deadline ;
-  rdfs:label "Final Assignment: Reply to your own post on who you've talked to"@en ;
+  rdfs:label "Final Assignment Milestone 9: Second process reflection"@en ;
   :date "A3M9DATE" ;
-  :during :Week11 .
-  
+  :during :Week12 .
+
 :A3M10 a :Deadline ;
-  rdfs:label "Final Assignment: written deliverables"@en ;
+  rdfs:label "Final Assignment Milestone 10: Second sample annotation"@en ;
   :date "A3M10DATE" ;
+  :during :Week12 .
+
+:A3M11 a :Deadline ;
+  rdfs:label "Final Assignment Milestone 11: Second brainstorming reply"@en ;
+  :date "A3M11DATE" ;
+  :during :Week14 .
+  
+:A3M12 a :Deadline ;
+  rdfs:label "Final Assignment: written deliverables"@en ;
+  :date "A3M12DATE" ;
   :during :Week15 .
