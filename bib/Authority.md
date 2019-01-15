@@ -1,4 +1,4 @@
-Metadata
+\[Data quality\]
 
 Beall, J. (2005). Metadata and data quality problems in the digital library. *Journal of Digital Information*, 6(3). https://journals.tdl.org/jodi/index.php/jodi/article/viewArticle/65
 
