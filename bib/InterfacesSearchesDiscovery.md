@@ -5,13 +5,6 @@ Search, discovery, and the politics of access. OCLC Distinguished
 Seminar Series. Retrieved via
 <http://www.oclc.org/research/events/2017/07-13.html>
 
-[_Searching and search systems_]
-Breeding, M. (2018). Index-based discovery services: Current market positions and trends. Library Technology Reports 54(8): 5-11 (Chapters 1 and 2).
-
-LaFrance, A. (2016). Searching for lost knowledge in the age of
-intelligent machines. *The Atlantic.* December 1.
-<http://www.theatlantic.com/technology/archive/2016/12/the-search-for-lost-knowledge/506879/>
-
 [_Browsing and serendipitous discovery_]
 
 Bawden, D. (2011). Encountering on the road to Serendip? Browsing in new
@@ -30,6 +23,13 @@ Oaks, CA: SAGE Publishing.
 <http://us.sagepub.com/sites/default/files/serrdiscovery.pdf>
 
 Thorp, J. (2018). Uncovering surprises in the collections, serendipitously. Library of Congress Blog. December 10. https://blogs.loc.gov/loc/2018/12/uncovering-surprises-in-the-collections-serendipitously/
+
+[_Searching and search systems_]
+LaFrance, A. (2016). Searching for lost knowledge in the age of
+intelligent machines. *The Atlantic.* December 1.
+<http://www.theatlantic.com/technology/archive/2016/12/the-search-for-lost-knowledge/506879/>
+
+Breeding, M. (2018). Index-based discovery services: Current market positions and trends. Library Technology Reports 54(8): 5-11 (Chapters 1 and 2).
 
 [_Recommending_]
 
