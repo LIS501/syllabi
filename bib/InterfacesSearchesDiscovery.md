@@ -1,6 +1,6 @@
 *Required readings and video:*
 
-\[Video\] Christen, K. (2017, July 13). We have never been neutral:
+Christen, K. (2017, July 13). We have never been neutral:
 Search, discovery, and the politics of access. OCLC Distinguished
 Seminar Series. Retrieved via
 <http://www.oclc.org/research/events/2017/07-13.html>
