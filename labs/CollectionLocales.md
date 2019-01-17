@@ -67,4 +67,4 @@ Please sign up for 2 locales to visit for Assignment 1
 61. Prairie Gardens, 3000 W Springfield Ave, Champaign, IL 61822 - YOUR NAME HERE
 62. Ragstock, 627 S Wright St, Champaign, IL 61820 - YOUR NAME HERE
 63. Fira Boutique, 700 S Gregory St, Urbana, IL 61801 - YOUR NAME HERE
-
+64. Gopher Mafia, 114 Lincoln Square, Urbana, IL 61801 - YOUR NAME HERE
