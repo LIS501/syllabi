@@ -62,9 +62,8 @@ Please sign up for 2 locales to visit for Assignment 1
 56. Art Box, 707 S 6th St, Champaign, IL 61820 - YOUR NAME HERE
 57. The Habitat for Humanity ReStore, 119 E University Ave, Champaign, IL 61820 - YOUR NAME HERE
 58. PACA Architectural Salvage, 44 E Washington St, Champaign, IL 61820 (see http://pacacc.org/architectural-salvage-warehouse/ ) - YOUR NAME HERE
-59. Rumours Hat Shoppe, 75 E Chester St, Champaign, IL 61820 - YOUR NAME HERE
+59. Gopher Mafia, 114 Lincoln Square, Urbana, IL 61801 - YOUR NAME HERE
 60. Antiques & More, 606 S Staley Rd, Champaign, IL 61822 - YOUR NAME HERE
 61. Prairie Gardens, 3000 W Springfield Ave, Champaign, IL 61822 - YOUR NAME HERE
 62. Ragstock, 627 S Wright St, Champaign, IL 61820 - YOUR NAME HERE
 63. Fira Boutique, 700 S Gregory St, Urbana, IL 61801 - YOUR NAME HERE
-64. Gopher Mafia, 114 Lincoln Square, Urbana, IL 61801 - YOUR NAME HERE
