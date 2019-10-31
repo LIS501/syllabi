@@ -47,7 +47,7 @@ citation**.** 
 (2)  Bring a copy of your article to lab class Week 4 for small group
 discussions in the Research Methods Lab.
 
-**Assignment 2B*: *
+**Assignment 2B:**
 
 In a brief essay of 3-4 pages (you shouldn\'t need more than 1,000
 words) discuss your article\'s research question, methods, findings, and
@@ -123,50 +123,51 @@ the [campus Writers Workshop](http://www.cws.illinois.edu/workshop/).
 
 Grading Rubric:
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Clearly         |   8             |                 |                 |
-| described your  |                 |                 |                 |
-| research        |                 |                 |                 |
-| article's       |                 |                 |                 |
-| research        |                 |                 |                 |
-| question,       |                 |                 |                 |
-| methods,        |                 |                 |                 |
-| findings, and   |                 |                 |                 |
-| implications.   |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Relevant        |   3             |                 |                 |
-| readings were   |                 |                 |                 |
-| integrated      |                 |                 |                 |
-| throughout the  |                 |                 |                 |
-| essay in        |                 |                 |                 |
-| support of      |                 |                 |                 |
-| strong          |                 |                 |                 |
-| arguments.      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| The research    |   2             |                 |                 |
-| article is      |                 |                 |                 |
-| suitable for    |                 |                 |                 |
-| this            |                 |                 |                 |
-| assignment.     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| One paragraph   |   2             |                 |                 |
-| summary was     |                 |                 |                 |
-| posted before   |                 |                 |                 |
-| lab to the      |                 |                 |                 |
-| Moodle          |                 |                 |                 |
-| Assignment 2    |                 |                 |                 |
-| Forum with a    |                 |                 |                 |
-| copy of the     |                 |                 |                 |
-| article.        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Writing         |   5             |                 |                 |
-| Quality:        |                 |                 |                 |
-| Grammar,        |                 |                 |                 |
-| citations, and  |                 |                 |                 |
-| syntax          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **20**          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+
+| **Factor**      | **Points        |
+|                 | Possible**      |
++-----------------+-----------------+
+| Clearly         |   8             |
+| described your  |                 |
+| research        |                 |
+| article's       |                 |
+| research        |                 |
+| question,       |                 |
+| methods,        |                 |
+| findings, and   |                 |
+| implications.   |                 |
++-----------------+-----------------+
+| Relevant        |   3             |
+| readings were   |                 |
+| integrated      |                 |
+| throughout the  |                 |
+| essay in        |                 |
+| support of      |                 |
+| strong          |                 |
+| arguments.      |                 |
++-----------------+-----------------+
+| The research    |   2             |
+| article is      |                 |
+| suitable for    |                 |
+| this            |                 |
+| assignment.     |                 |
++-----------------+-----------------+
+| One paragraph   |   2             |
+| summary was     |                 |
+| posted before   |                 |
+| lab to the      |                 |
+| Moodle          |                 |
+| Assignment 2    |                 |
+| Forum with a    |                 |
+| copy of the     |                 |
+| article.        |                 |
++-----------------+-----------------+
+| Writing         |   5             |
+| Quality:        |                 |
+| Grammar,        |                 |
+| citations, and  |                 |
+| syntax          |                 |
++-----------------+-----------------+
+| **Total**       | **20**          |
++-----------------+-----------------+
+

@@ -15,7 +15,8 @@ after 5 days from the date due.
 
   **Assessment**            **Deadline**            **Percentage**
   ------------------------- ----------------------- ----------------
-  Participation             All semester            10%
+  Participation             All semester            7%
+  Leading 1 discussion	    1 week as assigned	    3%
   Collections Assessment    January 23              15%
   Information Needs         February 6              20%
   Five Ungraded Assignments January-March           15%

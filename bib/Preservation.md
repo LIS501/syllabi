@@ -32,4 +32,5 @@ digital preservation, and dilemmas. *The Library Quarterly* *80*(1),
 Optional:
 Barone, F.; Zeitlyn, D.; Majer-Schönberger, V. (2015). Learning from
 failure: The case of the disappearing website. *First Monday* 20(5).
-<http://firstmonday.org/ojs/index.php/fm/article/view/5852/4456>\
+<http://firstmonday.org/ojs/index.php/fm/article/view/5852/4456>
+

@@ -92,6 +92,13 @@ for d in wlist:
         cldrfile.write("\n")
         cldrfile.write("### " +  myweek + ": " + weekdate + ": \n")
 
+
+
+
+        
+        for t in topics.keys():
+            cldrfile.write("### " + t + "\n")
+        
         dstring = "#### Due this week: "
         if sessionstart[d] in deadlines.keys():
                 cldrfile.write(dstring + " " + deadlines[sessionstart[d]] + "\n")
@@ -107,7 +114,6 @@ for d in wlist:
 
         
         for t in topics.keys():
-            cldrfile.write("### " + t + "\n")
             rstring = "\n"
             if required:
               cldrfile.write(rstring)

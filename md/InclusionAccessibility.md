@@ -1,6 +1,6 @@
 # Statement of Inclusion
 
-[Inclusive Illinois Committee Diversity Statement](http://www.inclusiveillinois.illinois.edu/supporting_docs/Inclusive%20Illinois%20Diversity%20Statement.pdf)
+[Inclusive Illinois Committee Diversity Statement](http://inclusiveillinois.illinois.edu/commitment.html)
 
 As the state's premier public university, the University of Illinois
 at Urbana-Champaign's core mission is to serve the interests of the

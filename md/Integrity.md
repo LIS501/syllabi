@@ -1,6 +1,6 @@
 # Academic Integrity
 Please review and reflect on the academic integrity policy of the University of Illinois,
-<http://admin.illinois.edu/policy/code/article1_part4_1-401.html> to which we subscribe.
+<http://studentcode.illinois.edu/article1/part4/1-401/> to which we subscribe.
 By turning in materials for review, you certify that all work presented is your own and
 has been done by you independently, or as a member of a designated group for group assignments.
 If, in the course of your writing, you use the words or ideas of another writer, proper

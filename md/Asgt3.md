@@ -1,11 +1,11 @@
 Final Assignment
 ================
 
-**Final Assignment: The Research Process -- 40% of final grade**
+**Final Assignment: The Research Process – 40% of final grade**
 
 The purpose of this assignment is for you to synthesize and demonstrate
 your understanding of the various concepts that you have learned
-throughout the course. We want you to [slow down]{.underline} the
+throughout the course. We want you to *slow down* the
 research process and reflect on the steps you actually take and the
 systems you actually use. The assignment focuses less on the arguments
 of the sources that you will find and more on the overall search process
@@ -18,12 +18,13 @@ Steps:
 -   Identify an issue or topic you want to investigate
 -   Search the literature and read about your topic, collecting
     citations to possible sources
--   Talk to Chris Bailey\*, a subject reference librarian, or a subject
-    expert. DO NOT SKIP THIS STEP!\*
+-   Talk to Chris Bailey, a subject reference librarian, or a subject
+    expert. DO NOT SKIP THIS STEP!
 -   Choose the ten best items out of a larger pool of selected sources
 -   Annotate them.
 -   Prepare your presentation.
 -   Write a reflection essay about your process.
+
 
 There are a number of milestones along the way:
 
@@ -35,49 +36,63 @@ There are a number of milestones along the way:
     forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305277)).
 -   Wednesday February 27: Brainstorm who you could talk with about your
     topic; instructors can help. Update and reply once you have the
-    conversation.
+    conversation.  ([Moodle
+    forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305335))
 -   Wednesday March 6:  Sample annotation \#1 is due ([Moodle
     forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305297&forceview=1))
--   Wednesday March 13: Reflection \#1 is due. Submit 1-3 paragraphs
+-   Wednesday March 13: Reflection \#1 is due. Submit 1-3 paragraphs
     reflecting on your process. Connect to course readings or
-    discussion, and/or share a lesson for your future self.This is a
-    sample of the type of writing you\'ll do for the final reflection
+    discussion, and/or share a lesson for your future self. This is a
+    sample of the type of writing you'll do for the final reflection
     essay. ([Moodle
     forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305295))
 -   Wednesday March 13: Sign up for a presentation slot, for either
-    Tuesday April 2 or Tuesday April 9 ([Signup
+    Tuesday April 9 or Tuesday April 16 ([Signup
     wiki](https://courses.ischool.illinois.edu/mod/wiki/view.php?id=305300))
--   Wednesday March 26: Copy and paste subject thesaurus entries from 2
+-   Wednesday March 27: Copy and paste subject thesaurus entries from 2
     different thesauri related to your final project. ([Moodle
     forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305326))
--   Tuesday April 2 or April 9 in-class: Presentation (based on the slot
-    you signed up for)
+-   Wednesday March 27: Reply on your post brainstorming who you could
+    talk with about your topic. If you haven't had a conversation yet,
+    what help do you need to make this happen? ([Moodle
+    forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305335))
 -   Wednesday April 3: For the second time, submit 1-3 paragraphs
     reflecting on your process. Connect to course readings or
-    discussion, and/or share a lesson for your future self.This is a
-    sample of the type of writing you\'ll do for the final reflection
-    essay.
--   Tuesday April 16: Sample annotation \#2 is due
--   Tuesday April 16: Reply your original post to indicate who you have
-    talked to.
--   Tuesday April 23: Written deliverables (search diary, reflection
-    essay, annotated bibliography) due here.
+    discussion, and/or share a lesson for your future self. This is a
+    sample of the type of writing you'll do for the final reflection
+    essay. ([Moodle
+    forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305328))
+-   Wednesday April 3: Sample annotation \#2 is due ([Moodle
+    forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305332))
+-   Tuesday April 9 or Tuesday April 16 in-class: Presentation (based on
+    the slot you signed up for); see below and [Final Assignment
+    Presentations](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305302 "Assignment").  Visual
+    aids, if any can be posted on the [Visual
+    Aids](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305303 "Forum") forum;
+    they are optional for this assignment, but not
+    required.
+-   Wednesday April 17: Reply your original post about experts to
+    indicate who you have talked to. ([Moodle
+    forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305335))
+-   Wednesday April 24: Written deliverables (search diary, reflection
+    essay, annotated bibliography) due. (Submit on this page.)
 
 
-There are 2 kinds of final deliverables:
+There are two kinds of final deliverables:
 
-1. A 5-minute presentation during lab, **April 2 or April 9**;
-   see [[Final Assignment
-   Presentations](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305302
-   "Assignment").]
+1\. A 5-minute presentation during lab, **April 9 or April 16**;
+see [[Final Assignment
+Presentations](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305302 "Assignment").]{itemprop="title"}
 
-2. Written deliverables. The writeup consists of three parts:
+2\. Written deliverables. The writeup consists of three parts, uploaded
+on this page
 
 -   A reflection essay
 -   An annotated bibliography, including the 10 best of at least 3
     different types of sources (e.g., books, encyclopedia article,
     scholarly journal article, popular press, professional journal
     article, multimedia, website, experts, etc.) 
+
 
 **Deliverable details:**
 
@@ -90,9 +105,7 @@ the way. Visual aids, if any can be posted on [this
 forum](https://courses.ischool.illinois.edu/mod/forum/view.php?id=305303);
 they are optional for this assignment, but not required. \
 
-\
-
-*Search Diary*\
+*Search Diary*
 
 The search diary is a record of your process. Date each entry and note
 what you are experiencing, thinking, or doing related to the final
@@ -196,7 +209,7 @@ the item?*
 *Comment about finding the item. At what point did you find the source
 in your overall process? How did you find the source?  What search terms
 and/or  strategy did you use? *
-:::
+
 
 d. Metadata\
 
@@ -208,68 +221,30 @@ d. Metadata\
 
 \
 
-*\*NOTE: Chris Bailey can be reached at cbailey3@illinois.edu *
+*NOTE: Chris Bailey can be reached at cbailey3@illinois.edu
 
 -   Mondays 2PM-3PM, iSchool Room 251 (and broadcast via Blackboard)\
 -   Tuesdays 9:30AM-10:30AM, iSchool Room 251 (and broadcast via
     Blackboard)\
 -   By appointment, typically in SSHEL South, Room 101B\
 
-\
-
-Grading rubric for Presentation:
-
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 3               |                 |                 |
-| briefly         |                 |                 |                 |
-| describes your  |                 |                 |                 |
-| research topic  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 7               |                 |                 |
-| describes their |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 5               |                 |                 |
-| describes       |                 |                 |                 |
-| lessons learned |                 |                 |                 |
-| and/or mistakes |                 |                 |                 |
-| made during the |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation is | 5               |                 |                 |
-| polished and    |                 |                 |                 |
-| lasts 5         |                 |                 |                 |
-| minutes, with   |                 |                 |                 |
-| +/- 30-second   |                 |                 |                 |
-| grace period    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **20**          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-
- 
-
 Grading rubric for Final Writeup (Search Diary, Reflection Essay,
 Annotated Bibliography)
 
-  -------------------------------------------------------------------------------------------------------------- ----------------- --------------- ----------
-  Factor                                                                                                         Points Possible   Points Earned   Comments
-  Search Diary: Includes dated entries describing the process                                                    10                                
+  -------------------------------------------------------------------------------------------------------------- -----------------
+  Factor                                                                                                         Points Possible  
+  Search Diary: Includes dated entries describing the process                                                    10
   Reflection Essay: Includes thoughtful reflection and analysis of the search process; grammar, style syntax.    25                                
   Bibliography: Annotations are present, descriptive, and include analysis                                       25                                
   Bibliography: Matches the specified format (e.g. APA, Chicago, or MLA); grammar, style, syntax                 10                                
   Bibliography: Quality of resources                                                                             10                                
   **TOTAL**                                                                                                      **80**                            
-  -------------------------------------------------------------------------------------------------------------- ----------------- --------------- ----------
+  -------------------------------------------------------------------------------------------------------------- -----------------
 
-\
 
-Final Assignment Presentations
-==============================
+
+# Final Assignment Presentations
+
 
 For your [Final
 Assignment](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305306)
@@ -283,37 +258,37 @@ they are optional for this assignment, but not required. 
 
 Grading Rubric:
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Factor**      | **Points        | **Points        | **Comments**    |
-|                 | Possible**      | Earned**        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 3               |                 |                 |
-| briefly         |                 |                 |                 |
-| describes your  |                 |                 |                 |
-| research topic  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 7               |                 |                 |
-| describes their |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation    | 5               |                 |                 |
-| describes       |                 |                 |                 |
-| lessons learned |                 |                 |                 |
-| and/or mistakes |                 |                 |                 |
-| made during the |                 |                 |                 |
-| research        |                 |                 |                 |
-| process         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Presentation is | 5               |                 |                 |
-| polished and    |                 |                 |                 |
-| lasts 5         |                 |                 |                 |
-| minutes, with   |                 |                 |                 |
-| +/- 30-second   |                 |                 |                 |
-| grace period    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Total**       | **20**          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+
+| **Factor**      | **Points        |
+|                 | Possible**      |
++-----------------+-----------------+
+| Presentation    | 3               |
+| briefly         |                 |
+| describes your  |                 |
+| research topic  |                 |
++-----------------+-----------------+
+| Presentation    | 7               |
+| describes their |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation    | 5               |
+| describes       |                 |
+| lessons learned |                 |
+| and/or mistakes |                 |
+| made during the |                 |
+| research        |                 |
+| process         |                 |
++-----------------+-----------------+
+| Presentation is | 5               |
+| polished and    |                 |
+| lasts 5         |                 |
+| minutes, with   |                 |
+| +/- 30-second   |                 |
+| grace period    |                 |
++-----------------+-----------------+
+| **Total**       | **20**          |
++-----------------+-----------------+
 
 Writeup rubric and details are in the [overview of the final
 assignment](https://courses.ischool.illinois.edu/mod/assign/view.php?id=305306).
