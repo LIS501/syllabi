@@ -14,7 +14,7 @@ are used to do research on concrete user groups. 
 *Resources:*
 
 This [Methods
-Handout](https://courses.lis.illinois.edu/pluginfile.php/177070/mod_folder/content/2/01-Research%20Methods.pdf?forcedownload=1) from
+Handout](https://courses.lis.illinois.edu/pluginfile.php/177070/mod_foldweek 4er/content/2/01-Research%20Methods.pdf?forcedownload=1) from
 Illinois librarian Dan Tracy will assist you with this exercise. If
 you\'d like to know more about the method(s) in your article, you can
 refer to these Research Methods
