@@ -10,7 +10,7 @@ Björk, B.-C. (2017) Gold, green, and black open access. *Learned
 Publishin*g *30*: 173-175. \[e-journal\] \[Locate full text from
 <https://sfx.carli.illinois.edu/sfxuiu/az>\]
 
-Herther, N. K. (2017). Open access repositories: Revealing the mother lode of research to the world. Online Searcher 41(6): 34-39. e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
+Herther, N. K. (2017). Open access repositories: Revealing the mother lode of research to the world. Online Searcher 41(6): 34-39. [e-journal] [Locate full text from https://sfx.carli.illinois.edu/sfxuiu/az]
 
 [Accessibility]
 
@@ -20,7 +20,7 @@ Junus, R. (2014). Digital collections and accessibility. *DSC Sandbox blog.*
 [https://blogpublic.lib.msu.edu/digital-scholarship-collaborative/2014/nov/digital-collections-and-accessibility/]
 
 [Digital collections]
-Hunter, N. C., Legg, & Oehlerts, J. B. (1981). Two librarians, an
+Hunter, N. C., Legg, & Oehlerts, J. B. (2010). Two librarians, an
 archivist, and 13,000 images: Collaborating to build a digital
 collection. *Library Quarterly 80*(1), 81--103. \[e-journal\] \[Locate
 full text from <https://sfx.carli.illinois.edu/sfxuiu/az>\]
